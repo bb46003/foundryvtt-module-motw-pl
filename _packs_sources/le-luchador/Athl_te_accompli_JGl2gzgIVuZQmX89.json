@@ -1,0 +1,51 @@
+{
+  "folder": "JxpdE2dRM7MVxV76",
+  "name": "Athlète accompli",
+  "type": "move",
+  "_id": "JGl2gzgIVuZQmX89",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>+1 constant pour toute prouesse physique et énergique (hors situation de combat).</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Luchador",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203247437,
+    "modifiedTime": 1714210296418,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!JGl2gzgIVuZQmX89"
+}

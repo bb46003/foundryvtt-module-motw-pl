@@ -1,0 +1,49 @@
+folder: w4s18GJndDydmgR2
+name: Psychic Event
+type: move
+_id: K57SKffPN28q0NEJ
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>Your mind is awakened. You may act under pressure to use the
+    @UUID[Compendium.world.weird-basic-moves-tom.Item.Se7rQ5lxZsRl0tTL]{sensitive}
+    weird move, or&mdash;if sensitive is your weird
+    move&mdash;@UUID[Compendium.world.weird-basic-moves-tom.Item.J9I8TbhhVgqZ1xLt]{empath}.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: searcher-first-encounter
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Searcher [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690911259516
+  modifiedTime: 1691053425066
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!K57SKffPN28q0NEJ'
+

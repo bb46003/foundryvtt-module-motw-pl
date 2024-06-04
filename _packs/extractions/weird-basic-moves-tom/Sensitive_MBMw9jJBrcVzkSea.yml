@@ -1,0 +1,62 @@
+folder: null
+name: Sensitive
+type: move
+_id: MBMw9jJBrcVzkSea
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>When you <strong>open up your brain to the psychic environment</strong>,
+    roll +Weird.</p>
+
+    <p>Although you will find out something important, it won’t necessarily
+    relate to your current concerns or the mystery you are investigating right
+    now.</p>
+  moveType: altMove
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10 or more</strong>, you gain a definite impression (a
+        vision, tangible aura, overheard thought, etc) about something
+        important.<br><br></p>
+
+        <h4>Advanced Sensitive</h4>
+
+        <p><strong>On a 12 or more</strong>, you get an impression as for 10 or
+        more, plus you may ask one follow-up question that the Keeper will
+        answer honestly.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, you gain a hazy impression about something
+        important.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, your brain makes contact with something
+        dangerous.</p>
+  uses: 0
+  playbook: ''
+  rollType: weird
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691070571679
+  modifiedTime: 1706527375139
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!MBMw9jJBrcVzkSea'
+

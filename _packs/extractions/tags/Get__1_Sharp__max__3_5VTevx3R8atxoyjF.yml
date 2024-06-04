@@ -1,0 +1,24 @@
+folder: FYAMwDuUVimRvr2o
+name: Get +1 Sharp, max +3
+type: tag
+_id: 5VTevx3R8atxoyjF
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690063778133
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!5VTevx3R8atxoyjF'
+

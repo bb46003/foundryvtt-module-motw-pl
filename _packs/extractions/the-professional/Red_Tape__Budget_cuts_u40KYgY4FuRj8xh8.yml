@@ -1,0 +1,50 @@
+name: 'Red Tape: Budget cuts'
+type: move
+img: icons/svg/chest.svg
+system:
+  name: ''
+  description: ''
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Professional
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_ssby3kux2fk
+    path: 'The Professional#/CF_SEP/The Professional: Agency'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667515249230
+  modifiedTime: 1686860927565
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: rGrCxRHPGyRaSaGw
+_id: u40KYgY4FuRj8xh8
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!u40KYgY4FuRj8xh8'
+

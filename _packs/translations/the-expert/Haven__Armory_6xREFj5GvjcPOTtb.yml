@@ -1,0 +1,15 @@
+original_name: "Haven: Armory"
+original_description: <p>You have a stockpile of mystical and rare
+  monster-killing weapons and items. If you <strong>need a special
+  weapon</strong>, roll +Weird.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> you have it (and plenty if that
+  matters).&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> you have it, but only the minimum.</p>
+original_failure: <p><strong>On a miss</strong>, you&rsquo;ve got the wrong thing.</p>
+name: "Refuge : Arsenal"
+description: <p>Vous disposez d’un ensemble d’armes et d’objets rares
+  particulièrement dangereux pour les monstres. Si vous <strong>avez besoin
+  d’une arme spéciale</strong>, lancez +Bizarre.</p>
+success: <p><strong>Sur un 10+</strong>, vous l’avez (en nombre si nécessaire).</p>
+partial: <p><strong>Sur un 7-9</strong>, vous l’avez, mais en petit nombre.</p>
+failure: <p><strong>En cas d’échec</strong>, vous n’avez pas la bonne arme.</p>

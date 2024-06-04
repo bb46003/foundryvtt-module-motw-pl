@@ -1,0 +1,36 @@
+{
+  "name": "Fusil à pompe",
+  "type": "equipment",
+  "img": "icons/weapons/guns/gun-brown.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"proche\"},{\"value\":\"sanglant\"},{\"value\":\"bruyant\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "JJdv2buCyUskF9cl",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714556502909,
+    "modifiedTime": 1714631721696,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "1K5l6l3nmapqhnic",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!1K5l6l3nmapqhnic"
+}

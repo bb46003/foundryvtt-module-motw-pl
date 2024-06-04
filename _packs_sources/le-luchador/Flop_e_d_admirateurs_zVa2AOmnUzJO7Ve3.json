@@ -1,0 +1,51 @@
+{
+  "folder": "JxpdE2dRM7MVxV76",
+  "name": "Flopée d’admirateurs",
+  "type": "move",
+  "_id": "zVa2AOmnUzJO7Ve3",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vos exploits sur Telemundo ne sont pas passé inaperçus. Quand <strong>vous contactez un fan dévoué</strong> pour vous aider dans un mystère, lancez +Charme.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, il vous aide avec plaisir (il r&eacute;pare un objet, vous d&eacute;pose quelque part ou vous rend un service).</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, il est pr&ecirc;t &agrave; vous aider, mais il lui faut du temps, ou alors vous devrez accomplir une part du boulot vous-m&ecirc;me.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, votre relation en p&acirc;tit.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Luchador",
+    "rollType": "charm",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203268180,
+    "modifiedTime": 1714210303798,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!zVa2AOmnUzJO7Ve3"
+}

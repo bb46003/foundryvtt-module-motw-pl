@@ -1,0 +1,51 @@
+{
+  "folder": "EOpAIvuaRLX3Y11H",
+  "name": "Sagacité du tueur",
+  "type": "move",
+  "_id": "KYUPf3WOYB4LPDfI",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous avez appris à bien étudier votre proie. Après avoir observé un monstre pendant trois rounds, lancez +Futé.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, r&eacute;serve 2.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, r&eacute;serve 1.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Chasseur de Gros Gibier",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": "<p>D&eacute;pensez votre r&eacute;serve pour :</p>\n<ul>\n<li>donner &agrave; vous-m&ecirc;me ou un autre chasseur +1 constant contre le monstre jusqu&rsquo;&agrave; la fin de la rencontre.</li>\n<li>infliger +2 d&eacute;g&acirc;ts.</li>\n<li>dire &agrave; un autre chasseur o&ugrave; frapper le monstre ; le chasseur gagne +1 d&eacute;g&acirc;t.</li>\n</ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205874914,
+    "modifiedTime": 1714210103054,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!KYUPf3WOYB4LPDfI"
+}

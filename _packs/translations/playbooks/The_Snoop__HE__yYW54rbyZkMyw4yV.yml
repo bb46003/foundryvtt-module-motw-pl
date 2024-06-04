@@ -1,0 +1,511 @@
+original_name: The Snoop [HE]
+original_description: >-
+  <blockquote>
+
+  <p><em>Cryptids have kept out of sight, but I’m going to find them and record
+  them. The evidence will be incontrovertible, and I’ll be the one who did it.
+  I’m going to be a superstar one day, you mark my words! Hey... did you just
+  feel a chill?</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%" border="1"><colgroup><col
+  style="width:49.411%"></col><col style="width:50.589%"></col></colgroup>
+
+  <tbody>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Snoop, first pick a name. Then follow the instructions in this
+  playbook to decide your look, ratings, crew, moves, and gear. Finally,
+  introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-snoop-he.Item.JX7gH6vjf7GIRy0E]{Items} can
+  be dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Slender body, hefty body, trim body, jittery body, tall body, short
+  body.</li>
+
+  <li>Student clothes, arty clothes, old suit, stylish suit, safari wear, hat
+  &amp; trenchcoat, utility wear.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm +2, Cool -1, Sharp +1, Tough 0, Weird +1</li>
+
+  <li>Charm +2, Cool 0, Sharp +1, Tough -1, Weird +1</li>
+
+  <li>Charm +2, Cool +1, Sharp +1, Tough 0, Weird -1</li>
+
+  <li>Charm +2, Cool -1, Sharp +2, Tough -1, Weird 0</li>
+
+  <li>Charm +2, Cool +1, Sharp 0, Tough -1, Weird +1</li>
+
+  </ul>
+
+  <h3><br />Crew</h3>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.Y6Jqm8WKLTiNAHgo]{Crew}</p>
+
+  <p>Decide if your crew is the other hunters, or if you have an entourage.</p>
+
+  <p>If they are not the hunters, there are up to three of them. Pick a name and
+  job for each. Tell the Keeper–your crew are bystanders.</p>
+
+  <p>If it’s the other hunters, decide together who gets which job.</p>
+
+  <p><strong>Crew jobs:</strong> camera, sound, editing, dogsbody, researcher,
+  driver, director, producer, bodyguard.</p>
+
+  <h3><br />Moves</h3>
+
+  <p>You get all the basic moves, plus three Snoop moves.</p>
+
+  <p>Pick three:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.JX7gH6vjf7GIRy0E]{"What
+  Does That Feel Like?"}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.t8yLq8dLt0vgiH6r]{Minor
+  Celebrity}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.bQVe0RhO8QIYdkmG]{Press
+  Accreditation}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.VDUgSnZp0U7tV1Ge]{Relaxed
+  Producer}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.XRt6htuQuzWQv5rs]{The Mojo
+  Wire}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.szP26kkLm7rTxfGF]{Truthiness}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.2Iirg9aCirqGfupt]{We'll
+  Fix It In Post}</p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p>You get a laptop, three recording devices, two detectors and one subtle
+  weapon. (Please note that you, or your Keeper, must create these
+  manually).</p>
+
+  <h4>Recording devices (<em>pick three</em>):</h4>
+
+  <ul>
+
+  <li>Video camera</li>
+
+  <li>Tiny digital camera</li>
+
+  <li>Film camera</li>
+
+  <li>Digital recorder</li>
+
+  <li>Tape recorder</li>
+
+  <li>Infrared camera</li>
+
+  <li>Pro sound gear</li>
+
+  <li>Camera drone</li>
+
+  <li>Starlight camera</li>
+
+  <li>Steadicam rig</li>
+
+  <li>Laser microphone</li>
+
+  <li>SLR camera</li>
+
+  <li>Nice smartphone</li>
+
+  </ul>
+
+  <h4><br />Detectors (<em>pick two</em>):</h4>
+
+  <ul>
+
+  <li>Electromagnetic field detector</li>
+
+  <li>Temperature fluctuation detector</li>
+
+  <li>Ouija board</li>
+
+  <li>Humidity meter</li>
+
+  <li>Dowsing rods</li>
+
+  <li>Chemistry test kit</li>
+
+  <li>Metal detector</li>
+
+  <li>Compass</li>
+
+  <li>GPS receiver</li>
+
+  <li>Laser rangefinder</li>
+
+  <li>Pendulum</li>
+
+  <li>Tarot deck</li>
+
+  </ul>
+
+  <h4><br />Subtle weapons (<em>pick one</em>):</h4>
+
+  <ul>
+
+  <li>Multitool/pocket knife (1-harm hand hidden useful)</li>
+
+  <li>Stun gun (1-harm hand stun)</li>
+
+  <li>Baseball/cricket bat (2-harm hand innocuous messy)</li>
+
+  <li>Handgun (2-harm close loud)</li>
+
+  <li>Knife (1-harm hand hidden)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Whenever you spend a Luck point, you’re going to have technical
+  difficulties. Breakdowns, communication problems, weird noises in the
+  recordings, etc.<br /><br /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Snoop by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>You’re best friends from school/university (film class, maybe?)</li>
+
+  <li>You met this hunter when they killed a monster you were doing a story on.
+  Ask them what it was.</li>
+
+  <li>This hunter almost defeated a monster but you did something to prevent
+  that. Ask them what the monster was, then tell them what you did. Was it an
+  accident or on purpose?</li>
+
+  <li>This hunter was in danger of some having unhelpful publicity, but you got
+  the story killed.</li>
+
+  <li>You have a crush on this hunter. Ask them if they’ve noticed.</li>
+
+  <li>This hunter saved your ass when you did something stupid. Ask them what
+  you did.</li>
+
+  <li>This hunter is a huge fan of your work. Ask them if they keep quiet about
+  it or if everyone knows?</li>
+
+  <li>This hunter is a relation, close or distant. Decide between you exactly
+  what.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p> @UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1
+  Charm, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]{Get +1 Weird,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.tFxjHxPuaT3CpZQa]{Take another
+  Snoop move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.tFxjHxPuaT3CpZQa]{Take another
+  Snoop move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain an ally:
+  one of your existing crew members or the whole crew as an ally team}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]{Get a haven,
+  like the Expert has, with one option plus a film lab and editing suite}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sAarucCBECTwIZWz]{Make it big.
+  You’re a superstar now!}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: Le Fureteur [HE]
+description: >-
+  <blockquote>
+    <p>Les monstres ne se montrent pas, mais je sais qu’ils sont là, et je vais les trouver. Les trouver
+    et les filmer. Les preuves seront indéniables, et leur découverte rejaillira sur moi.</p>
+    <p>Écoute-moi bien : un jour, je serai une méga star ! Heu... t’as pas ressenti comme un
+    frisson ? Vite ! Active les caméras infrarouges !</p>
+  </blockquote>
+  <table style="width: 100%; border-width: 1px; border-style: solid;" border="1"><colgroup><col style="width: 50%;"><col style="width: 50%;"></colgroup>
+  <tbody>
+  <tr>
+  <td style="padding: 8px;" colspan="2">
+  <h2>Pour commencer</h2>
+  <p>Pour créer votre Fureteur, commencez par lui trouver un nom. Puis suivez les instructions ci-dessous pour
+  choisir votre apparence, vos caractéristiques, vos manœuvres, votre équipe et votre
+  équipement. Enfin, présentez-vous et attribuez vos histoires.</p>
+  <p><em>Instructions : Les @UUID[Compendium.motw-for-pbta.the-snoop-he.Item.JX7gH6vjf7GIRy0E]{objets} peuvent
+  être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres
+  valeurs et descriptions, vous devez les copier/coller, ou les modifier manuellement.</em></p>
+  </td>
+  </tr>
+  <tr>
+  <td style="padding: 8px;">
+  <h3>Apparence</h3>
+  <p>Choisissez un élément de chaque liste :</p>
+  <ul>
+  <li>Homme, femme.</li>
+  <li>Silhouette mince, silhouette dégingandée, silhouette corpulente, silhouette musclée, silhouette nerveuse,
+  silhouette élancée, silhouette courtaude.</li>
+  <li>Tenue d’étudiant, vêtements créatifs, vieux costume, costume élégant, tenue de safari, imper &amp; chapeau,
+  vêtements fonctionnels.</li>
+  </ul>
+  <h3>Statistiques</h3>
+  <p>Choisissez une ligne :</p>
+  <ul>
+  <li>Charme +2, Cool 0, Futé +1, Coriace 0, Bizarre 0</li>
+  <li>Charme +2, Cool 0, Futé +1, Coriace -1, Bizarre +1</li>
+  <li>Charme +2, Cool +1, Futé +1, Coriace 0, Bizarre -1</li>
+  <li>Charme +2, Cool -1, Futé +2, Coriace -1, Bizarre 0</li>
+  <li>Charme +2, Cool +1, Futé 0, Coriace -1, Bizarre +1</li>
+  </ul>
+  <h3>Manœuvres</h3>
+  <p>Vous connaissez toutes les manœuvres de base, auxquelles s’ajoutent trois manœuvres de Fureteur :</p>
+  <ul>
+  <li>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.JX7gH6vjf7GIRy0E]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.t8yLq8dLt0vgiH6r]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.XRt6htuQuzWQv5rs]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.bQVe0RhO8QIYdkmG]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.2Iirg9aCirqGfupt]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.VDUgSnZp0U7tV1Ge]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-snoop-he.Item.szP26kkLm7rTxfGF]</li>
+  </ul>
+  <h3>Équipe</h3>
+  <p>Décidez si les autres chasseurs constituent les membres de votre équipe, ou si vous avez votre propre entourage.
+  Dans le deuxième cas, ils sont entre 1 et 3. Trouvez-leur un nom et un poste chacun. Dans le premier cas,
+  décidez ensemble de qui tient tel ou tel poste.</p>
+  <p>Postes : caméraman, mixeur, monteur, homme à tout faire, enquêteur, conducteur, réalisateur, producteur,
+  garde du corps.</p>
+  <p><em>Glissez l’objet @UUID[Compendium.motw-for-pbta.the-snoop-he.Item.Y6Jqm8WKLTiNAHgo] sur votre fiche de
+  chasseur.</em></p>
+  <h3>Équipement</h3>
+  <p>Vous obtenez un ordinateur portable, trois appareils d’enregistrement, deux détecteurs et une arme camouflée.</p>
+  <p><em>Veuillez noter que vous, ou votre gardien, devez les créer manuellement.</em></p>
+  <h4>Appareils d’enregistrement (<em>choisissez-en trois</em>) :</h4>
+  <ul>
+  <li>Caméra numérique</li>
+  <li>Petite caméra numérique</li>
+  <li>Pellicule (8 ou 16 mm)</li>
+  <li>Dictaphone numérique</li>
+  <li>Magnétophone</li>
+  <li>Caméra infrarouge</li>
+  <li>Matériel de sonorisation et micro sur perche</li>
+  <li>Drone caméra radiocommandé</li>
+  <li>Caméra nocturne</li>
+  <li>Steadicam</li>
+  <li>Microphone laser</li>
+  <li>Appareil Réflex</li>
+  </ul>
+  <h4>Détecteurs (<em>choisissez-en deux</em>) :</h4>
+  <ul>
+  <li>Détecteur de champ électromagnétique</li>
+  <li>Détecteur de changement de température</li>
+  <li>Planche Ouija</li>
+  <li>Humidimètre</li>
+  <li>Baguette de sourcier</li>
+  <li>Matériel d’analyses chimiques</li>
+  <li>Détecteur de métaux</li>
+  <li>Boussole</li>
+  <li>Récepteur GPS</li>
+  <li>Télémètre laser</li>
+  <li>Pendule</li>
+  </ul>
+  <h4>Armes camouflées (<em>choisissez-en une</em>) :</h4>
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.f8OF1gUXxgm1LKGn]{Revolver, calibre .32} (2 dégâts, proche,
+    rechargement, petit)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.0hBIO6UXzvP85Oql]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.xs46IbpWlBgrD9yu]{Couteau} (1 dégât, allonge,
+    dissimulé)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.430cmYF32IKBCm1H]{Couteau suisse} (1 dégât, allonge,
+    dissimulé, utile)</li>
+  </ul>
+  </td>
+  <td style="padding: 8px;">
+  <h3>Gagner un allié</h3>
+  <p>Vous gagnez un allié amical qui vous Donne un coup de main pendant vos chasses (voir dans les
+  <strong>Améliorations</strong> ci-dessous). Vous le connaissez peut-être déjà, à moins qu’il ne débarque dans
+  l’histoire. Choisissez l’un des types suivants pour votre allié (la « motivation » est une ligne directrice pour le
+  Gardien) :</p>
+  <ul>
+  <li>Allié : subordonné (motivation : suivre vos instructions à la lettre).</li>
+  <li>Allié : lieutenant (motivation : suivre vos instructions en en respectant l’esprit).</li>
+  <li>Allié : ami (motivation : vous offrir un soutien émotionnel).</li>
+  <li>Allié : garde du corps (motivation : vous tenir à l’abri du danger).</li>
+  <li>Allié : confident (motivation : vous donner des conseils et du recul).</li>
+  <li>Allié : renfort (motivation : rester à vos côtés).</li>
+  </ul>
+  <p>Si votre allié n’a pas encore de nom, choisissez-en un. Déterminez son origine, son apparence et ses
+  compétences.</p>
+  <p>L’équipe possède une chaîne Internet sur les chasses aux monstres, pour enseigner aux spectateurs la vérité sur
+  les monstres.</p>
+  <p>Un Fureteur est nécessaire ; un Barjo ou un Expert ferait un bon enquêteur ; un Élu ou un Vengeur peut servir
+  de bras armé ; un Ordinaire peut faire le café ; les autres peuvent tenir la caméra ou la perche du micro.</p>
+  <h3>Présentations</h3>
+  <p>Lorsque vous en arrivez là, attendez que tout le monde vous rattrape pour que vous puissiez effectuer vos
+  présentations ensemble.</p>
+  <p>Faites le tour du groupe. Votre tour venu, présentez votre Fureteur en dévoilant son nom et son apparence, et en
+  disant aux autres membres du groupe ce qu’ils savent de vous.</p>
+  <h3>Histoire</h3>
+  <p>Refaites le tour du groupe. Votre tour venu, choisissez une des lignes suivantes pour chaque autre chasseur :</p>
+  <ul>
+  <li>Vous avez le béguin pour lui. Demandez-lui s’il l’a remarqué.</li>
+  <li>Vous êtes meilleurs amis depuis le lycée/la fac (en cours de cinéma ?).</li>
+  <li>Vous vous êtes rencontrés quand il a tué le monstre que vous recherchiez. Demandez-lui quel monstre c’était.</li>
+  <li>À cause de vous, il n’a pas pu tuer un monstre. Demandez-lui comment vous avez fait capoter sa chasse.</li>
+  <li>Il risquait de se retrouver inutilement sous le feu des projecteurs, mais vous avez enterré le scoop.</li>
+  <li>Il vous a sauvé les miches après que vous ayez fait une bêtise. Demandez-lui ce que vous avez fait.</li>
+  <li>C’est un de vos admirateurs. Demandez-lui s’il garde le secret ou si tout le monde est au courant.</li>
+  <li>Vous êtes des parents proches ou éloignés. Définissez ensemble votre relation.</li>
+  </ul>
+  </td>
+  </tr>
+  <tr>
+  <td style="padding: 8px;" colspan="2">
+  <h2>Prendre du galon</h2>
+  <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou « Améliorations avancées » en édition.
+  Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce suivi à votre place.</em></p>
+  <h3>Améliorations</h3>
+  <p><em>Dès que vous avez coché cinq cases d’expérience, vous prenez du galon. Effacez le contenu des cases et
+  choisissez une amélioration parmi les suivantes :</em></p>
+  <ul>
+  <li>Gagnez +1 Charme (+3 max.).</li>
+  <li>Gagnez +1 Cool (+2 max).</li>
+  <li>Gagnez +1 Futé (+3 max.).</li>
+  <li>Gagnez +1 Bizarre (+2 max.).</li>
+  <li>Prenez une autre manœuvre de Fureteur.</li>
+  <li>Prenez une autre manœuvre de Fureteur.</li>
+  <li>Gagnez un allié, potentiellement un membre existant de votre équipe (voire toute l’équipe).</li>
+  <li>Gagnez un refuge, comme l’Expert, avec une option et un laboratoire de développement.</li>
+  <li>Prenez une manœuvre d’un autre livret.</li>
+  <li>Prenez une manœuvre d’un autre livret.</li>
+  </ul>
+  <h3>Améliorations avancées</h3>
+  <p><em>Après avoir pris du galon cinq fois, vous pouvez aussi choisir parmi les améliorations avancées ci-dessous.</em></p>
+  <ul>
+  <li>Gagnez +1 dans n’importe quelle caractéristique (+3 max.).</li>
+  <li>Changez le type de votre chasseur.</li>
+  <li>Créez un second chasseur pour le jouer en plus de celui-ci.</li>
+  <li>Cochez deux de vos manœuvres de base comme avancées.</li>
+  <li>Cochez deux autres de vos manœuvres de base comme avancées.</li>
+  <li>Retraite méritée.</li>
+  <li>Regagnez un point de Chance utilisé.</li>
+  </ul>
+  </td>
+  </tr>
+  </tbody>
+  </table>

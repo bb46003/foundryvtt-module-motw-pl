@@ -1,0 +1,478 @@
+original_name: The Spooky
+original_description: >-
+  <blockquote>
+
+  <p><em>I can do things, things that normal people can’t. But there’s a price—I
+  haven’t paid it in full, yet, but the bill’s gonna come due soon. It’s best I
+  don’t tell you any more. You get too close, you’ll get hurt.</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%" border="1"><colgroup><col
+  style="width:47.4758%"></col><col style="width:52.5242%"></col></colgroup>
+
+  <tbody>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Spooky, first pick a name. Then follow the instructions in
+  this playbook to decide your look, ratings, moves, dark side and gear.
+  Finally, introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-spooky.Item.LpAx6ytN4zzFsIOC]{Items} can be
+  dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, boy, girl, concealed, androgynous.</li>
+
+  <li>Burning eyes, dark eyes, pained eyes, blank eyes, unblinking eyes,
+  piercing eyes, shadowed eyes, creepy eyes.</li>
+
+  <li>Ratty clothes, casual clothes, goth clothes, neat clothes, nerdy
+  clothes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm+1, Cool=0, Sharp+1, Tough-1, Weird+2</li>
+
+  <li>Charm-1, Cool+1, Sharp=0, Tough+1, Weird+2</li>
+
+  <li>Charm+2, Cool=0, Sharp-1, Tough-1, Weird+2</li>
+
+  <li>Charm=0, Cool-1, Sharp+1, Tough+1, Weird+2</li>
+
+  <li>Charm-1, Cool-1, Sharp+2, Tough=0, Weird+2</li>
+
+  </ul>
+
+  <h3><br />Moves</h3>
+
+  <p><em>You get all the basic moves, plus pick three Spooky moves:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.LpAx6ytN4zzFsIOC]{Hex}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.SfhvFIAeYCgMCsQt]{Hunches}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.c4iCsT3QIABoQtej]{Jinx}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.pYzLwHJfzueGeQzS]{Premonition}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.GljwU0SKrcxIJEtl]{Telepathy}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.19VJZV583HKSlDx5]{The Big
+  Whammy}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.97FHEsUNdGj9n0fj]{The
+  Sight}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.XYFqWtHJSN0pjgTK]{Tune
+  In}</p>
+
+  <h3><br />The Dark Side</h3>
+
+  <p>Your powers have an unsavory source, and sometimes you get tempted to do
+  things you shouldn’t. These could be orders from whatever granted your power,
+  or urges that bubble up from your subconscious. Something like that. Whatever
+  it is, it’s unsettling. </p>
+
+  <p>(<em>Foundry: Drag
+  @UUID[Compendium.motw-for-pbta.the-spooky.Item.UnBGkOs4SdMDasJc]{The Dark
+  Side} to your Character Sheet, open it up for editing and add three
+  tags)</em></p>
+
+  <p><em>Pick three tags for your dark side:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.2r3uk5PItGcs6gbQ]{Addiction} 
+   @UUID[Compendium.motw-for-pbta.the-spooky.Item.D35YhDaPovOok4KA]{Dark
+  bargain}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.8v2NfD3DC0vzFfcT]{Depression} 
+   @UUID[Compendium.motw-for-pbta.the-spooky.Item.GeN09yXIyXDGgj5X]{Greed for
+  power}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.xVjHz4ref5Zq8I15]{Guilt} 
+   @UUID[Compendium.motw-for-pbta.the-spooky.Item.SX6qvjJfEOyNqa11]{Hallucinations}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.M4DGu7dSCkpjfHTo]{Lust} 
+   @UUID[Compendium.motw-for-pbta.the-spooky.Item.ZSY5q4N2db3tI9F7]{Mood
+  swings}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.hgFNdRunaubAkHB6]{Pain} 
+   @UUID[Compendium.motw-for-pbta.the-spooky.Item.979QH7Ex3HF87vhT]{Paranoia}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.FvoVlMpVa7gq3lHx]{Poor
+  impulse control} 
+   @UUID[Compendium.motw-for-pbta.the-spooky.Item.MWqLDpm5a7q5QRPw]{Rage}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.sxwYJTZOd9G44PS8]{Secrets} 
+   @UUID[Compendium.motw-for-pbta.the-spooky.Item.rcUFD8FV4ukVeStf]{Self-destruction}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooky.Item.Z5xhpXPKoYRy1BsR]{Soulless} 
+   @UUID[Compendium.motw-for-pbta.the-spooky.Item.ImPI5i8OB3bJJolN]{Violence}</p>
+
+  <p>The Keeper can ask you to do nasty things (in accordance with the tags),
+  when your powers need you to. If you do whatever is asked, mark experience. If
+  you don’t do it, then your powers are unavailable until the end of the mystery
+  (or until you cave). As you mark off Luck boxes, these requests will get
+  bigger and nastier.</p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p>You get two normal weapons and any magical items or amulets that you use to
+  invoke your powers. (Please note that you, or your Keeper must create these
+  manually)</p>
+
+  <h4>Normal weapons (<em>pick two</em>):</h4>
+
+  <ul>
+
+  <li>.38 revolver (2-harm close reload loud)</li>
+
+  <li>9mm (2-harm close loud)</li>
+
+  <li>Hunting rifle (2-harm far loud)</li>
+
+  <li>Shotgun (3-harm close messy)</li>
+
+  <li>Big knife (1-harm hand)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.<br /><br
+  /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Spooky by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. On your turn, pick one of these for each
+  hunter:</p>
+
+  <ul>
+
+  <li>They taught you to control your powers, to the extent that you can control
+  them at all.</li>
+
+  <li>You are blood-kin. Decide together exactly what.</li>
+
+  <li>You are married, or romantically involved. Decide between you the exact
+  relationship.</li>
+
+  <li>You’re old friends, and trust each other completely.</li>
+
+  <li>You used your powers on them one time. Decide if it was for selfish
+  reasons or not, and tell them if they found out about it.</li>
+
+  <li>You’ve known each other some time, but since your powers manifested, you
+  keep them at a distance emotionally.</li>
+
+  <li>You hope they can help you control your powers.</li>
+
+  <li>They saw you use your powers for selfish or vindictive reasons. Ask them
+  who the victim was, and then tell them what you did.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get +1
+  Weird, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.6Avir4oJqncrZbBK]{Take another
+  Spooky move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.6Avir4oJqncrZbBK]{Take another
+  Spooky move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.HZfSCXg6m26qKElI]{Change some, or
+  all, your dark side tags}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.D0mmADTce0J4IOx1]{Get a mystical
+  library, like the Expert’s haven option}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.5j3KTw8hhaskmtnQ]{You discover how
+  to use your powers at a lower price}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ckRPwPLlCzLeVvC6]{Delete one Dark
+  Side tag permanently}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: L’Épouvantail
+description: >-
+  <blockquote> <p>Je peux faire des choses. Des choses dont les gens normaux
+  sont incapables. Mais il y a un prix, que je n’ai pas encore totalement payé,
+  et la note ne va pas tarder à tomber. Mieux vaut que je ne vous en dise pas
+  plus. Moins vous en saurez, mieux ce sera.</p> </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>Pour créer votre Épouvantail, commencez par lui trouver un nom. Puis suivez
+  les instructions ci-dessous pour choisir votre apparence, vos
+  caractéristiques, vos manœuvres, votre côté obscur et votre équipement. Enfin,
+  présentez-vous et attribuez vos histoires.</p> <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-spooky.Item.LpAx6ytN4zzFsIOC]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p>
+
+    </td>
+  </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul>
+    <li>Homme, femme, garçon, fille, dissimulé, androgyne.</li>
+    <li>Regard de braise, yeux cernés, regard tourmenté, regard vide, regard impassible, regard perçant, regard sombre,
+    regard flippant.</li>
+    <li>Vêtements miteux, tenue décontractée, look gothique, vêtements propres, vêtements ringards.</li>
+  </ul>
+
+  <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p>
+
+  <ul>
+    <li>Charme +1, Cool 0, Futé +1, Coriace -1, Bizarre +2</li>
+    <li>Charme -1, Cool +1, Futé 0, Coriace +1, Bizarre +2</li>
+    <li>Charme +2, Cool 0, Futé -1, Coriace -1, Bizarre +2</li>
+    <li>Charme 0, Cool -1, Futé +1, Coriace +1, Bizarre +2</li>
+    <li>Charme -1, Cool -1, Futé +2, Coriace 0, Bizarre +2</li>
+  </ul>
+
+  <h3>Manœuvres</h3> <p><em>Vous connaissez toutes les manœuvres de base,
+  auxquelles s’ajoutent trois manœuvres d’Épouvantail :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.LpAx6ytN4zzFsIOC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.SfhvFIAeYCgMCsQt]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.c4iCsT3QIABoQtej]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.pYzLwHJfzueGeQzS]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.GljwU0SKrcxIJEtl]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.19VJZV583HKSlDx5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.97FHEsUNdGj9n0fj]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.XYFqWtHJSN0pjgTK]</li>
+  </ul>
+
+  <h3>Le côté obscur</h3> <p>Vos pouvoirs ont une origine peu recommandable, si
+  bien que vous êtes parfois tenté de faire des choses que vous ne devriez pas.
+  Il peut s’agir d’ordres qui vous sont donnés par ce qui vous confère votre
+  pouvoir ou de simples pulsions nées de votre inconscient. Quelque chose comme
+  ça. Dans tous les cas, ce n’est pas rassurant.</p>
+
+  <p><em>Glissez-déposez
+  @UUID[Compendium.motw-for-pbta.the-spooky.Item.UnBGkOs4SdMDasJc] sur votre
+  feuille de
+    personnage, ouvrez-la pour l’éditer, puis ajoutez trois trait.</em></p>
+
+  <p><em>Choisissez les trois traits de votre côté obscur :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.2r3uk5PItGcs6gbQ]</li> 
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.D35YhDaPovOok4KA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.8v2NfD3DC0vzFfcT]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.GeN09yXIyXDGgj5X]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.xVjHz4ref5Zq8I15]</li> 
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.SX6qvjJfEOyNqa11]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.M4DGu7dSCkpjfHTo]</li> 
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.ZSY5q4N2db3tI9F7]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.hgFNdRunaubAkHB6]</li> 
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.979QH7Ex3HF87vhT]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.FvoVlMpVa7gq3lHx]</li> 
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.MWqLDpm5a7q5QRPw]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.sxwYJTZOd9G44PS8]</li> 
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.rcUFD8FV4ukVeStf]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.Z5xhpXPKoYRy1BsR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spooky.Item.ImPI5i8OB3bJJolN]</li>
+  </ul>
+
+    <p>Le Gardien peut vous demander de faire de vilaines choses (liées aux traits) quand vos pouvoirs l’exigent. Si
+  vous obtempérez, cochez de l’expérience. Dans le cas contraire, vos pouvoirs
+  ne sont plus utilisables jusqu’à la fin du mystère (ou jusqu’à ce que vous
+  cédiez). Plus vous avez coché de cases Chance, plus ces demandes seront
+  moches.</p>
+
+    </td>
+  <td style="padding: 8px;">
+  <h3>Équipement</h3>
+
+  <p>Vous recevez deux armes normales et tout objet magique ou amulette nécessaire pour évoquer vos pouvoirs.</p>
+
+  <h4>Armes normales <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.5G7tWJAz6H6bTg4Y]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Ajt3lMBJcHTB1oIc]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.qNxH5DzvsAMAdgNt]{Fusil de chasse} (2 dégâts, loin,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.fsEiEcIdWkUrY5G8]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.TP63EvcqnOtc7Oil]{Couteau de chasse} (1 dégât, allonge)</li>
+  </ul>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Épouvantail en dévoilant son nom et son apparence, et en disant aux autres
+  membres du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p> <ul>
+    <li>Il vous a appris à contrôler vos pouvoirs.</li>
+    <li>Vous êtes parents. Décidez ensemble de votre lien de parenté.</li>
+    <li>Vous êtes mariés ou entretenez une relation amoureuse. Décidez ensemble de sa nature.</li>
+    <li>Vous êtes de vieux amis et vous faites entièrement confiance.</li>
+    <li>Une fois, vous avez utilisé vos pouvoirs sur lui. À vous de décider si c’était pour des raisons égoïstes ou
+    non, et dites-lui s’il l’a découvert.</li>
+    <li>Vous vous connaissez depuis quelque temps, mais depuis que vos pouvoirs se sont manifestés, vous gardez vos
+    distances sur le plan émotionnel.</li>
+    <li>Vous espérez qu’il pourra vous aider à contrôler vos pouvoirs.</li>
+    <li>Il vous a vu utiliser vos pouvoirs pour des raisons égoïstes ou vindicatives. Demandez-lui qui était la
+    victime, puis dites-lui ce que vous avez fait.</li>
+  </ul> </td>
+
+    </tr>
+  <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du galon</h2>
+  <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.6Avir4oJqncrZbBK]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.6Avir4oJqncrZbBK]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.HZfSCXg6m26qKElI]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.D0mmADTce0J4IOx1]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.5j3KTw8hhaskmtnQ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.ckRPwPLlCzLeVvC6]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+  </ul> </td> </tr> </tbody> </table>

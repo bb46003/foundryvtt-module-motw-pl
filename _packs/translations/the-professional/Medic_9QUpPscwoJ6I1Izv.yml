@@ -1,0 +1,22 @@
+original_name: Medic
+original_description: >-
+  <p>You have a full first aid kit, and the training to heal people.
+  <strong>When you do first aid</strong>, roll +Cool.&nbsp;</p>
+
+  <p>This move takes the place of regular first aid.</p>
+original_success: <p><strong>On a 10+</strong> the patient is stabilized and
+  healed of 2 harm.&nbsp;</p>
+original_partial: "<p><strong>On a 7-9</strong> choose one: heal 2 harm or
+  stabilize the injury.&nbsp;</p>"
+original_failure: <p><strong>On a miss</strong>, you cause an extra 1 harm.&nbsp;</p>
+name: Toubib’
+description: >-
+  <p>Vous possédez une trousse de premiers secours et êtes capable de soigner
+  les gens. Quand <strong>vous prodiguez les premers soins</strong>, lancez
+  +Cool.</p>
+
+  <p>Cette manœuvre remplace les premiers soins habituels.</p>
+success: <p><strong>Sur un 10+</strong>, le patient est stabilisé et élimine 2
+  dégâts.</p>
+partial: <p><strong>Sur un 7-9</strong>, éliminez 2 dégâts ou stabilisez le patient.</p>
+failure: <p><strong>En cas d’échec</strong>, vous infligez 1 dégât supplémentaire.</p>

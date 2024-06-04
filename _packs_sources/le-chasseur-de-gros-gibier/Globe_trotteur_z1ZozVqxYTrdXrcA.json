@@ -1,0 +1,51 @@
+{
+  "folder": "EOpAIvuaRLX3Y11H",
+  "name": "Globe-trotteur",
+  "type": "move",
+  "_id": "z1ZozVqxYTrdXrcA",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Durant vos voyages, vous avez rencontré des centaines de cultures et de langues différentes. Vous savez communiquer avec n’importe qui, peu importe la barrière culturelle ou linguistique, du moment que la conversation reste simple et concise.</p>\n<p>Vous pouvez ainsi effectuer les manœuvres <strong>Manipuler quelqu’un</strong> et <strong>Enquêter sur un mystère</strong> sur des figurants qui ne parlent pas votre langue.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Chasseur de Gros Gibier",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205879744,
+    "modifiedTime": 1714210114922,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!z1ZozVqxYTrdXrcA"
+}

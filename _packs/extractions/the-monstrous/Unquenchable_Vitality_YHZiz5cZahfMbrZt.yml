@@ -1,0 +1,56 @@
+name: Unquenchable Vitality
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you have taken harm, <strong>you can heal yourself</strong>. Roll
+    +Cool.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong>, heal 2-harm and stabilise your
+        injuries.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, heal 1-harm and stabilise your
+        injuries.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, your injuries worsen.</p>
+  uses: 0
+  playbook: The Monstrous
+  rollType: cool
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_ccphuwgnsbn
+    path: 'The Monstrous#/CF_SEP/The Monstrous: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667492268451
+  modifiedTime: 1690216779313
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: DNnDArwsCaGsTBJ9
+_id: YHZiz5cZahfMbrZt
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!YHZiz5cZahfMbrZt'
+

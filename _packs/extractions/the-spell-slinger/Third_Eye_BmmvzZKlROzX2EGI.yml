@@ -1,0 +1,51 @@
+folder: DvRFmqiFIcQ02USY
+name: Third Eye
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you <strong>read a bad situation</strong>, you can <strong>open up
+    your third eye</strong> for a moment to take in extra information. Take +1
+    hold on any result of 7 or more, plus you can see invisible things. On a
+    miss, you may still get 1 hold, but you&rsquo;re exposed to supernatural
+    danger. Unfiltered hidden reality is rough on the mind!</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spell-Slinger
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1686861680212
+  modifiedTime: 1690287360329
+  lastModifiedBy: MX0yl5RfaCDkeocV
+_id: BmmvzZKlROzX2EGI
+sort: 300000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!BmmvzZKlROzX2EGI'
+

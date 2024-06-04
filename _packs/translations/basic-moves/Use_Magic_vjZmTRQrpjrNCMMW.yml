@@ -1,0 +1,114 @@
+original_name: Use Magic
+original_description: <p>When you use magic, say what you&rsquo;re trying to
+  achieve and how you do the spell, then <strong>roll +Weird</strong>.</p>
+original_success: "<p><strong>On a 10+</strong>, the magic works without issues:
+  choose your effect. <br /><br /><strong>ADVANCED: On a 12+</strong> the Keeper
+  will offer you some added benefit.</p>"
+original_partial: "<p><strong>On a 7-9</strong>, it works imperfectly: choose
+  your effect and a glitch. The Keeper will decide what effect the glitch
+  has.&nbsp;</p>"
+original_failure: <p><strong>On a miss</strong>, you lose control of the magic.
+  This never ends well.</p>
+original_choices: >-
+  <p><strong>EFFECTS</strong></p>
+
+  <ul>
+
+  <li>Inflict harm (1-harm ignorearmour magic obvious).</li>
+
+  <li>Enchant a weapon. It gets +1 harm and +magic.</li>
+
+  <li>Do one thing that is beyond human limitations.</li>
+
+  <li>Bar a place or portal to a specific person or a type of creature.</li>
+
+  <li>Trap a specific person, minion, or monster.</li>
+
+  <li>Banish a spirit or curse from the person, object, or place it
+  inhabits.</li>
+
+  <li>Summon a monster into the world.</li>
+
+  <li>Communicate with something that you do not share a language with.</li>
+
+  <li>Observe another place or time.</li>
+
+  <li>Heal 1-harm from an injury, or cure a disease, or neutralize a poison. <br
+  /><br /><strong>GLITCHES</strong></li>
+
+  <li>The effect is weakened.</li>
+
+  <li>The effect is of short duration.</li>
+
+  <li>You take 1-harm ignore-armour.</li>
+
+  <li>The magic draws immediate, unwelcome attention.</li>
+
+  <li>It has a problematic side effect. <br /><br /><strong>THE KEEPER MAY SAY
+  THAT...</strong></li>
+
+  <li>The spell requires weird materials.</li>
+
+  <li>The spell will take 10 seconds, 30 seconds, or 1 minute to cast.</li>
+
+  <li>The spell requires ritual chanting and gestures.</li>
+
+  <li>The spell requires you to draw arcane symbols.</li>
+
+  <li>You need one or two people to help cast the spell.</li>
+
+  <li>You need to refer to a tome of magic for the details.</li>
+
+  </ul>
+name: Utiliser la magie
+description: <p>Quand vous utilisez la magie, détaillez ce que vous voulez faire
+  et comment vous comptez y parvenir, puis <strong>lancez +Bizarre</strong>.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, la magie fonctionne comme prévu. Choisissez
+  l’effet.</p>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous êtes investi de
+  puissance magique. Non seulement vous parvenez à vos fins, mais en plus le
+  Gardien vous offre un petit bonus.</p>
+partial: <p><strong>Sur un 7-9</strong>, elle ne fonctionne pas totalement comme
+  prévu. Choisissez l’effet et un pépin. Au Gardien de déterminer la nature de
+  ce pépin.</p>
+failure: <p><strong>En cas d’échec</strong>, vous perdez le contrôle de la magie
+  et ça finit mal.</p>
+choices: >-
+  <p><strong>Effets :</strong></p>
+
+  <ul>
+    <li><em>Infliger des dégâts (1 dégât, ignore l’armure, magique, évident) ;</em></li>
+    <li><em>Enchanter une arme (+1 dégât, magique) ;</em></li>
+    <li><em>Faire une chose qui dépasse les limites humaines ;</em></li>
+    <li><em>Barrer un lieu ou une porte pour un individu ou un type de créatures précis ;</em></li>
+    <li><em>Piéger un individu, sbire ou monstre précis ;</em></li>
+    <li><em>Bannir un esprit ou lever une malédiction affectant un individu, un objet ou un lieu ;</em></li>
+    <li><em>Invoquer un monstre ;</em></li>
+    <li><em>Communiquer avec quelqu’un ou quelque chose dont vous ne connaissez pas la langue ;</em></li>
+    <li><em>Observer un autre lieu ou temps ;</em></li>
+    <li><em>Éliminer 1 dégât, soigner une maladie ou neutraliser un poison.</em></li>
+  </ul>
+
+  <p><strong>Pépins :</strong></p>
+
+  <ul>
+    <li><em>L’effet est amoindri ;</em></li>
+    <li><em>L’effet est raccourci ;</em></li>
+    <li><em>Vous subissez 1 dégât (ignore l’armure) ;</em></li>
+    <li><em>La magie attire l’attention ;</em></li>
+    <li><em>Elle produit un effet secondaire fâcheux.</em></li>
+  </ul>
+
+  <p><strong>Le Gardien peut exiger de vous un ou plusieurs des points suivants
+  :</strong></p>
+
+  <ul>
+    <li><em>Le sort nécessite des composantes exotiques ;</em></li>
+    <li><em>Le temps d’incantation du sort est de 10 secondes, 30 secondes ou 1 minute ;</em></li>
+    <li><em>L’incantation s’accompagne de chants et de gestes rituels ;</em></li>
+    <li><em>L’incantation s’accompagne de symboles ésotériques qu’il vous faut tracer ;</em></li>
+    <li><em>Vous avez besoin d’une personne ou deux pour vous aider à lancer le sort ;</em></li>
+    <li><em>Vous devez vous tourner vers un grimoire pour y trouver certains détails.</em></li>
+  </ul>

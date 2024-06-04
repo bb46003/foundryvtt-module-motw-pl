@@ -1,0 +1,50 @@
+folder: oEONT5rTtbeeTlos
+name: 'Advanced: Synthesis'
+type: move
+_id: bUmS87n05KB51Z7g
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You manage to conciliate your dark power with your moral impulses. You
+    lose your Temptation. Whenever you <strong>use magic</strong> to
+    <strong>help out</strong> or <strong>protect someone</strong>, you mark
+    experience. Mark a second experience if you do it at the expense of your own
+    safety.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Hex [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690915739148
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!bUmS87n05KB51Z7g'
+

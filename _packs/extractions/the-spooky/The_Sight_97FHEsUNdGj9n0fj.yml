@@ -1,0 +1,49 @@
+folder: AMa6x8vEAHN9O09H
+name: The Sight
+type: move
+_id: 97FHEsUNdGj9n0fj
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You can see the invisible, especially spirits and magical influences. You
+    may communicate with (maybe even make deals with) the spirits you see, and
+    they give you more opportunities to spot clues when you i<strong>nvestigate
+    a mystery</strong>.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooky
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686863612329
+  modifiedTime: 1686864168451
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!97FHEsUNdGj9n0fj'
+

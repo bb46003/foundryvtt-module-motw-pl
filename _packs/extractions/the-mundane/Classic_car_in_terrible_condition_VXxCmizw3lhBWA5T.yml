@@ -1,0 +1,36 @@
+name: Classic car in terrible condition
+type: equipment
+img: icons/commodities/tech/wheel.webp
+system:
+  name: ''
+  description: ''
+  uses: 0
+  playbook: ''
+  quantity: 1
+  weight: 0
+  tags: ''
+  tagsString: ''
+  itemType: null
+  equipmentType: transport
+effects: []
+flags:
+  cf:
+    id: temp_5ad4tqovfd6
+    path: 'The Mundane#/CF_SEP/The Mundane: Transport'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667509860263
+  modifiedTime: 1686860492293
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: HQA3sDtlK1lo7UF4
+_id: VXxCmizw3lhBWA5T
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!VXxCmizw3lhBWA5T'
+

@@ -1,0 +1,46 @@
+folder: null
+name: The Initiate Special
+type: move
+_id: kC0zwPDDO3lJnW4K
+img: icons/svg/coins.svg
+system:
+  description: >-
+    <p>When you spend a Luck, something goes wrong for your Sect: an ill-advised
+    project or a disastrous operation. It might be your fault; it could be due
+    to the Sect’s bad traditions.</p>
+  moveType: ''
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Initiate
+  rollType: ''
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691068543130
+  modifiedTime: 1706527720954
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!kC0zwPDDO3lJnW4K'
+

@@ -1,0 +1,34 @@
+{
+  "folder": "mQ2cOwbmZgm27h3j",
+  "name": "Pied-de-biche",
+  "type": "equipment",
+  "_id": "89sl60vWK1Zpkk83",
+  "img": "icons/tools/hand/wrench-iron-grey.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"allonge\"},{\"value\":\"sanglant\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714634902883,
+    "modifiedTime": 1714635282712,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!89sl60vWK1Zpkk83"
+}

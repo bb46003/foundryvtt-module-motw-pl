@@ -1,0 +1,51 @@
+{
+  "folder": "JxpdE2dRM7MVxV76",
+  "name": "Rusé comme un rudo",
+  "type": "move",
+  "_id": "jaZ5qqKP3MfrY4OA",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>En combat, vous aimez les coups bas. Quand <strong>vous infligez des dégâts à un monstre</strong>, vous pouvez le duper par la ruse. Lancez +Futé.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, le monstre se fait duper : gagnez +1 d&eacute;g&acirc;t et +1 constant contre le monstre.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, le monstre se fait duper : infligez 1 d&eacute;g&acirc;t.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, votre ruse p&eacute;tarade.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Luchador",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203264546,
+    "modifiedTime": 1714210318682,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!jaZ5qqKP3MfrY4OA"
+}

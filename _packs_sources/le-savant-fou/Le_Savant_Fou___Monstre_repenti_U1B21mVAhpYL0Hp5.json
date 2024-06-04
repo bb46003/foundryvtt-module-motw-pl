@@ -1,0 +1,19 @@
+{
+  "name": "Le Savant Fou : Monstre repenti",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "U1B21mVAhpYL0Hp5",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203879189,
+    "modifiedTime": 1714204262254,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!folders!U1B21mVAhpYL0Hp5"
+}

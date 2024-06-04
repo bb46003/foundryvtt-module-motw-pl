@@ -1,0 +1,63 @@
+_id: w3fGvJDaIvUktNPC
+name: End of Session
+type: move
+img: icons/svg/daze.svg
+effects: []
+folder: null
+flags:
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>At the end of each session, the Keeper will ask the following
+    questions:</p>
+
+    <ul>
+
+    <li>Did we conclude the current mystery?</li>
+
+    <li>Did we save someone from certain death (or worse)?</li>
+
+    <li>Did we learn something new and important about the world?</li>
+
+    <li>Did we learn something new and important about one of the hunters?</li>
+
+    </ul>
+
+    <p>If you get one or two &ldquo;Yes&rdquo; answers, mark one experience. If
+    you get three or four, mark two.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: ''
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686948368592
+  modifiedTime: 1686948539926
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!w3fGvJDaIvUktNPC'
+

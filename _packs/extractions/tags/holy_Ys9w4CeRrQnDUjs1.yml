@@ -1,0 +1,30 @@
+name: holy
+type: tag
+img: icons/svg/combat.svg
+system:
+  name: ''
+  description: >-
+    <p>This will be more effective against monsters with a weakness to holy
+    items.</p>
+effects: []
+flags:
+  cf:
+    id: temp_toc8840dng
+    path: 'Tags#/CF_SEP/Tags: Weapons'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667426899996
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: yHHLIuenIIRqUFNi
+_id: Ys9w4CeRrQnDUjs1
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!Ys9w4CeRrQnDUjs1'
+

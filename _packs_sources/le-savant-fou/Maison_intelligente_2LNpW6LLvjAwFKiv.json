@@ -1,0 +1,51 @@
+{
+  "folder": "fBnv1LtN7OAjUMtq",
+  "name": "Maison intelligente",
+  "type": "move",
+  "_id": "2LNpW6LLvjAwFKiv",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Votre laboratoire est géré par une I.A. sensible, très loyale et protectrice envers vous. Son influence sur le monde extérieur est très limitée, mais elle fait tout pour vous faciliter la vie ici. Lorsque <strong>vous effectuez une recherche sur Internet</strong>, gagnez +1 temporaire pour <strong>Enquêter sur un mystère</strong> (si l’info est trouvable sur le web).</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204501930,
+    "modifiedTime": 1714204668551,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!2LNpW6LLvjAwFKiv"
+}

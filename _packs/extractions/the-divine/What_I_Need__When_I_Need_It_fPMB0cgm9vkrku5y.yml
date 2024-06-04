@@ -1,0 +1,50 @@
+name: What I Need, When I Need It
+type: move
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>You may store any small object you own, putting it into a magical space
+    nobody can get to. You may retrieve anything you stored at any time; it
+    appears in your hand.</p>
+  moveType: class
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Divine
+  rollType: ''
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  cf:
+    id: temp_ymnqot48js
+    path: 'The Divine#/CF_SEP/The Divine: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1667503002572
+  modifiedTime: 1706527558596
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+folder: null
+_id: fPMB0cgm9vkrku5y
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!fPMB0cgm9vkrku5y'
+

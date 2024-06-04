@@ -1,0 +1,34 @@
+{
+  "folder": "xQcWWKviJ1IxDWbe",
+  "name": "Bouclier",
+  "type": "equipment",
+  "_id": "hZU0W8RGpjXs1mbI",
+  "img": "icons/skills/melee/shield-block-gray-orange.webp",
+  "system": {
+    "description": "<p>Ne peut être utilisé comme arme <em>lourde</em>.</p>",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"allonge\"},{\"value\":\"1 armure\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714635615463,
+    "modifiedTime": 1714635755547,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!hZU0W8RGpjXs1mbI"
+}

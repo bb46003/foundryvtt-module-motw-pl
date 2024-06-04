@@ -1,0 +1,55 @@
+folder: d5a1EjXgFf404Sx6
+name: Force of Will
+type: move
+_id: 8ncissjTBQiG4pIR
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you apply your will to <strong>dispelling</strong> a magical effect,
+    <strong>blocking </strong>a spell, or <strong>suspending </strong>a
+    Phenomenon, roll +Weird.</p>
+
+    <p>On a hit, momentary magics are cancelled completely, and long-lasting
+    spells and effects are suspended temporarily.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10</strong>+, you can also spend Luck to instantly snuff
+        out a powerful spell or strange effect.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, you take 1-harm as the strain of
+        dismissing magic unravels you.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Hex [ToM]
+  rollType: weird
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690891948351
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!8ncissjTBQiG4pIR'
+

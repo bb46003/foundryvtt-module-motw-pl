@@ -1,0 +1,51 @@
+{
+  "folder": "kqtdVaw7sRX1FEkW",
+  "name": "Dégâts collatéraux",
+  "type": "move",
+  "_id": "3wOCDlJQgnflVO7N",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous pouvez vous frayer un chemin à travers quasiment n’importe quoi. Si vous pouvez détruire un objet inanimé avec les outils à votre disposition, lancez +Futé pour déterminer le degré de réussite.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous le r&eacute;duisez en miettes.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, soit cela vous prendra du temps, soit vous ne pouvez pas le d&eacute;truire compl&egrave;tement. &Agrave; vous de choisir.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, soit vous subissez des d&eacute;g&acirc;ts au cours de l&rsquo;op&eacute;ration, soit la situation s&rsquo;aggrave.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Dur à Cuire",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714201917698,
+    "modifiedTime": 1714210154299,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!3wOCDlJQgnflVO7N"
+}

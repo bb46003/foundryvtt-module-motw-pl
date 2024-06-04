@@ -1,0 +1,47 @@
+folder: w4s18GJndDydmgR2
+name: Just Another Day
+type: move
+_id: lop9BR9t0xp6fhsy
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you have to <strong>act under pressure</strong> due to a monster,
+    phenomenon, or mystical effect, you may roll +Weird instead of +Cool.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Searcher [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690911801244
+  modifiedTime: 1691053425066
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!lop9BR9t0xp6fhsy'
+

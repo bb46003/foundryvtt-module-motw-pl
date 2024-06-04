@@ -1,0 +1,51 @@
+{
+  "folder": "nfk2zzOyRI4Ts9iT",
+  "name": "Monstrueux",
+  "type": "move",
+  "_id": "TUPCnsfk34UiOQtK",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Les gens réagissent mal à votre étrangeté. Vous ne pouvez pas utiliser <strong>Manipuler quelqu’un</strong> avant d’avoir prouvé votre valeur (cela comprend les autres chasseurs : à eux de voir si vous avez fait vos preuves ou non). En attendant, ils voudront vous éviter autant que possible.</p>\n<p>Vous pouvez dépenser 1 point de Chance pour que la personne se lie d’amitié avec vous. Ne faites pas de jet pour <strong>Manipuler quelqu’un</strong> : le personnage réagit comme si vous aviez fait 12. De plus, vous pouvez utiliser <strong>Manipuler quelqu’un</strong> sur les monstres doués de raison et de parole (mais ils veulent forcément un sale truc).</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "L’Invoqué",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205236713,
+    "modifiedTime": 1714209956030,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!TUPCnsfk34UiOQtK"
+}

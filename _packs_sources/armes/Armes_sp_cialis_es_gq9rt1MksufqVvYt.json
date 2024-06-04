@@ -1,0 +1,46 @@
+{
+  "name": "Armes spécialisées",
+  "type": "equipment",
+  "img": "icons/svg/combat.svg",
+  "system": {
+    "description": "<p>Pour tuer vos ennemis (<strong>maillet et pieu en bois</strong> pour les vampires, <strong>dague en argent</strong> pour les loups-garous, etc.).</p>\n<p><em>4 dégâts</em> contre les créatures ciblées, <em>1 dégât</em> autrement, et autres traits avec l’accord du Gardien.</p>",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"4 dégâts\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "flags": {
+    "cf": {
+      "id": "temp_1pyw88g8kir",
+      "path": "The Wronged#/CF_SEP/The Wronged: Weapons",
+      "color": "#000000"
+    },
+    "core": {},
+    "babele": {
+      "translated": true,
+      "hasTranslation": true,
+      "originalName": "Specialist Weapon"
+    }
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1667517876142,
+    "modifiedTime": 1714634366215,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "folder": "G4deRM7dHZpiui4p",
+  "_id": "gq9rt1MksufqVvYt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!gq9rt1MksufqVvYt"
+}

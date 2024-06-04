@@ -1,0 +1,53 @@
+name: Apprentice
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You have an apprentice: name them. Your job is to teach them the
+    Sect&rsquo;s ways. They count as an <strong>ally: subordinate</strong>
+    (motivation: to follow your instructions to the letter).</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Initiate
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_jguk50jnggq
+    path: 'The Initiate#/CF_SEP/The Initiate: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667508429754
+  modifiedTime: 1686856936633
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: cEunrzTudAI1JKNI
+_id: qRLcatuBs7e9mGUq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!qRLcatuBs7e9mGUq'
+

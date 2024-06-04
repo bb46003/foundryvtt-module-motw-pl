@@ -1,0 +1,604 @@
+original_name: The Monstrous
+original_description: >-
+  <blockquote>
+
+  <p>I feel the hunger, the lust to destroy. But I fight it: I never give in.
+  I’m not human any more, not really, but I have to protect those who still are.
+  That way I can tell myself I’m different to the other monsters. Sometimes I
+  can even believe it.</p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <p> </p>
+
+  <table style="width:100%" border="1"><colgroup><col
+  style="width:54.2427%"></col><col style="width:45.7573%"></col></colgroup>
+
+  <tbody>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Monstrous, first pick a name. Then follow the instructions in
+  this playbook to decide your look, ratings, breed, moves, and gear. Finally,
+  introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-monstrous.Item.hlQlxq6JV7ynHLaL]{Items} can
+  be dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, mysterious, transgressive.</li>
+
+  <li>Sinister aura, powerful aura, dark aura, unnerving aura, energetic aura,
+  evil aura, bestial aura.</li>
+
+  <li>Archaic clothes, casual clothes, ragged clothes, tailored clothes, stylish
+  clothes, street clothes, outdoor clothes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm-1, Cool-1, Sharp=0, Tough+2, Weird+3</li>
+
+  <li>Charm-1, Cool+1, Sharp+1, Tough=0, Weird+3</li>
+
+  <li>Charm+2, Cool=0, Sharp-1, Tough-1, Weird+3</li>
+
+  <li>Charm-2, Cool+2, Sharp=0, Tough=0, Weird+3</li>
+
+  <li>Charm=0, Cool-1, Sharp+2, Tough-1, Weird+3</li>
+
+  </ul>
+
+  <h3><br />Monster Breed</h3>
+
+  <p>You’re half-human, half-monster: decide if you were always this way or if
+  you you were originally human and transformed somehow.</p>
+
+  <p>Now decide if you were always fighting to be good, or if you were evil and
+  changed sides.</p>
+
+  <p>Define your monstrous breed by picking a curse, moves, and natural
+  attacks.</p>
+
+  <p>Create the monster you want to be: whatever you choose defines your breed
+  in the game. Some classic monsters with suggestions for picks are listed
+  below. These are <em>only </em>suggestions: feel free to make a different
+  version!</p>
+
+  <h3><br />Curses</h3>
+
+  <p><em>Pick one:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.38LFZaoLPrT6eQJv]{Curse:
+  Dark Master}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.Rf4I7wUUKVQjWbcP]{Curse:
+  Feed}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.lLg2j15QUyQdfrVX]{Curse:
+  Pure Drive}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.TMmkBQIkpiiYvnW1]{Curse:
+  Vulnerability}</p>
+
+  <h3><br />Natural Attacks</h3>
+
+  <p>(Drag and drop
+  @UUID[Compendium.motw-for-pbta.the-monstrous.Item.17XFAx7t2gdrCdNE]{The
+  Monstrous: Natural Attacks} to your Character Sheet, open it, rename it if you
+  wish, and then add  the Tags for Base and Extras by dragging the them to the
+  weapon)</p>
+
+  <p><em>Pick a Base and add an extra to it, or two Bases:<br /><br /></em></p>
+
+  <ul>
+
+  <li>Base: teeth (<em>Add</em>:
+  @UUID[Compendium.motw-for-pbta.tags.Item.FVbweTphVIbENn72]{3-harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.RDfOVDy0r0C4NifL]{intimate})<br /><br
+  /></li>
+
+  <li>Base: claws (<em>Add</em>:
+  @UUID[Compendium.motw-for-pbta.tags.Item.qG8S5oSRgQxXS93k]{2-harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS]{hand})<br /><br
+  /></li>
+
+  <li>Base: magical force (<em>Add</em>:
+  @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ]{1-harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.Llh9Q5RvkYKS4Ymu]{magic}
+  @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP]{close})<br /><br
+  /></li>
+
+  <li>Base: life-drain (<em>Add</em>:
+  @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ]{1-harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.RDfOVDy0r0C4NifL]{intimate}
+  @UUID[Compendium.motw-for-pbta.tags.Item.Ub6csRKA0PQOMj9L]{life-drain})<br
+  /><br /></li>
+
+  <li>Extra: <em>Increase harm by +1</em><br /><br /></li>
+
+  <li>Extra: <em>Add
+  </em>@UUID[Compendium.motw-for-pbta.tags.Item.2WgpZtMmwTVjCCnA]{ignore-armour}
+  <em>to a base</em><br /><br /></li>
+
+  <li>Extra: <em>Add an extra range to a base (add
+  @UUID[Compendium.motw-for-pbta.tags.Item.RDfOVDy0r0C4NifL]{intimate}
+  @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS]{hand}, or
+  @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP]{close})</em>.</li>
+
+  </ul>
+
+  <h3><br />Monster Breed Suggestions</h3>
+
+  <ul>
+
+  <li><strong>Vampire</strong>: Curse: feed (blood or life-force).
+  Natural attacks: Base: life-drain or Base: teeth; add +1 harm to base attack.
+  Moves: immortal or unquenchable vitality; mental domination.</li>
+
+  <li><strong>Werewolf</strong>: Curse: vulnerability (silver). Natural attacks:
+  Base: claws; Base: teeth. Moves: shapeshifter (wolf and/or wolfman); claws of
+  the beast or unholy strength.</li>
+
+  <li><strong>Ghost</strong>: Curse: vulnerability (rock salt). Natural attacks:
+  Base: magical force; add hand range to magical force. Moves: incorporeal;
+  immortal.</li>
+
+  <li><strong>Faerie</strong>: Curse: pure drive (joy). Natural attacks: Base:
+  magical force; add ignore- armour to magical force. Moves: flight;
+  preternatural speed.</li>
+
+  <li><strong>Demon</strong>: Curse: pure drive (cruelty). Natural
+  attacks: Base: claws; +1 harm to claws. Moves: dark negotiator; unquenchable
+  vitality.</li>
+
+  <li><strong>Orc</strong>: Curse: dark master (the orc overlord).
+  Natural attacks: Base: teeth; add ignore-armour to teeth. Moves: Unholy
+  strength; dark negotiator.</li>
+
+  <li><strong>Zombie</strong>: Curse: pure drive (hunger), feed (flesh
+  or brains). Natural attacks: Base: teeth; +1 harm to teeth. Moves: immortal;
+  unquenchable vitality.</li>
+
+  </ul>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Moves</h3>
+
+  <p>You get all the basic moves, plus pick two Monstrous moves:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.hlQlxq6JV7ynHLaL]{Claws
+  of the Beast}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.5diUOzVSsnbNsPer]{Dark
+  Negotiator}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.670Avpw7pud6OmT5]{Flight}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.JN9nVYewIJALKvDq]{Immortal}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.7WztWThd4id4NSFq]{Incorporeal}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.dkNpYC9kaSMf7R7c]{Mental
+  Dominion}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.dk0WacaqcjuWFWUr]{Preternatural
+  Speed}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.ypYcewW1BASNdSVz]{Shapeshifter}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.TddvoEFhC4vEVHSN]{Something
+  Borrowed}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.jtgRu7dyLbHmJUM1]{Unholy
+  Strength}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.qzx15TncQ4YxYCWC]{Unnatural
+  Appeal}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.YHZiz5cZahfMbrZt]{Unquenchable
+  Vitality}</p>
+
+  <h3><br />Gear</h3>
+
+  <p>If you want, you can take one handy weapon (Please note that you, or your
+  Keeper must create these manually):</p>
+
+  <ul>
+
+  <li>.38 revolver (2-harm close reload loud)</li>
+
+  <li>9mm (2-harm close loud)</li>
+
+  <li>Magnum (3-harm close reload loud)</li>
+
+  <li>Shotgun (3-harm close messy)</li>
+
+  <li>Big knife (1-harm hand)</li>
+
+  <li>Brass knuckles (1-harm hand quiet small)</li>
+
+  <li>Sword (2-harm hand messy)</li>
+
+  <li>Huge sword (3-harm hand heavy)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.<br /><br
+  /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Monstrous by name and
+  look, and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>You lost control one time, and almost killed them. Ask them how they
+  stopped you.</li>
+
+  <li>They tried to slay you, but you proved you’re on the side of good. Ask
+  them what convinced them.</li>
+
+  <li>You are romantically obsessed with them. Ask them if they know, and if
+  they reciprocate.</li>
+
+  <li>Close relations, or a distant descendant. Tell them which.</li>
+
+  <li>You saved them from another of your kind, and prevented reprisals against
+  that individual creature (maybe it’s another good one, or maybe it has a
+  hold over you).</li>
+
+  <li>They are tied to your curse or origin. Tell them how.</li>
+
+  <li>You fought together against the odds, and prevailed.</li>
+
+  <li>They saved you from another hunter who was prepared to kill you. Ask them
+  what happened.</li>
+
+  </ul>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]{Get +1 Tough,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.vPfb9EUqQXGH2W37]{Take another
+  Monstrous move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.vPfb9EUqQXGH2W37]{Take another
+  Monstrous move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]{Gain a haven,
+  like the Expert has, with two options}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.gWDqfENfPSn5G1WO]{Take a natural
+  attacks pick}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yfN9DSTntuFMCCCq]{Free yourself
+  from the curse of your kind. Your curse no longer applies, but you lose 1
+  Weird}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.20akx7ahRILWDKXR]{You turn evil
+  (again). Retire this character, they become one of the Keeper’s threats}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: Le Monstre
+description: >-
+  <blockquote> <p>Je ressens la faim, la soif de destruction. Mais je la
+  combats. Je ne cède jamais. Je ne suis plus humain, plus vraiment en tout cas,
+  mais je me dois de protéger ceux qui le sont encore. De cette façon, je peux
+  me dire que je suis différent des autres monstres. Parfois, j’ose même y
+  croire.</p> </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+
+    <p>Pour créer votre Monstre, commencez par lui trouver un nom. Puis suivez les instructions ci-dessous pour choisir
+  votre apparence, vos caractéristiques, votre espèce, vos manœuvres et votre
+  équipement. Enfin, présentez-vous et attribuez vos histoires.</p>
+  <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-monstrous.Item.hlQlxq6JV7ynHLaL]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p>
+    </td>
+  </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul>
+    <li>Homme, femme, mystérieux, transgenre.</li>
+    <li>Aura sinistre, aura puissante, aura sombre, aura troublante, aura énergétique, aura maléfique,
+    aura bestiale.</li>
+    <li>Vêtements archaïques, tenue décontractée, vêtements en loques, vêtements sur mesure, vêtements chics,
+    streetwear, vêtements de randonnée.</li>
+  </ul> <h3>Statistiques</h3>
+
+    <p><em>Choisissez une ligne :</em></p>
+  <ul>
+    <li>Charme -1, Cool -1, Futé 0, Coriace +2, Bizarre +3</li>
+    <li>Charme -1, Cool+1, Futé +1, Coriace 0, Bizarre +3</li>
+    <li>Charme +2, Cool 0, Futé -1, Coriace -1, Bizarre +3</li>
+    <li>Charme -2, Cool +2, Futé 0, Coriace 0, Bizarre +3</li>
+    <li>Charme 0, Cool -1, Futé +2, Coriace -1, Bizarre +3</li>
+  </ul>
+
+  <h3>Espèce</h3> <p>Vous êtes mi-humain mi-monstre. À vous de décider s’il en a
+  toujours été ainsi ou si vous avez subi une transformation après être né
+  humain.</p> <p>Ensuite, décidez si vous avez toujours été du côté du bien ou
+  si vous étiez initialement dans le camp du mal.</p> <p>Déterminez votre espèce
+  en choisissant une malédiction, des manœuvres et des attaques naturelles.</p>
+  <p>Créez le monstre que vous voulez être. Votre choix déterminera votre
+  espèce. Vous trouverez quelques suggestions de monstres connus ci-dessous. Il
+  ne s’agit que de <em>suggestions</em>. N’hésitez pas à en créer une version
+  différente !</p>
+
+  <h3>Propositions d’espèces de monstres</h3> <ul>
+    <li>
+      <strong>Vampire.</strong> <em>Malédiction :</em> alimentation (sang ou énergie vitale).
+      <em>Attaques naturelles :</em> Base : absorption d’énergie ou dents ; ajoutez +1 dégât à l’attaque de base.
+      <em>Manœuvres :</em> immortel ou régénération ; domination mentale.
+    </li>
+    <li>
+      <strong>Loup-garou.</strong> <em>Malédiction :</em> vulnérabilité (argent). <em>Attaques naturelles :</em> Base :
+      griffes, dents. <em>Manœuvres :</em> métamorphe (loup et/ou homme-loup) ; griffes de la bête ou force
+      surnaturelle.
+    </li>
+    <li>
+      <strong>Fantôme.</strong> <em>Malédiction :</em> vulnérabilité (pierre de sel). <em>Attaques naturelles :</em>
+      Base : force magique ; ajoutez allonge à la force magique. <em>Manœuvres :</em> incorporel ; immortel.
+    </li>
+    <li>
+      <strong>Fée.</strong> <em>Malédiction :</em> pulsion aveugle (joie). <em>Attaques naturelles :</em> Base : force
+      magique ; ajoutez ignore l’armure à la force magique. <em>Manœuvres :</em> vol ; rapidité surnaturelle.
+    </li>
+    <li>
+      <strong>Démon.</strong> <em>Malédiction :</em> pulsion aveugle (cruauté). <em>Attaques naturelles :</em> Base :
+      griffes ; +1 dégât aux griffes. <em>Manœuvres :</em> sombre négociateur ; régénération.
+    </li>
+    <li>
+      <strong>Orque.</strong> <em>Malédiction :</em> sombre maître (le grand orque). <em>Attaques naturelles :</em>
+      Base : dents ; ajoutez ignore l’armure aux dents. <em>Manœuvres :</em> force surnaturelle ; sombre négociateur.
+    </li>
+    <li>
+      <strong>Zombie.</strong> <em>Malédictions :</em> pulsion aveugle (faim), alimentation (chair ou cerveaux).
+      <em>Attaques naturelles :</em> Base : dents ; +1 dégât aux dents. <em>Manœuvres :</em> immortel ; régénération.
+    </li>
+  </ul>
+
+  <h3>Malédictions <em>(choisissez-en une)</em> :</h3>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.38LFZaoLPrT6eQJv]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.Rf4I7wUUKVQjWbcP]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.lLg2j15QUyQdfrVX]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.TMmkBQIkpiiYvnW1]</li>
+  </ul>
+
+  <h3>Attaques naturelles</h3>
+
+  <p>Glissez-déposez une ou deux des attaques de base sur votre feuille de personnage.</p>
+
+  <p>Si vous n’en prenez qu’une seule, ouvrez-la, puis modifiez les étiquettes en fonction du
+  supplément que vous lui choisissez (précisé dans le détail de chaque attaque).</p>
+
+  <p><em>Choisissez-en une de base et une supplémentaire, ou deux de base.</em></p>
+
+  <ul>
+    <li>Base : @UUID[Compendium.motw-fr.armes.Item.LEjNNxpOjOWbkimY]{Dents}</li>
+    <li>Base : @UUID[Compendium.motw-fr.armes.Item.9YoNLftPHuY142qO]{Griffes}</li>
+    <li>Base : @UUID[Compendium.motw-fr.armes.Item.UIrpZxHyKNzCVGEb]{Force magique}</li>
+    <li>Base : @UUID[Compendium.motw-fr.armes.Item.nJXzTCt4KjSsEgrn]{Absorption d’énergie}</li>
+    <li>Supplémentaire : <em>Ajoutez +1 dégât à une attaque de base</em></li>
+    <li>Supplémentaire : <em>Ajoutez ignore l’armure à une attaque de base</em></li>
+    <li>Supplémentaire : <em>Ajoutez une portée supplémentaire (allonge, personnel ou proche)
+    à une attaque de base.</em></li>
+  </ul>
+
+  </td> <td style="padding: 8px;"> <h3>Manœuvres</h3>
+    <p>Vous connaissez toutes les manœuvres de base, auxquelles s’ajoutent deux manœuvres de Monstre :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.hlQlxq6JV7ynHLaL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.5diUOzVSsnbNsPer]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.670Avpw7pud6OmT5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.JN9nVYewIJALKvDq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.7WztWThd4id4NSFq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.dkNpYC9kaSMf7R7c]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.dk0WacaqcjuWFWUr]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.ypYcewW1BASNdSVz]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.TddvoEFhC4vEVHSN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.jtgRu7dyLbHmJUM1]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.qzx15TncQ4YxYCWC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.YHZiz5cZahfMbrZt]</li>
+  </ul>
+
+  <h3>équipement</h3>
+
+  <p>Si vous le souhaitez, vous pouvez prendre une arme :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.au3Rfc5U5R2NI2ex]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.XL81ghbIiDB3OIvI]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.j5HyJYD0y6U2xfV1]{Magnum} (3 dégâts, proche, rechargement,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.WSjoRWKZlc3Vpvyy]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.UlOw7FqQdkfxRWi5]{Couteau de chasse} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.uakM65bnFWG59zl9]{Coup-de-poing américain} (1 dégât,
+    allonge, silencieux, petit)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.SHEylwNDtr9HP9u1]{épée} (2 dégâts, allonge,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.JO7gpr3GCLP2yRxQ]{Grande épée} (3 dégâts,
+    allonge, sanglant, lourd)</li>
+  </ul>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Monstre en dévoilant son nom et son apparence, et en disant aux autres membres
+  du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p>
+
+  <ul>
+    <li>Une fois, vous ne vous êtes plus contrôlé et avez failli le tuer. Demandez-lui comment il a réussi à vous
+    arrêter.</li>
+    <li>Il a tenté de vous tuer, mais vous lui avez prouvé que vous étiez du côté du bien. Demandez-lui ce qui l’a
+    convaincu.</li>
+    <li>Vous êtes profondément amoureux de lui. Demandez-lui s’il le sait et si le sentiment est réciproque.</li>
+    <li>Vous êtes parents proches ou il s’agit d’un descendant lointain. Précisez-lui la nature du lien de parenté.</li>
+    <li>Vous l’avez sauvé de l’un de vos congénères et avez évité que ce dernier ne subisse des représailles (peut-être
+    est-il bon lui aussi, à moins qu’il n’ait une forme d’emprise sur vous).</li>
+    <li>Il a un lien avec votre malédiction ou origine. Dites-lui en quoi.</li>
+    <li>Vous avez combattu ensemble et, contre toute attente, avez triomphez.</li>
+    <li>Il vous a sauvé d’un autre chasseur qui s’apprêtait à vous tuer. Demandez-lui ce qui s’est passé.</li>
+  </ul>
+
+  </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.vPfb9EUqQXGH2W37]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.vPfb9EUqQXGH2W37]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.gWDqfENfPSn5G1WO]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yfN9DSTntuFMCCCq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.20akx7ahRILWDKXR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+  </ul> </td> </tr> </tbody> </table>

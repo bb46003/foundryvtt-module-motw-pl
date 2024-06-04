@@ -1,0 +1,40 @@
+name: Specialist Weapon
+type: equipment
+img: icons/svg/combat.svg
+system:
+  name: ''
+  description: >-
+    <p>For destroying your foes (e.g. wooden stakes and mallet for vampires,
+    silver dagger for werewolves, etc.). 4-harm against the specific creatures
+    it targets, 1-harm otherwise, and other tags by agreement with the
+    Keeper.</p>
+  uses: 0
+  playbook: The Wronged
+  quantity: 1
+  weight: 0
+  tags: '[{"value":"4-harm"}]'
+  tagsString: 4-harm
+  itemType: null
+  equipmentType: weapon
+effects: []
+flags:
+  cf:
+    id: temp_1pyw88g8kir
+    path: 'The Wronged#/CF_SEP/The Wronged: Weapons'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667517876142
+  modifiedTime: 1686865230903
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+_id: FMPksyExLR47ly6v
+folder: dFt5IwsdHSzxx8sK
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!FMPksyExLR47ly6v'
+

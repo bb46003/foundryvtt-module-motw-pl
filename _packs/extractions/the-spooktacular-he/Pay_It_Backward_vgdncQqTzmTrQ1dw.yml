@@ -1,0 +1,49 @@
+folder: bCp0Eof7nDxwYGmI
+name: Pay It Backward
+type: move
+_id: vgdncQqTzmTrQ1dw
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p><strong>Give yourself or someone else an advantage</strong> on any roll:
+    roll 3 dice and select the best 2 for your result. Whenever you do this, the
+    Keeper gains 1 hold. That hold may be spent to give any hunter (but usually
+    you) a disadvantage: roll 3 dice and select the worst 2 instead.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooktacular [HE]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690914240922
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!vgdncQqTzmTrQ1dw'
+

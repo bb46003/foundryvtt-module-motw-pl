@@ -1,0 +1,51 @@
+{
+  "folder": "EOpAIvuaRLX3Y11H",
+  "name": "Magie exotique",
+  "type": "move",
+  "_id": "or1SDcnUJshFlOge",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vos voyages vous ont mené vers des endroits étranges et reculés, où vous avez découvert d’anciennes connaissances magiques que les érudits pensaient disparues. Vous pouvez remplacer un ou plusieurs prérequis imposés par le Gardien pour une manœuvre d’<strong>Utiliser la magie</strong> (à raison d’1 pour 1) par des prérequis exotiques.</p>\n<p>Exemples de prérequis exotiques d’Utiliser la magie :</p>\n<ul>\n<li>Le sort nécessite d’être nu.</li>\n<li>Le sort nécessite l’utilisation de drogues hallucinogènes naturelles.</li>\n<li>Le sort nécessite une danse énergique de plusieurs minutes.</li>\n<li>Le sort nécessite de peindre des symboles sur le corps de la cible.</li>\n<li>Le sort nécessite de consommer le cœur encore chaud d’un animal ou tout autre organe récemment prélevé.</li>\n<li>Le sort nécessite du sang humain ou des scarifications rituelles. Ce peut être le(s) vôtre(s) ou celui/celles de quelqu’un d’autre (+1 dégât).</li>\n</ul>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Chasseur de Gros Gibier",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205893022,
+    "modifiedTime": 1714210112104,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!or1SDcnUJshFlOge"
+}

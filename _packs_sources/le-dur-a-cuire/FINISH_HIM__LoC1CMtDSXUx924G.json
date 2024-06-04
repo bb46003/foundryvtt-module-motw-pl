@@ -1,0 +1,51 @@
+{
+  "folder": "kqtdVaw7sRX1FEkW",
+  "name": "FINISH HIM!",
+  "type": "move",
+  "_id": "LoC1CMtDSXUx924G",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand <strong>vous infligez une blessure de 3 dégâts ou plus</strong>, vous pouvez enchaîner avec une autre attaque. Lancez +Coriace.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, doublez les d&eacute;g&acirc;ts inflig&eacute;s.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, infligez 1 d&eacute;g&acirc;t suppl&eacute;mentaire.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous devenez vuln&eacute;rable aux attaques.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Dur à Cuire",
+    "rollType": "tough",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714201898198,
+    "modifiedTime": 1714210159368,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!LoC1CMtDSXUx924G"
+}

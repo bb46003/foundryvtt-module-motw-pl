@@ -1,0 +1,51 @@
+{
+  "folder": "Oa5e9qVemckKMtuy",
+  "name": "Invitation ouverte",
+  "type": "move",
+  "_id": "Fgp8G6qEGaqSJNgx",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vos cercles de relations sont nombreux et étendus. Pour obtenir un entretien avec quelqu’un ou l’accès à un endroit interdit, lancez +Futé.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, on vous accueille &agrave; bras ouverts.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, on vous accueille avec m&eacute;fiance.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, on vous rejette.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205693695,
+    "modifiedTime": 1714205844675,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!Fgp8G6qEGaqSJNgx"
+}

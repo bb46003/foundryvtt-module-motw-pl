@@ -1,0 +1,48 @@
+folder: w4s18GJndDydmgR2
+name: Fellow Believer
+type: move
+_id: TsWMjtN7ZRJkNUkM
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>People understand you&rsquo;ve also known strangeness. Bystanders will
+    talk to you about weird things they would not trust another hunter (or a
+    mundane official) to believe.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Searcher [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690911718731
+  modifiedTime: 1691053425066
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!TsWMjtN7ZRJkNUkM'
+

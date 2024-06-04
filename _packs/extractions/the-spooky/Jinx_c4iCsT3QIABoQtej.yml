@@ -1,0 +1,73 @@
+name: Jinx
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You can encourage coincidences to occur, the way you want.<strong> When
+    you jinx a target</strong>, roll +Weird.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong> hold 2.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong> hold 1.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, the Keeper holds 2 over you to be used in
+        the same way.</p>
+  uses: 0
+  playbook: The Spooky
+  rollType: weird
+  rollMod: 0
+  choices: >-
+    <p>Spend your hold to:</p>
+
+    <ul>
+
+    <li>Interfere with a hunter, giving them -1 forward.</li>
+
+    <li>Help a hunter, giving them +1 forward, by interfering with their
+    enemy.</li>
+
+    <li>Interfere with what a monster, minion, or bystander is trying to
+    do.</li>
+
+    <li>Inflict 1-harm on the target due to an accident.</li>
+
+    <li>The target finds something you left for them.</li>
+
+    <li>The target loses something that you will soon find.</li>
+
+    </ul>
+effects: []
+flags:
+  cf:
+    id: temp_pocf6fc0wnl
+    path: 'The Spooky#/CF_SEP/The Spooky: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667469936425
+  modifiedTime: 1686864168451
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: AMa6x8vEAHN9O09H
+_id: c4iCsT3QIABoQtej
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!c4iCsT3QIABoQtej'
+

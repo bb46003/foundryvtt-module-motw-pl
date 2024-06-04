@@ -1,0 +1,54 @@
+name: 'Curse: Pure Drive'
+type: move
+img: icons/svg/skull.svg
+system:
+  name: ''
+  description: >-
+    <p>One emotion rules you. Pick from: hunger, hate, anger, fear, jealousy,
+    greed, joy, pride, envy, lust, or cruelty. Whenever you have a chance to
+    indulge that emotion, you must do so immediately, or <strong>act under
+    pressure</strong> to resist.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Monstrous
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_omy8881noxa
+    path: 'The Monstrous#/CF_SEP/The Monstrous: Curses'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667484286255
+  modifiedTime: 1690216779313
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: uMTWNzLm22FaKby1
+_id: lLg2j15QUyQdfrVX
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!lLg2j15QUyQdfrVX'
+

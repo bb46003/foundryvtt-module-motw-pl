@@ -1,0 +1,19 @@
+{
+  "name": "motw-pl",
+  "author": "BartekB",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "extract": "echo \"Extraction des fichiers au format YAML...\" && node _scripts/extract-pack.mjs",
+    "generate": "echo \"Génération des fichiers JSON...\" && node _scripts/generate-files.mjs",
+    "pack-packs": "node _scripts/pack-packs.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.0-rc.4",
+    "yaml": "^2.4.3"
+  },
+  "volta": {
+    "node": "20.11.1",
+    "yarn": "3.8.1"
+  }
+}

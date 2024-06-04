@@ -1,0 +1,14 @@
+original_name: "Effect: Frost or Ice"
+original_description: <p>Adds
+  @UUID[Compendium.motw-for-pbta.tags.Item.YOvVft3uoGRDCk7s]{-1 harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.FbZuK1ciC6kRGBgf]{+2 armour} to a
+  wall, or @UUID[Compendium.motw-for-pbta.tags.Item.56zOmxrhZFrANRFS]{+1 harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.x4vQ9r4jTZBKRagA]{restraining} to
+  other bases.</p>
+name: "Effet : Gel ou glace"
+description: <p>Ajoutez
+  @UUID[Compendium.motw-for-pbta.tags.Item.YOvVft3uoGRDCk7s]{-1 dégât},
+  @UUID[Compendium.motw-for-pbta.tags.Item.FbZuK1ciC6kRGBgf]{+2 armure} à un
+  mur, ou @UUID[Compendium.motw-for-pbta.tags.Item.56zOmxrhZFrANRFS]{+1 dégât},
+  @UUID[Compendium.motw-for-pbta.tags.Item.x4vQ9r4jTZBKRagA]{gênant} à un sort
+  de base.</p>

@@ -1,0 +1,24 @@
+original_name: Force of Will
+original_description: >-
+  <p>When you apply your will to <strong>dispelling</strong> a magical effect,
+  <strong>blocking </strong>a spell, or <strong>suspending </strong>a
+  Phenomenon, roll +Weird.</p>
+
+  <p>On a hit, momentary magics are cancelled completely, and long-lasting
+  spells and effects are suspended temporarily.&nbsp;</p>
+original_success: <p><strong>On a 10</strong>+, you can also spend Luck to
+  instantly snuff out a powerful spell or strange effect.</p>
+original_partial: <p><strong>On a 7-9</strong>, you take 1-harm as the strain of
+  dismissing magic unravels you.</p>
+name: Force of Will
+description: >-
+  <p>When you apply your will to <strong>dispelling</strong> a magical effect,
+  <strong>blocking </strong>a spell, or <strong>suspending </strong>a
+  Phenomenon, roll +Weird.</p>
+
+  <p>On a hit, momentary magics are cancelled completely, and long-lasting
+  spells and effects are suspended temporarily.&nbsp;</p>
+success: <p><strong>On a 10</strong>+, you can also spend Luck to instantly
+  snuff out a powerful spell or strange effect.</p>
+partial: <p><strong>On a 7-9</strong>, you take 1-harm as the strain of
+  dismissing magic unravels you.</p>

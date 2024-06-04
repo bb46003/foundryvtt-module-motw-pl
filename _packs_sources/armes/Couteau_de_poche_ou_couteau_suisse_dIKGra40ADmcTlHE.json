@@ -1,0 +1,36 @@
+{
+  "name": "Couteau de poche ou couteau suisse",
+  "type": "equipment",
+  "img": "icons/tools/cooking/knife-chef-steel-black.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"allonge\"},{\"value\":\"utile\"},{\"value\":\"petit\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "l0tcOaga46E0x41u",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714586676356,
+    "modifiedTime": 1714633380458,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "dIKGra40ADmcTlHE",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!dIKGra40ADmcTlHE"
+}

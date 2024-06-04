@@ -1,0 +1,16 @@
+original_name: Panic Button
+original_description: <p>When you need to escape, <strong>name the route
+  you&rsquo;ll try</strong> and roll +Sharp.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> you&rsquo;re out of danger, no problem.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> you can go or stay, but if you go
+  it&rsquo;s going to cost you (you leave something behind or something comes
+  with you).&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you are caught halfway out.</p>
+name: Panique
+description: <p>Quand vous devez vous échapper, <strong>précisez le chemin que
+  vous voulez emprunter</strong> et +Futé.</p>
+success: <p><strong>Sur un 10+</strong>, vous êtes hors de danger.</p>
+partial: <p><strong>Sur un 7-9</strong>, vous pouvez filer ou rester, mais si
+  vous voulez partir, il vous en coûtera (vous laissez quelque chose derrière,
+  ou quelque chose vous accompagne).</p>
+failure: <p><strong>En cas d’échec</strong>, vous êtes pris à mi-chemin.</p>

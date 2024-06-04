@@ -1,0 +1,51 @@
+{
+  "folder": "EOpAIvuaRLX3Y11H",
+  "name": "Pisteur infatigable",
+  "type": "move",
+  "_id": "M46PUSYr7nA1sSpk",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Après avoir rencontré votre proie, difficile de lâcher prise. Après avoir rencontré le monstre, vous avez toujours une bonne idée de l’endroit où il se cache ou de l’endroit où il se rend, pour peu que vous lui donniez la chasse sans vous reposer.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Chasseur de Gros Gibier",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205889334,
+    "modifiedTime": 1714210108199,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!M46PUSYr7nA1sSpk"
+}

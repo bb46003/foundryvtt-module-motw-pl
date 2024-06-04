@@ -1,0 +1,62 @@
+original_name: Big Magic
+original_description: >-
+  <p>Use this when you want more than the Use Magic effects. Tell the Keeper
+  what you want to do.<br /><br /></p>
+
+  <p><strong>THE KEEPER MAY REQUIRE</strong></p>
+
+  <ul>
+
+  <li>You need to spend a lot of time (days or weeks) researching the magic
+  ritual.</li>
+
+  <li>You need to experiment with the spell &ndash; there will be lots of
+  failures before you get it right.</li>
+
+  <li>You need some rare and weird ingredients and supplies.</li>
+
+  <li>The spell will take a long time (hours or days) to cast.</li>
+
+  <li>You need a lot of people (2, 3, 7, 13, or more) to help.</li>
+
+  <li>The spell needs to be cast at a particular place and/or time.</li>
+
+  <li>You need to use magic as part of the ritual, perhaps to summon a monster,
+  communicate with something, or bar the portal you opened.</li>
+
+  <li>It will have a specific side-effect or danger.</li>
+
+  </ul>
+
+  <p>If you meet the requirements, then the magic takes effect.</p>
+name: Magie souverraine
+description: >-
+  <p>Il arrive que les sorts et rituels de la manœuvre de base <strong>utiliser
+  la magie</strong> ne suffisent pas. La <strong>magie souveraine</strong>
+  couvre tout ce qui est plus puissant, qu’il s’agisse de ressusciter quelqu’un
+  ou d’ouvrir un portail vers une autre dimension. La <strong>magie
+  souveraine</strong> est plus puissante et dangereuse que la magie de base.</p>
+
+  <p>Réfléchissez à l’effet magique que vous souhaitez produire et détaillez-le
+  au Gardien, qui vous dira ce que vous devez mettre en œuvre pour lancer votre
+  sort. Les options (le Gardien peut en choisir plusieurs) sont :</p>
+
+  <ul>
+    <li>Vous devez consacrer un temps important (des jours ou des semaines) à rechercher le rituel magique ;</li>
+    <li>
+      Vous devez vous livrer à une série d’expériences ; les échecs seront nombreux avant que vous ne trouviez la
+      bonne formule ;
+    </li>
+    <li>Vous avez besoin d’ingrédients rares et exotiques ;</li>
+    <li>L’incantation est longue (plusieurs heures ou jours) ;</li>
+    <li>Vous avez besoin de l’aide de plusieurs personnes (2, 3, 7, 13 ou plus) ;</li>
+    <li>Le sort doit être lancé en un lieu et/ou à un moment précis ;</li>
+    <li>
+      Vous devez <strong>utiliser la magie</strong> dans le cadre du rituel, peut-être pour invoquer un monstre,
+      communiquer avec une entité, ou barrer le portail que vous avez ouvert ;
+    </li>
+    <li>Le sort s’accompagne d’un danger ou effet secondaire précis.</li>
+  </ul>
+
+  <p>Une fois les conditions du sort connues et remplies, l’effet magique est
+  produit.</p>

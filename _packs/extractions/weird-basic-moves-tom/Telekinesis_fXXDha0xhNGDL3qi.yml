@@ -1,0 +1,68 @@
+folder: null
+name: Telekinesis
+type: move
+_id: fXXDha0xhNGDL3qi
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>When you <strong>fling something with your mind</strong>, roll
+    +Weird.</p>
+
+    <p>By default you can move something smaller than a person. You don’t have
+    much control, and you can’t move it strongly enough to hurt anything.</p>
+  moveType: altMove
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10 or more,</strong> you move it. Choose two options and
+        mark 1-harm.<br><br></p>
+
+        <h4>Advanced Telekinesis&nbsp;</h4>
+
+        <p><strong>On a 12 or more</strong>, choose three options. You may also
+        choose from these advanced options:</p>
+
+        <ul>
+
+        <li>Something explodes (3-harm close fire area messy)</li>
+
+        <li>Something implodes (3-harm close crush)</li>
+
+        <li>Lots of stuff is flying under your control.<br>&bull; You have
+        perfect and precise control over exactly what happens.</li>
+
+        </ul>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, you move it but it hurts. Choose one
+        option and mark 2-harm.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, something goes horribly wrong.</p>
+  uses: 0
+  playbook: ''
+  rollType: weird
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691070803002
+  modifiedTime: 1706527375139
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!fXXDha0xhNGDL3qi'
+

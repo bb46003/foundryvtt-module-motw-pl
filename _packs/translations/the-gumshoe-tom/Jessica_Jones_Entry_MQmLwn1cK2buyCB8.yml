@@ -1,0 +1,28 @@
+original_name: Jessica Jones Entry
+original_description: <p>When you <strong>double-talk</strong> your way into a
+  secure location, roll +Charm.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> pick three</p>
+original_partial: <p><strong>On a 7-9</strong> pick two</p>
+original_failure: <p><strong>On a fail</strong> pick one</p>
+original_choices: |-
+  <ul>
+  <li>You don&rsquo;t leave any trace of what you searched.</li>
+  <li>You find what you wanted.</li>
+  <li>You find something else that&rsquo;s important.</li>
+  <li>You don&rsquo;t piss anyone off.</li>
+  <li>You aren&rsquo;t recognised.</li>
+  </ul>
+name: Jessica Jones Entry
+description: <p>When you <strong>double-talk</strong> your way into a secure
+  location, roll +Charm.&nbsp;</p>
+success: <p><strong>On a 10+</strong> pick three</p>
+partial: <p><strong>On a 7-9</strong> pick two</p>
+failure: <p><strong>On a fail</strong> pick one</p>
+choices: |-
+  <ul>
+  <li>You don&rsquo;t leave any trace of what you searched.</li>
+  <li>You find what you wanted.</li>
+  <li>You find something else that&rsquo;s important.</li>
+  <li>You don&rsquo;t piss anyone off.</li>
+  <li>You aren&rsquo;t recognised.</li>
+  </ul>

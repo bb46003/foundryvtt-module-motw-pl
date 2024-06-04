@@ -1,0 +1,78 @@
+_id: tZ3r2VyFExJb24Uj
+name: Read a Bad Situation
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+folder: null
+flags:
+  cf:
+    id: temp_pzl3k1ewrs
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>When you look around and read a bad situation, <strong>roll
+    +Sharp</strong>.</p>
+  requiresMove: ''
+  moveType: basic
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> hold 3.<br /><br /><strong>ADVANCED: On a
+        12+</strong> you may ask the Keeper any question you want about the
+        situation, not just the listed ones.</p>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong>, hold 1.</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you might mis-read the situation (e.g.
+        &ldquo;Everything is fine here! It will be totally safe to go
+        investigate alone!&rdquo;), or you might reveal tactical details to your
+        enemies (which means the Keeper can ask the questions above of you).</p>
+  uses: 0
+  playbook: ''
+  rollType: sharp
+  rollMod: 0
+  choices: >-
+    <p>One hold can be spent to ask the Keeper one of the following
+    questions:</p>
+
+    <ul>
+
+    <li>What&rsquo;s my best way in?</li>
+
+    <li>What&rsquo;s my best way out?</li>
+
+    <li>Are there any dangers we haven&rsquo;t noticed?</li>
+
+    <li>What&rsquo;s the biggest threat?</li>
+
+    <li>What&rsquo;s most vulnerable to me?</li>
+
+    <li>What&rsquo;s the best way to protect the victims?</li>
+
+    </ul>
+
+    <p>If you act on the answers, you get +1 ongoing while the information is
+    relevant.&nbsp;</p>
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686776288171
+  modifiedTime: 1686776797561
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!tZ3r2VyFExJb24Uj'
+

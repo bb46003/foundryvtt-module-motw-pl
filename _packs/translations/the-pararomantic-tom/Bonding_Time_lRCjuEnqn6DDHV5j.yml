@@ -1,0 +1,27 @@
+original_name: Bonding Time
+original_description: <p>If you <strong>spend some quality time with your
+  Guide</strong> instead of working on the current mystery you can roll
+  +Charm.</p>
+original_success: <p><strong>On 10+</strong>, hold 2.</p>
+original_partial: <p><strong>On 7-9</strong>, hold 1.</p>
+original_choices: |-
+  <p>Spend your hold to:</p>
+  <ul>
+  <li>Erase one mark in your Relationship Status track.</li>
+  <li>Use a Pararomantic move you haven&rsquo;t picked.</li>
+  <li>Receive a gift from your Guide.</li>
+  <li>Take <em>+1 forward</em>.</li>
+  </ul>
+name: Bonding Time
+description: <p>If you <strong>spend some quality time with your Guide</strong>
+  instead of working on the current mystery you can roll +Charm.</p>
+success: <p><strong>On 10+</strong>, hold 2.</p>
+partial: <p><strong>On 7-9</strong>, hold 1.</p>
+choices: |-
+  <p>Spend your hold to:</p>
+  <ul>
+  <li>Erase one mark in your Relationship Status track.</li>
+  <li>Use a Pararomantic move you haven&rsquo;t picked.</li>
+  <li>Receive a gift from your Guide.</li>
+  <li>Take <em>+1 forward</em>.</li>
+  </ul>

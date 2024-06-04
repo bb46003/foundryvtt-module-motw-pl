@@ -1,0 +1,52 @@
+_id: cIpwnUgtLSbxNzzy
+name: Leveling Up
+type: move
+img: icons/svg/daze.svg
+effects: []
+folder: null
+flags:
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>Mark an experience point whenever your roll totals six or less, or when a
+    move tells you to.</p>
+
+    <p>Whenever you mark the fifth experience box, level up. Erase all five
+    marks and choose an improvement from your list. After you have levelled up
+    five times, you may choose from the advanced improvement list as well.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: ''
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686948368592
+  modifiedTime: 1686948539926
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!cIpwnUgtLSbxNzzy'
+

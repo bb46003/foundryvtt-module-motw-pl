@@ -1,0 +1,50 @@
+name: 'Background: Assassin'
+type: move
+img: icons/svg/book.svg
+effects: []
+flags:
+  cf:
+    id: temp_9zfzaydbnfv
+    path: 'The Crooked#/CF_SEP/The Crooked: Backgrounds'
+    color: '#000000'
+  core: {}
+system:
+  name: ''
+  description: <p>When you take your first shot at an unsuspecting target, do +2 Harm.</p>
+  requiresMove: crooked-select
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Crooked
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667593601170
+  modifiedTime: 1686778481489
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: gaQQZjdNV4PrzUHU
+_id: UGEWcy7VbtOnCyIY
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!UGEWcy7VbtOnCyIY'
+

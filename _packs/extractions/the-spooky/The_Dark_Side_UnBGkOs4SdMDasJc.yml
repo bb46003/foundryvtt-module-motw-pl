@@ -1,0 +1,52 @@
+folder: VXynqUbdfdoq7H5x
+name: The Dark Side
+type: move
+_id: UnBGkOs4SdMDasJc
+img: icons/magic/death/skeleton-worn-skull-tan.webp
+system:
+  name: ''
+  description: >-
+    <p>Your powers have an unsavory source, and sometimes you get tempted to do
+    things you shouldn&rsquo;t. These could be orders from whatever granted your
+    power, or urges that bubble up from your subconscious. Something like that.
+    Whatever it is, it&rsquo;s unsettling.</p>
+
+    <p>Pick three tags for your Dark Side [Edit this move and drag the tags to
+    Choices below]</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooky
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686863041585
+  modifiedTime: 1686864168451
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!UnBGkOs4SdMDasJc'
+

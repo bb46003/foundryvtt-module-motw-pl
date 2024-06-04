@@ -1,0 +1,48 @@
+folder: w4s18GJndDydmgR2
+name: Zone of Strangeness
+type: move
+_id: HU120WjcU5oMWe23
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>Things are not fixed. You never need <strong>act under pressure</strong>
+    when supernatural forces alter the environment around you, and you get
+    2-armour against harm from sudden changes to the laws of physics.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: searcher-first-encounter
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Searcher [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690911151141
+  modifiedTime: 1691053425066
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!HU120WjcU5oMWe23'
+

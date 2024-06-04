@@ -1,0 +1,52 @@
+name: Advanced Arcane Training
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>If you have two of your three Tools and Techniques at the ready, you may
+    ignore the third one.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spell-Slinger
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_jtvi34gfpi
+    path: 'The Spell-Slinger#/CF_SEP/The Spell-Slinger: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667476434935
+  modifiedTime: 1690287360329
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: DvRFmqiFIcQ02USY
+_id: TAsimP7kEy3Hmncp
+sort: 1100000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!TAsimP7kEy3Hmncp'
+

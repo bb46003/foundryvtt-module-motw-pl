@@ -1,0 +1,17 @@
+name: 'The Divine: Gear'
+sorting: a
+folder: null
+type: Item
+_id: bhLC5ytRSx0zSNLI
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: null
+  modifiedTime: 1686855906487
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+_key: '!folders!bhLC5ytRSx0zSNLI'
+

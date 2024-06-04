@@ -1,0 +1,36 @@
+{
+  "name": "Masse",
+  "type": "equipment",
+  "img": "icons/weapons/maces/mace-flanged-steel-grey.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"allonge\"},{\"value\":\"lourd\"},{\"value\":\"sanglant\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "upv6ATwyOMqkiwN0",
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714559330600,
+    "modifiedTime": 1714682065722,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "Jb8pZaAeD6ukuO4e",
+  "sort": 100000,
+  "_key": "!items!Jb8pZaAeD6ukuO4e"
+}

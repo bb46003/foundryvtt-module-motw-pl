@@ -1,0 +1,47 @@
+folder: 8j1LoSG70qv9zItc
+name: The Mojo Wire
+type: move
+_id: XRt6htuQuzWQv5rs
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you spend a while reading all the latest news feeds looking for the
+    weird stuff, take <em>+1 forward</em>.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Snoop [HE]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690912820964
+  modifiedTime: 1691053434448
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!XRt6htuQuzWQv5rs'
+

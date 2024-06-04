@@ -1,0 +1,34 @@
+folder: Vo071mcQrveUqFcV
+name: Paraphernalia
+type: equipment
+_id: LaZicqqjrlCu5T5g
+img: icons/sundries/misc/admission-ticket-grey.webp
+system:
+  name: ''
+  description: >-
+    <p><strong>You have all of this crap: </strong>Tickets to a show, Snack
+    vouchers, Decks of cards, Pairs of dice, Magic trick props, Camping gear,
+    Makeup, Costume accessories</p>
+  uses: 0
+  playbook: The Spooktacular [HE]
+  quantity: 1
+  weight: 0
+  tags: ''
+  tagsString: ''
+  itemType: null
+  equipmentType: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690915088132
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!LaZicqqjrlCu5T5g'
+

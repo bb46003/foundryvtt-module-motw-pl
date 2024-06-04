@@ -1,0 +1,19 @@
+original_name: I've Read About This Sort Of Thing
+original_description: <p>Roll +Sharp instead of +Cool when you act under pressure.</p>
+original_success: "<p><strong>On a 10+</strong> you do what you set out
+  to.<br><br><strong>ADVANCED: On a 12+</strong> you may choose to either do
+  what you wanted and something extra, or to do what you wanted to absolute
+  perfection.</p>"
+original_partial: <p><strong>On a 7-9</strong> the Keeper is going to give you a
+  worse outcome, hard choice, or price to pay.</p>
+original_failure: <p><strong>On a miss</strong>, things go to hell.</p>
+name: J’ai lu des choses à ce sujet
+description: <p>Lancez +Futé au lieu de +Cool quand vous <strong>agissez sous
+  pression</strong>.</p>
+success: "<p><strong>Sur un 10+</strong>, vous faites ce que vous avez décidé de
+  faire.</p> <p><strong>Manœuvre avancée : Sur un 12+</strong> vous pouvez
+  choisir de faire ce que vous vouliez et quelque chose en plus, ou de faire ce
+  que vous vouliez à la perfection absolue.</p>"
+partial: <p><strong>Sur un 7-9</strong>, le Gardien va vous donner un résultat
+  pire, un choix difficile ou un prix à payer.</p>
+failure: <p><strong>En cas d’échec</strong>, la situation dérape.</p>

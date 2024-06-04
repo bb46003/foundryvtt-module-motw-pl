@@ -1,0 +1,33 @@
+folder: Vo071mcQrveUqFcV
+name: Ghost Shades
+type: equipment
+_id: MA454449Ls1liNsQ
+img: icons/equipment/head/goggles-leather-tan.webp
+system:
+  name: ''
+  description: >-
+    <p>Sunglasses that can see into the spirit world (it seems darker than
+    usual, obviously)</p>
+  uses: 0
+  playbook: The Spooktacular [HE]
+  quantity: 1
+  weight: 0
+  tags: ''
+  tagsString: ''
+  itemType: null
+  equipmentType: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690914563517
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!MA454449Ls1liNsQ'
+

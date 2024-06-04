@@ -1,0 +1,60 @@
+name: Deal With The Agency
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you <strong>deal with the Agency</strong>, requesting help or gear,
+    or making excuses for a failure, roll +Sharp.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong>, you&rsquo;re good - your request for gear
+        or personnel is okayed, or your slip-up goes unnoticed.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, things aren&rsquo;t so great. You might
+        get chewed out by your superiors and there&rsquo;ll be fallout, but you
+        get what you need for the job.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you screwed up: you might be suspended or
+        under investigation, or just in the doghouse. You certainly aren&rsquo;t
+        going to get any help until you sort it all out.</p>
+  uses: 0
+  playbook: The Professional
+  rollType: sharp
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_6l0nxanciw
+    path: 'The Professional#/CF_SEP/The Professional: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667513743139
+  modifiedTime: 1686860927565
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: fgQFgAO1PBoLpYTU
+_id: fHACVx6QajxDFjo0
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!fHACVx6QajxDFjo0'
+

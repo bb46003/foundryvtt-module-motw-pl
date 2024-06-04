@@ -1,0 +1,50 @@
+name: 'Why: I was selfish'
+type: move
+img: icons/svg/hazard.svg
+system:
+  name: ''
+  description: ''
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Wronged
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_dapgdc0xamr
+    path: 'The Wronged#/CF_SEP/The Wronged: Losses'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667515998336
+  modifiedTime: 1686865230903
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+_id: Ks1joTymuASLzAWr
+folder: fYxgvHNWQOjxJ8sB
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!Ks1joTymuASLzAWr'
+

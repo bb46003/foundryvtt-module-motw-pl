@@ -1,0 +1,23 @@
+folder: MirKzNjm0PX7wjsM
+name: Cross off from Tools and Techniques
+type: tag
+_id: tXg24sIDCPA5qRyS
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: <p>You may cross off another option from your Tools and Techniques.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690286328462
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 2300000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!tXg24sIDCPA5qRyS'
+

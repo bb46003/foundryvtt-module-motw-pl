@@ -1,0 +1,65 @@
+_id: tSumal5aHwcj7mvA
+name: Harm
+type: move
+img: icons/svg/daze.svg
+effects: []
+folder: null
+flags:
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>Whenever you suffer harm, the Keeper will tell you what effect it has.
+    Injury severity depends on how much harm you have suffered:</p>
+
+    <ul>
+
+    <li>0-harm wounds have only minor, short term effects.</li>
+
+    <li>4-7 harm wounds are serious and unstable. They will get worse unless
+    treated. Mark the &ldquo;Unstable&rdquo; box.</li>
+
+    <li>8-harm or more will kill a normal human, including a hunter.</li>
+
+    </ul>
+
+    <p>Armour reduces the harm suffered by the number of points it is rated
+    for.</p>
+
+    <p>Monsters may not be defeated until you use their weakness against them,
+    and this applies to some minions as well.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: ''
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686948368592
+  modifiedTime: 1686948539926
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!tSumal5aHwcj7mvA'
+

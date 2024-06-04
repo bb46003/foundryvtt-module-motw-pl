@@ -1,0 +1,36 @@
+name: Five Demon Bag
+type: equipment
+img: icons/containers/bags/sack-cloth-purple.webp
+system:
+  name: ''
+  description: ''
+  uses: 0
+  playbook: The Divine
+  quantity: 1
+  weight: 0
+  tags: '[{"value":"3-harm"},{"value":"close"},{"value":"magic"},{"value":"holy"}]'
+  tagsString: 3-harm, close, magic, holy
+  itemType: null
+  equipmentType: weapon
+effects: []
+flags:
+  cf:
+    id: temp_3980z5nnfbs
+    path: 'The Divine#/CF_SEP/The Divine: Weapons'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667503656046
+  modifiedTime: 1686856082955
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: bhLC5ytRSx0zSNLI
+_id: CxNMt0Ku01jA2PSR
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!CxNMt0Ku01jA2PSR'
+

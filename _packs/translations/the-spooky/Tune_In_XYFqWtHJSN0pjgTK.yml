@@ -1,0 +1,40 @@
+original_name: Tune In
+original_description: <p>You can attune your mind to a monster or minion. Roll +Weird.&nbsp;</p>
+original_success: <p>On a 10+, hold 3.&nbsp;</p>
+original_partial: <p>On a 7-9, hold 1.&nbsp;</p>
+original_failure: <p>On a miss, the monster becomes aware of you.&nbsp;</p>
+original_choices: >-
+  <p>Spend one hold to ask the Keeper one of the following questions, and gain
+  +1 ongoing while acting on the answers:&nbsp;</p>
+
+  <ul>
+
+  <li>Where is the creature right now?</li>
+
+  <li>What is it planning to do right now?</li>
+
+  <li>Who is it going to attack next?</li>
+
+  <li>Who does it regard as the biggest threat?</li>
+
+  <li>How can I attract its attention?</li>
+
+  </ul>
+name: À l’écoute
+description: <p>Vous pouvez <strong>accorder votre esprit sur un monstre ou un
+  sbire</strong>. Lancez +Bizarre.</p>
+success: <p><strong>Sur un 10+</strong>, réserve 3.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
+failure: <p><strong>En cas d’échec</strong>, le monstre est conscient de votre
+  présence.</p>
+choices: >-
+  <p>Dépensez 1 réserve pour poser une des questions suivantes au Gardien, et
+  gagnez +1 constant quand vous agissez en rapport avec les réponses :</p>
+
+  <ul>
+    <li><em>Où se trouve la créature en ce moment même ?</em></li>
+    <li><em>Que compte-t-elle faire en ce moment même ?</em></li>
+    <li><em>Qui sera la cible de sa prochaine attaque ?</em></li>
+    <li><em>Qui considère-t-elle comme la menace la plus importante ?</em></li>
+    <li><em>Comment puis-je attirer son attention ?</em></li>
+  </ul>

@@ -1,0 +1,20 @@
+original_name: Magic & Illusions
+original_description: <p>You can <strong>cast confounding spells</strong>. When
+  you weave an illusion, roll +Weird.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> everyone is fooled, they are
+  either led in a direction of your choice or you and those you choose escape
+  undetected.&nbsp;</p>
+original_partial: "<p><strong>On a 7-9</strong>, it doesn&rsquo;t quite work:
+  misdirect or escape as a 10+ result, but the Keeper chooses one: someone
+  isn&rsquo;t fooled, or you gain unwelcome attention.&nbsp;</p>"
+original_failure: <p><strong>On a miss</strong>, it goes badly as magic always does.</p>
+name: Magic & Illusions
+description: <p>You can <strong>cast confounding spells</strong>. When you weave
+  an illusion, roll +Weird.&nbsp;</p>
+success: <p><strong>On a 10+</strong> everyone is fooled, they are either led in
+  a direction of your choice or you and those you choose escape
+  undetected.&nbsp;</p>
+partial: "<p><strong>On a 7-9</strong>, it doesn&rsquo;t quite work: misdirect
+  or escape as a 10+ result, but the Keeper chooses one: someone isn&rsquo;t
+  fooled, or you gain unwelcome attention.&nbsp;</p>"
+failure: <p><strong>On a miss</strong>, it goes badly as magic always does.</p>

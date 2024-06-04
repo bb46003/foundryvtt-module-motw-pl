@@ -1,0 +1,22 @@
+original_name: Act Under Pressure
+original_description: <p>When you act under pressure, <strong>roll +Cool</strong>.</p>
+original_success: "<p><strong>On a 10+</strong> you do what you set out
+  to.<br><br><strong>ADVANCED: On a 12+</strong> you may choose to either do
+  what you wanted and something extra, or to do what you wanted to absolute
+  perfection.</p>"
+original_partial: <p><strong>On a 7-9</strong> the Keeper is going to give you a
+  worse outcome, hard choice, or price to pay.</p>
+original_failure: <p><strong>On a miss</strong>, things go to hell.</p>
+name: Działaj pod presją
+description: <p>Quand vous agissez sous pression, <strong>lancez +Cool</strong>.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, vous remplissez l’objectif que vous vous étiez
+  fixé.</p>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous n’avez plus aucune
+  pression. Vous pouvez faire ce que vous vouliez et plus encore, ou faire ce
+  que vous vouliez à la perfection (au point que les gens en parleront
+  longtemps).</p>
+partial: "<p><strong>Sur un 7-9</strong>, le Gardien choisit : l’issue n’est pas
+  si rose, vous avez un choix difficile à faire, ou un prix à payer.</p>"
+failure: <p><strong>En cas d’échec</strong>, la situation dérape.</p>

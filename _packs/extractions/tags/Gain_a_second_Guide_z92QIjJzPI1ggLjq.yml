@@ -1,0 +1,27 @@
+folder: MirKzNjm0PX7wjsM
+name: Gain a second Guide
+type: tag
+_id: z92QIjJzPI1ggLjq
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: >-
+    <p>Gain a second Guide. Track the relationship status tracks of both
+    relationships separately. Both Guides initially hate each other, but this
+    could change through play. All moves that applied to your original Guide can
+    now apply to either one.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690902031208
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 2800000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!z92QIjJzPI1ggLjq'
+

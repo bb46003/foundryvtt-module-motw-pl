@@ -1,0 +1,87 @@
+_id: BV4y53w2O4MXMicN
+name: Kick Some Ass
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+folder: null
+flags:
+  cf:
+    id: temp_pzl3k1ewrs
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>When you get into a fight and kick some ass, <strong>roll
+    +Tough.</strong></p>
+  requiresMove: ''
+  moveType: basic
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong>, choose one extra effect:</p>
+
+        <ul>
+
+        <li>You gain the advantage: take +1 forward, or give +1 forward to
+        another hunter.</li>
+
+        <li>You inflict terrible harm (+1 harm).</li>
+
+        <li>You suffer less harm (-1 harm).</li>
+
+        <li>You force them where you want them.</li>
+
+        </ul>
+
+        <p><br /><strong>ADVANCED: On a 12+</strong> instead pick an enhanced
+        effect:</p>
+
+        <ul>
+
+        <li>You completely hold the advantage.&nbsp;All hunters involved in the
+        fight get +1 forward.</li>
+
+        <li>You suffer no harm at all.</li>
+
+        <li>Your attack inflicts double the normal harm.</li>
+
+        <li>Your attack drives the enemy away in a rout.</li>
+
+        </ul>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7+</strong>, you and whatever you&rsquo;re fighting
+        inflict harm on each other. The amount of harm is based on the
+        established dangers in the game. That usually means you inflict the harm
+        rating of your weapon and your enemy inflicts their attack&rsquo;s harm
+        rating on you.</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you get your ass kicked instead. You
+        suffer harm or get captured, but don&rsquo;t inflict any harm back.</p>
+  uses: 0
+  playbook: ''
+  rollType: tough
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686776288171
+  modifiedTime: 1686776797561
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!BV4y53w2O4MXMicN'
+

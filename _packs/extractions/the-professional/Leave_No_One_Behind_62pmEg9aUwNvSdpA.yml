@@ -1,0 +1,56 @@
+name: Leave No One Behind
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>In combat, when <strong>you help someone escape</strong>, roll
+    +Sharp.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong> you get them out clean.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, you can <em>either </em>get them out
+        <em>or </em>suffer no harm, you choose.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you fail to get them out and you&rsquo;ve
+        attracted hostile attention.</p>
+  uses: 0
+  playbook: The Professional
+  rollType: sharp
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_6l0nxanciw
+    path: 'The Professional#/CF_SEP/The Professional: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667512691570
+  modifiedTime: 1686860927565
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: fgQFgAO1PBoLpYTU
+_id: 62pmEg9aUwNvSdpA
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!62pmEg9aUwNvSdpA'
+

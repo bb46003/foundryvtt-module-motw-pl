@@ -1,0 +1,8 @@
+original_name: ignore-armour
+original_description: <p>Ignores protective armour. Armour has no effect on this
+  harm. If armour has the magic tag, then the attack needs both ignore-armour
+  and magic to bypass the armour.</p>
+name: ignore l’armure
+description: <p>Ignore les armures, qui sont inutiles face à ces dégâts. Si
+  l’armure a le trait magique, l’attaque doit aussi être magique pour ignorer
+  l’armure.</p>

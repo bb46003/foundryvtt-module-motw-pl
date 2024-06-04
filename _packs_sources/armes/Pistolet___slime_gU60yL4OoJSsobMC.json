@@ -1,0 +1,34 @@
+{
+  "folder": "BNwT0W75toDEtevZ",
+  "name": "Pistolet à slime",
+  "type": "equipment",
+  "_id": "gU60yL4OoJSsobMC",
+  "img": "icons/creatures/slimes/slime-movement-pseudopods-green.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"loin\"},{\"value\":\"sanglant\"},{\"value\":\"bruyant\"},{\"value\":\"zone\"},{\"value\":\"feu\"},{\"value\":\"rechargement\"},{\"value\":\"peu fiable\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714681870660,
+    "modifiedTime": 1714681971507,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!gU60yL4OoJSsobMC"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "Oa5e9qVemckKMtuy",
+  "name": "Amoureux de la mécanique",
+  "type": "move",
+  "_id": "KOcNzwMRoNw5PKyE",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous possédez une grande collection de véhicules ; avec un peu de patience, vos contacts peuvent vous en faire livrer un même aux endroits les plus reculés. Une fois par mystère, vous avez à disposition un véhicule d’origine civile de votre choix. Les véhicules d’origine commerciale et militaire requièrent l’approbation du Gardien.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205680759,
+    "modifiedTime": 1714205737177,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!KOcNzwMRoNw5PKyE"
+}

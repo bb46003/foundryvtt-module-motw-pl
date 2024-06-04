@@ -1,0 +1,16 @@
+original_name: Making Money
+original_description: <p>You&rsquo;ve got a lot of practice bamboozling folks.
+  When you <strong>mess with someone</strong>, roll +Charm.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong>, they don&rsquo;t know
+  what&rsquo;s going on and overlook something of your choice.&nbsp;</p>
+original_partial: <p><strong>On a 7-9 </strong>they still overlook something but
+  they&rsquo;re more angry than baffled.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you better run.</p>
+name: Making Money
+description: <p>You&rsquo;ve got a lot of practice bamboozling folks. When you
+  <strong>mess with someone</strong>, roll +Charm.&nbsp;</p>
+success: <p><strong>On a 10+</strong>, they don&rsquo;t know what&rsquo;s going
+  on and overlook something of your choice.&nbsp;</p>
+partial: <p><strong>On a 7-9 </strong>they still overlook something but
+  they&rsquo;re more angry than baffled.&nbsp;</p>
+failure: <p><strong>On a miss</strong>, you better run.</p>

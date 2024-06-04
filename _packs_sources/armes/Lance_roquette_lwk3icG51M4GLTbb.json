@@ -1,0 +1,34 @@
+{
+  "folder": "KO6dllVhrXN8mslR",
+  "name": "Lance-roquette",
+  "type": "equipment",
+  "_id": "lwk3icG51M4GLTbb",
+  "img": "icons/skills/ranged/rocket-skull-fire-blue.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"4 dégâts\"},{\"value\":\"loin\"},{\"value\":\"zone\"},{\"value\":\"lourd\"},{\"value\":\"sanglant\"},{\"value\":\"rechargement\"},{\"value\":\"bruyant\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714682245480,
+    "modifiedTime": 1714682368386,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!lwk3icG51M4GLTbb"
+}

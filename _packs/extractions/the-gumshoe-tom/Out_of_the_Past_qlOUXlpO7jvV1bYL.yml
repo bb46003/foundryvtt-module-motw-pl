@@ -1,0 +1,49 @@
+folder: n4tlHYITXH14Zdpo
+name: Out of the Past
+type: move
+_id: qlOUXlpO7jvV1bYL
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You have a <strong>police buddy</strong> who will do you big favors. Get
+    in touch with them when you need to redirect law enforcement attention, get
+    a heads-up on what operations are planned, or access police files. You now
+    owe them: expect them to collect on it soon.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Gumshoe [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690885813086
+  modifiedTime: 1691053405906
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!qlOUXlpO7jvV1bYL'
+

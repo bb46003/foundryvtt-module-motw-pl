@@ -1,0 +1,49 @@
+name: Angel Wings
+type: move
+img: icons/svg/dice-target.svg
+system:
+  description: "<p>You can go instantly to anywhere you’ve visited before, or to a person you know well. When <strong>you carry one or two people with you</strong>, roll +Weird.\_</p>"
+  moveType: class
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong> you all go where you wanted.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, you don&rsquo;t quite manage it. Either
+        you are all separated, or you all appear in the wrong place.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Divine
+  rollType: weird
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  cf:
+    id: temp_ymnqot48js
+    path: 'The Divine#/CF_SEP/The Divine: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1667502847577
+  modifiedTime: 1706527558596
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+folder: null
+_id: SPljZlMbJgcIGI3h
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!SPljZlMbJgcIGI3h'
+

@@ -1,0 +1,71 @@
+name: Dark Past
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>If <strong>you trawl through your memories</strong> for something
+    relevant to the case at hand, roll +Weird.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> ask the Keeper two questions from the list
+        below.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong> ask one.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you can ask a question anyway but that
+        will mean you were personally complicit in creating the situation you
+        are now dealing with.&nbsp;</p>
+  uses: 0
+  playbook: The Expert
+  rollType: weird
+  rollMod: 0
+  choices: >-
+    <p>The questions are:</p>
+
+    <ul>
+
+    <li><em>When I dealt with this creature (or one of its kind), what did I
+    learn?</em></li>
+
+    <li><em>What black magic do I know that could help here?</em></li>
+
+    <li><em>Do I know anyone who might be behind this?</em></li>
+
+    <li><em>Who do I know who can help us right now?</em></li>
+
+    </ul>
+effects: []
+flags:
+  cf:
+    id: temp_r3xzr4wgg3
+    path: 'The Expert#/CF_SEP/The Expert: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667482142210
+  modifiedTime: 1686856606199
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: cIqeP2XTlbZqnxqO
+_id: 5doy3lguVeGyYbs1
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!5doy3lguVeGyYbs1'
+

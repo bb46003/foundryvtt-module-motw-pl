@@ -1,0 +1,36 @@
+{
+  "name": "Batte de baseball",
+  "type": "equipment",
+  "img": "icons/weapons/clubs/club-baton-blue.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"allonge\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "l3RiJwJDkTh7XPhm",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714556682550,
+    "modifiedTime": 1714631576135,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "hCCoxTQtctXQW3BD",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!hCCoxTQtctXQW3BD"
+}

@@ -1,0 +1,412 @@
+original_name: The Mundane
+original_description: >-
+  <blockquote>
+
+  <p><em>You heard about how monsters only pick on people with crazy powers who
+  can fight back on even terms? Yeah, me neither. But, hell, I ended up in this
+  monster-hunting team so I gotta do what I can, right?</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <p> </p>
+
+  <table style="width:100%;height:178px" border="1"><colgroup><col
+  style="width:50.2685%"></col><col style="width:49.7315%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:144px">
+
+  <td style="height:144px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Mundane, first pick a name. Then follow the instructions in
+  this playbook to decide your look, ratings, moves, and gear. Finally,
+  introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-mundane.Item.o7TP8uWA4gANWzB0]{Items} can
+  be dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.<br /><br
+  /></em></p>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px;vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, boy, girl, androgynous, concealed.</li>
+
+  <li>Friendly face, alluring face, laughing face, trustworthy face, average
+  face, serious face, sensual face.</li>
+
+  <li>Normal clothes, casual clothes, goth clothes, sporty clothes, work
+  clothes, street clothes, nerdy clothes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm+2, Cool+1, Sharp=0, Tough+1, Weird-1</li>
+
+  <li>Charm+2, Cool-1, Sharp+1, Tough+1, Weird=0</li>
+
+  <li>Charm+2, Cool=0, Sharp-1, Tough+1, Weird+1</li>
+
+  <li>Charm+2, Cool=0, Sharp+1, Tough+1, Weird-1</li>
+
+  <li>Charm+2, Cool+1, Sharp+1, Tough=0, Weird-1</li>
+
+  </ul>
+
+  <h3><br />Moves</h3>
+
+  <p>You get all the basic moves, plus pick three Mundane moves:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.o7TP8uWA4gANWzB0]{Always
+  The Victim}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.mAOL2OFYsPkThR5n]{Don't
+  Worry, I'll Check It Out}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.Cs2nUIRwvhCzZZva]{Let's Get
+  Out Of Here!}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.ItemzQ5kNjqFejkf]{Oops!}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.hQBib0yGRkJSZhkg]{Panic
+  Button}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.FscQCVDjWBXsHRY8]{The Power
+  Of Heart}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.HbCUze2xKD9bLg5K]{Trust
+  Me}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.0SGjSyLyMn2Nmkc5]{What
+  Could Go Wrong?}</p>
+
+  </td>
+
+  <td style="height:17px;vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p>You get two Mundane weapons and a means of transport.</p>
+
+  <p>(Please note that you, or your Keeper must create the weapons manually)</p>
+
+  <h4><br />Mundane weapons (<em>pick two</em>):</h4>
+
+  <ul>
+
+  <li>Golf club, baseball bat, cricket bat, or hockey stick (2-harm hand
+  innocuous messy)</li>
+
+  <li>Pocket knife or multitool (1-harm hand useful small)</li>
+
+  <li>Small handgun (2-harm close loud reload)</li>
+
+  <li>Hunting rifle (3-harm far loud reload)</li>
+
+  <li>Sledge-hammer or fire axe (3-harm hand messy)</li>
+
+  <li>Nunchuks (2-harm hand area)</li>
+
+  </ul>
+
+  <h4><br />Means of transport (<em>pick one</em>):</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.tEuDgyjHEGb79OVm]{Bicycle}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.VXxCmizw3lhBWA5T]{Classic
+  car in terrible condition}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.p7Damzq8OTQUweqv]{Fairly
+  new car in decent condition}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.tAWLWgabHXmSgfHB]{Motorcycle}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.ButprZwQkrgPbrOF]{Skateboard}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-mundane.Item.vms7In3NNAZJEfbZ]{Van}</p>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.<br /><br
+  /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Mundane by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>You are close relations. Tell them exactly how you’re related.</li>
+
+  <li>Initially rivals, you both now respect each others’ talents.</li>
+
+  <li>Romantically involved, or you just have a crush on them. Ask them which
+  they prefer.</li>
+
+  <li>They’re your hero, exactly the kind of monster hunter you aspire to be.
+  Tell them why you worship them.</li>
+
+  <li>Good friends. Tell them if it’s from way back, or recently.</li>
+
+  <li>You’re a bit suspicious of them (maybe due to their unnatural powers or
+  something like that).</li>
+
+  <li>They introduced you to the existence of monsters. Tell them how you feel
+  about that.</li>
+
+  <li>You saved their life from a monster due to an unlikely chain of events.
+  Tell them what.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px" colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1
+  Charm, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]{Get +1 Tough,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.aOTXnzll82q6uUZo]{Take another
+  Mundane move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.aOTXnzll82q6uUZo]{Take another
+  Mundane move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: L’Ordinaire
+description: >-
+  <blockquote> <p>Vous pensiez que les monstres s’en prenaient surtout aux gens
+  qui disposent de pouvoirs assez dingues pour les combattre ? Eh bah, moi non
+  plus. Ce qui ne m’a pas empêché de finir dans cette équipe de chasseurs de
+  monstres, alors je vais bien devoir faire ce que je peux…</p> </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+
+  <p>Pour créer votre Ordinaire, commencez par lui trouver un nom. Puis suivez
+  les instructions ci-dessous pour choisir votre apparence, vos
+  caractéristiques, vos manœuvres et votre équipement. Enfin, présentez-vous et
+  attribuez vos histoires.</p> <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-mundane.Item.o7TP8uWA4gANWzB0]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p> </td> </tr> <tr> <td style="padding: 8px;">
+  <h3>Apparence</h3> <p><em>Choisissez un élément de chaque liste :</em></p>
+  <ul> <li>Homme, femme, garçon, fille, androgyne, dissimulé.</li> <li>Visage
+  amical, visage séduisant, visage rieur, visage inspirant la confiance, visage
+  quelconque, visage sérieux, visage sensuel.</li> <li>Vêtements normaux, tenue
+  décontractée, look gothique, vêtements de sport, vêtements de travail,
+  streetwear, vêtements ringards.</li> </ul> <h3>Statistiques</h3>
+  <p><em>Choisissez une ligne :</em></p>
+
+    <ul>
+      <li>Charme +2, Cool +1, Futé 0, Coriace +1, Bizarre -1</li>
+      <li>Charme +2, Cool -1, Futé +1, Coriace +1, Bizarre 0</li>
+      <li>Charme +2, Cool 0, Futé -1, Coriace +1, Bizarre +1</li>
+      <li>Charme +2, Cool 0, Futé +1, Coriace +1, Bizarre -1</li>
+      <li>Charme +2, Cool +1, Futé +1, Coriace 0, Bizarre -1</li>
+  </ul>
+
+  <h3>Manœuvres</h3> <p>Vous connaissez toutes les manœuvres de base, auxquelles
+  s’ajoutent trois manœuvres d’Ordinaire :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.o7TP8uWA4gANWzB0]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.mAOL2OFYsPkThR5n]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.Cs2nUIRwvhCzZZva]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.ItemzQ5kNjqFejkf]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.hQBib0yGRkJSZhkg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.FscQCVDjWBXsHRY8]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.HbCUze2xKD9bLg5K]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.0SGjSyLyMn2Nmkc5]</li>
+  </ul> </td> <td style="padding: 8px;"> <h3>Équipement</h3>
+
+  <p>Vous gagnez deux armes ordinaires et un moyen de transport.</p>
+
+  <h4>Armes ordinaires <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.ES41WafnwAJNwfbf]{Club de golf, batte de baseball, batte de cricket ou
+    crosse de hockey} (2 dégâts, allonge, inoffensif, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.dIKGra40ADmcTlHE]{Couteau de poche ou couteau suisse} (1 dégât,
+    allonge, utile, petit)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.A7CoUYfI2qtp5apY]{Arme de poing de petit calibre} (2 dégâts,
+    proche, rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.OLCsWjkBrzOrpr3J]{Fusil de chasse} (3 dégâts, loin, bruyant,
+    rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.LRj3f9ZxXsp9ZJCS]{Masse} (3 dégâts, allonge, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.kNPVAiAxfO9UEH5D]{Hache de pompier} (3 dégâts, allonge,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.TXSLSpku9da4IB7s]{Nunchaku} (2 dégâts, allonge, zone)</li>
+  </ul>
+
+  <h4>Moyen de transport <em>(choisissez-en un)</em> :</h4> <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.tEuDgyjHEGb79OVm]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.VXxCmizw3lhBWA5T]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.p7Damzq8OTQUweqv]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.tAWLWgabHXmSgfHB]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.ButprZwQkrgPbrOF]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.vms7In3NNAZJEfbZ]</li>
+  </ul>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Ordinaire en dévoilant son nom et son apparence, et en disant aux autres
+  membres du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p> <ul>
+    <li>Vous êtes de proches parents. Précisez-lui votre lien de parenté.</li>
+    <li>Anciens rivaux, vous avez fini par vous respecter.</li>
+    <li>Histoire d’amour, à moins que vous ayez juste le béguin. Demandez-lui ce qu’il préfère.</li>
+    <li>C’est votre héros, le chasseur de monstres que vous aimeriez être. Dites-lui pourquoi vous le vénérez.</li>
+    <li>Bons amis. Dites-lui s’il s’agit d’une relation de longue date ou récente.</li>
+    <li>Vous vous méfiez un peu de lui (à cause de ses pouvoirs surnaturels ou quelque chose comme ça).</li>
+    <li>Il vous a dévoilé l’existence des monstres. Dites-lui ce que vous ressentez à ce sujet.</li>
+    <li>Vous lui avez sauvé la vie au cours d’une série d’événements improbables. Expliquez-lui.</li>
+  </ul> </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.aOTXnzll82q6uUZo]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.aOTXnzll82q6uUZo]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+  </ul> </td> </tr> </tbody> </table>

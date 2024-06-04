@@ -1,0 +1,44 @@
+original_name: Empath
+original_description: >-
+  <p>When you <strong>open up your brain to feel the emotions</strong> of
+  something right there in front of you, roll +Weird.</p>
+
+  <p>You can use empath on anything with emotions (e.g. animals and some
+  monsters), but the less human they are, the less it’s safe for you. If the
+  emotions are especially strong or alien, you might need to act under pressure
+  regardless of how successful your roll was.</p>
+original_success: >-
+  <p><strong>On a 10 or more</strong>, you gain a clear impression of their
+  current emotional state and intentions. Take +1 forward when acting on this
+  knowledge.<br><br></p>
+
+  <h4>Advanced Empath</h4>
+
+  <p><strong>On a 12 or more</strong>, you get an impression (as for 10 or
+  more), and you may ask one follow-up question that the Keeper will answer
+  honestly.</p>
+original_partial: <p><strong>On a 7-9</strong>, you gain a hazy impression of
+  their current emotional state and intentions.</p>
+original_failure: <p><strong>On a miss</strong>, your brain is overwhelmed with emotion.</p>
+name: Empathie
+description: >-
+  <p>Quand <strong>vous ouvrez votre esprit</strong> à une personne située juste
+  devant vous, lancez +Bizarre.</p>
+
+  <p>Vous pouvez utiliser cette manœuvre sur tout ce qui a des émotions (par
+  exemple, les animaux et les monstres), mais moins la cible est humaine, plus
+  vous prenez de risques.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, vous avez un aperçu très clair de l’état
+  émotionnel et des intentions de la cible. Gagnez +1 temporaire quand vous
+  agissez en accord avec ces informations.</p>
+
+  <h4>Empathie avancée</h4>
+
+  <p><strong>Sur un 12+</strong>, vous obtenez le même résultat que sur un 10+
+  et pouvez en plus poser une question à laquelle le Gardien doit répondre en
+  toute honnêteté.</p>
+partial: <p><strong>Sur un 7-9</strong>, vous n’obtenez qu’une vague impression
+  de l’état émotionnel et des intentions de la cible.</p>
+failure: <p><strong>En cas d’échec</strong>, un torrent d’émotions déferle sur
+  votre esprit.</p>

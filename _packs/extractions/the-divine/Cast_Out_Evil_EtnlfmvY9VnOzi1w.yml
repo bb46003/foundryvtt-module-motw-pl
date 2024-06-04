@@ -1,0 +1,53 @@
+name: Cast Out Evil
+type: move
+img: icons/svg/dice-target.svg
+system:
+  description: "<p>You may <strong>banish an unnatural creature</strong> from your presence. Roll +Tough.\_</p>\n<p>This move may be used on unnatural hunters (e.g. the Monstrous).</p>"
+  moveType: class
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong> it is banished.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong> it takes a little while for the banishing
+        to take effect - the creature has time to make one or two actions.
+        Either way, the banished creature is unharmed, and you have no control
+        over where it goes.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, something is keeping it here.
+        That&rsquo;s bad.</p>
+  uses: 0
+  playbook: The Divine
+  rollType: tough
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  cf:
+    id: temp_ymnqot48js
+    path: 'The Divine#/CF_SEP/The Divine: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1667504071140
+  modifiedTime: 1706527558596
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+folder: null
+_id: EtnlfmvY9VnOzi1w
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!EtnlfmvY9VnOzi1w'
+

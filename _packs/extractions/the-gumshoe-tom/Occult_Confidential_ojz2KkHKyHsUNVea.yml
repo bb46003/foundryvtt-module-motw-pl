@@ -1,0 +1,57 @@
+folder: n4tlHYITXH14Zdpo
+name: Occult Confidential
+type: move
+_id: ojz2KkHKyHsUNVea
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>The<strong> first time</strong> in each mystery that you
+    <strong>observe</strong> a monster, minion, or phenomenon in action, you may
+    ask one question from the investigate a mystery list.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Gumshoe [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: |-
+    <ul>
+    <li>What happened here?</li>
+    <li>What sort of creature is it?</li>
+    <li>What can it do?</li>
+    <li>What can hurt it?</li>
+    <li>Where did it go?</li>
+    <li>What was it going to do?</li>
+    <li>What is being concealed here?</li>
+    </ul>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690884516208
+  modifiedTime: 1691053405906
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!ojz2KkHKyHsUNVea'
+

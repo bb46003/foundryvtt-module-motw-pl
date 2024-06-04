@@ -1,0 +1,52 @@
+name: Mystic
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>Every time you successfully <strong>use magic</strong>, take +1
+    forward.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Initiate
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_jguk50jnggq
+    path: 'The Initiate#/CF_SEP/The Initiate: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667507773745
+  modifiedTime: 1686856936633
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: cEunrzTudAI1JKNI
+_id: CO0L7ryfkHEq7IGb
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!CO0L7ryfkHEq7IGb'
+

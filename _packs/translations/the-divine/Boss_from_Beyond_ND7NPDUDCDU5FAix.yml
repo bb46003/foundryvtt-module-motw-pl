@@ -1,0 +1,21 @@
+original_name: Boss from Beyond
+original_description: <p><strong>At the beginning of each mystery</strong>, roll +Weird. </p>
+original_success: <p><strong>On a 10+</strong>, your Superiors ask you to do
+  something simple.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, they ask you to do something
+  complicated or difficult. In either case, you get to ask them one of the
+  questions from the investigate a mystery move right now.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you are required to do
+  something terrible. If you do not accomplish what they&rsquo;ve ordered, you
+  cannot use this move again until you have made up for your failure.</p>
+name: Maître de l’au-delà
+description: <p><strong>Au début de chaque mystère</strong>, lancez +Bizarre</p>
+success: <p><strong>Sur un 10+</strong>, vos supérieurs vous demandent
+  d’exécuter une tâche simple.</p>
+partial: <p><strong>Sur un 7-9</strong>, la mission est compliquée ou difficile.
+  Dans tous les cas, posez-leur une question de la manœuvre enquêter sur un
+  mystère sur-le-champ.</p>
+failure: <p><strong>En cas d’échec</strong>, il vous est demandé de faire
+  quelque chose de terrible. Si vous ne faites pas ce qui vous a été ordonné,
+  vous ne pouvez plus utiliser cette manœuvre jusqu’à ce que vous ayez racheté
+  votre échec.</p>

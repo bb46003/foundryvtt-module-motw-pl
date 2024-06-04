@@ -1,0 +1,614 @@
+original_name: The Hex [ToM]
+original_description: >-
+  <blockquote>
+
+  <p><em>“I didn’t have magic fall into my lap. I’m not blessed, I’m not one of
+  the scary children – I’m just a girl who found a way to give herself the
+  strength to fight this war. I don’t have the option of not taking this
+  risk.”</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%" border="1"><colgroup><col
+  style="width:47.0462%"></col><col style="width:52.9538%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:151px">
+
+  <td style="height:151px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Hex, first pick a name. Then follow the instructions below to
+  decide your look, ratings, moves, Temptation, and gear. Finally, introduce
+  yourself and pick history.<br /><br /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-hex-tom.Item.BLXwBcs3dhikwZkZ]{Items} can
+  be dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p>Pick one from each list:</p>
+
+  <ul>
+
+  <li>Sharp eyes, angry eyes, glowing eyes, shifty eyes, serene eyes,
+  featureless eyes.</li>
+
+  <li>Retro clothes, hippy clothes, trendy clothes, too-formal clothes,
+  ill-fitting clothes, anachronistic clothes.<br /><br /></li>
+
+  </ul>
+
+  <h3>Ratings</h3>
+
+  <p>Pick one line:</p>
+
+  <ul>
+
+  <li>Charm+2, Cool=0, Sharp=0, Tough–1, Weird+2</li>
+
+  <li>Charm+1, Cool–1, Sharp+1, Tough=0, Weird+2</li>
+
+  <li>Charm–1, Cool+1, Sharp=0, Tough+1, Weird+2</li>
+
+  <li>Charm–1, Cool=0, Sharp+1, Tough+1, Weird+2</li>
+
+  <li>Charm=0, Cool=0, Sharp+2, Tough–1, Weird+2</li>
+
+  </ul>
+
+  <h3><br />Moves</h3>
+
+  <p>You have three Hex moves. You have this one:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.BLXwBcs3dhikwZkZ]{Bad Luck
+  Charm}</p>
+
+  <p><em>Plus pick two of these:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.3oyGtruCIbzISouB]{Burn
+  Everything}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.N2I1H3dlE9zjE4J1]{Cast the
+  Bones}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.8ncissjTBQiG4pIR]{Force of
+  Will}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.uf8g739CP9MYFBGM]{Luck of
+  the Damned}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.LktN5IZRRz54Einq]{Sympathetic
+  Token}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.Gh0LSanqTaaA68ty]{This
+  Might Sting}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.IhjDgFbto8Jnj5ZD]{Wise
+  Soul}</p>
+
+  <h3><br />Temptation</h3>
+
+  <p>You have a dangerous drive that you pursue, sometimes to the exclusion of
+  your own safety. Decide if your Temptation drove you to learn magic, or if
+  learning magic drove you to it.</p>
+
+  <p>Whenever you give in to your Temptation and act accordingly, you mark
+  experience. You need to <strong>act under pressure</strong> to resist giving
+  in to your temptation, if a perfect opportunity presents itself; if you fail
+  this roll, you don’t mark experience like you would have if you’d willingly
+  acted out your desires.</p>
+
+  <p><em>Choose one Temptation:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.ojMirVPpMb6HWQtQ]{Temptation:
+  Addiction}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.m10PIKf4EWQXmzzP]{Temptation:
+  Callousness}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.4tWU6xSW4qreUMqn]{Temptation:
+  Carnage}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.9n0vIoBM0vuEbKJK]{Temptation:
+  Glory}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.EFiD3laEngcFqygj]{Temptation:
+  Power}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.MJIFrUEbkbTak5dE]{Temptation:
+  Secrets}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.oSaMB3pxTWzaaQXx]{Temptation:
+  Vengeance}</p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Rotes</h3>
+
+  <p>Whenever you <strong>use magic</strong>, you can decide afterwards that a
+  particular spell is a rote that you know. See the separate Rotes box below for
+  more details.</p>
+
+  <p>(Foundry: Use the
+  @UUID[Compendium.motw-for-pbta.the-hex-tom.Item.ou14fqyD754IPhjm]{Rote [ ]}
+  move to construct a new Rote. Write the name within the brackets. This move
+  can be used whenever you <strong>Level Up</strong> and gain new Rotes).</p>
+
+  <h3><br />Gear</h3>
+
+  <p>You have whatever magical items or amulets you use to perform magic,
+  including whatever you need to cast your rotes. <span
+  style="font-family:var(--font-primary);font-size:var(--font-size-14)">You also
+  have two wizardly weapons (Please note that you, or your Keeper must create
+  these manually).</span></p>
+
+  <h4>Wizardly weapons, <em>pick two</em>:</h4>
+
+  <ul>
+
+  <li>.38 revolver (2-harm close reload loud)</li>
+
+  <li>Shotgun (3-harm close messy loud)</li>
+
+  <li>Athame (2-harm hand magic silver)</li>
+
+  <li>Shillelagh (1-harm hand balanced)</li>
+
+  <li>Crossbow (2-harm close slow)</li>
+
+  <li>Staff (1-harm hand balanced large)<br /><br /></li>
+
+  </ul>
+
+  <h3>Luck Special</h3>
+
+  <p>When you spend Luck, until the end of the mystery, backlash on your spells
+  will be extra nasty.<br /><br /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together. Go around the group.</p>
+
+  <p>On your turn, introduce your Hex by name and look, and tell the group what
+  they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>You once cast a powerful spell or curse on them. Tell them why, and ask
+  them how it ended.</li>
+
+  <li>They fear your power, or what you might do with it. Ask them why.</li>
+
+  <li>You’re madly in love with them. Ask them if they can tell.</li>
+
+  <li>They encourage you to indulge your temptation. Ask them why.</li>
+
+  <li>They keep you grounded, and are unfazed by your displays of power.</li>
+
+  <li>You were part of the same cult, sect, or secret society. Decide together
+  what horrible things you did in the name of power.</li>
+
+  <li>You learned through divination that they’re important and you should help
+  them. Decide whether you’ve told them or not.</li>
+
+  <li>They helped you out when a spell went awry. Tell them what the spell was,
+  and ask them how they helped you.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px" colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p> @UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get +1
+  Weird, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sRSlciEaN2QraogK]{Take another
+  Rote}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sRSlciEaN2QraogK]{Take another
+  Rote}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sRSlciEaN2QraogK]{Take another
+  Rote}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ibh41wKWn6xolTCV]{Take another Hex
+  move, or an additional Rote}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ibh41wKWn6xolTCV]{Take another Hex
+  move, or an additional Rote}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]{Take a Haven,
+  like the Expert has, with two options}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Make up a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase one used
+  luck mark}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ytVLa3Lcg65XYMLo]{Gain another two
+  Rotes}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.EGX38KYqoGly3cI7]{Choose an
+  advanced Hex move (see below)}</p>
+
+  <p> </p>
+
+  <h3>Advanced Hex Moves</h3>
+
+  <p><em>When you take the “Choose one advanced Hex move” improvement, choose
+  one of these moves. You can never have both:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.zhVvQTlNwF33cNzq]{Advanced:
+  Apotheosis}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.bUmS87n05KB51Z7g]{Advanced:
+  Synthesis}</p>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px" colspan="2">
+
+  <h2><br />Rotes</h2>
+
+  <p>Whenever you <strong>use magic</strong>, you can decide afterwards that a
+  particular spell is a rote that you know. Write down in detail what the spell
+  does, and what it requires. You know how to cast it off the top of your head,
+  and you choose two requirements from this list:</p>
+
+  <ul>
+
+  <li>Magic words and ritual gestures.</li>
+
+  <li>An object of power (wand, talisman, orb, staff, etc) which must be
+  wielded.</li>
+
+  <li>An expendable component such as sulfur, sage, or incense, which must be
+  burned, blown, or scattered during the casting.</li>
+
+  <li>Runes or symbols written or engraved on a surface (which must be
+  prepared).</li>
+
+  <li>A spilling of blood, which inflicts 1-harm upon you or a willing
+  participant.</li>
+
+  </ul>
+
+  <p>Give your new rote a name, and decide specifically what the requirements
+  are (which words, gestures, objects, symbols, and procedures are required).
+  Unlike regular <strong>use magic</strong>, a rote’s cost and the consequences
+  for failing it are known to you in advance. After you cast it for the first
+  time, treat each rote as a custom move—a specialised version of use magic,
+  which is built with the Keeper. Write down what it does on a 10+, a 7-9, and a
+  miss. Also, a rote is a bit more powerful than a basic use magic spell: its
+  glitches are less onerous and its effect may be a little bigger.</p>
+
+  <p>Casting a rote requires you to have the needed items at hand and the
+  ability to physically use them. You roll +Weird to cast it, as you would when
+  <strong>using magic</strong> normally.</p>
+
+  <h3>How many rotes?</h3>
+
+  <p>You start out knowing up to one rote, which you can choose when creating
+  your character or during play. You can learn more by taking improvements—when
+  you do, you can choose the new rote right away or in play.</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: The Hex [ToM]
+description: >-
+  <blockquote> <p><em>“I didn’t have magic fall into my lap. I’m not
+    blessed, I’m not one of the scary children – I’m just a girl who found a way to
+    give herself the strength to fight this war. I don’t have the option of not taking
+    this risk.”</em></p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>To make your Hex, first pick a name.
+    Then follow the instructions below to decide your look, ratings, moves, Temptation,
+    and gear. Finally, introduce yourself and pick history.<br /><br /><em><strong>Instructions</strong>:
+    @UUID[Compendium.motw-for-pbta.the-hex-tom.Item.BLXwBcs3dhikwZkZ]{Items} can be
+    dragged and dropped to the appropriate header/field. For other values and descriptions,
+    you need to copy and paste, or manually change them.</em></p>
+
+  </td>
+
+    </tr>
+  <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul> <li>Sharp eyes, angry eyes, glowing
+  eyes, shifty eyes, serene
+    eyes, featureless eyes.</li>
+  <li>Retro clothes, hippy clothes, trendy clothes,
+    too-formal clothes, ill-fitting clothes, anachronistic clothes.<br /><br /></li>
+
+    </ul>
+  <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p> <ul> <li>Charm+2,
+  Cool=0, Sharp=0,
+    Tough–1, Weird+2</li>
+  <li>Charm+1, Cool–1, Sharp+1, Tough=0, Weird+2</li> <li>Charm–1,
+    Cool+1, Sharp=0, Tough+1, Weird+2</li>
+  <li>Charm–1, Cool=0, Sharp+1, Tough+1, Weird+2</li>
+
+    <li>Charm=0, Cool=0, Sharp+2, Tough–1, Weird+2</li>
+  </ul> <h3>Manœuvres</h3>
+
+    <p>You have three Hex moves. You have this one:</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.BLXwBcs3dhikwZkZ]{Bad
+    Luck Charm}</p>
+  <p><em>Plus pick two of these:</em></p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.3oyGtruCIbzISouB]{Burn
+    Everything}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.N2I1H3dlE9zjE4J1]{Cast
+    the Bones}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.8ncissjTBQiG4pIR]{Force
+    of Will}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.uf8g739CP9MYFBGM]{Luck
+    of the Damned}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.LktN5IZRRz54Einq]{Sympathetic
+    Token}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.Gh0LSanqTaaA68ty]{This
+    Might Sting}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.IhjDgFbto8Jnj5ZD]{Wise
+    Soul}</p>
+  <h3><br />Temptation</h3> <p>You have a dangerous drive that you pursue,
+    sometimes to the exclusion of your own safety. Decide if your Temptation drove you
+    to learn magic, or if learning magic drove you to it.</p>
+  <p>Whenever you give
+    in to your Temptation and act accordingly, you mark experience. You need to <strong>act
+    under pressure</strong> to resist giving in to your temptation, if a perfect opportunity
+    presents itself; if you fail this roll, you don’t mark experience like you would
+    have if you’d willingly acted out your desires.</p>
+  <p><em>Choose one Temptation:</em></p>
+
+    <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.ojMirVPpMb6HWQtQ]{Temptation:
+    Addiction}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.m10PIKf4EWQXmzzP]{Temptation:
+    Callousness}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.4tWU6xSW4qreUMqn]{Temptation:
+    Carnage}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.9n0vIoBM0vuEbKJK]{Temptation:
+    Glory}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.EFiD3laEngcFqygj]{Temptation:
+    Power}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.MJIFrUEbkbTak5dE]{Temptation:
+    Secrets}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.oSaMB3pxTWzaaQXx]{Temptation:
+    Vengeance}</p>
+  </td> <td style="padding: 8px;"> <h3>Rotes</h3> <p>Whenever
+    you <strong>use magic</strong>, you can decide afterwards that a particular spell
+    is a rote that you know. See the separate Rotes box below for more details.</p>
+
+    <p>(Foundry: Use the @UUID[Compendium.motw-for-pbta.the-hex-tom.Item.ou14fqyD754IPhjm]{Rote
+    [ ]} move to construct a new Rote. Write the name within the brackets. This move
+    can be used whenever you <strong>Level Up</strong> and gain new Rotes).</p>
+  <h3><br
+    />Gear</h3>
+  <p>You have whatever magical items or amulets you use to perform magic,
+    including whatever you need to cast your rotes. <span style="font-family:var(--font-primary);font-size:var(--font-size-14)"
+    >You also have two wizardly weapons (Please note that you, or your Keeper must create
+    these manually).</span></p>
+  <h4>Wizardly weapons, <em>pick two</em>:</h4> <ul>
+
+    <li>.38 revolver (2-harm close reload loud)</li>
+  <li>Shotgun (3-harm close messy
+    loud)</li>
+  <li>Athame (2-harm hand magic silver)</li> <li>Shillelagh (1-harm hand
+    balanced)</li>
+  <li>Crossbow (2-harm close slow)</li> <li>Staff (1-harm hand balanced
+    large)<br /><br /></li>
+  </ul> <h3>Luck Special</h3> <p>When you spend Luck, until
+    the end of the mystery, backlash on your spells will be extra nasty.<br /><br /></p>
+
+    <h3>Présentations</h3>
+  <p>When you get here, wait for everyone to catch up so you
+    can do your introductions together. Go around the group.</p>
+  <p>On your turn, introduce
+    your Hex by name and look, and tell the group what they know about you.</p>
+  <h3>Histoire</h3> <p>Go around the group again. When it’s your turn, pick one
+  for
+    each of the other hunters:</p>
+  <ul> <li>You once cast a powerful spell or curse
+    on them. Tell them why, and ask them how it ended.</li>
+  <li>They fear your power,
+    or what you might do with it. Ask them why.</li>
+  <li>You’re madly in love with
+    them. Ask them if they can tell.</li>
+  <li>They encourage you to indulge your temptation.
+    Ask them why.</li>
+  <li>They keep you grounded, and are unfazed by your displays
+    of power.</li>
+  <li>You were part of the same cult, sect, or secret society. Decide
+    together what horrible things you did in the name of power.</li>
+  <li>You learned
+    through divination that they’re important and you should help them. Decide whether
+    you’ve told them or not.</li>
+  <li>They helped you out when a spell went awry. Tell
+    them what the spell was, and ask them how they helped you.</li>
+  </ul> </td>
+
+    </tr>
+  <tr style="height:17px"> <td style="height:17px" colspan="2"><br />
+
+  <h2>Prendre du galon</h2> <p><em>Sur la feuille de personnage, ouvrez «
+  Améliorations » ou « Améliorations avancées » en édition. Glissez-déposez
+  l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour
+  garder une trace de celles que vous avez utilisées. Veuillez noter que le
+  module n’effectuera pas ce suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <p> @UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get
+    +1 Weird, max +3}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get
+    +1 Cool, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get
+    +1 Charm, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get
+    +1 Sharp, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sRSlciEaN2QraogK]{Take
+    another Rote}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sRSlciEaN2QraogK]{Take
+    another Rote}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sRSlciEaN2QraogK]{Take
+    another Rote}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ibh41wKWn6xolTCV]{Take
+    another Hex move, or an additional Rote}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ibh41wKWn6xolTCV]{Take
+    another Hex move, or an additional Rote}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]{Take
+    a Haven, like the Expert has, with two options}</p>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul> <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
+    +1 to any rating, max +3.}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change
+    this hunter to a new type}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Make
+    up a second hunter to play as well as this one}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark
+    two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark
+    another two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire
+    this hunter to safety}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase
+    one used luck mark}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ytVLa3Lcg65XYMLo]{Gain
+    another two Rotes}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.EGX38KYqoGly3cI7]{Choose
+    an advanced Hex move (see below)}</p>
+
+  <h3>Advanced Hex Moves</h3> <p><em>When
+    you take the “Choose one advanced Hex move” improvement, choose one of these moves.
+    You can never have both:</em></p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.zhVvQTlNwF33cNzq]{Advanced:
+    Apotheosis}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.bUmS87n05KB51Z7g]{Advanced:
+    Synthesis}</p>
+  </td> </tr> <tr style="height:17px"> <td style="height:17px"
+     colspan="2">
+  <h2><br />Rotes</h2> <p>Whenever you <strong>use magic</strong>,
+    you can decide afterwards that a particular spell is a rote that you know. Write
+    down in detail what the spell does, and what it requires. You know how to cast it
+    off the top of your head, and you choose two requirements from this list:</p>
+
+    <ul>
+  <li>Magic words and ritual gestures.</li> <li>An object of power (wand,
+  talisman,
+    orb, staff, etc) which must be wielded.</li>
+  <li>An expendable component such as
+    sulfur, sage, or incense, which must be burned, blown, or scattered during the casting.</li>
+
+    <li>Runes or symbols written or engraved on a surface (which must be prepared).</li>
+
+    <li>A spilling of blood, which inflicts 1-harm upon you or a willing participant.</li>
+
+    </ul>
+  <p>Give your new rote a name, and decide specifically what the requirements
+    are (which words, gestures, objects, symbols, and procedures are required). Unlike
+    regular <strong>use magic</strong>, a rote’s cost and the consequences for failing
+    it are known to you in advance. After you cast it for the first time, treat each
+    rote as a custom move—a specialised version of use magic, which is built with the
+    Keeper. Write down what it does on a 10+, a 7-9, and a miss. Also, a rote is a bit
+    more powerful than a basic use magic spell: its glitches are less onerous and its
+    effect may be a little bigger.</p>
+  <p>Casting a rote requires you to have the needed
+    items at hand and the ability to physically use them. You roll +Weird to cast it,
+    as you would when <strong>using magic</strong> normally.</p>
+  <h3>How many rotes?</h3>
+
+    <p>You start out knowing up to one rote, which you can choose when creating your
+    character or during play. You can learn more by taking improvements—when you do,
+    you can choose the new rote right away or in play.</p>
+  </td> </tr> </tbody>
+    </table>

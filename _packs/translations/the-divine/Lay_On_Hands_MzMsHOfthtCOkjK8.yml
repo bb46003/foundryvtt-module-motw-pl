@@ -1,0 +1,18 @@
+original_name: Lay On Hands
+original_description: <p>Your touch can heal injury and disease. When you
+  <strong>lay your hands on someone hurt</strong>, roll +Cool. </p>
+original_success: <p><strong>On a 10+</strong>, heal 2 harm or an illness, plus
+  they&rsquo;re stabilized.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, you can heal the harm or illness
+  as on a 10+, but you take it into yourself.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, your aura causes them extra harm.</p>
+name: Imposition des mains
+description: <p>Vous soignez les blessures et les maladies d’un simple contact.
+  Quand <strong>vous imposez vos mains sur une personne blessée</strong>, lancez
+  +Cool.</p>
+success: <p><strong>Sur un 10+</strong>, soignez 2 dégâts ou une maladie, et la
+  cible est stabilisée.</p>
+partial: <p><strong>Sur un 7-9</strong>, vous soignez 2 dégâts ou une maladie
+  comme sur un 10+, mais vous en faites les frais.</p>
+failure: <p><strong>En cas d’échec</strong>, votre aura lui inflige 1 dégât
+  supplémentaire.</p>

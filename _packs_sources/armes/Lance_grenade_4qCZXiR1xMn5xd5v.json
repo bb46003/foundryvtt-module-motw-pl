@@ -1,0 +1,34 @@
+{
+  "folder": "PC6LYIPTdKxQmnYN",
+  "name": "Lance-grenade",
+  "type": "equipment",
+  "_id": "4qCZXiR1xMn5xd5v",
+  "img": "icons/weapons/thrown/grenade-round.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"4 dégâts\"},{\"value\":\"loin\"},{\"value\":\"zone\"},{\"value\":\"sanglant\"},{\"value\":\"bruyant\"},{\"value\":\"rechargement\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714633590535,
+    "modifiedTime": 1714753498076,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!4qCZXiR1xMn5xd5v"
+}

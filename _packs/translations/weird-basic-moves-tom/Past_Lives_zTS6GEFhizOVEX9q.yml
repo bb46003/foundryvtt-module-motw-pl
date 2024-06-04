@@ -1,0 +1,52 @@
+original_name: Past Lives
+original_description: >-
+  <p>When you <strong>channel your previous incarnations to discover
+  something</strong>, pose your question and roll +Weird.</p>
+
+  <p>You should note down the names and time periods of your previous lives for
+  future reference. They can’t overlap in time, but otherwise may be from any
+  time or place.</p>
+original_success: >-
+  <p><strong>On a 10 or more</strong>, a past life has something useful to
+  offer. Ask the Keeper two of the questions below.<br><br></p>
+
+  <h4>Advanced Past Lives</h4>
+
+  <p><strong>On a 12 or more</strong>, a past life knows exactly what you were
+  after. Ask the Keeper one of the questions below, and one free-form question.
+  Gain +1 ongoing while acting on the &nbsp;answers.</p>
+original_partial: <p><strong>On a 7-9,</strong> a past life has a little
+  experience with this. Ask the Keeper one of the questions below.</p>
+original_failure: <p><strong>On a miss</strong>, a past life takes over for a while.</p>
+name: Vies passées
+description: >-
+  <p>Quand vous ouvrez votre esprit à vos incarnations passées dans l’espoir de
+  découvrir quelque chose, lancez +Bizarre.</p>
+
+  <p>Vous devez noter les noms et les périodes de vos vies antérieures pour
+  référence future. Elles ne peuvent pas se chevaucher dans le temps, mais
+  peuvent autrement provenir de n’importe quel moment ou lieu.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, une vie passée a quelque chose d’utile à vous
+  offrir. Posez au Gardien deux des questions ci-dessous.</p>
+
+  <h4>Vies passées avancées</h4>
+
+  <p><strong>Sur un 12+</strong>, une vie passée connaît le sujet sur le bout
+  des doigts. Posez au Gardien une des questions ci-dessous, et inventez-en une
+  autre. Gagnez +1 constant quand vous agissez en rapport avec les
+  questions.</p>
+partial: <p><strong>Sur un 7-9,</strong> une vie passée a un peu d’expérience.
+  Posez au Gardien une des questions ci-dessous.</p>
+failure: <p><strong>En cas d’échec</strong>, Une vie passée vous submerge
+  pendant quelques instants.</p>
+choices: >-
+  <p>Questions aux vies passées :</p>
+
+  <ul>
+    <li><em>Qu’est-ce qu’une vie passée a bien pu découvrir au sujet de ____________________ ?</em></li>
+    <li><em>Comment une vie passée s’est-elle comportée face à _____________________ ?</em></li>
+    <li><em>Vers quels secrets importants une vie passée peut-elle m’ouvrir la voie ?</em></li>
+    <li><em>Une vie passée a appris quelque chose qui aurait pu l’aider, mais trop tard. De quoi s’agit-il ?</em></li>
+    <li><em>Que peut me dire la vie passée du nom de ____________________ ?</em></li>
+  </ul>

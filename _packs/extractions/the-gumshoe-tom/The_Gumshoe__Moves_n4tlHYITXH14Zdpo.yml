@@ -1,0 +1,17 @@
+name: 'The Gumshoe: Moves'
+sorting: a
+folder: null
+type: Item
+_id: n4tlHYITXH14Zdpo
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690297993702
+  modifiedTime: 1691053405889
+  lastModifiedBy: MX0yl5RfaCDkeocV
+_key: '!folders!n4tlHYITXH14Zdpo'
+

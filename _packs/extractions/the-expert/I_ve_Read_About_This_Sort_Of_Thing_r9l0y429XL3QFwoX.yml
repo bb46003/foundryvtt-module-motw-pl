@@ -1,0 +1,56 @@
+name: I've Read About This Sort Of Thing
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: <p>Roll +Sharp instead of +Cool when you act under pressure.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> you do what you set out
+        to.<br><br><strong>ADVANCED: On a 12+</strong> you may choose to either
+        do what you wanted and something extra, or to do what you wanted to
+        absolute perfection.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong> the Keeper is going to give you a worse
+        outcome, hard choice, or price to pay.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, things go to hell.</p>
+  uses: 0
+  playbook: The Expert
+  rollType: sharp
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_r3xzr4wgg3
+    path: 'The Expert#/CF_SEP/The Expert: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667481094510
+  modifiedTime: 1686856606199
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: cIqeP2XTlbZqnxqO
+_id: r9l0y429XL3QFwoX
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!r9l0y429XL3QFwoX'
+

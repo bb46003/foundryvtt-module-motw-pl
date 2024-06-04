@@ -1,0 +1,16 @@
+original_name: Leave No One Behind
+original_description: <p>In combat, when <strong>you help someone
+  escape</strong>, roll +Sharp.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> you get them out clean.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, you can <em>either </em>get them
+  out <em>or </em>suffer no harm, you choose.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you fail to get them out and
+  you&rsquo;ve attracted hostile attention.</p>
+name: On ne laisse personne derrière
+description: <p>Au combat, quand <strong>vous aidez quelqu’un à
+  s’enfuir</strong>, +Futé.</p>
+success: <p><strong>Sur un 10+</strong>, l’intéressé s’en sort sans problème.</p>
+partial: <p><strong>Sur un 7-9</strong>, il s’en sort ou ne subit pas de dégâts,
+  comme vous voulez.</p>
+failure: <p><strong>En cas d’échec</strong>, vous ne lui permettez pas de
+  s’enfuir et vous attirez l’attention de l’ennemi.</p>

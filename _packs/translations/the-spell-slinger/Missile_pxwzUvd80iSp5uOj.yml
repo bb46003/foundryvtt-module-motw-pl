@@ -1,0 +1,4 @@
+original_name: Missile
+original_tags: '[{"value":"1-harm"},{"value":"magic"},{"value":"far"},{"value":"obvious"},{"value":"loud"}]'
+name: Projectile
+tags: '[{"value":"1 dégât"},{"value":"magique"},{"value":"loin"},{"value":"voyant"},{"value":"bruyant"}]'

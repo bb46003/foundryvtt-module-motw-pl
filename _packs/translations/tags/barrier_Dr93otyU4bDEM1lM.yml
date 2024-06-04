@@ -1,0 +1,6 @@
+original_name: barrier
+original_description: <p>Does harm to anything that passes through. Counts as
+  armouragainst any attacks that pass through it.</p>
+name: obstacle
+description: <p>Inflige des dégâts à tout ce qui passe au travers. Compte comme
+  une armure contre les attaques qui passent au travers.</p>

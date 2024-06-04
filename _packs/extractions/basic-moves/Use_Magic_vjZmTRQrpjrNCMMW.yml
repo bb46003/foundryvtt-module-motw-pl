@@ -1,0 +1,108 @@
+_id: vjZmTRQrpjrNCMMW
+name: Use Magic
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+folder: null
+flags:
+  cf:
+    id: temp_pzl3k1ewrs
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>When you use magic, say what you&rsquo;re trying to achieve and how you
+    do the spell, then <strong>roll +Weird</strong>.</p>
+  requiresMove: ''
+  moveType: basic
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong>, the magic works without issues: choose
+        your effect. <br /><br /><strong>ADVANCED: On a 12+</strong> the Keeper
+        will offer you some added benefit.</p>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, it works imperfectly: choose your effect
+        and a glitch. The Keeper will decide what effect the glitch
+        has.&nbsp;</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you lose control of the magic. This never
+        ends well.</p>
+  uses: 0
+  playbook: ''
+  rollType: weird
+  rollMod: 0
+  choices: >-
+    <p><strong>EFFECTS</strong></p>
+
+    <ul>
+
+    <li>Inflict harm (1-harm ignorearmour magic obvious).</li>
+
+    <li>Enchant a weapon. It gets +1 harm and +magic.</li>
+
+    <li>Do one thing that is beyond human limitations.</li>
+
+    <li>Bar a place or portal to a specific person or a type of creature.</li>
+
+    <li>Trap a specific person, minion, or monster.</li>
+
+    <li>Banish a spirit or curse from the person, object, or place it
+    inhabits.</li>
+
+    <li>Summon a monster into the world.</li>
+
+    <li>Communicate with something that you do not share a language with.</li>
+
+    <li>Observe another place or time.</li>
+
+    <li>Heal 1-harm from an injury, or cure a disease, or neutralize a poison.
+    <br /><br /><strong>GLITCHES</strong></li>
+
+    <li>The effect is weakened.</li>
+
+    <li>The effect is of short duration.</li>
+
+    <li>You take 1-harm ignore-armour.</li>
+
+    <li>The magic draws immediate, unwelcome attention.</li>
+
+    <li>It has a problematic side effect. <br /><br /><strong>THE KEEPER MAY SAY
+    THAT...</strong></li>
+
+    <li>The spell requires weird materials.</li>
+
+    <li>The spell will take 10 seconds, 30 seconds, or 1 minute to cast.</li>
+
+    <li>The spell requires ritual chanting and gestures.</li>
+
+    <li>The spell requires you to draw arcane symbols.</li>
+
+    <li>You need one or two people to help cast the spell.</li>
+
+    <li>You need to refer to a tome of magic for the details.</li>
+
+    </ul>
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686776288171
+  modifiedTime: 1686776797561
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!vjZmTRQrpjrNCMMW'
+

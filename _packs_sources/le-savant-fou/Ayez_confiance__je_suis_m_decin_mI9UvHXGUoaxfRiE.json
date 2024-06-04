@@ -1,0 +1,51 @@
+{
+  "folder": "YE77GjfVJzH7dzId",
+  "name": "Ayez confiance, je suis médecin",
+  "type": "move",
+  "_id": "mI9UvHXGUoaxfRiE",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous pouvez utiliser vos connaissances en « médecine » et en « anatomie » pour soigner les gens. Quand <strong>vous prodiguez les premiers soins</strong>, lancez +Bizarre. Vous ne pouvez le faire qu’une fois par blessure.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous stabilisez le patient et vous soignez 2 de ses d&eacute;g&acirc;ts.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, choisissez l&rsquo;un ou l&rsquo;autre : soignez 1 de ses d&eacute;g&acirc;ts ; le stabiliser.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, un impr&eacute;vu s&rsquo;en m&ecirc;le. Le patient gagne un effet secondaire &eacute;trange d&eacute;fini par le Gardien.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Savant Fou",
+    "rollType": "weird",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204290406,
+    "modifiedTime": 1714210354402,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!mI9UvHXGUoaxfRiE"
+}

@@ -1,0 +1,52 @@
+name: 'Background: Hoodlum'
+type: move
+img: icons/svg/book.svg
+effects: []
+flags:
+  cf:
+    id: temp_9zfzaydbnfv
+    path: 'The Crooked#/CF_SEP/The Crooked: Backgrounds'
+    color: '#000000'
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>You can use Tough instead of Charm to <strong>manipulate someone</strong>
+    with threats of violence.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: crooked-select
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Crooked
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667593601430
+  modifiedTime: 1686778481489
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: gaQQZjdNV4PrzUHU
+_id: FWZ9a15edFA0h6Eg
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!FWZ9a15edFA0h6Eg'
+

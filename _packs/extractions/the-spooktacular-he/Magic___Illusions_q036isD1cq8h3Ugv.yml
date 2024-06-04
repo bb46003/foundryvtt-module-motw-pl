@@ -1,0 +1,53 @@
+folder: qHH7LT3nOBhBDnSi
+name: Magic & Illusions
+type: move
+_id: q036isD1cq8h3Ugv
+img: icons/svg/card-joker.svg
+system:
+  name: ''
+  description: >-
+    <p>You can <strong>cast confounding spells</strong>. When you weave an
+    illusion, roll +Weird.&nbsp;</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: spooktacular-the-show
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> everyone is fooled, they are either led in
+        a direction of your choice or you and those you choose escape
+        undetected.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, it doesn&rsquo;t quite work: misdirect or
+        escape as a 10+ result, but the Keeper chooses one: someone isn&rsquo;t
+        fooled, or you gain unwelcome attention.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, it goes badly as magic always does.</p>
+  uses: 0
+  playbook: The Spooktacular [HE]
+  rollType: weird
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690913461403
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!q036isD1cq8h3Ugv'
+

@@ -1,0 +1,51 @@
+{
+  "folder": "JxpdE2dRM7MVxV76",
+  "name": "Manœuvre casse-cou",
+  "type": "move",
+  "_id": "z7VTqeBCUBhVHNqz",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous pouvez tenter une manœuvre délicate et très risquée pour prendre l’avantage sur un adversaire. Lancez +Coriace.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, choisissez-en trois.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, choisissez-en un.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous subissez 1 d&eacute;g&acirc;t car votre man&oelig;uvre &eacute;choue et vous rend vuln&eacute;rable.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Luchador",
+    "rollType": "tough",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": "<ul>\n<li>Interrompre la man&oelig;uvre de quelqu&rsquo;un ou quelque chose pour la retarder.</li>\n<li>Gagner +1 temporaire.</li>\n<li>Donner +1 temporaire &agrave; un autre chasseur.</li>\n<li>Infligez 2 d&eacute;g&acirc;ts si vous &ecirc;tes d&eacute;sarm&eacute;/les d&eacute;g&acirc;ts de votre arme si vous &ecirc;tes arm&eacute;.</li>\n<li>Vous ne subissez aucun d&eacute;g&acirc;t en retour.</li>\n</ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203257320,
+    "modifiedTime": 1714210313269,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!z7VTqeBCUBhVHNqz"
+}

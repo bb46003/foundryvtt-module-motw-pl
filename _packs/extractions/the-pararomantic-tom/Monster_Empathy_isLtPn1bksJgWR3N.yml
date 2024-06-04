@@ -1,0 +1,59 @@
+folder: oiM3Zms8OjEbtUSu
+name: Monster Empathy
+type: move
+_id: isLtPn1bksJgWR3N
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you try to <strong>work out what a supernatural creature
+    desires</strong>, roll +Charm.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong>, hold 2.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong>, hold 1.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Pararomantic [ToM]
+  rollType: charm
+  rollMod: 0
+  choices: >-
+    <p>Spend your hold to ask the following questions - the Keeper will answer
+    honestly:</p>
+
+    <ul>
+
+    <li>What does it most desire?</li>
+
+    <li>What would it accept as good enough for now?</li>
+
+    <li>What would distract it?</li>
+
+    </ul>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690901375725
+  modifiedTime: 1691053418668
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!isLtPn1bksJgWR3N'
+

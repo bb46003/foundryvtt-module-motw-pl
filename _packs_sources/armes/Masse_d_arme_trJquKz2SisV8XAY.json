@@ -1,0 +1,34 @@
+{
+  "folder": "BqmmFAfFeoBE3uhi",
+  "name": "Masse d’arme",
+  "type": "equipment",
+  "_id": "trJquKz2SisV8XAY",
+  "img": "icons/weapons/maces/mace-flanged-steel-grey.webp",
+  "system": {
+    "description": "<p>Créez votre arme en choisissant trois options opérantes ainsi qu’un matériau à ajouter aux étiquettes de base.</p>\n<p><strong>Options</strong> (choisissez-en trois) :</p>\n<ul>\n<li>artefact (ajoutez l’étiquette <em>magique</em>)</li>\n<li>pointes (changez l’étiquette <em>1 dégât</em> en <em>2 dégâts</em>, ajoutez l’étiquette <em>sanglant</em>)</li>\n<li>lame (changez l’étiquette <em>1 dégât</em> en <em>2 dégâts</em>)</li>\n<li>lourd (changez l’étiquette <em>1 dégât</em> en <em>2 dégâts</em>)</li>\n<li>long (ajoutez l’étiquette <em>proche</em>)</li>\n<li>lançable (ajoutez l’étiquette <em>proche</em>)</li>\n<li>chaîne (ajoutez l’étiquette <em>zone</em>)</li>\n</ul>\n<p><strong>Matériau</strong> (choisissez-en un) :</p>\n<ul>\n<li>acier</li>\n<li>fer</li>\n<li>froid</li>\n<li>argent</li>\n<li>bois</li>\n<li>pierre</li>\n<li>os</li>\n<li>dents</li>\n<li>obsidienne</li>\n<li>[matériau] (inventez-en un en accord avec le Gardien)</li>\n</ul>",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"allonge\"},{\"value\":\"équilibré\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714587748571,
+    "modifiedTime": 1714632554047,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!trJquKz2SisV8XAY"
+}

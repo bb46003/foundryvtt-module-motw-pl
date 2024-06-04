@@ -1,0 +1,47 @@
+folder: d5a1EjXgFf404Sx6
+name: Burn Everything
+type: move
+_id: 3oyGtruCIbzISouB
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you <strong>use magic</strong> to inflict harm, you can choose to
+    inflict 3-harm area magic obvious or 3-harm ignore-armour magic obvious.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Hex [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690891714776
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!3oyGtruCIbzISouB'
+

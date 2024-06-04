@@ -1,0 +1,517 @@
+original_name: The Gumshoe [ToM]
+original_description: >-
+  <blockquote>
+
+  <p><em>You won’t understand this…When I take a case, I’m supposed to do
+  something about it. You’re supposed to do something about it whether you like
+  it or not. You’ve got to pay for what you’ve done, sweetheart, whatever it is
+  I might feel about you. Yes, I’ll have some bad nights, but I’ll still have
+  myself.</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%;border-width:1px" border="1"><colgroup><col
+  style="width:45.9724%"></col><col style="width:54.0276%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:127px">
+
+  <td style="height:127px;border-width:1px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Gumshoe, first pick a name. Then follow the instructions in
+  this playbook to decide your look, ratings, code, moves, and gear. Finally,
+  introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.t3YADGEDM63gagJf]{Items} 
+  can be dragged and dropped to the appropriate header/field. For other values
+  and descriptions, you need to copy and paste, or manually change
+  them.</em></p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top;border-width:1px">
+
+  <h3>Look</h3>
+
+  <p>Pick one from each list:</p>
+
+  <ul>
+
+  <li>Angelic face, unshaven face, handsomely devilish face, world-weary face,
+  sly face, streetwise face, quiet face, knowing face, watchful face, merry
+  face, obvious ex-cop face, hunted face</li>
+
+  <li>Nondescript clothes, tailored clothes and sunglasses, vintage clothes,
+  fashion clothes, fedora and trench coat, California casual, biker clothes,
+  Pacific island casual clothes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p>Pick one line:</p>
+
+  <ul>
+
+  <li>Charm+2, Cool=0, Sharp+1, Tough=0, Weird=0</li>
+
+  <li>Charm+2, Cool=0, Sharp+1, Tough+1, Weird–1</li>
+
+  <li>Charm+1, Cool=0, Sharp+2, Tough+1, Weird–1</li>
+
+  <li>Charm+1, Cool–1, Sharp+2, Tough=0, Weird=+1</li>
+
+  <li>Charm+2, Cool+1, Sharp+1, Tough=0, Weird–1</li>
+
+  </ul>
+
+  <h3><br />Gumshoe Code</h3>
+
+  <p>With the agreement of the Keeper, pick a one-sentence Code that your
+  Gumshoe adheres to.</p>
+
+  <p><em>(Foundry: Add the
+  @UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.SDVlTHGdXYPP2IX2]{Gumshoe
+  Code} move to your character sheet, open it for editing, and type in your
+  code).</em></p>
+
+  <p><em><strong>Example Codes:</strong> Murders must be punished. Monsters must
+  be destroyed. Innocents must be saved. Laws must be enforced. Evil must be
+  exposed. The weak must be protected from the powerful.</em></p>
+
+  <p>This Code defines your Gumshoe. Any time you violate your code you forfeit
+  all Code related moves (<strong>The Postman Always Rings Twice</strong>,
+  <strong>The Long Goodbye</strong>) and the ability to spend Luck points. These
+  forfeits last either until the next mystery or you make amends.</p>
+
+  <p>As long as you follow the Code people will sense your sincerity: you
+  receive +1 ongoing for <strong>manipulate someone</strong> and you may not be
+  possessed or charmed by any sort of supernatural, alien, or demonic entity or
+  item.<br /><br /></p>
+
+  <h3>Moves</h3>
+
+  <p>You get all Basic moves and three Gumshoe moves. You get these two:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.ojz2KkHKyHsUNVea]{Occult
+  Confidential}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.95MZIwQVIGhx4rDf]{The
+  Naked City}</p>
+
+  <p>Then pick one of these:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.M3t6KUpN6t6QtQMJ]{"Just
+  one more thing"}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.t3YADGEDM63gagJf]{Asphalt
+  Jungle}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.lmqe39tv3JZU5Pib]{Hacker
+  with a Dragon Tattoo}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.MQmLwn1cK2buyCB8]{Jessica
+  Jones Entry}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.ojz2KkHKyHsUNVea]{Occult
+  Confidential}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.qlOUXlpO7jvV1bYL]{Out
+  of the Past}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.U1vB14499b8OugcP]{The
+  Long Goodbye}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.Q8Nj8CPAva528Dvw]{The
+  Postman Always Rings Twice}</p>
+
+  </td>
+
+  <td style="vertical-align:top;border-width:1px">
+
+  <h3>Gear</h3>
+
+  <p>You get a laptop, a liquor flask, two recording devices, and one P.I.
+  weapon (Please note that you, or your Keeper must create these manually).</p>
+
+  <h4><br />Recording devices (<em>pick two</em>):</h4>
+
+  <ul>
+
+  <li>Night vision camera</li>
+
+  <li>Tiny digital video camera</li>
+
+  <li>Film camera (8mm or 16mm)</li>
+
+  <li>Digital sound recorder</li>
+
+  <li>Cassette tape recorder</li>
+
+  <li>Remote-controlled camera drone</li>
+
+  <li>Laser microphone</li>
+
+  <li>SLR camera</li>
+
+  </ul>
+
+  <h4><br />P.I. Weapons (<em>pick one</em>):</h4>
+
+  <ul>
+
+  <li>Brass knuckles (1-harm hand small)</li>
+
+  <li>.38 revolver (2-harm close reload loud)</li>
+
+  <li>9mm (2-harm close loud)</li>
+
+  <li>Magnum (3-harm close reload loud)</li>
+
+  <li>Shotgun (3-harm close messy loud)</li>
+
+  <li>Switchblade (1-harm hand small)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>When you use a point of Luck your next regular case will actually be a
+  mystery for your hunter group, not a regular case at all (and the monster will
+  focus its attention on you!).<br /><br /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Gumshoe by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. On your turn, pick one for each of the other
+  hunters:</p>
+
+  <ul>
+
+  <li>You are on the same (or rival) bowling teams. Ask them what
+  bowling-related disagreement rubbed them the wrong way.</li>
+
+  <li>You caught them committing a crime but let them go. Ask them to describe
+  the crime, then you explain why your Code required you to look the other
+  way.</li>
+
+  <li>They remind you of a former partner who was mysteriously murdered.
+  Describe the unsolved case that killed your partner and how you hope to solve
+  it.</li>
+
+  <li>You first approached them for help on a case. Describe the case. Ask them
+  to describe the key expertise they provided that solved that mystery.</li>
+
+  <li>You were friends back in training, before you became a private
+  investigator. This could be military, law enforcement, or whatever - decide
+  the details between you.</li>
+
+  <li>Ask them if they live by a code and what it is. If you approve of the
+  code, you’ve always respected them. If not (or if they don’t have a code),
+  you’ve never trusted them.</li>
+
+  <li>They hired you for a job but you were too drunk or high to take it. Ask
+  them what they wanted, then tell them how you brushed them off.</li>
+
+  <li>You first met on an unsolved crimes website. Decide together what infamous
+  crime fascinates you both.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px;border-width:1px" colspan="2"> <br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1
+  Charm, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]{Get +1 Sharp,
+  max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]{Get +1 Tough,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xfFfkGmyffkii2rl]{Take another
+  Gumshoe move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xfFfkGmyffkii2rl]{Take another
+  Gumshoe move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DMGvebWkivI0n6b9]{Add another harm
+  box to your track, before Dying}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]{Get a haven
+  (your office, perhaps), like the Expert has, with two options.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xTbyIJ2YNlmSLyVQ]{Add four
+  additional or new contacts for your Naked City move.}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.cErMH8J22KssQg6f]{urn one of your
+  contacts into an ally}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase one used
+  luck mark from your playbook}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: The Gumshoe [ToM]
+description: >-
+  <blockquote> <p><em>You won’t understand this…When I take a case, I’m
+    supposed to do something about it. You’re supposed to do something about it whether
+    you like it or not. You’ve got to pay for what you’ve done, sweetheart, whatever
+    it is I might feel about you. Yes, I’ll have some bad nights, but I’ll still have
+    myself.</em></p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>To make your Gumshoe, first pick
+    a name. Then follow the instructions in this playbook to decide your look, ratings,
+    code, moves, and gear. Finally, introduce yourself and pick history.<br /><br /><em><strong>Instructions</strong>:
+    @UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.t3YADGEDM63gagJf]{Items}  can
+    be dragged and dropped to the appropriate header/field. For other values and descriptions,
+    you need to copy and paste, or manually change them.</em></p>
+  </td> </tr> <tr>
+    <td style="vertical-align:top;border-width:1px">
+  <h3>Apparence</h3> <p><em>Choisissez un élément de chaque liste :</em></p>
+  <ul> <li>Angelic face, unshaven face, handsomely devilish face,
+    world-weary face, sly face, streetwise face, quiet face, knowing face, watchful
+    face, merry face, obvious ex-cop face, hunted face</li>
+  <li>Nondescript clothes,
+    tailored clothes and sunglasses, vintage clothes, fashion clothes, fedora and trench
+    coat, California casual, biker clothes, Pacific island casual clothes.</li>
+  </ul>
+
+    <h3>Statistiques</h3>
+  <p><em>Choisissez une ligne :</em></p> <ul> <li>Charm+2, Cool=0, Sharp+1,
+    Tough=0, Weird=0</li>
+  <li>Charm+2, Cool=0, Sharp+1, Tough+1, Weird–1</li> <li>Charm+1,
+    Cool=0, Sharp+2, Tough+1, Weird–1</li>
+  <li>Charm+1, Cool–1, Sharp+2, Tough=0, Weird=+1</li>
+
+    <li>Charm+2, Cool+1, Sharp+1, Tough=0, Weird–1</li>
+  </ul> <h3><br />Gumshoe Code</h3>
+
+    <p>With the agreement of the Keeper, pick a one-sentence Code that your Gumshoe
+    adheres to.</p>
+  <p><em>(Foundry: Add the
+  @UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.SDVlTHGdXYPP2IX2]{Gumshoe
+    Code} move to your character sheet, open it for editing, and type in your code).</em></p>
+
+    <p><em><strong>Example Codes:</strong> Murders must be punished. Monsters must be
+    destroyed. Innocents must be saved. Laws must be enforced. Evil must be exposed.
+    The weak must be protected from the powerful.</em></p>
+  <p>This Code defines your
+    Gumshoe. Any time you violate your code you forfeit all Code related moves (<strong>The
+    Postman Always Rings Twice</strong>, <strong>The Long Goodbye</strong>) and the
+    ability to spend Luck points. These forfeits last either until the next mystery
+    or you make amends.</p>
+  <p>As long as you follow the Code people will sense your
+    sincerity: you receive +1 ongoing for <strong>manipulate someone</strong> and you
+    may not be possessed or charmed by any sort of supernatural, alien, or demonic entity
+    or item.<br /><br /></p>
+  <h3>Manœuvres</h3> <p>You get all Basic moves and three Gumshoe
+    moves. You get these two:</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.ojz2KkHKyHsUNVea]{Occult
+    Confidential}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.95MZIwQVIGhx4rDf]{The
+    Naked City}</p>
+  <p>Then pick one of these:</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.M3t6KUpN6t6QtQMJ]{"
+    Just one more thing"}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.t3YADGEDM63gagJf]{Asphalt
+    Jungle}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.lmqe39tv3JZU5Pib]{Hacker
+    with a Dragon Tattoo}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.MQmLwn1cK2buyCB8]{Jessica
+    Jones Entry}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.ojz2KkHKyHsUNVea]{Occult
+    Confidential}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.qlOUXlpO7jvV1bYL]{Out
+    of the Past}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.U1vB14499b8OugcP]{The
+    Long Goodbye}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-gumshoe-tom.Item.Q8Nj8CPAva528Dvw]{The
+    Postman Always Rings Twice}</p>
+  </td> <td style="vertical-align:top;border-width:1px"
+    >
+  <h3>Équipement</h3> <p>You get a laptop, a liquor flask, two recording
+  devices, and
+    one P.I. weapon (Please note that you, or your Keeper must create these manually).</p>
+
+    <h4><br />Recording devices (<em>pick two</em>):</h4>
+  <ul> <li>Night vision camera</li>
+
+    <li>Tiny digital video camera</li>
+  <li>Film camera (8mm or 16mm)</li> <li>Digital
+    sound recorder</li>
+  <li>Cassette tape recorder</li> <li>Remote-controlled camera
+    drone</li>
+  <li>Laser microphone</li> <li>SLR camera</li> </ul> <h4><br />P.I.
+    Weapons (<em>pick one</em>):</h4>
+  <ul> <li>Brass knuckles (1-harm hand small)</li>
+
+    <li>.38 revolver (2-harm close reload loud)</li>
+  <li>9mm (2-harm close loud)</li>
+
+    <li>Magnum (3-harm close reload loud)</li>
+  <li>Shotgun (3-harm close messy loud)</li>
+
+    <li>Switchblade (1-harm hand small)</li>
+  </ul> <h3><br />Luck Special</h3> <p>When
+    you use a point of Luck your next regular case will actually be a mystery for your
+    hunter group, not a regular case at all (and the monster will focus its attention
+    on you!).<br /><br /></p>
+  <h3>Présentations</h3> <p>When you get here, wait for
+    everyone to catch up so you can do your introductions together.</p>
+  <p>Go around
+    the group. On your turn, introduce your Gumshoe by name and look, and tell the group
+    what they know about you.</p>
+  <h3>Histoire</h3> <p>Go around the group again.
+    On your turn, pick one for each of the other hunters:</p>
+  <ul> <li>You are on
+    the same (or rival) bowling teams. Ask them what bowling-related disagreement rubbed
+    them the wrong way.</li>
+  <li>You caught them committing a crime but let them go.
+    Ask them to describe the crime, then you explain why your Code required you to look
+    the other way.</li>
+  <li>They remind you of a former partner who was mysteriously
+    murdered. Describe the unsolved case that killed your partner and how you hope to
+    solve it.</li>
+  <li>You first approached them for help on a case. Describe the case.
+    Ask them to describe the key expertise they provided that solved that mystery.</li>
+
+    <li>You were friends back in training, before you became a private investigator.
+    This could be military, law enforcement, or whatever - decide the details between
+    you.</li>
+  <li>Ask them if they live by a code and what it is. If you approve of
+    the code, you’ve always respected them. If not (or if they don’t have a code), you’ve
+    never trusted them.</li>
+  <li>They hired you for a job but you were too drunk or
+    high to take it. Ask them what they wanted, then tell them how you brushed them
+    off.</li>
+  <li>You first met on an unsolved crimes website. Decide together what
+    infamous crime fascinates you both.</li>
+  </ul> </td> </tr> <tr style="height:17px"
+    >
+  <td style="height:17px;border-width:1px" colspan="2"> <br /> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get
+    +1 Charm, max +3}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get
+    +1 Cool, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]{Get
+    +1 Sharp, max +3}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]{Get
+    +1 Tough, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xfFfkGmyffkii2rl]{Take
+    another Gumshoe move}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xfFfkGmyffkii2rl]{Take
+    another Gumshoe move}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DMGvebWkivI0n6b9]{Add
+    another harm box to your track, before Dying}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]{Get
+    a haven (your office, perhaps), like the Expert has, with two options.}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xTbyIJ2YNlmSLyVQ]{Add
+    four additional or new contacts for your Naked City move.}</p>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul> <p><em>After you have leveled up five times, you qualify for advanced
+    improvements in addition to these, from the list below.</em></p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
+    +1 to any rating, max +3.}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change
+    this hunter to a new type}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create
+    a second hunter to play as well as this one}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark
+    two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark
+    another two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.cErMH8J22KssQg6f]{urn
+    one of your contacts into an ally}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire
+    this hunter to safety}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase
+    one used luck mark from your playbook}</p>
+  </td> </tr> </tbody> </table>

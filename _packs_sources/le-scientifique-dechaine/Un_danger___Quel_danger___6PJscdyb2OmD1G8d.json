@@ -1,0 +1,51 @@
+{
+  "folder": "K8c1WwzJbyU2lhQa",
+  "name": "Un danger ? Quel danger ?",
+  "type": "move",
+  "_id": "6PJscdyb2OmD1G8d",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Non seulement vous évitez de vous fourrer dans la gueule du loup, mais vous êtes immunisé aux manœuvres et aux pouvoirs basés sur la peur. Vous n’avez jamais besoin d’<strong>Agir sous pression</strong> pour résister à la peur d’où qu’elle vienne.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Scientifique Déchaîné",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714206166295,
+    "modifiedTime": 1714210418404,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!6PJscdyb2OmD1G8d"
+}

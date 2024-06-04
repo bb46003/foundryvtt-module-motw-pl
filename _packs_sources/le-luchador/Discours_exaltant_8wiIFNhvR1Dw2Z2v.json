@@ -1,0 +1,51 @@
+{
+  "folder": "JxpdE2dRM7MVxV76",
+  "name": "Discours exaltant",
+  "type": "move",
+  "_id": "8wiIFNhvR1Dw2Z2v",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand <strong>vous réunissez un groupe de figurants</strong> comme s’ils assistaient à un match de lutte, lancez +Charme.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, ils sont motiv&eacute;s et pr&ecirc;ts &agrave; tout risquer pour la cause.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, ils voudront bien vous aider s&rsquo;ils ne courent pas de trop grands risques.</p>\n<p>Choisissez l&rsquo;une des options ci-dessous :</p>\n<ul>\n<li>Ils agissent comme une foule en col&egrave;re et affrontent la cible d&eacute;sign&eacute;e.</li>\n<li>Ils montent la garde avec vigilance.</li>\n<li>Ils vont o&ugrave; vous leur dites d&rsquo;aller.</li>\n<li>Ils vous aident &agrave; construire un pi&egrave;ge.</li>\n</ul>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous perdez la face devant les figurants.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Luchador",
+    "rollType": "charm",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203261114,
+    "modifiedTime": 1714210298850,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!8wiIFNhvR1Dw2Z2v"
+}

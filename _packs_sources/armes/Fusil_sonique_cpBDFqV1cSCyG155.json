@@ -1,0 +1,34 @@
+{
+  "folder": "BNwT0W75toDEtevZ",
+  "name": "Fusil sonique",
+  "type": "equipment",
+  "_id": "cpBDFqV1cSCyG155",
+  "img": "icons/magic/sonic/projectile-sound-rings-wave.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"loin\"},{\"value\":\"sanglant\"},{\"value\":\"bruyant\"},{\"value\":\"rechargement\"},{\"value\":\"peu fiable\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714681864176,
+    "modifiedTime": 1714681910566,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!cpBDFqV1cSCyG155"
+}

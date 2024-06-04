@@ -1,0 +1,59 @@
+folder: null
+name: Investigate a Mystery [ToM]
+type: move
+_id: HOZBKGElNDjvqFfs
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>When you <strong>investigate a mystery with your particular techniques
+    and skills</strong>, roll +Sharp.</p>
+  moveType: altMove
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10 or higher</strong>, ask the Keeper two general
+        questions or one specific question. Based on how you are investigating,
+        they will tell you honestly and with good detail what you discover.</p>
+
+        <h4><br>Advanced Investigate a Mystery</h4>
+
+        <p><strong>On a 12 or higher</strong>, as 10 or higher but you may ask
+        one additional question&mdash;specific or general, your choice.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7 to 9</strong>, ask the Keeper one general question.
+        Based on how you are investigating, they will tell you honestly and with
+        reasonable detail what you discover.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, ask the Keeper one general question. They
+        may answer it as they wish. Regardless of the question and answer,
+        something bad happens.</p>
+  uses: 0
+  playbook: ''
+  rollType: sharp
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691068031202
+  modifiedTime: 1706527720954
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!HOZBKGElNDjvqFfs'
+

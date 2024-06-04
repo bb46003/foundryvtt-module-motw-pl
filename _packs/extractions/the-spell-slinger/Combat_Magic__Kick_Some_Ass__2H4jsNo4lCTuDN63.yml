@@ -1,0 +1,96 @@
+name: Combat Magic [Kick Some Ass]
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You have a few attack spells you can use as weapons.&nbsp;When you use
+    these spells to&nbsp;<strong>kick some ass</strong>, roll
+    +Weird&nbsp;instead of +Tough.</p>
+
+    <p>Sometimes the situation may require&nbsp;you to&nbsp;<strong>act under
+    pressure</strong>&nbsp;to cast your spell without&nbsp;problems.</p>
+
+    <p>Your combat spells can combine any of your base spells&nbsp;with any of
+    your effects.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong>, choose one extra effect:</p>
+
+        <ul>
+
+        <li>You gain the advantage: take +1 forward, or give +1 forward to
+        another hunter.</li>
+
+        <li>You inflict terrible harm (+1 harm).</li>
+
+        <li>You suffer less harm (-1 harm).</li>
+
+        <li>You force them where you want them.</li>
+
+        </ul>
+
+        <p><br><strong>ADVANCED: On a 12+</strong>&nbsp;instead pick an enhanced
+        effect:</p>
+
+        <ul>
+
+        <li>You completely hold the advantage.&nbsp;All hunters involved in the
+        fight get +1 forward.</li>
+
+        <li>You suffer no harm at all.</li>
+
+        <li>Your attack inflicts double the normal harm.</li>
+
+        <li>Your attack drives the enemy away in a rout.</li>
+
+        </ul>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7+</strong>, you and whatever you&rsquo;re fighting
+        inflict harm on each other. The amount of harm is based on the
+        established dangers in the game. That usually means you inflict the harm
+        rating of your weapon and your enemy inflicts their attack&rsquo;s harm
+        rating on you.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you get your ass kicked instead. You
+        suffer harm or get captured, but don&rsquo;t inflict any harm back.</p>
+  uses: 0
+  playbook: The Spell-Slinger
+  rollType: weird
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_jtvi34gfpi
+    path: 'The Spell-Slinger#/CF_SEP/The Spell-Slinger: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667473501356
+  modifiedTime: 1690287360329
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: DvRFmqiFIcQ02USY
+_id: 2H4jsNo4lCTuDN63
+sort: 1000000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!2H4jsNo4lCTuDN63'
+

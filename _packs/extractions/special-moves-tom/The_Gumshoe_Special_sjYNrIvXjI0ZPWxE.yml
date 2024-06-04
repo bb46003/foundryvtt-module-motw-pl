@@ -1,0 +1,46 @@
+folder: null
+name: The Gumshoe Special
+type: move
+_id: sjYNrIvXjI0ZPWxE
+img: icons/svg/coins.svg
+system:
+  description: >-
+    <p>When you use a point of Luck your next regular case will actually be a
+    mystery for your hunter group, not a regular case at all (and the monster
+    will focus its attention on you!)</p>
+  moveType: ''
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Gumshoe [ToM]
+  rollType: ''
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691068457783
+  modifiedTime: 1706527720954
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!sjYNrIvXjI0ZPWxE'
+

@@ -1,0 +1,52 @@
+name: Fervor
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you <strong>manipulate someone</strong>, roll +Tough instead of
+    +Charm.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Wronged
+  rollType: tough
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  core: {}
+  cf:
+    id: temp_ux4c12qma3h
+    path: 'The Wronged#/CF_SEP/The Wronged: Moves'
+    color: '#000000'
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667516584440
+  modifiedTime: 1686865230903
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+_id: Rsh0d9IY5veHksM7
+folder: vXxRnNafjFK1kpY4
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!Rsh0d9IY5veHksM7'
+

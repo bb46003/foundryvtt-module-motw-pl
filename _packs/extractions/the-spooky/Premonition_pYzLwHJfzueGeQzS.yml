@@ -1,0 +1,53 @@
+folder: AMa6x8vEAHN9O09H
+name: Premonition
+type: move
+_id: pYzLwHJfzueGeQzS
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: <p><strong>At the start of each mystery</strong>, roll +Weird.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p>On a 10+, you get a detailed vision of something bad that is yet to
+        happen. You take +1 forward to prevent it coming true, and mark
+        experience if you stop it.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p>On a 7-9+ you get clouded images of something bad that is yet to
+        happen: mark experience if you stop it.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p>On a miss, you get a vision of something bad happening to you and the
+        Keeper holds 3, to be spent one-for-one as penalties to rolls you
+        make.</p>
+  uses: 0
+  playbook: The Spooky
+  rollType: weird
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686863682392
+  modifiedTime: 1686864168451
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!pYzLwHJfzueGeQzS'
+

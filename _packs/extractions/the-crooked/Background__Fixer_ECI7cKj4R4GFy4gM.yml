@@ -1,0 +1,56 @@
+name: 'Background: Fixer'
+type: move
+img: icons/svg/book.svg
+effects: []
+flags:
+  cf:
+    id: temp_9zfzaydbnfv
+    path: 'The Crooked#/CF_SEP/The Crooked: Backgrounds'
+    color: '#000000'
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>If you <strong>need to buy something, sell something, or hire
+    someone</strong>, roll +Charm. On a 10+ you know just the person who will be
+    interested. On a 7-9 you know the only person who can do it, but
+    there&rsquo;s a complication. Pick one: you owe them; they screwed you over;
+    you screwed them over. On a miss, the only person who can help is someone
+    who absolutely hates you.</p>
+  requiresMove: crooked-select
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Crooked
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667593601328
+  modifiedTime: 1686778481489
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: gaQQZjdNV4PrzUHU
+_id: ECI7cKj4R4GFy4gM
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!ECI7cKj4R4GFy4gM'
+

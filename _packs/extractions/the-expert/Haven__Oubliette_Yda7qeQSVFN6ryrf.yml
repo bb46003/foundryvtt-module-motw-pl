@@ -1,0 +1,53 @@
+name: 'Haven: Oubliette'
+type: move
+img: icons/svg/house.svg
+system:
+  name: ''
+  description: >-
+    <p>This room is isolated from every kind of monster, spirit and magic that
+    you know about. Anything you stash in there can&rsquo;t be found,
+    can&rsquo;t do any magic, and can&rsquo;t get out</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Expert
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_gtm2nw94k5
+    path: 'The Expert#/CF_SEP/The Expert: Haven'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667483006484
+  modifiedTime: 1686856606199
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: kudH4VHnQt7WWNS5
+_id: Yda7qeQSVFN6ryrf
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!Yda7qeQSVFN6ryrf'
+

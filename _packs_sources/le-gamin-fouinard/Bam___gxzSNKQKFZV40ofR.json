@@ -1,0 +1,51 @@
+{
+  "folder": "dOADkHHXqYXc6idF",
+  "name": "Bam !",
+  "type": "move",
+  "_id": "gxzSNKQKFZV40ofR",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand vous utilisez une arme improvisée pour attaquer, choisissez l’un des effets bonus suivants :</p>\n<ul>\n<li>Infligez +1 dégât.</li>\n<li>Étourdissez la cible temporairement d’un coup à la tête.</li>\n<li>Faites trébucher ou enchevêtrez la cible.</li>\n<li>Infligez +2 dégâts ; l’arme improvisée casse.</li>\n</ul>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Gamin Fouinard",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202941670,
+    "modifiedTime": 1714210218633,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!gxzSNKQKFZV40ofR"
+}

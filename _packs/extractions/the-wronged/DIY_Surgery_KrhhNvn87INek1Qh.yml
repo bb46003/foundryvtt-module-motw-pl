@@ -1,0 +1,68 @@
+name: DIY Surgery
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you <strong>do quick and dirty first aid</strong> on someone
+    (including yourself), roll +Cool.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> it&rsquo;s all good, it counts as normal
+        first aid, plus stabilize the injury and heal 1 harm.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong> it counts as normal first aid, plus one of
+        these, your choice:</p>
+
+        <ul>
+
+        <li>Stabilise the injury but the patient takes -1 forward.</li>
+
+        <li>Heal 1-harm and stabilise for now, but it will return as 2-harm and
+        become unstable again later.</li>
+
+        <li>Heal 1-harm and stabilise but the patient takes -1 ongoing until
+        it&rsquo;s fixed properly.</li>
+
+        </ul>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Wronged
+  rollType: cool
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  core: {}
+  cf:
+    id: temp_ux4c12qma3h
+    path: 'The Wronged#/CF_SEP/The Wronged: Moves'
+    color: '#000000'
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667516712290
+  modifiedTime: 1686865230903
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+_id: KrhhNvn87INek1Qh
+folder: vXxRnNafjFK1kpY4
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!KrhhNvn87INek1Qh'
+

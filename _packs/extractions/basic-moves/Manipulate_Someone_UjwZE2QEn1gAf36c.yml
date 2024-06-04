@@ -1,0 +1,85 @@
+_id: UjwZE2QEn1gAf36c
+name: Manipulate Someone
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+folder: null
+flags:
+  cf:
+    id: temp_pzl3k1ewrs
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>Once you have given them a reason, tell them what you want them to do and
+    <strong>roll +Charm.</strong></p>
+
+    <p>Monsters and minions cannot normally be manipulated.</p>
+  requiresMove: ''
+  moveType: basic
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>For a normal person:</strong></p>
+
+        <p><strong>On a 10+</strong>, then they&rsquo;ll do it for the reason
+        you gave them. If you asked too much, they&rsquo;ll tell you the minimum
+        it would take for them to do it (or if there&rsquo;s no way they&rsquo;d
+        do it).<br /><br /><strong>ADVANCED: On a 12+</strong> not only do they
+        do what you want right now, they also become your <strong>ally
+        </strong>for the rest of the mystery (or, if you do enough for them,
+        permanently).<br /><br /><strong>For another hunter: </strong></p>
+
+        <p><strong>On a 10+</strong>, if they do what you ask they mark
+        experience and get +1 forward.<br /><br /><strong>ADVANCED: On a
+        12+</strong> they must act under pressure to resist your request. If
+        they do what you ask, they mark one experience and take +1 ongoing while
+        doing what you asked.</p>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>For a normal person:</strong></p>
+
+        <p><strong>On a 7-9</strong>, they&rsquo;ll do it, but only if you do
+        something for them right now to show that you mean it. If you asked too
+        much, they&rsquo;ll tell you what, if anything, it would take for them
+        to do it.&nbsp;<br /><br /><strong>For another hunter:</strong></p>
+
+        <p><strong>On a 7-9</strong>, they mark experience if they do what you
+        ask.&nbsp;</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>For a normal person:</strong></p>
+
+        <p><strong>On a miss, </strong>your approach is completely wrong: you
+        offend or anger the target.<br /><br /><strong>For another
+        hunter:</strong></p>
+
+        <p><strong>On a miss</strong>, it&rsquo;s up to that hunter to decide
+        how badly you offend or annoy them. They mark experience if they decide
+        not to do what you asked.&nbsp;</p>
+  uses: 0
+  playbook: ''
+  rollType: charm
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686776288171
+  modifiedTime: 1686776797561
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!UjwZE2QEn1gAf36c'
+

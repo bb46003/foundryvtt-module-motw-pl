@@ -1,0 +1,56 @@
+folder: 8j1LoSG70qv9zItc
+name: Crew
+type: move
+_id: Y6Jqm8WKLTiNAHgo
+img: icons/skills/social/diplomacy-unity-alliance.webp
+system:
+  name: ''
+  description: >-
+    <p>Decide if your crew is the other hunters, or if you have an
+    entourage.</p>
+
+    <p>If they are not the hunters, there are up to three of them. Pick a name
+    and job for each. Tell the Keeper&ndash;your crew are
+    <strong>bystanders</strong>.</p>
+
+    <p>If it&rsquo;s the other hunters, decide together who gets which job.</p>
+
+    <p><strong>Crew jobs:</strong> camera, sound, editing, dogsbody, researcher,
+    driver, director, producer, bodyguard.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Snoop [HE]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690912283888
+  modifiedTime: 1691053434448
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!Y6Jqm8WKLTiNAHgo'
+

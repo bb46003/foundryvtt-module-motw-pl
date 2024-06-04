@@ -1,0 +1,59 @@
+_id: xVTx5yQ3pzuddWe6
+name: Help Out
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+folder: null
+flags:
+  cf:
+    id: temp_pzl3k1ewrs
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>When you help another hunter, <strong>roll +Cool</strong>.</p>
+
+    <p>Note that help bonuses do not stack: if two people help out, the hunter
+    just gets +1 on their roll.</p>
+  requiresMove: ''
+  moveType: basic
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> your help grants them +1 to their roll.<br
+        /><br /><strong>ADVANCED: On a 12+</strong> your help lets them act as
+        if they just rolled a 12, regardless of what they actually got.</p>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong> your help grants them +1 to their roll, but
+        you also expose yourself to trouble or danger.&nbsp;</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you expose yourself to trouble or danger
+        without helping.</p>
+  uses: 0
+  playbook: ''
+  rollType: cool
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686776288171
+  modifiedTime: 1686776797561
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!xVTx5yQ3pzuddWe6'
+

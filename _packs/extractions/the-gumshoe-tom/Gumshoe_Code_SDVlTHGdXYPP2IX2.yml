@@ -1,0 +1,45 @@
+folder: n4tlHYITXH14Zdpo
+name: Gumshoe Code
+type: move
+_id: SDVlTHGdXYPP2IX2
+img: icons/svg/book.svg
+system:
+  name: ''
+  description: <p>Code that your Gumshoe adheres to:&nbsp;</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Gumshoe [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690887663040
+  modifiedTime: 1691053405906
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!SDVlTHGdXYPP2IX2'
+

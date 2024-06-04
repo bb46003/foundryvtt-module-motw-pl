@@ -1,0 +1,41 @@
+name: 'The Monstrous: Natural Attacks'
+type: equipment
+img: icons/svg/pawprint.svg
+system:
+  name: ''
+  description: >-
+    <p>Pick a Base and add an extra to it from the
+    @UUID[Compendium.motw-for-pbta.playbooks.Item.Td7YVGRAubHBZ81J]{The
+    Monstrous Playbook}, or two Bases.</p>
+  uses: 0
+  playbook: The Monstrous
+  quantity: 1
+  weight: 0
+  tags: >-
+    [{"value":"base: magical force"},{"value":"extra: +1
+    harm"},{"value":"2-harm"},{"value":"magic"},{"value":"close"}]
+  tagsString: 'base: magical force, extra: +1 harm, 2-harm, magic, close'
+  itemType: null
+  equipmentType: weapon
+effects: []
+flags:
+  cf:
+    id: temp_ufq6zlx1isf
+    path: 'The Monstrous#/CF_SEP/The Monstrous: Weapons'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667471374238
+  modifiedTime: 1690216779313
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: null
+_id: 17XFAx7t2gdrCdNE
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!17XFAx7t2gdrCdNE'
+

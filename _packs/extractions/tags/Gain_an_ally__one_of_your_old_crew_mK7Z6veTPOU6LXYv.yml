@@ -1,0 +1,23 @@
+folder: FYAMwDuUVimRvr2o
+name: 'Gain an ally: one of your old crew'
+type: tag
+_id: mK7Z6veTPOU6LXYv
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690193064594
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!mK7Z6veTPOU6LXYv'
+

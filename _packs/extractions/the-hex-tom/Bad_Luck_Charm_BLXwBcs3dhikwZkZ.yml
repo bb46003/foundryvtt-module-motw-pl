@@ -1,0 +1,49 @@
+folder: d5a1EjXgFf404Sx6
+name: Bad Luck Charm
+type: move
+_id: BLXwBcs3dhikwZkZ
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>Whenever you <strong>use magic and miss</strong>, the backlash never
+    affects you directly if there&rsquo;s someone else around to hit.
+    It&rsquo;ll go for allies, other hunters, and innocent bystanders.
+    Sometimes, every so often, it might even hit an enemy.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Hex [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690891650793
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!BLXwBcs3dhikwZkZ'
+

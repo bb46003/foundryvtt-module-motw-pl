@@ -1,0 +1,32 @@
+folder: Tg88nm8uswwlk2Qr
+name: Wall
+type: equipment
+_id: j6i6q6JgBgoJAoo9
+img: icons/magic/earth/barrier-stone-explosion-spiked.webp
+system:
+  name: ''
+  description: ''
+  uses: 0
+  playbook: The Spell-Slinger
+  quantity: 1
+  weight: 0
+  tags: >-
+    [{"value":"1-harm"},{"value":"magic"},{"value":"barrier"},{"value":"close"},{"value":"1-armour"},{"value":"obvious"},{"value":"loud"}]
+  tagsString: ''
+  itemType: null
+  equipmentType: weapon
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690284576654
+  modifiedTime: 1690287186189
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!j6i6q6JgBgoJAoo9'
+

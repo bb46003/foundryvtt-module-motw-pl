@@ -1,0 +1,17 @@
+original_name: Often Overlooked
+original_description: <p>When you <strong>act all crazy</strong> to avoid
+  something, roll +Weird. </p>
+original_success: <p><strong>On a 10+</strong> you&rsquo;re regarded as
+  unthreatening and unimportant.&nbsp;</p>
+original_partial: "<p><strong>On a 7-9, </strong>pick one: unthreatening or
+  unimportant.&nbsp;</p>"
+original_failure: <p><strong>On a miss</strong>, you draw lots (but not all) of
+  the attention.</p>
+name: Souvent sous-estimé
+description: <p>Quand <strong>vous faites n’importe quoi</strong> pour éviter
+  quelque chose, lancez +Bizarre.</p>
+success: <p><strong>Sur un 10+</strong>, vous êtes perçu comme inoffensif et
+  sans intérêt.</p>
+partial: "<p><strong>On a 7-9</strong>, au choix : inoffensif ou sans intérêt.</p>"
+failure: <p><strong>En cas d’échec</strong>, vous attirez une bonne partie de
+  l’attention.</p>

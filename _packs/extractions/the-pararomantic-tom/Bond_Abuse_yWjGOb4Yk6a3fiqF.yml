@@ -1,0 +1,70 @@
+folder: oiM3Zms8OjEbtUSu
+name: Bond Abuse
+type: move
+_id: yWjGOb4Yk6a3fiqF
+img: icons/magic/life/heart-broken-red.webp
+system:
+  name: ''
+  description: >-
+    <p>Whenever you do something to <strong>abuse the bond</strong> with your
+    Guide, like acting against them, or not giving them enough attention, roll
+    +Charm.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On 10+</strong>, your action has no effect beyond the
+        exchange of some angry words.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On 7-9</strong> choose one of the bond abuse options
+        below.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, the Keeper may choose two of the bond
+        abuse options below, or something worse.&nbsp;</p>
+  uses: 0
+  playbook: The Pararomantic [ToM]
+  rollType: charm
+  rollMod: 0
+  choices: >-
+    <p>Bond abuse options:</p>
+
+    <ul>
+
+    <li>Mark off a box in your Relationship Status track.</li>
+
+    <li>You may not channel the power of your bond for the rest of the
+    mystery.</li>
+
+    <li>You gain the unwelcome attention of others of your Guide&rsquo;s
+    kind.</li>
+
+    <li>Someone who shouldn&rsquo;t know finds a clue about your relationship
+    with your Guide.</li>
+
+    </ul>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690901602298
+  modifiedTime: 1691053418668
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!yWjGOb4Yk6a3fiqF'
+

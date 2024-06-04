@@ -1,0 +1,23 @@
+folder: MirKzNjm0PX7wjsM
+name: Get back one used Luck point
+type: tag
+_id: DCeW9fH7chGDBTqq
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690200207887
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 800000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!DCeW9fH7chGDBTqq'
+

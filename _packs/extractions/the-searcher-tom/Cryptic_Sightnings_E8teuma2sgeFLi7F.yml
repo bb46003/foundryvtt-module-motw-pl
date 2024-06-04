@@ -1,0 +1,48 @@
+folder: w4s18GJndDydmgR2
+name: Cryptic Sightnings
+type: move
+_id: E8teuma2sgeFLi7F
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You take note of any reports of strange creatures. Whenever you first see
+    a new type of creature, you may immediately ask one of the
+    <strong>investigate a mystery</strong> questions.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: searcher-first-encounter
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Searcher [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690911073850
+  modifiedTime: 1691053425066
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!E8teuma2sgeFLi7F'
+

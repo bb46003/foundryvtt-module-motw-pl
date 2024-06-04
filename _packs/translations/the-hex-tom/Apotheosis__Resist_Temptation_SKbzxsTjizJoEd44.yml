@@ -1,0 +1,20 @@
+original_name: "Apotheosis: Resist Temptation"
+original_description: <p>On the other hand, you outright cannot use the
+  <strong>protect someone</strong> move, you have all the Temptations, and you
+  have to indulge them whenever a good opportunity presents itself. When you try
+  to resist a temptation, roll +Cool.</p>
+original_success: <p><strong>On a 10+</strong>, your apotheosis ends.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, it ends with you doing something
+  dangerous or cruel.</p>
+original_failure: <p><strong>On a miss</strong>, it ends only after you harm
+  someone (or something) you love.</p>
+name: "Apotheosis: Resist Temptation"
+description: <p>On the other hand, you outright cannot use the <strong>protect
+  someone</strong> move, you have all the Temptations, and you have to indulge
+  them whenever a good opportunity presents itself. When you try to resist a
+  temptation, roll +Cool.</p>
+success: <p><strong>On a 10+</strong>, your apotheosis ends.&nbsp;</p>
+partial: <p><strong>On a 7-9</strong>, it ends with you doing something
+  dangerous or cruel.</p>
+failure: <p><strong>On a miss</strong>, it ends only after you harm someone (or
+  something) you love.</p>

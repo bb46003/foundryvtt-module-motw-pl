@@ -1,0 +1,56 @@
+name: Preparedness
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When <strong>you need something unusual or rare</strong>, roll
+    +Sharp.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong>, you have it here right now.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong> you have it, but not here: it will take
+        some time to get it.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you know where it is, but it&rsquo;s
+        somewhere real bad.</p>
+  uses: 0
+  playbook: The Expert
+  rollType: sharp
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_r3xzr4wgg3
+    path: 'The Expert#/CF_SEP/The Expert: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667481709895
+  modifiedTime: 1686856606199
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: cIqeP2XTlbZqnxqO
+_id: AFmN5xmBwA9t18tx
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!AFmN5xmBwA9t18tx'
+

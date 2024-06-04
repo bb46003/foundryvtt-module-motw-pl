@@ -1,0 +1,36 @@
+{
+  "folder": "KO6dllVhrXN8mslR",
+  "name": "Super gros calibre",
+  "type": "equipment",
+  "img": "icons/weapons/guns/gun-pistol-brass.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"4 dégâts\"},{\"value\":\"proche\"},{\"value\":\"lourd\"},{\"value\":\"bruyant\"},{\"value\":\"rechargement\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714557510724,
+    "modifiedTime": 1714682205283,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_id": "Mkj8tCZiFP2dKHxZ",
+  "sort": 0,
+  "_key": "!items!Mkj8tCZiFP2dKHxZ"
+}

@@ -1,0 +1,75 @@
+_id: kEzygZMadjDLdWDV
+name: Big Magic
+type: move
+img: icons/svg/daze.svg
+effects: []
+folder: null
+flags:
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>Use this when you want more than the Use Magic effects. Tell the Keeper
+    what you want to do.<br /><br /></p>
+
+    <p><strong>THE KEEPER MAY REQUIRE</strong></p>
+
+    <ul>
+
+    <li>You need to spend a lot of time (days or weeks) researching the magic
+    ritual.</li>
+
+    <li>You need to experiment with the spell &ndash; there will be lots of
+    failures before you get it right.</li>
+
+    <li>You need some rare and weird ingredients and supplies.</li>
+
+    <li>The spell will take a long time (hours or days) to cast.</li>
+
+    <li>You need a lot of people (2, 3, 7, 13, or more) to help.</li>
+
+    <li>The spell needs to be cast at a particular place and/or time.</li>
+
+    <li>You need to use magic as part of the ritual, perhaps to summon a
+    monster, communicate with something, or bar the portal you opened.</li>
+
+    <li>It will have a specific side-effect or danger.</li>
+
+    </ul>
+
+    <p>If you meet the requirements, then the magic takes effect.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: ''
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686948368592
+  modifiedTime: 1686948539926
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!kEzygZMadjDLdWDV'
+

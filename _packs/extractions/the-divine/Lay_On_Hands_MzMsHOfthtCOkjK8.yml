@@ -1,0 +1,51 @@
+name: Lay On Hands
+type: move
+img: icons/svg/dice-target.svg
+system:
+  description: "<p>Your touch can heal injury and disease. When you <strong>lay your hands on someone hurt</strong>, roll +Cool.\_</p>"
+  moveType: class
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong>, heal 2 harm or an illness, plus
+        they&rsquo;re stabilized.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, you can heal the harm or illness as on a
+        10+, but you take it into yourself.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, your aura causes them extra harm.</p>
+  uses: 0
+  playbook: The Divine
+  rollType: cool
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  cf:
+    id: temp_ymnqot48js
+    path: 'The Divine#/CF_SEP/The Divine: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1667503938779
+  modifiedTime: 1706527558596
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+folder: null
+_id: MzMsHOfthtCOkjK8
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!MzMsHOfthtCOkjK8'
+

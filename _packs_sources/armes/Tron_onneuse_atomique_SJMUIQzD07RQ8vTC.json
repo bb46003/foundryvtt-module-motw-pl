@@ -1,0 +1,36 @@
+{
+  "folder": "BNwT0W75toDEtevZ",
+  "name": "Tronçonneuse atomique",
+  "type": "equipment",
+  "img": "icons/skills/ranged/shuriken-thrown-sawblade-blue.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"4 dégâts\"},{\"value\":\"allonge\"},{\"value\":\"lourd\"},{\"value\":\"sanglant\"},{\"value\":\"peu fiable\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714634283562,
+    "modifiedTime": 1714681649525,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "SJMUIQzD07RQ8vTC",
+  "sort": 0,
+  "_key": "!items!SJMUIQzD07RQ8vTC"
+}

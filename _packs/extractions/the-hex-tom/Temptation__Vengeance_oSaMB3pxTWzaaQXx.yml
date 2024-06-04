@@ -1,0 +1,47 @@
+folder: ET1yMCNxOe3DqP63
+name: 'Temptation: Vengeance'
+type: move
+_id: oSaMB3pxTWzaaQXx
+img: icons/svg/net.svg
+system:
+  name: ''
+  description: >-
+    <p>Use magic to inflict disproportionate retribution on someone who wronged
+    you.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Hex [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690891217925
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!oSaMB3pxTWzaaQXx'
+

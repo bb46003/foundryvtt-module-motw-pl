@@ -1,0 +1,46 @@
+original_name: Cast the Bones
+original_description: <p>Once per mystery, you may <strong>perform </strong>some
+  kind of <strong>divination</strong> (tarot, casting the runes, reading
+  entrails, or something like that) to glean information about the future. When
+  you seek guidance by divination, roll +Sharp.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong>, hold 2.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, hold 1.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you get some information, but
+  it&rsquo;s not what you want to hear.</p>
+original_choices: >-
+  <p>Spend those holds to ask any question from the<strong> investigate a
+  mystery</strong> move, or one of the following questions:</p>
+
+  <ul>
+
+  <li>What can I gain from this person/place/thing/creature?</li>
+
+  <li>Who has touched this person/place/thing/creature before me?</li>
+
+  </ul>
+
+  <p>The Keeper will answer truthfully, with either a direct answer or how to
+  find out more.</p>
+name: Cast the Bones
+description: <p>Once per mystery, you may <strong>perform </strong>some kind of
+  <strong>divination</strong> (tarot, casting the runes, reading entrails, or
+  something like that) to glean information about the future. When you seek
+  guidance by divination, roll +Sharp.&nbsp;</p>
+success: <p><strong>On a 10+</strong>, hold 2.&nbsp;</p>
+partial: <p><strong>On a 7-9</strong>, hold 1.&nbsp;</p>
+failure: <p><strong>On a miss</strong>, you get some information, but it&rsquo;s
+  not what you want to hear.</p>
+choices: >-
+  <p>Spend those holds to ask any question from the<strong> investigate a
+  mystery</strong> move, or one of the following questions:</p>
+
+  <ul>
+
+  <li>What can I gain from this person/place/thing/creature?</li>
+
+  <li>Who has touched this person/place/thing/creature before me?</li>
+
+  </ul>
+
+  <p>The Keeper will answer truthfully, with either a direct answer or how to
+  find out more.</p>

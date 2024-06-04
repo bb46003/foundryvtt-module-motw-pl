@@ -1,0 +1,36 @@
+{
+  "folder": "JJdv2buCyUskF9cl",
+  "name": "Sac de grigris",
+  "type": "equipment",
+  "img": "icons/containers/bags/sack-cloth-pink.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"loin\"},{\"value\":\"magique\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714557377324,
+    "modifiedTime": 1714631793961,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "B5Vz9GYGnBMOu1pO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!B5Vz9GYGnBMOu1pO"
+}

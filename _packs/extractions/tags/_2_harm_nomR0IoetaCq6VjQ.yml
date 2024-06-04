@@ -1,0 +1,23 @@
+folder: yHHLIuenIIRqUFNi
+name: +2 harm
+type: tag
+_id: nomR0IoetaCq6VjQ
+img: icons/svg/combat.svg
+system:
+  name: ''
+  description: <p>Increases harm by +2</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690283032714
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!nomR0IoetaCq6VjQ'
+

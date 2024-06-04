@@ -1,0 +1,51 @@
+folder: qHH7LT3nOBhBDnSi
+name: Making Money
+type: move
+_id: KUZAMxr6rHFu4DGE
+img: icons/svg/card-joker.svg
+system:
+  name: ''
+  description: >-
+    <p>You&rsquo;ve got a lot of practice bamboozling folks. When you
+    <strong>mess with someone</strong>, roll +Charm.&nbsp;</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: spooktacular-the-show
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong>, they don&rsquo;t know what&rsquo;s going
+        on and overlook something of your choice.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9 </strong>they still overlook something but
+        they&rsquo;re more angry than baffled.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, you better run.</p>
+  uses: 0
+  playbook: The Spooktacular [HE]
+  rollType: charm
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690913600334
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!KUZAMxr6rHFu4DGE'
+

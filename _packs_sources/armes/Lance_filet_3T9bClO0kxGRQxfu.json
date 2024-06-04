@@ -1,0 +1,34 @@
+{
+  "folder": "pOb1wfrrVaKlUbdX",
+  "name": "Lance-filet",
+  "type": "equipment",
+  "_id": "3T9bClO0kxGRQxfu",
+  "img": "icons/tools/fishing/net-gold.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"0 dégât\"},{\"value\":\"proche\"},{\"value\":\"zone\"},{\"value\":\"lourd\"},{\"value\":\"lent\"},{\"value\":\"enchevêtrement\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714682747846,
+    "modifiedTime": 1714683057764,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!3T9bClO0kxGRQxfu"
+}

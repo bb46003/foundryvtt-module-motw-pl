@@ -1,0 +1,51 @@
+{
+  "folder": "3hQLsfvVeWeZaDod",
+  "name": "Rechargement",
+  "type": "move",
+  "_id": "MfgC6f79kTTfBxiK",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>En vous exposant à une grande source de votre type d’énergie, vous pouvez tenter de vous soigner. Quand <strong>vous essayez de vous recharger</strong>, lancez +Bizarre.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous soignez 2 d&eacute;g&acirc;ts.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous soignez 1 d&eacute;g&acirc;t.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous ne parvenez pas &agrave; absorber l&rsquo;&eacute;nergie comme il faut et subissez -1 constant jusqu&rsquo;&agrave; la fin de la sc&egrave;ne.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "La Créature",
+    "rollType": "weird",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714201086791,
+    "modifiedTime": 1714210041833,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!MfgC6f79kTTfBxiK"
+}

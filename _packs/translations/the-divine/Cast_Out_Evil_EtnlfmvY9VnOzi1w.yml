@@ -1,0 +1,24 @@
+original_name: Cast Out Evil
+original_description: >-
+  <p>You may <strong>banish an unnatural creature</strong> from your presence.
+  Roll +Tough. </p>
+
+  <p>This move may be used on unnatural hunters (e.g. the Monstrous).</p>
+original_success: <p><strong>On a 10+</strong> it is banished.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> it takes a little while for the
+  banishing to take effect - the creature has time to make one or two actions.
+  Either way, the banished creature is unharmed, and you have no control over
+  where it goes.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, something is keeping it here.
+  That&rsquo;s bad.</p>
+name: Rejet du mal
+description: <p>Vous pouvez <strong>bannir une créature surnaturelle</strong>.
+  Lancez +Coriace.</p> <p>Cette manœuvre peut être utilisée sur les chasseurs
+  surnaturels (comme le Monstre).</p>
+success: <p><strong>Sur un 10+</strong>, la cible est bannie</p>
+partial: <p><strong>Sur un 7-9</strong> l’opération demande un peu de temps, si
+  bien que la créature a le temps d’effectuer une ou deux actions. Dans tous les
+  cas, la créature bannie ne subit pas de blessures, et vous n’avez aucun
+  contrôle sur l’endroit où elle se rend.</p>
+failure: <p><strong>En cas d’échec</strong>, quelque chose l’empêche de partir.
+  Pas de chance…</p>

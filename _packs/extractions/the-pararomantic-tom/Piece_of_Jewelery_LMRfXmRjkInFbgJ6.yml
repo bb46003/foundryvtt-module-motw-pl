@@ -1,0 +1,34 @@
+folder: eBferctidYxIEyKE
+name: Piece of Jewelery
+type: equipment
+_id: LMRfXmRjkInFbgJ6
+img: icons/equipment/finger/ring-cabochon-gold-pink.webp
+system:
+  name: ''
+  description: >-
+    <p>Piece of jewelery, e.g. a golden ring, tribal pendant, silver locket. It
+    either provides 1-armour magic or protects you from the powers of a specific
+    sort of monster.</p>
+  uses: 0
+  playbook: The Pararomantic [ToM]
+  quantity: 1
+  weight: 0
+  tags: ''
+  tagsString: ''
+  itemType: null
+  equipmentType: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690900416832
+  modifiedTime: 1691053418668
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!LMRfXmRjkInFbgJ6'
+

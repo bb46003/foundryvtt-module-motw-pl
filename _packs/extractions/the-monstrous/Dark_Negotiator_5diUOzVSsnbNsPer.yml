@@ -1,0 +1,52 @@
+name: Dark Negotiator
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You can use the <strong>manipulate someone</strong> move on monsters as
+    well as people, if they can reason and talk.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Monstrous
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_ccphuwgnsbn
+    path: 'The Monstrous#/CF_SEP/The Monstrous: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667492479046
+  modifiedTime: 1690216779313
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: DNnDArwsCaGsTBJ9
+_id: 5diUOzVSsnbNsPer
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!5diUOzVSsnbNsPer'
+

@@ -1,0 +1,49 @@
+original_name: Illuminated
+original_description: >-
+  <p>You have become enlightened, and sometimes receive information
+  telepathically from the Secret Masters. The Secret Masters are the benevolent
+  conspiracy fighting to make society (or the universe) perfect. At least,
+  that’s what they told you. Sometimes, at the Keeper’s discretion, they
+  proactively send you information, advice, or orders.</p>
+
+  <p>When you <strong>telepathically ask the Secret Masters for aid</strong>,
+  roll +Weird.</p>
+original_success: >-
+  <p><strong>On a 10 or more</strong>, the Secret Masters reveal a key fact,
+  clue, or technique that will help you.<br><br></p>
+
+  <h4>Advanced Illuminated</h4>
+
+  <p><strong>On a 12 or more</strong>, the Secret Masters reveal a key fact,
+  clue, or technique that will help you. You may ask one follow-up question that
+  the Keeper will answer honestly.</p>
+original_partial: <p><strong>On a 7-</strong>9, the Secret Masters need you to
+  complete a task for them. Once it is done, they reveal a key fact, clue, or
+  technique that will help you.</p>
+original_failure: <p><strong>On a miss</strong>, the Secret Masters&rsquo; reply
+  is terrible, garbled, or somehow dangerously wrong.</p>
+name: Illuminé
+description: >-
+  <p>Vous avez trouvé l’illumination, si bien que les Maîtres Secrets vous
+  envoient parfois des informations par télépathie.</p>
+
+  <p>Les Maîtres Secrets constituent une cabale illuminée et bienveillante
+  luttant pour produire une société globale (voire universelle) parfaite. Du
+  moins, c’est ce qu’ils vous disent.</p>
+
+  <p>Quand <strong>vous envoyez un message télépathique aux Maîtres
+  Secrets</strong>, lancez +Bizarre.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, les Maîtres Secrets vous révèlent un fait, un
+  indice ou une technique qui vous aidera.</p>
+
+  <h4>Illuminé avancé</h4>
+
+  <p><strong>Sur un 12+</strong>, les Maîtres Secrets vous révèlent un fait, un
+  indice ou une technique qui vous aidera, et vous pouvez en plus poser une
+  question à laquelle le Gardien doit répondre en toute honnêteté.</p>
+partial: <p><strong>Sur un 7-9</strong>, les Maîtres Secrets vous confient une
+  tâche. Une fois celle-ci résolue, ils vous révèlent un fait, un indice ou une
+  technique qui vous aidera.</p>
+failure: <p><strong>En cas d’échec</strong>, la réponse des Maîtres Secrets est
+  calamiteuse, confuse ou fausse.</p>

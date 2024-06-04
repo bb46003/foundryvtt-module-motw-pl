@@ -1,0 +1,51 @@
+{
+  "folder": "EOpAIvuaRLX3Y11H",
+  "name": "Chasseur aguerri",
+  "type": "move",
+  "_id": "oGNtq35QcmILHjTi",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous savez parfaitement déterminer les forces et faiblesses de votre proie d’après les indices les plus minces. Après avoir trouvé des preuves de la présence d’un monstre ou entendu le récit d’un témoin, lancez +Futé.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, posez deux questions.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, posez une question.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Chasseur de Gros Gibier",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": "<p>Liste des questions :</p>\n<ul>\n<li>Quelle est la m&eacute;thode principale d&rsquo;attaque du monstre ?</li>\n<li>De quoi se nourrit le monstre ?</li>\n<li>Dans quel environnement vit-il ?</li>\n<li>Le monstre semble-t-il &eacute;viter quelque chose en particulier ?</li>\n<li>Quel est l&rsquo;un des pouvoirs du monstre ?</li>\n<li>Le monstre a-t-il des petits ?</li>\n</ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205870721,
+    "modifiedTime": 1714210118923,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!oGNtq35QcmILHjTi"
+}

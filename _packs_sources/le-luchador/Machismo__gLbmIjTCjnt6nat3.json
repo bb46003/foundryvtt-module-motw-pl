@@ -1,0 +1,51 @@
+{
+  "folder": "JxpdE2dRM7MVxV76",
+  "name": "Machismo!",
+  "type": "move",
+  "_id": "gLbmIjTCjnt6nat3",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Ha ! Même pas mal ! Par la simple force de votre volonté, vous ignorez la douleur et les blessures. Quand <strong>vous subissez des dégâts</strong>, lancez +Cool pour les ignorer.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous soignez 1 d&eacute;g&acirc;t et gagnez +1 temporaire.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous soignez 1 d&eacute;g&acirc;t.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous faites le dur mais subissez 1 d&eacute;g&acirc;t suppl&eacute;mentaire (si possible de mani&egrave;re g&ecirc;nante).</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Luchador",
+    "rollType": "cool",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203251975,
+    "modifiedTime": 1714210308333,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!gLbmIjTCjnt6nat3"
+}

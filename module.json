@@ -1,0 +1,130 @@
+{
+  "id": "motw-pl",
+  "title": "Monster of the Week (PbtA) - Tłumacznienie polskie(Babele)",
+  "description": "Moduł tłumaczący system « Monster of the Week (PbtA) »",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12.235"
+  },
+  "authors": [
+    {
+      "name": "Bartek",
+      "discord": "bartek6199",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "motw-pl.js"
+  ],
+  "packFolders": [
+    {
+      "name": "Livrets - Originaux FR",
+      "packs": [
+        "la-creature",
+        "le-dur-a-cuire",
+        "lexile",
+        "le-gamin-fouinard",
+        "le-luchador",
+        "le-savant-fou",
+        "linvoque",
+        "le-chasseur-de-gros-gibier",
+        "le-scientifique-dechaine"
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "name": "0-les-livrets",
+      "label": "Livrets - Originaux FR",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "armes",
+      "label": "Armes",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "la-creature",
+      "label": "La Créature",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "le-dur-a-cuire",
+      "label": "Le Dur à Cuire",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "lexile",
+      "label": "L’Éxilé",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "le-gamin-fouinard",
+      "label": "Le Gamin Fouinard",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "le-luchador",
+      "label": "Le Luchador",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "le-savant-fou",
+      "label": "Le Savant Fou",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "linvoque",
+      "label": "L’Invoqué",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "le-chasseur-de-gros-gibier",
+      "label": "Le Chasseur de Gros Gibier",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
+      "name": "le-scientifique-dechaine",
+      "label": "Le Scientifique Déchaîné",
+      "type": "Item",
+      "system": "pbta"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pbta",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "motw-for-pbta",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "./LICENSE",
+  "readme": "./README.md"
+}

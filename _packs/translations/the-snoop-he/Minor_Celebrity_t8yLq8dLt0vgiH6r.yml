@@ -1,0 +1,16 @@
+original_name: Minor Celebrity
+original_description: <p>At the beginning of each mystery, roll +Weird.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> hold 2.</p>
+original_partial: <p><strong>On a 7-9</strong> hold 1.</p>
+original_choices: <p>Spend your hold during the mystery to have someone you meet
+  know of you in a positive light (maybe they read your blog, listen to your
+  podcast, or watch your Internet/TV show, etc). You may end up getting asked
+  for autographs or given &ldquo;hot&rdquo; leads, etc.</p>
+name: Célébrité mineure
+description: <p>Au début de chaque mystère, lancez +Bizarre.</p>
+success: <p><strong>Sur un 10+</strong>, réserve 2.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
+choices: >-
+  <p>Dépensez votre réserve pendant le mystère pour qu’un figurant ait entendu parler de vous en bien (il a peut-être
+  lu votre blog, écouté votre podcast, vu votre émission Internet/télé, etc.) On peut vous demander des autographes ou
+  vous fournir une piste intéressante.</p>

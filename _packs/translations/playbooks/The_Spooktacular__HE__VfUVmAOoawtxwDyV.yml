@@ -1,0 +1,515 @@
+original_name: The Spooktacular [HE]
+original_description: >-
+  <blockquote>
+
+  <p><em>I’ve traveled all over, pretty much everywhere you can make a dollar.
+  I’ve made people happy, and I guess annoyed a few. But everywhere you go has
+  monsters–this show included.</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%;height:185px" border="1"><colgroup><col
+  style="width:48.6941%"></col><col style="width:51.3059%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:151px">
+
+  <td style="height:151px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Spooktacular, first pick a name. Then follow the instructions
+  in this playbook to decide your look, ratings, Show, moves, and gear. Finally,
+  introduce yourself and pick history.</p>
+
+  <p><br /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.VzZvk14EtmQtbXQa]{Items} 
+  can be dragged and dropped to the appropriate header/field. For other values
+  and descriptions, you need to copy and paste, or manually change
+  them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="vertical-align:top;height:17px">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Human, slightly inhuman, fate-marked</li>
+
+  <li>Friendly face, guarded face, observant face, open face, weathered face,
+  young face</li>
+
+  <li>Fancy clothes, old clothes, stage costume, working clothes,</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm +2, Cool -1, Sharp +1, Tough 0, Weird +1</li>
+
+  <li>Charm +2, Cool +1, Sharp 0, Tough -1, Weird +1</li>
+
+  <li>Charm +2, Cool 0, Sharp -1, Tough -1, Weird +2</li>
+
+  <li>Charm +1, Cool 0, Sharp -1, Tough +1, Weird +2</li>
+
+  <li>Charm +1, Cool +1, Sharp 0, Tough -1, Weird +2</li>
+
+  </ul>
+
+  <h3><br />The SHOW</h3>
+
+  <p>You spent a long time with a traveling show and get an ability based on its
+  style.</p>
+
+  <p>Are you still with them? If so, how do you balance work and monster
+  hunting? If you left, why was that?</p>
+
+  <p><em>Pick your show’s specialty:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.KszvPo8g6iTlZLR4]{An
+  Infernal Power}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.q036isD1cq8h3Ugv]{Magic
+  &amp; Illusions}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.KUZAMxr6rHFu4DGE]{Making
+  Money}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.glsgEaGFSMGKEh9U]{Problem
+  Solvers}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.OV6PbO2sTjtg8zxJ]{Supernatural
+  Creatures}</p>
+
+  <h3><br />Moves</h3>
+
+  <p>You get all of the basic moves, and two Spooktacular moves.</p>
+
+  <p><em>Pick two of these:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.VzZvk14EtmQtbXQa]{A
+  Negligible Price}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.b8aSf8wemTsAcZvg]{Easygoin'}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.vgdncQqTzmTrQ1dw]{Pay
+  It Backward}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.rHipPqWxzgeYDH7g]{Put
+  On A Show}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.hrZgKugeCEFS2jBi]{The
+  Game Is Fixed}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.oQYe8yForxjVnHrM]{The
+  Old Crew}</p>
+
+  </td>
+
+  <td style="vertical-align:top;height:17px">
+
+  <h3>Gear</h3>
+
+  <p>You get one camp tool, one vehicle, one mystical item, and all the
+  paraphernalia. (Plese note that you, or your Keeper, must create these
+  manually (except Mysictal items)).</p>
+
+  <h4>Camp tools, <em>pick one</em>:</h4>
+
+  <ul>
+
+  <li>Pocket knife or multi-tool (1-harm hand useful small)</li>
+
+  <li>Mallet (1-harm hand useful blunt)</li>
+
+  <li>Crowbar (2-harm hand useful messy)</li>
+
+  <li>Baseball bat or similar (2-harm hand)</li>
+
+  <li>Hatchet (2-harm hand messy)</li>
+
+  <li>Sock full of coins (1-harm hand stun)</li>
+
+  </ul>
+
+  <h4><br />Vehicles, <em>pick one</em>:</h4>
+
+  <ul>
+
+  <li>Pickup</li>
+
+  <li>Van</li>
+
+  <li>Truck</li>
+
+  <li>Motorcycle &amp; sidecar</li>
+
+  </ul>
+
+  <h4><br />Mystical item, <em>pick one</em>:</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.MA454449Ls1liNsQ]{Ghost
+  Shades}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.opALcWUj3xsMlZcn]{Really
+  Big Plush Dog (Animated)}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.7XwXiUoP7lOPBiWW]{Returning
+  100}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.6OUFWW6tx4WzHCGk]{Scamulet}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.P18BGobNp3rIL4WX]{Wizard
+  Tent}</p>
+
+  <h4><br />You have all of this crap:</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.LaZicqqjrlCu5T5g]{Paraphernalia}</p>
+
+  <h3><br />Luck Special</h3>
+
+  <p>When you spend a point of Luck, you’re going to run into someone you met at
+  the Show. Could be good, could be bad, who knows?<br /><br /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Spooktacular by name and
+  look, and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. On your turn, pick one of these for each other
+  hunter:</p>
+
+  <ul>
+
+  <li>This hunter worked the Show with you. Ask them for how long–it was at
+  least a few months, time enough to become friends.</li>
+
+  <li>This hunter knew you as a kid. Ask what town you both hail from. Did you
+  run away to join the Show?</li>
+
+  <li>“No, I certainly did not rip you off in that town a few years back. Must
+  have been a different show, mate.”</li>
+
+  <li>This hunter was chasing a monster when the Show was in town, and thought
+  it might be one of the crew. Was it? How did you resolve things?</li>
+
+  <li>This hunter is an estranged family member. Decide the exact relationship
+  together.</li>
+
+  <li>Something got loose from the Show, a few years back, and this hunter ended
+  up helping you secure it again. Tell them what got loose, then ask how they
+  ended up hunting it too.</li>
+
+  <li>A fortune teller told you this hunter is part of your destiny. Ask what
+  the rest of the fortune said.</li>
+
+  <li>This weird old person pointed this hunter out to you when you were in a
+  bad spot. Ask them why they helped you get back on track.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px" colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1
+  Charm, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get +1
+  Weird, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.4pgKXfMI3wr9x3VO]{Take another
+  Spooktacular move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.4pgKXfMI3wr9x3VO]{Take another
+  Spooktacular move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain an
+  ally}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Bpsv2NnxLClhbFpo]{Take another
+  Show option}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.vThGzjyXMEkRJGJX]{Get your own
+  traveling show. Maybe you take over your old one, maybe you start anew}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: The Spooktacular [HE]
+description: >-
+  <blockquote> <p><em>I’ve traveled all over, pretty much everywhere
+    you can make a dollar. I’ve made people happy, and I guess annoyed a few. But everywhere
+    you go has monsters–this show included.</em></p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>To make
+    your Spooktacular, first pick a name. Then follow the instructions in this playbook
+    to decide your look, ratings, Show, moves, and gear. Finally, introduce yourself
+    and pick history.</p>
+  <p><br /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.VzZvk14EtmQtbXQa]{Items} 
+    can be dragged and dropped to the appropriate header/field. For other values and
+    descriptions, you need to copy and paste, or manually change them.</em></p>
+  <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p>
+
+    </td>
+  </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul> <li>Human, slightly
+    inhuman, fate-marked</li>
+  <li>Friendly face, guarded face, observant face, open
+    face, weathered face, young face</li>
+  <li>Fancy clothes, old clothes, stage costume,
+    working clothes,</li>
+  </ul> <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p>
+
+    <ul>
+  <li>Charm +2, Cool -1, Sharp +1, Tough 0, Weird +1</li> <li>Charm +2, Cool
+    +1, Sharp 0, Tough -1, Weird +1</li>
+  <li>Charm +2, Cool 0, Sharp -1, Tough -1,
+    Weird +2</li>
+  <li>Charm +1, Cool 0, Sharp -1, Tough +1, Weird +2</li> <li>Charm
+    +1, Cool +1, Sharp 0, Tough -1, Weird +2</li>
+  </ul> <h3><br />The SHOW</h3>
+
+    <p>You spent a long time with a traveling show and get an ability based on its style.</p>
+
+    <p>Are you still with them? If so, how do you balance work and monster hunting?
+    If you left, why was that?</p>
+  <p><em>Pick your show’s specialty:</em></p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.KszvPo8g6iTlZLR4]{An
+    Infernal Power}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.q036isD1cq8h3Ugv]{Magic
+    &amp; Illusions}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.KUZAMxr6rHFu4DGE]{Making
+    Money}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.glsgEaGFSMGKEh9U]{Problem
+    Solvers}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.OV6PbO2sTjtg8zxJ]{Supernatural
+    Creatures}</p>
+  <h3>Manœuvres</h3> <p>You get all of the basic moves, and two
+    Spooktacular moves.</p>
+  <p><em>Pick two of these:</em></p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.VzZvk14EtmQtbXQa]{A
+    Negligible Price}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.b8aSf8wemTsAcZvg]{Easygoin'}</p>
+
+    <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.vgdncQqTzmTrQ1dw]{Pay
+    It Backward}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.rHipPqWxzgeYDH7g]{Put
+    On A Show}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.hrZgKugeCEFS2jBi]{The
+    Game Is Fixed}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.oQYe8yForxjVnHrM]{The
+    Old Crew}</p>
+  </td> <td style="padding: 8px;"> <h3>Équipement</h3>
+
+    <p>You get one camp tool, one vehicle, one mystical item, and all the paraphernalia.
+    (Plese note that you, or your Keeper, must create these manually (except Mysictal
+    items)).</p>
+  <h4>Camp tools, <em>pick one</em>:</h4> <ul> <li>Pocket knife or
+    multi-tool (1-harm hand useful small)</li>
+  <li>Mallet (1-harm hand useful blunt)</li>
+
+    <li>Crowbar (2-harm hand useful messy)</li>
+  <li>Baseball bat or similar (2-harm
+    hand)</li>
+  <li>Hatchet (2-harm hand messy)</li> <li>Sock full of coins (1-harm
+    hand stun)</li>
+  </ul> <h4><br />Vehicles, <em>pick one</em>:</h4> <ul> <li>Pickup</li>
+
+    <li>Van</li>
+  <li>Truck</li> <li>Motorcycle &amp; sidecar</li> </ul> <h4><br
+    />Mystical item, <em>pick one</em>:</h4>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.MA454449Ls1liNsQ]{Ghost
+    Shades}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.opALcWUj3xsMlZcn]{Really
+    Big Plush Dog (Animated)}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.7XwXiUoP7lOPBiWW]{Returning
+    100}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.6OUFWW6tx4WzHCGk]{Scamulet}</p>
+
+    <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.P18BGobNp3rIL4WX]{Wizard
+    Tent}</p>
+  <h4><br />You have all of this crap:</h4>
+  <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.LaZicqqjrlCu5T5g]{Paraphernalia}</p>
+
+    <h3><br />Luck Special</h3>
+  <p>When you spend a point of Luck, you’re going to
+    run into someone you met at the Show. Could be good, could be bad, who knows?<br
+    /><br /></p>
+  <h3>Présentations</h3> <p>When you get here, wait for everyone to
+    catch up so you can do your introductions together.</p>
+  <p>Go around the group.
+    On your turn, introduce your Spooktacular by name and look, and tell the group what
+    they know about you.</p>
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p> <ul> <li>This hunter
+    worked the Show with you. Ask them for how long–it was at least a few months, time
+    enough to become friends.</li>
+  <li>This hunter knew you as a kid. Ask what town
+    you both hail from. Did you run away to join the Show?</li>
+  <li>“No, I certainly
+    did not rip you off in that town a few years back. Must have been a different show,
+    mate.”</li>
+  <li>This hunter was chasing a monster when the Show was in town, and
+    thought it might be one of the crew. Was it? How did you resolve things?</li>
+
+    <li>This hunter is an estranged family member. Decide the exact relationship together.</li>
+
+    <li>Something got loose from the Show, a few years back, and this hunter ended up
+    helping you secure it again. Tell them what got loose, then ask how they ended up
+    hunting it too.</li>
+  <li>A fortune teller told you this hunter is part of your
+    destiny. Ask what the rest of the fortune said.</li>
+  <li>This weird old person
+    pointed this hunter out to you when you were in a bad spot. Ask them why they helped
+    you get back on track.</li>
+  </ul> </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+    <p>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1 Charm, max
+    +3}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool,
+    max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1
+    Sharp, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get
+    +1 Weird, max +3}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.4pgKXfMI3wr9x3VO]{Take
+    another Spooktacular move}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.4pgKXfMI3wr9x3VO]{Take
+    another Spooktacular move}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain
+    an ally}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Bpsv2NnxLClhbFpo]{Take
+    another Show option}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
+    a move from another playbook}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
+    a move from another playbook}</p>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul> <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
+    +1 to any rating, max +3.}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change
+    this hunter to a new type}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create
+    a second hunter to play as well as this one}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark
+    two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark
+    another two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire
+    this hunter to safety}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get
+    back one used Luck point}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.vThGzjyXMEkRJGJX]{Get
+    your own traveling show. Maybe you take over your old one, maybe you start anew}</p>
+
+    </td>
+  </tr> </tbody> </table>

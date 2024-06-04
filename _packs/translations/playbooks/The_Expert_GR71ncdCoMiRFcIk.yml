@@ -1,0 +1,453 @@
+original_name: The Expert
+original_description: >-
+  <blockquote>
+
+  <p>I have dedicated my life to the study of the unnatural. I know their
+  habits, their weaknesses. I may not be youngest or strongest, but my knowledge
+  makes me the biggest threat.</p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <p> </p>
+
+  <table style="width:100%" border="1"><colgroup><col
+  style="width:47.9051%"></col><col style="width:52.0949%"></col></colgroup>
+
+  <tbody>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Expert, first pick a name. Then follow the instructions in
+  this playbook to decide your look, ratings, haven, moves, and gear. Finally,
+  introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-expert.Item.5doy3lguVeGyYbs1]{Items} can be
+  dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.<br /><br
+  /></em></p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, indeterminate.</li>
+
+  <li>Thoughtful face, lined face, scarred face, contemplative face, stern face,
+  avuncular face, experienced face, ancient face.</li>
+
+  <li>Old fashioned clothes, casual clothes, utility clothes, tailored clothes,
+  outdoor clothes.</li>
+
+  </ul>
+
+  <p> </p>
+
+  <h3>Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm-1, Cool+1, Sharp+2, Tough+1, Weird=0</li>
+
+  <li>Charm=0, Cool+1, Sharp+2, Tough-1, Weird+1</li>
+
+  <li>Charm+1, Cool-1, Sharp+2, Tough+1, Weird=0</li>
+
+  <li>Charm-1, Cool+1, Sharp+2, Tough=0, Weird+1</li>
+
+  <li>Charm-1, Cool=0, Sharp+2, Tough-1, Weird+2</li>
+
+  </ul>
+
+  <h3><br />Haven</h3>
+
+  <p>You have set up a haven, a safe place to work. Pick three of the options
+  below for your haven:<br /><br
+  />@UUID[Compendium.motw-for-pbta.the-expert.Item.6xREFj5GvjcPOTtb]{Haven:
+  Armory}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.1IC8TMXE1ID51Ewn]{Haven:
+  Infirmary}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.ku2aKqWrIgziYc5H]{Haven:
+  Lore Library}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.NoYSzyB5StdvlyZY]{Haven:
+  Magical Laboratory}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.C9N7HDiMTqnNQVgp]{Haven:
+  Mystical Library}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.Yda7qeQSVFN6ryrf]{Haven:
+  Oubliette}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.2MwDLfSEXuanTiJV]{Haven:
+  Panic Room}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.jL4bXbEPTHXpROkQ]{Haven:
+  Protection Spells}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.Zg1xdKckhuF82fNH]{Haven:
+  Workshop}</p>
+
+  <p> </p>
+
+  <h3>Moves</h3>
+
+  <p><em>You get all of the basic moves, plus pick two Expert moves</em>:<br
+  /><br />@UUID[Compendium.motw-for-pbta.the-expert.Item.5doy3lguVeGyYbs1]{Dark
+  Past}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.r9l0y429XL3QFwoX]{I've Read
+  About This Sort Of Thing}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.m4FnyoqSiaMGCuXN]{It Wasn't
+  As Bad As It Looked}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.DYvzHLSaGUogla2e]{Often
+  Right}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.lD5UnpoTqMhbm4EZ]{Precise
+  Strike}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.AFmN5xmBwA9t18tx]{Preparedness}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-expert.Item.qeCiP0N6PTEFqa7P]{The Woman
+  (Or Man) With The Plan}</p>
+
+  <p> </p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p>You get three monster-slaying weapons  (Please note that you, or your
+  Keeper must create these manually).</p>
+
+  <p><em>Pick three:</em></p>
+
+  <ul>
+
+  <li>Mallet &amp; wooden stakes (3-harm intimate slow<br />wooden)</li>
+
+  <li>Silver sword (2-harm hand messy silver)</li>
+
+  <li>Cold iron sword (2-harm hand messy iron)</li>
+
+  <li>Blessed knife (2-harm hand holy)</li>
+
+  <li>Magical dagger (2-harm hand magic)</li>
+
+  <li>Juju bag (1-harm far magic)</li>
+
+  <li>Flamethrower (3-harm close fire heavy volatile)</li>
+
+  <li>Magnum (3-harm close reload loud)</li>
+
+  <li>Shotgun (3-harm close messy loud)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.</p>
+
+  <p> </p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Expert by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. On your turn, pick one of these for each other
+  hunter:</p>
+
+  <ul>
+
+  <li>They are your student, apprentice, ward, or child. Between you, decide
+  which.</li>
+
+  <li>They came to you for advice, and your advice got them out of trouble. Ask
+  them what the trouble was.</li>
+
+  <li>They know about some of your dark secrets, but they’ve agreed to keep
+  quiet about them. Tell them what they know.</li>
+
+  <li>A distant relation. Tell them exactly what.</li>
+
+  <li>You were previously both members of an eldritch group, now disbanded. Ask
+  them why they left, then tell them why you did.</li>
+
+  <li>They once helped you get a singular item that is now part of your haven.
+  Tell them what it was.</li>
+
+  <li>You were taught by the same master. Ask them how it ended.</li>
+
+  <li>You saved their life in a tight spot. Tell them what happened.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2><br />Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the following list:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]{Get +1 Sharp,
+  max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]{Get +1 Weird,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.jfT5tt00ZTXPxBl7]{Take another
+  Expert move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.jfT5tt00ZTXPxBl7]{Take another
+  Expert move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.kpKyvgPHaoOUjWTJ]{Add an option to
+  your haven}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.kpKyvgPHaoOUjWTJ]{Add an option to
+  your haven}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these. They’re below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: L’Expert
+description: >-
+  <blockquote> <p>J’ai consacré ma vie à l’étude du surnaturel. Je connais les
+  habitudes et les faiblesses de ces créatures. Je ne suis probablement ni le
+  plus jeune ni le plus âgé, mais mon savoir fait de moi la plus grande
+  menace.</p> </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+
+  <p>Pour créer votre Expert, commencez par lui trouver un nom. Puis suivez les
+  instructions ci-dessous pour choisir votre apparence, vos caractéristiques,
+  vos manœuvres, votre refuge et votre équipement. Enfin, présentez-vous et
+  attribuez vos histoires.</p> <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-expert.Item.5doy3lguVeGyYbs1]{objets}
+    peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres valeurs et descriptions, vous
+    devez les copier/coller, ou les modifier manuellement.</em></p>
+  </td>
+    </tr>
+  <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p>
+
+  <ul> <li>Homme, femme, indéterminé.</li> <li>Visage songeur, visage ridé,
+  visage balafré, visage contemplatif, visage sévère, visage avunculaire, visage
+  expérimenté, visage vieux.</li> <li>Vêtements démodés, tenue décontractée,
+  vêtements pratiques, vêtements taillés sur mesure, tenue de randonnée.</li>
+  </ul>
+
+  <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p> <ul>
+    <li>Charme -1, Cool +1, Futé +2, Coriace +1, Bizarre 0</li>
+    <li>Charme 0, Cool+1, Futé +2, Coriace -1, Bizarre +1</li>
+    <li>Charme +1, Cool -1, Futé +2, Coriace +1, Bizarre 0</li>
+    <li>Charme -1, Cool +1, Futé +2, Coriace 0, Bizarre +1</li>
+    <li>Charme -1, Cool 0, Futé +2, Coriace -1, Bizarre +2</li>
+  </ul>
+
+  <h3>Refuge</h3> <p>Vous disposez d’un refuge, un endroit sûr d’où travailler.
+  Ajoutez-lui trois des options suivantes :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.6xREFj5GvjcPOTtb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.1IC8TMXE1ID51Ewn]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.ku2aKqWrIgziYc5H]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.NoYSzyB5StdvlyZY]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.C9N7HDiMTqnNQVgp]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.Yda7qeQSVFN6ryrf]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.2MwDLfSEXuanTiJV]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.jL4bXbEPTHXpROkQ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.Zg1xdKckhuF82fNH]</li>
+  <p>
+
+  <h3>Manœuvres</h3> <p><em>Vous connaissez toutes les manœuvres de base,
+  auxquelles s’ajoutent deux manœuvres d’Expert :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.5doy3lguVeGyYbs1]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.r9l0y429XL3QFwoX]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.m4FnyoqSiaMGCuXN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.DYvzHLSaGUogla2e]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.lD5UnpoTqMhbm4EZ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.AFmN5xmBwA9t18tx]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.qeCiP0N6PTEFqa7P]</li>
+  </ul> </td> <td style="padding: 8px;">
+
+  <h3>Équipement</h3>
+
+  <p>Vous gagnez trois armes tueuses de monstre.</p>
+
+  <p><em>Choisissez-en trois :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.IIBU7SNWRjysWuVy]{Pieux en bois et maillet} (3 dégâts,
+    personnel, lent, bois)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Kogt5HA8nYVkgUhx]{épée en argent} (2 dégâts,
+    allonge, sanglant, argent)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.X1M3RhELV7EsQuc5]{épée en fer froid} (2 dégâts,
+    allonge, sanglant, fer)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Xal89HWFoPGBCWfU]{Poignard béni} (2 dégâts, allonge,
+    béni)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.zjxhjjVfNynzIYgF]{Dague magique} (2 dégâts, allonge,
+    magique)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.B5Vz9GYGnBMOu1pO]{Sac de grigris} (1 dégât, loin, magique)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.ACDZf986d3SD6U2D]{Lance-flammes} (3 dégâts, proche, feu,
+    lourd, volatil)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.wiZBsRVTTvNGCz8o]{Magnum} (3 dégâts, proche, rechargement,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.1K5l6l3nmapqhnic]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+  </ul>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Expert en dévoilant son nom et son apparence, et en disant aux autres membres
+  du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p>
+
+  <ul>
+    <li>C’est votre élève, votre apprenti, votre protégé, ou votre enfant. Décidez-en tous les deux.</li>
+    <li>Il est venu pour vos conseils, qui l’ont tiré d’affaire. Demandez-lui en quoi consistait le problème.</li>
+    <li>Il connaît un de vos pires secrets, mais a accepté de ne rien en dire. Précisez-lui ce qu’il sait.</li>
+    <li>Un parent éloigné. Dites-lui exactement en quoi.</li>
+    <li>
+      Vous avez tous deux été membres d’un groupe ésotérique, désormais dissous. Demandez-lui pourquoi il l’a quitté,
+      puis expliquez-lui pourquoi vous en avez fait autant.
+    </li>
+    <li>
+      Il vous a jadis aidé à mettre la main sur un objet singulier qui fait maintenant partie de votre refuge.
+      Dites-lui ce dont il s’agissait.
+    </li>
+    <li>Vous avez été formés par le même maître. Demandez-lui comment cela s’est terminé.</li>
+    <li>Vous lui avez sauvé la vie en le tirant d’une position très délicate. Dites-lui ce qui s’est passé.</li>
+  </ul>
+    </td>
+  </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du galon</h2>
+  <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition.
+    Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de
+    celles que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.jfT5tt00ZTXPxBl7]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.jfT5tt00ZTXPxBl7]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.kpKyvgPHaoOUjWTJ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.kpKyvgPHaoOUjWTJ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+  </ul> </td> </tr> </tbody> </table>

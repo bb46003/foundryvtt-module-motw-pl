@@ -1,0 +1,15 @@
+original_name: "Background: Pickpocket"
+original_description: <p>When you steal something small, <strong>roll +Charm</strong>.&nbsp;</p>
+original_success: <p><strong>On a 10 or more</strong>, you get it and they
+  didn&rsquo;t notice you taking it.</p>
+original_partial: "<p>&nbsp;<strong>On a 7-9</strong> either you don&rsquo;t
+  grab it, you grab the wrong thing, or they remember you later: your
+  choice.</p>"
+name: "Background : Pickpocket"
+description: <p>Quand vous volez un objet de petite taille, <strong>lancez
+  +Charme</strong>.</p>
+success: <p><strong>Sur un 10+</strong>, vous parvenez à vos fins et votre
+  victime ne s’aperçoit de rien.</p>
+partial: <p>&nbsp;<strong>Sur un 7-9</strong> vous ratez votre coup, vous mettez
+  la main sur le mauvais objet, ou votre victime ne vous oubliera pas de sitôt
+  (au choix).</p>

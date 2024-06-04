@@ -1,0 +1,49 @@
+folder: bCp0Eof7nDxwYGmI
+name: A Negligible Price
+type: move
+_id: VzZvk14EtmQtbXQa
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You can make a magical deal to <strong>fulfill a desire</strong> for
+    someone else. The price is that they reveal to you a secret, the world then
+    arranges itself to fulfill their desire, fitting the scale of the
+    secret.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooktacular [HE]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690914022113
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!VzZvk14EtmQtbXQa'
+

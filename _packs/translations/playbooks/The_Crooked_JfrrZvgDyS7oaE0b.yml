@@ -1,0 +1,510 @@
+original_name: The Crooked
+original_description: >-
+  <blockquote>
+
+  <p>“Yeah, I’ve been around the block. A bit of this, a bit of that. When I
+  came across the secret underworld of monsters and magic… well… it wasn’t so
+  different from the underworld I already knew. It was easy to find an angle,
+  just like before.”</p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="border-width:1px;border-style:hidden;width:100%"
+  border="1"><colgroup><col style="width:50.7511%"></col><col
+  style="width:48.8197%"></col><col style="width:0.429185%"></col></colgroup>
+
+  <tbody>
+
+  <tr>
+
+  <td style="border-width:1px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Crooked, pick a name. Then follow the instructions in this
+  playbook to decide your look, ratings, background, heat, underworld, moves,
+  and gear. Finally, introduce yourself and pick history. <br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-crooked.Item.4qOG35AkPqRrCEGg]{Items} can
+  be dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  <td style="border-width:1px"> </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="border-width:1px;vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, concealed.</li>
+
+  <li>Hard eyes, friendly eyes, watchful eyes, smiling eyes, calculating
+  eyes.</li>
+
+  <li>Street wear, tailored suit, cheap suit, tracksuit, nondescript
+  clothes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm +1, Cool +1, Sharp +2, Tough 0, Weird -1</li>
+
+  <li>Charm -1, Cool +1, Sharp +1, Tough +2, Weird 0</li>
+
+  <li>Charm -1, Cool +2, Sharp +2, Tough 0, Weird -1</li>
+
+  <li>Charm +2, Cool +1, Sharp +1, Tough 0, Weird -1</li>
+
+  <li>Charm +2, Cool 0, Sharp +1, Tough -1, Weird +1</li>
+
+  </ul>
+
+  <p> </p>
+
+  <h3>Background</h3>
+
+  <p>You worked a less-than-legal job before you became a monster hunter. What
+  did you do?</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.UGEWcy7VbtOnCyIY]{Background:
+  Assassin}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.1dq3IAGNUsZrryYh]{Background:
+  Burglar}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.9udSyLLrkbGNuW9L]{Background:
+  Charlatan}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.Y3uwSooDpZmpLNpV]{Background:
+  Grifter}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.FWZ9a15edFA0h6Eg]{Background:
+  Hoodlum}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.agQrb4n7yCQtpS2p]{Background:
+  Pickpocket}</p>
+
+  <p> </p>
+
+  <h3>Heat</h3>
+
+  <p>You didn’t get here without making enemies. Pick at least two of these and
+  name the people involved (Please note that you need to copy and paste these
+  into your character's Description:</p>
+
+  <ul>
+
+  <li>A police detective, __________, has made it a personal goal to put you
+  away.</li>
+
+  <li>You have a rival from your background, __________, who never misses a
+  chance to screw you over.</li>
+
+  <li>You pissed off a well-connected criminal, __________, and they’ll do
+  whatever they can to destroy you.</li>
+
+  <li>__________ is someone with special powers, a person or monster, who you
+  took advantage of.</li>
+
+  <li>__________ is an old partner you betrayed in the middle of a job.<br /><br
+  /></li>
+
+  </ul>
+
+  <h3>Underworld</h3>
+
+  <p>Pick how you discovered about the real underworld. Keep this in mind when
+  you select your moves in the next section, so that everything fits together.
+  (Underworld also needs to be copied and pasted into the Description):</p>
+
+  <ul>
+
+  <li>The target of a job was a dangerous creature. Pick one: vampire, werewolf,
+  troll, reptiloid.</li>
+
+  <li>You worked with someone who was more than they seemed. Pick one: sorcerer,
+  demon, faerie, psychic.</li>
+
+  <li>You were hired by something weird. Pick one: immortal, god, outsider,
+  witch.</li>
+
+  <li>Things went south on a job—including, but not limited to, running into
+  (choose one): a horde of goblins, a hunger of ghouls, a dream-eater, a
+  salamander.</li>
+
+  </ul>
+
+  </td>
+
+  <td style="border-width:1px;vertical-align:top">
+
+  <h3>Moves</h3>
+
+  <p>You get all the basic moves, and two Crooked moves:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.4qOG35AkPqRrCEGg]{Artifact}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.NtmPd6EP0KRidMhk]{Crew}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.ThbjG0UMLOW8aLTb]{Deal With
+  The Devil}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.sFu0UKE3JxTUNP4u]{Driver}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.xF5hMllLPVVH2ftY]{Friends
+  On The Force}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.PV9NC1o4jsAH6DTh]{Home
+  Ground}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.vhsKzrFWOkexmzr5]{Made}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-crooked.Item.vQmCbpM2tnypGwHB]{Notorious}</p>
+
+  <p> </p>
+
+  <h3>Gear</h3>
+
+  <p>Effective weapons, pick three (Please note that you, or your Keeper must
+  create these manually):</p>
+
+  <ul>
+
+  <li>.22 revolver (1-harm close reload small)</li>
+
+  <li>.38 revolver (2-harm close reload loud)</li>
+
+  <li>9mm (2-harm close loud)</li>
+
+  <li>Shotgun (3-harm close messy)</li>
+
+  <li>Hunting rifle (2-harm far loud)</li>
+
+  <li>Big knife (1-harm hand)</li>
+
+  <li>Baseball bat (1-harm hand)</li>
+
+  <li>Submachinegun (2-harm close reload area)</li>
+
+  <li>Assault rifle (3-harm close/far area)<br /><br /></li>
+
+  </ul>
+
+  <h3>Luck Special</h3>
+
+  <p>Whenever you spend a Luck point, someone from your past will re-appear in
+  your life. Soon.<br /><br /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Crooked by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>This hunter knows about your criminal past. Tell them what crimes they saw
+  you commit.</li>
+
+  <li>This hunter was there when you decided to give up the life and hunt
+  monsters instead. Work out together what happened.</li>
+
+  <li>This hunter is your younger sibling or child (possibly adopted). You look
+  out for them.</li>
+
+  <li>This hunter is a cousin or more distant relative.</li>
+
+  <li>This hunter saved your life when a monster had the drop on you. Now you
+  owe them one.</li>
+
+  <li>This hunter worked with you on a semi-legal or illegal job. Work out what
+  it was.</li>
+
+  <li>This hunter is your moral compass. When you talk over things with them,
+  their advice keeps you on the straight and narrow.</li>
+
+  <li>You’re powerfully attracted to this hunter. Maybe someday you’ll deserve
+  them.</li>
+
+  </ul>
+
+  </td>
+
+  <td style="border-width:1px"> </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="border-width:1px;vertical-align:top" colspan="2">
+
+  <p> </p>
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em><br /><br /></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]{Get +1 Sharp,
+  max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]{Get +1 Tough,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.jOxuEMLPh71gehN1]{Take another
+  Crooked move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.jOxuEMLPh71gehN1]{Take another
+  Crooked move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.mK7Z6veTPOU6LXYv]{Gain an ally:
+  one of your old crew}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.9Xb1QCqlHEU3uFTG]{Recover a stash
+  of money from the old days, enough to live without care... for a year or
+  two}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <h3><br />Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em><br /><br /></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase one used
+  luck mark from your playbook }</p>
+
+  </td>
+
+  <td style="border-width:1px"> </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: Le Vaurien
+description: >-
+  <blockquote>
+    <p>« Ouais, j’en connais un rayon. C’est le moins qu’on puisse dire. Quand j’ai découvert le monde secret des
+    monstres et de la magie, eh bien… je ne l’ai pas trouvé très différent du monde qui était déjà le mien. Je n’ai pas
+    franchement eu de mal à y trouver ma place. »</p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+
+  <p>Pour créer votre Vaurien, commencez par lui trouver un nom. Puis suivez les
+  instructions ci-dessous pour choisir votre apparence, vos caractéristiques,
+  votre background, votre pression, votre milieu, vos manœuvres et votre
+  équipement. Enfin, présentez-vous et attribuez vos histoires.</p>
+   <p><em>Instructions : Les @UUID[Compendium.motw-for-pbta.the-crooked.Item.4qOG35AkPqRrCEGg]{objets}
+   peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres valeurs et descriptions, vous
+   devez les copier/coller, ou les modifier manuellement.</em></p>
+  </td> </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3>
+  <p><em>Choisissez un élément de chaque liste :</em></p> <ul> <li>Homme, femme,
+  dissimulée.</li> <li>Regard dur, regard amical, regard scrutateur, regard
+  souriant, regard calculateur.</li> <li>Streetwear, costume sur mesure, costume
+  bon marché, survêtement, vêtements quelconques.</li> </ul>
+
+  <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p> <ul> <li>Charme
+  +1, Cool +1, Futé +2, Coriace 0, Bizarre -1</li> <li>Charme -1, Cool +1, Futé
+  +1, Coriace +2, Bizarre 0</li> <li>Charme -1, Cool +2, Futé +2, Coriace 0,
+  Bizarre -1</li> <li>Charme +2, Cool +1, Futé +1, Coriace 0, Bizarre -1</li>
+  <li>Charme +2, Cool 0, Futé +1, Coriace -1, Bizarre +1</li> </ul>
+  <h3>Background</h3> <p>Avant de devenir un chasseur de monstres, vous aviez un
+  boulot pas très légal. Que faisiez-vous exactement ?</p>
+
+  <ul>
+  <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.UGEWcy7VbtOnCyIY]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.1dq3IAGNUsZrryYh]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.9udSyLLrkbGNuW9L]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.Y3uwSooDpZmpLNpV]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.FWZ9a15edFA0h6Eg]</li>
+  <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.agQrb4n7yCQtpS2p]</li>
+  </ul> <h3>Pression</h3> <p>Vous n’en êtes pas arrivé là sans vous faire
+  quelques ennemis. Choisissez au moins deux lignes et nommez les personnes
+  impliquées.</p> <p><em>Veuillez noter que vous devez copier / coller ces
+  éléments dans la description de votre personnage.</em></p> <ul>
+    <li>Un officier de police, __________________, a décidé de vous mettre sur la touche.</li>
+    <li>Vous avez un rival de votre background, __________________, qui ne rate jamais une occasion de vous enfler.</li>
+    <li>Vous avez mis en rogne un criminel notoire, _________________, qui est maintenant prêt à tout pour vous
+  anéantir.</li>
+    <li>Vous avez profité de ________________, une personne ou un monstre qui possède des pouvoirs spéciaux.</li>
+    <li>_______________ est un ancien partenaire que vous avez trahi au beau milieu d’une mission.</li>
+  </ul>
+
+  <h3>Milieu</h3> <p>À vous de choisir comment vous avez découvert les
+  véritables basfonds. Tenez-en compte par la suite lorsque vous choisirez vos
+  manœuvres car le tout est lié.</p>
+
+  <p><em>Le Milieu doit également être copié / collé dans la
+  description.</em></p>
+
+  <ul>
+    <li>La cible d’une mission était une dangereuse créature. Au choix : un vampire, un loup-garou, un troll ou un
+    reptiloïde.</li>
+    <li>Vous avez travaillé avec quelqu’un qui était plus qu’il n’y paraissait. Au choix : un sorcier, un démon, une
+    fée ou un médium.</li>
+    <li>Vous avez été engagé par une créature complètement dingue. Au choix : un immortel, un dieu, une puissance
+    extérieure ou une sorcière.</li>
+    <li>Tout est parti en vrille lors d’une mission. Vous êtes notamment tombé (mais cela ne s’arrête pas forcément là)
+    sur : une horde de gobelins, une nuée de goules, un dévoreur de rêves ou une salamandre.</li>
+  </ul> </td> <td style="padding: 8px;"> <h3>Manœuvres</h3> <p>Vous connaissez
+  toutes les manœuvres de base, auxquelles s’ajoutent deux manœuvres de Vaurien
+  :</p> <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.4qOG35AkPqRrCEGg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.NtmPd6EP0KRidMhk]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.ThbjG0UMLOW8aLTb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.sFu0UKE3JxTUNP4u]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.xF5hMllLPVVH2ftY]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.PV9NC1o4jsAH6DTh]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.vhsKzrFWOkexmzr5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.vQmCbpM2tnypGwHB]</li>
+  </ul>
+
+  <h3>équipement</h3>
+
+  <p>Choisissez trois armes :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.dXnFNYG470LEdeEe]{Revolver, calibre .22} (1 dégât, proche,
+    rechargement, petit)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.lNnlZfwD0PIOuSJe]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.ehZDOJqWvNdLP8Ff]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.6vB0ZawB30d3xfXh]{Fusil à pompe} (3 dégâts, proche,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.C3Vl0J1nUXlE2Eh2]{Fusil de chasse} (2 dégâts, loin, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.DZZqxbBIqZdmpb7j]{Couteau de chasse} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.hCCoxTQtctXQW3BD]{Batte de baseball} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.yMFqKEk1BGERsAfS]{Pistolet-mitrailleur} (2 dégâts, proche,
+    rechargement, automatique)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.kRUt5eDafWBKGVco]{Fusil d’assaut} (3 dégâts, proche/loin,
+    automatique)</li>
+  </ul>
+
+  <h3>Chance spéciale</h3> <p>Chaque fois que vous dépensez un point de Chance,
+  un individu de votre passé (pression ou milieu) ne tarde pas à réapparaître
+  dans votre vie.</p>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Vaurien en dévoilant son nom et son apparence, et en disant aux autres membres
+  du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p> <ul>
+    <li>Ce chasseur connaît votre passé criminel. Dites-lui quels crimes il vous a vu commettre.</li>
+    <li>
+      Ce chasseur était là quand vous avez décidé de renoncer à votre ancienne vie pour traquer des monstres.
+      Détaillez ce qui s’est passé.
+    </li>
+    <li>Ce chasseur est votre jeune frère ou sœur, ou votre enfant (peut‑être adoptif ). Vous prenez soin de lui.</li>
+    <li>Ce chasseur est un cousin ou quelque autre parent éloigné.</li>
+    <li>
+      Ce chasseur vous a sauvé la vie alors qu’un monstre était sur le point de vous envoyer six pieds sous terre.
+      Maintenant, vous lui en devez une.
+    </li>
+    <li>Ce chasseur a travaillé avec vous lors d’une mission plus ou moins légale. Détaillez-la.</li>
+    <li>Ce chasseur est votre guide moral. Quand vous lui parlez, ses conseils vous évitent de déraper.</li>
+    <li>Vous êtes inexorablement attiré par ce chasseur. Peut-être un jour le mériterez-vous.</li>
+  </ul> </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition.
+    Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de
+    celles que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3>
+
+  <p><em>Dès que vous avez coché cinq cases d’expérience, vous prenez du galon.
+  Effacez le contenu des cases et choisissez une amélioration parmi les
+  suivantes :</em></p>
+
+  <ul> <li>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.jOxuEMLPh71gehN1]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.jOxuEMLPh71gehN1]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.mK7Z6veTPOU6LXYv]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.9Xb1QCqlHEU3uFTG]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li> </ul>
+
+  <h3>Améliorations avancées</h3>
+    <p><em>Après avoir pris du galon cinq fois, vous pouvez aussi choisir parmi les améliorations avancées
+    ci-dessous.</em></p>
+
+  <ul> <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+  <li>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]</li> </ul>
+  </td> </tr> </tbody> </table>

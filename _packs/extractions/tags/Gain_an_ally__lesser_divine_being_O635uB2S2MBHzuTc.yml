@@ -1,0 +1,25 @@
+folder: FYAMwDuUVimRvr2o
+name: 'Gain an ally: lesser divine being'
+type: tag
+_id: O635uB2S2MBHzuTc
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: >-
+    <p>Gain a lesser divine being as an ally, sent from above to help with your
+    mission.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690206243065
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!O635uB2S2MBHzuTc'
+

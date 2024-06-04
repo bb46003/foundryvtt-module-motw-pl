@@ -1,0 +1,51 @@
+{
+  "folder": "kqtdVaw7sRX1FEkW",
+  "name": "Venez me chercher",
+  "type": "move",
+  "_id": "GsgHyN60BoCzos0k",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous pouvez motiver vos ennemis à vous affronter vous et vous seul, soit avec des mots, soit en étant simplement le plus gros bourrin de l’équipe. Lancez +Coriace.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, les ennemis se jettent sur vous.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, ils se jettent sur vous mais un ou deux de vos camarades se font cibler aussi.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, ils se jettent sur vous bien plus f&eacute;rocement que vous ne le pensiez.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Dur à Cuire",
+    "rollType": "tough",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714201913772,
+    "modifiedTime": 1714210168582,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!GsgHyN60BoCzos0k"
+}

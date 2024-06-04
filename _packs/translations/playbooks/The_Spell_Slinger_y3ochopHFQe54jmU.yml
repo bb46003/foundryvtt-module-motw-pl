@@ -1,0 +1,489 @@
+original_name: The Spell-Slinger
+original_description: >-
+  <blockquote>
+
+  <p><em>Fight fire with fire magic.</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <p> </p>
+
+  <table style="width:100%;height:1481px" border="1"><colgroup><col
+  style="width:46.5079%"></col><col style="width:53.4921%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:144px">
+
+  <td style="height:144px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>TTo make your Spell-slinger, first pick a name. Then follow the
+  instructions below to decide your look, ratings, Combat Magic, moves, and
+  gear. Finally, introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.TAsimP7kEy3Hmncp]{Items}can
+  be dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.<br /><br
+  /></em></p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Woman, man, androgynous.</li>
+
+  <li>Rumpled clothes, stylish clothes, goth clothes, old fashioned
+  clothes.</li>
+
+  <li>Shadowed eyes, fierce eyes, weary eyes, sparkling eyes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm-1, Cool+1, Sharp+1, Tough=0, Weird+2</li>
+
+  <li>Charm=0, Cool-1, Sharp+1, Tough+1, Weird+2</li>
+
+  <li>Charm-1, Cool=0, Sharp+2, Tough-1, Weird+2</li>
+
+  <li>Charm+1, Cool=0, Sharp+1, Tough-1, Weird+2</li>
+
+  <li>Charm=0, Cool=0, Sharp+1, Tough=0, Weird+2</li>
+
+  </ul>
+
+  <h3><br />Combat Magic</h3>
+
+  <p>You have a few attack spells you can use as weapons. When you use these
+  spells to <strong>kick some ass</strong>, roll +Weird instead of +Tough.</p>
+
+  <p>Sometimes the situation may require you to <strong>act under
+  pressure</strong> to cast your spell without problems.</p>
+
+  <p>Your combat spells can combine any of your base spells with any of your
+  effects.</p>
+
+  <p><em>(Foundry: Drag and drop the selected Base(s) to your Character Sheet,
+  open it up for editing and add your selected Effect(s) to the Tags (type them
+  in on the Base weapon))</em></p>
+
+  <p><em>Combat magic, pick three (with at least one base):</em></p>
+
+  <h4>Bases:</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.tJQrmBHyfNtHa7eC]{Ball}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.fnWAf20KR3OSUpXm]{Blast}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.pxwzUvd80iSp5uOj]{Missile}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.j6i6q6JgBgoJAoo9]{Wall}</p>
+
+  <h4><br />Effects:</h4>
+
+  <ul>
+
+  <li>Fire: Add “+2 harm fire” to a base. If you get a 10+ on a combat magic
+  roll, the fire won’t spread.</li>
+
+  <li>Force or Wind: Add “+1 harm forceful” to a base, or “+1 armour” to a
+  wall.</li>
+
+  <li>Lightning or Entropy: Add “+1 harm messy” to a base.<br />Frost or Ice:
+  Adds “-1 harm +2 armour” to a wall, or “+1 harm restraining” to other
+  bases.</li>
+
+  <li>Earth: Add “forceful restraining” to a base.</li>
+
+  <li>Necromantic: Add “life-drain” to a base.</li>
+
+  </ul>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Moves</h3>
+
+  <p>You get all the basic moves and four Spell-slinger moves.</p>
+
+  <p>You have this one:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.Iyp0zmTVug4C6iX2]{Tools
+  and Techniques}</p>
+
+  <p>And you also get to use:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.2H4jsNo4lCTuDN63]{Combat
+  Magic [Kick Some Ass]}</p>
+
+  <p>Plus pick three of these:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.TAsimP7kEy3Hmncp]{Advanced
+  Arcane Training}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.7fnTYYBexYBji9mV]{Arcane
+  Reputation}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.nlh4VMGY656nxqZK]{Could've
+  Been Worse}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.7e4yvz7UQOMSNWd4]{Enchanted
+  Clothing}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.26utABx7iBIqAic5]{Forensic
+  Divination}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.4ipN6s8g8huZv9Yn]{Go
+  Big or Go Home}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.esIOFKh0oqUfCuPZ]{It's
+  Not My Fault}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.rpLa292uAVTmPLZ8]{Practitioner}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.CfA2OJr8VaqXvuQz]{Shield
+  Spell}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.BmmvzZKlROzX2EGI]{Third
+  Eye}</p>
+
+  <h3><br />Gear</h3>
+
+  <p>You don’t need much—aside from any foci or consumables to power your magic.
+  Still, it’s good to carry some backup. (Please note that you, or your Keeper
+  must create these manually). </p>
+
+  <p><em>Pick one:</em></p>
+
+  <ul>
+
+  <li>Old revolver (2-harm close reload loud)</li>
+
+  <li>Ritual knife (1-harm hand)</li>
+
+  <li>Heirloom sword (2-harm hand messy)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.<br /><br
+  /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Spell-slinger by name and
+  look, and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. On your turn, pick one for each of the other
+  hunters:</p>
+
+  <ul>
+
+  <li>They act as your conscience when the power goes to your head. Ask them
+  about the last time this happened.</li>
+
+  <li>Blood relation, though you were out of contact for years. Ask them how
+  they reconnected with you.</li>
+
+  <li>Mentor from another life. Ask them what they taught you.</li>
+
+  <li>Your magic-fueled rescue of them introduced them to the supernatural. Tell
+  them what creature was after them.</li>
+
+  <li>An old rivalry has turned into a tight friendship. Tell them what you once
+  fought over.</li>
+
+  <li>You thought they were dead, and now they’re back. What “killed” them?</li>
+
+  <li>They’re an on-again/off-again love interest. Ask them what keeps you
+  apart. Tell them what keeps you together.</li>
+
+  <li>A comrade-in-arms. You’ve faced the biggest threats together.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px" colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get +1
+  Weird, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]{Get +1 Tough,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.TO1zUtAYGMkJYqgS]{Take another
+  Spell-Slinger move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.TO1zUtAYGMkJYqgS]{Take another
+  Spell-Slinger move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase one used
+  luck mark}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.hGwYSbfzuOuEamrR]{Take another
+  Combat Magic pick}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.tXg24sIDCPA5qRyS]{You may cross
+  off another option from your Tools and Techniques}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: Le Magicien
+description: >-
+  <blockquote> <p>On combat le feu avec la magie du feu.</p> </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>Pour créer votre Magicien, commencez par lui trouver un nom. Puis suivez
+  les instructions ci-dessous pour choisir votre apparence, vos
+  caractéristiques, votre magie de combat, vos manœuvres et votre équipement.
+  Enfin, présentez-vous et attribuez vos histoires.</p> <p><em>Instructions :
+  Les
+  @UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.TAsimP7kEy3Hmncp]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p> </td>
+    </tr>
+  <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p>
+
+  <ul>
+    <li>Homme, femme, androgyne.</li>
+    <li>Vêtements froissés, vêtements chics, look gothique, vêtements démodés.</li>
+    <li>Regard sombre, regard intense, regard fatigué, yeux étincelants.</li>
+  </ul>
+
+  <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p>
+
+  <ul>
+    <li>Charme -1, Cool +1, Futé +1, Coriace 0, Bizarre +2</li>
+    <li>Charme 0, Cool -1, Futé +1, Coriace +1, Bizarre +2</li>
+    <li>Charme -1, Cool 0, Futé +2, Coriace -1, Bizarre +2</li>
+    <li>Charme +1, Cool 0, Futé +1, Coriace -1, Bizarre +2</li>
+    <li>Charme 0, Cool 0, Futé +1, Coriace 0, Bizarre +2</li>
+  </ul>
+
+  <h3>Magie de combat</h3> <p>Vous disposez de quelques attaques magiques. Quand
+  vous les utilisez pour <strong>casser la gueule</strong>, lancez +Bizarre au
+  lieu de +Coriace.</p> <p>Il peut également arriver que vous deviez
+  <strong>agir sous pression</strong> pour lancer un sort sans problème.</p>
+
+  <p>Vos sorts de combat peuvent mêler n’importe lequel de vos sorts de base à
+  n’importe lequel de vos effets.</p>
+
+  <p><em>Glissez-déposez ceux de base choisis sur votre feuille de personnage,
+  ouvrez-les pour les éditer et ajoutez les effets sélectionnés aux traits
+  (tapez-les sur l’arme de la base).</em></p>
+
+  <p><em>Magie de combat (choisissez-en trois, dont au moins une de base)
+  :</em></p>
+
+  <h4>Base :</h4> <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.tJQrmBHyfNtHa7eC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.fnWAf20KR3OSUpXm]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.pxwzUvd80iSp5uOj]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.j6i6q6JgBgoJAoo9]</li>
+  </ul>
+
+  <h4>Effets :</h4> <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.jEJLOmIFKos0JHsn] : Ajoutez « +2 dégâts, feu » à un sort de base. Si
+    vous obtenez un 10+ sur un jet de magie de combat, le feu ne se propage pas.</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.pLsRIIzfuBZ8AzwO] : Ajoutez « +1 dégât, percutant » à un sort de base,
+    ou « +1 armure » à un mur.</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.LU7oJg0KdwSJuAoT] : Ajoutez « +1 dégât, sanglant » à un sort de
+    base.</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.tXBMscpgnaOHcV7i] : Ajoutez « -1 dégât, +2 armure » à un mur, ou
+    « +1 dégât, gênant » à un sort de base.</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Tvb4fdakY3S7mRxQ] : Ajoutez « percutant, gênant » à un sort de
+    base.</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.ljDwGb1Gasm1lYf5] : Ajoutez « drain de vie » à un sort de base.</li>
+  </ul> </ul> </td>
+
+    <td style="padding: 8px;">
+  <h3>Manœuvres</h3> <p>Vous connaissez toutes les manœuvres de base, auxquelles
+  s’ajoutent quatre manœuvres de Magicien :</p> <p>Vous gagnez les suivantes
+  :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.Iyp0zmTVug4C6iX2]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.2H4jsNo4lCTuDN63]</li>
+  </ul>
+
+  <p>Puis choisissez-en trois :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.TAsimP7kEy3Hmncp]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.7fnTYYBexYBji9mV]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.nlh4VMGY656nxqZK]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.7e4yvz7UQOMSNWd4]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.26utABx7iBIqAic5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.4ipN6s8g8huZv9Yn]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.esIOFKh0oqUfCuPZ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.rpLa292uAVTmPLZ8]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.CfA2OJr8VaqXvuQz]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.BmmvzZKlROzX2EGI]</li>
+  </ul>
+
+  <h3>Équipement</h3>
+
+  <p>Vous n’avez pas besoin de grand-chose en plus de
+  focalisateurs et de composantes pour alimenter votre magie. Cela dit, mieux
+  vaut tout prévoir. Prenez, au choix :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Ztbq2pZ8CzWEjGs0]{Vieux revolver} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.kMkSof3LtJ2d9fim]{Dague rituelle} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.0MhnfKqjFpyWktPL]{épée familiale} (2 dégâts,
+    allonge, sanglant)</li>
+  </ul>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Magicien en dévoilant son nom et son apparence, et en disant aux autres
+  membres du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p>
+
+  <ul>
+    <li>Il est votre conscience quand le pouvoir vous monte à la tête. Demandez-lui des détails sur la dernière fois
+    que c’est arrivé.</li>
+    <li>Vous êtes parents mais vous êtes perdus de vue pendant des années. Demandez-lui comment il a repris
+    contact.</li>
+    <li>Un mentor d’une autre vie. Demandez-lui ce qu’il vous a appris.</li>
+    <li>C’est lorsque vous l’avez sauvé avec votre magie qu’il a découvert le surnaturel. Dites-lui quelle créature le
+    traquait.</li>
+    <li>Une vieille rivalité s’est muée en solide amitié. Expliquez-lui quel était l’objet de votre lutte.</li>
+    <li>Vous le croyiez mort et voilà qu’il revient. Qu’est-ce qui l’a « tué » ?</li>
+    <li>Vous entretenez une relation amoureuse en dents de scie. Demandez-lui ce qui vous sépare. Et ce qui vous
+    empêche de vous quitter.</li>
+    <li>Un frère d’armes. Vous avez affronté les pires dangers ensemble.</li>
+  </ul> </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.TO1zUtAYGMkJYqgS]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.TO1zUtAYGMkJYqgS]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.hGwYSbfzuOuEamrR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.tXg24sIDCPA5qRyS]</li>
+  </ul> </td> </tr>
+    </tbody>
+  </table>

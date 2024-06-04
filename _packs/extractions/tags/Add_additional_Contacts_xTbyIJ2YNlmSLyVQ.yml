@@ -1,0 +1,25 @@
+folder: FYAMwDuUVimRvr2o
+name: Add additional Contacts
+type: tag
+_id: xTbyIJ2YNlmSLyVQ
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: >-
+    <p>Add four additional or new contacts for your <strong>Naked City</strong>
+    move.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690888681147
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!xTbyIJ2YNlmSLyVQ'
+

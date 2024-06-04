@@ -1,0 +1,78 @@
+original_name: Manipulate Someone
+original_description: >-
+  <p>Once you have given them a reason, tell them what you want them to do and
+  <strong>roll +Charm.</strong></p>
+
+  <p>Monsters and minions cannot normally be manipulated.</p>
+original_success: >-
+  <p><strong>For a normal person:</strong></p>
+
+  <p><strong>On a 10+</strong>, then they&rsquo;ll do it for the reason you gave
+  them. If you asked too much, they&rsquo;ll tell you the minimum it would take
+  for them to do it (or if there&rsquo;s no way they&rsquo;d do it).<br /><br
+  /><strong>ADVANCED: On a 12+</strong> not only do they do what you want right
+  now, they also become your <strong>ally </strong>for the rest of the mystery
+  (or, if you do enough for them, permanently).<br /><br /><strong>For another
+  hunter: </strong></p>
+
+  <p><strong>On a 10+</strong>, if they do what you ask they mark experience and
+  get +1 forward.<br /><br /><strong>ADVANCED: On a 12+</strong> they must act
+  under pressure to resist your request. If they do what you ask, they mark one
+  experience and take +1 ongoing while doing what you asked.</p>
+original_partial: >-
+  <p><strong>For a normal person:</strong></p>
+
+  <p><strong>On a 7-9</strong>, they&rsquo;ll do it, but only if you do
+  something for them right now to show that you mean it. If you asked too much,
+  they&rsquo;ll tell you what, if anything, it would take for them to do
+  it.&nbsp;<br /><br /><strong>For another hunter:</strong></p>
+
+  <p><strong>On a 7-9</strong>, they mark experience if they do what you
+  ask.&nbsp;</p>
+original_failure: >-
+  <p><strong>For a normal person:</strong></p>
+
+  <p><strong>On a miss, </strong>your approach is completely wrong: you offend
+  or anger the target.<br /><br /><strong>For another hunter:</strong></p>
+
+  <p><strong>On a miss</strong>, it&rsquo;s up to that hunter to decide how
+  badly you offend or annoy them. They mark experience if they decide not to do
+  what you asked.&nbsp;</p>
+name: Manipuler quelqu’un
+description: >-
+  <p>Après leur avoir donné une bonne raison, dites-leur ce que vous attendez
+  d’eux, puis <strong>lancez +Charme </strong>.</p>
+
+  <p>Normalement, les monstres et les sbires ne peuvent pas être manipulés.</p>
+success: >-
+  <h2>Pour un individu normal</h2> <p><strong>Sur un 10+</strong>, Il le fera
+  pour la raison que vous lui avez donnée. Si vous en demandez trop, il vous
+  dira ce qu’il doit entreprendre pour y parvenir (ou qu’il en est
+  incapable).</p>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, il fait non seulement ce
+  que vous lui demandez sur-le-champ, mais devient également votre
+  <strong>allié</strong> pour le reste du mystère (ou jusqu’à la fin de ses
+  jours si vous faites assez pour lui).</p>
+
+  <h2>Pour un autre chasseur</h2> <p><strong>Sur un 10+</strong>, s’il fait ce
+  que vous demandez, il coche de l’expérience et gagne +1 temporaire.</p>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, il doit agir sous pression
+  pour résister à votre requête. S’il fait ce que vous lui demandez, il coche
+  une case d’expérience et gagne +1 constant tant qu’il obtempère.</p>
+partial: >-
+  <h2>Pour un individu normal</h2> <p><strong>Sur un 7-9</strong>, Il obtempère,
+  mais seulement si vous faites quelque chose sur-le-champ en échange pour
+  montrer que vous êtes sincère. Si vous en demandez trop, il vous dira ce qu’il
+  doit entreprendre pour y parvenir (si possible).</p>
+
+  <h2>Pour un autre chasseur</h2> <p><strong>Sur un 7-9</strong>, il coche de
+  l’expérience s’il fait ce que vous demandez.</p>
+failure: >-
+  <h2>Pour un individu normal</h2> <p><strong>En cas d’échec</strong>, votre
+  approche est complètement ratée. La cible est offensée ou en colère.</p>
+
+  <h2>Pour un autre chasseur</h2> <p><strong>En cas d’échec</strong>, au
+  chasseur de décider s’il est offensé ou agacé. Il coche de l’expérience s’il
+  décide <em>de ne pas faire</em> ce que vous avez demandé.</p>

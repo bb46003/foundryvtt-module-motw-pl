@@ -1,0 +1,56 @@
+name: Telepathy
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You can read people&rsquo;s thoughts and put words in their mind. This
+    can allow you to <strong>investigate a mystery</strong> or <strong>read a
+    bad situation</strong> without needing to actually talk. You can also
+    <strong>manipulate </strong>someone without speaking. You still roll moves
+    as normal, except people will not expect the weirdness of your mental
+    communication.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooky
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_pocf6fc0wnl
+    path: 'The Spooky#/CF_SEP/The Spooky: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667469680665
+  modifiedTime: 1686864168451
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: AMa6x8vEAHN9O09H
+_id: GljwU0SKrcxIJEtl
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!GljwU0SKrcxIJEtl'
+

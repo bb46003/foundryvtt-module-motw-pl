@@ -1,0 +1,48 @@
+original_name: '"Just one more thing"'
+original_description: <p>When you <strong>ask</strong> a suspect <strong>leading
+  questions</strong>, roll +Charm.</p>
+original_success: <p><strong>On a 10+</strong> hold 2</p>
+original_partial: <p><strong>On a 7-9</strong> hold 1</p>
+original_failure: <p><strong>On a miss</strong> hold 1 but something bad is
+  going to happen too.</p>
+original_choices: >-
+  <p>Spend your hold to ask questions from this list:</p>
+
+  <ul>
+
+  <li>One question from the investigate a mystery list.</li>
+
+  <li>Was that a lie?</li>
+
+  <li>What is something you left out that you didn&rsquo;t want me to
+  notice?</li>
+
+  <li>Are you complicit with any ongoing criminal activity?</li>
+
+  <li>Did you commit this specific crime?</li>
+
+  </ul>
+name: '"Just one more thing"'
+description: <p>When you <strong>ask</strong> a suspect <strong>leading
+  questions</strong>, roll +Charm.</p>
+success: <p><strong>On a 10+</strong> hold 2</p>
+partial: <p><strong>On a 7-9</strong> hold 1</p>
+failure: <p><strong>On a miss</strong> hold 1 but something bad is going to
+  happen too.</p>
+choices: >-
+  <p>Spend your hold to ask questions from this list:</p>
+
+  <ul>
+
+  <li>One question from the investigate a mystery list.</li>
+
+  <li>Was that a lie?</li>
+
+  <li>What is something you left out that you didn&rsquo;t want me to
+  notice?</li>
+
+  <li>Are you complicit with any ongoing criminal activity?</li>
+
+  <li>Did you commit this specific crime?</li>
+
+  </ul>

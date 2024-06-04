@@ -1,0 +1,61 @@
+folder: AMa6x8vEAHN9O09H
+name: Tune In
+type: move
+_id: XYFqWtHJSN0pjgTK
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: <p>You can attune your mind to a monster or minion. Roll +Weird.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p>On a 10+, hold 3.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p>On a 7-9, hold 1.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p>On a miss, the monster becomes aware of you.&nbsp;</p>
+  uses: 0
+  playbook: The Spooky
+  rollType: weird
+  rollMod: 0
+  choices: >-
+    <p>Spend one hold to ask the Keeper one of the following questions, and gain
+    +1 ongoing while acting on the answers:&nbsp;</p>
+
+    <ul>
+
+    <li>Where is the creature right now?</li>
+
+    <li>What is it planning to do right now?</li>
+
+    <li>Who is it going to attack next?</li>
+
+    <li>Who does it regard as the biggest threat?</li>
+
+    <li>How can I attract its attention?</li>
+
+    </ul>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686863880315
+  modifiedTime: 1686864168451
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!XYFqWtHJSN0pjgTK'
+

@@ -1,0 +1,51 @@
+{
+  "folder": "3hQLsfvVeWeZaDod",
+  "name": "Inhumain",
+  "type": "move",
+  "_id": "XhAVl1hw9Af9Zxfn",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous avez du mal à comprendre les mécanismes qui régissent le comportement des hommes et leurs émotions. Quand vous faites une manœuvre sociale, vous subissez -1 constant à moins de les connaître parfaitement. Heureusement, les gens ne vous comprennent pas non plus : les autres chasseurs subissent -1 constant lorsqu’ils utilisent la manœuvre <strong>Manipuler quelqu’un</strong> sur vous.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "La Créature",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714200530123,
+    "modifiedTime": 1714210052769,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!XhAVl1hw9Af9Zxfn"
+}

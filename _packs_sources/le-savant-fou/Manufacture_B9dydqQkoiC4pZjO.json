@@ -1,0 +1,51 @@
+{
+  "folder": "fBnv1LtN7OAjUMtq",
+  "name": "Manufacture",
+  "type": "move",
+  "_id": "B9dydqQkoiC4pZjO",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>La plupart de vos équipements sortent de l’ordinaire et sont probablement illégaux, donc vous fabriquez votre propre matériel. S’il vous faut un objet particulier, lancez +Bizarre.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous le fabriquez (et en abondance si besoin est).</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous le fabriquez (en quantit&eacute; tr&egrave;s limit&eacute;e).</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous fabriquez le mauvais objet.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "weird",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204493488,
+    "modifiedTime": 1714204625408,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!B9dydqQkoiC4pZjO"
+}

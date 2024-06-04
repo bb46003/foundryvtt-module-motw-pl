@@ -1,0 +1,51 @@
+{
+  "folder": "YE77GjfVJzH7dzId",
+  "name": "Ça me dit quelque chose...",
+  "type": "move",
+  "_id": "ha0Ur5RK4M7FohX9",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Une fois par chasse, vous pouvez demander au Gardien si vous reconnaissez des traces de vos anciens travaux, ou des recherches effectuées par le passé. Le Gardien peut déclencher cet effet à n’importe quel moment et aussi souvent qu’il le souhaite. Quand vous découvrez un élément qui vous dit quelque chose, lancez +Futé.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous pouvez poser deux questions parmi celles ci-dessous.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous pouvez poser une question parmi celles ci-dessous.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, le Gardien r&eacute;serve 2 qu&rsquo;il pourra utiliser contre vos prochains lancers.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Savant Fou",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": "<p>Questions :</p>\n<ul>\n<li style=\"font-style: italic;\"><em>Quelle est l&rsquo;une des faiblesses du monstre ?</em></li>\n<li style=\"font-style: italic;\"><em>Qui aurait pu cr&eacute;er une tel monstre ?</em></li>\n<li style=\"font-style: italic;\"><em>Quelle est l&rsquo;attaque la plus l&eacute;tale du monstre ?</em></li>\n<li style=\"font-style: italic;\"><em>Ce monstre a-t-il pu concocter un tel plan tout seul ?</em></li>\n<li style=\"font-style: italic;\"><em>&Agrave; priori, que va faire le monstre ensuite ?</em></li>\n</ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204276106,
+    "modifiedTime": 1714210356888,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!ha0Ur5RK4M7FohX9"
+}

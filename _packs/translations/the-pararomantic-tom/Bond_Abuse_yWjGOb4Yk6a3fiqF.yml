@@ -1,0 +1,52 @@
+original_name: Bond Abuse
+original_description: <p>Whenever you do something to <strong>abuse the
+  bond</strong> with your Guide, like acting against them, or not giving them
+  enough attention, roll +Charm.</p>
+original_success: <p><strong>On 10+</strong>, your action has no effect beyond
+  the exchange of some angry words.</p>
+original_partial: <p><strong>On 7-9</strong> choose one of the bond abuse options below.</p>
+original_failure: <p><strong>On a miss</strong>, the Keeper may choose two of
+  the bond abuse options below, or something worse.&nbsp;</p>
+original_choices: >-
+  <p>Bond abuse options:</p>
+
+  <ul>
+
+  <li>Mark off a box in your Relationship Status track.</li>
+
+  <li>You may not channel the power of your bond for the rest of the
+  mystery.</li>
+
+  <li>You gain the unwelcome attention of others of your Guide&rsquo;s
+  kind.</li>
+
+  <li>Someone who shouldn&rsquo;t know finds a clue about your relationship with
+  your Guide.</li>
+
+  </ul>
+name: Bond Abuse
+description: <p>Whenever you do something to <strong>abuse the bond</strong>
+  with your Guide, like acting against them, or not giving them enough
+  attention, roll +Charm.</p>
+success: <p><strong>On 10+</strong>, your action has no effect beyond the
+  exchange of some angry words.</p>
+partial: <p><strong>On 7-9</strong> choose one of the bond abuse options below.</p>
+failure: <p><strong>On a miss</strong>, the Keeper may choose two of the bond
+  abuse options below, or something worse.&nbsp;</p>
+choices: >-
+  <p>Bond abuse options:</p>
+
+  <ul>
+
+  <li>Mark off a box in your Relationship Status track.</li>
+
+  <li>You may not channel the power of your bond for the rest of the
+  mystery.</li>
+
+  <li>You gain the unwelcome attention of others of your Guide&rsquo;s
+  kind.</li>
+
+  <li>Someone who shouldn&rsquo;t know finds a clue about your relationship with
+  your Guide.</li>
+
+  </ul>

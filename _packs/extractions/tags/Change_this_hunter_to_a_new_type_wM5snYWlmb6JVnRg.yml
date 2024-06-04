@@ -1,0 +1,23 @@
+folder: MirKzNjm0PX7wjsM
+name: Change this hunter to a new type
+type: tag
+_id: wM5snYWlmb6JVnRg
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690193165228
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 2500000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!wM5snYWlmb6JVnRg'
+

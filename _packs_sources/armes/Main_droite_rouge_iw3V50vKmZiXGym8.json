@@ -1,0 +1,34 @@
+{
+  "folder": "KO6dllVhrXN8mslR",
+  "name": "Main droite rouge",
+  "type": "equipment",
+  "_id": "iw3V50vKmZiXGym8",
+  "img": "icons/magic/unholy/hand-claw-glow-orange.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"allonge\"},{\"value\":\"magique\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714682294724,
+    "modifiedTime": 1714682494791,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!iw3V50vKmZiXGym8"
+}

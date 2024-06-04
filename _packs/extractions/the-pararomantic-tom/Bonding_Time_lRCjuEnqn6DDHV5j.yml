@@ -1,0 +1,54 @@
+folder: oiM3Zms8OjEbtUSu
+name: Bonding Time
+type: move
+_id: lRCjuEnqn6DDHV5j
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>If you <strong>spend some quality time with your Guide</strong> instead
+    of working on the current mystery you can roll +Charm.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On 10+</strong>, hold 2.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On 7-9</strong>, hold 1.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Pararomantic [ToM]
+  rollType: charm
+  rollMod: 0
+  choices: |-
+    <p>Spend your hold to:</p>
+    <ul>
+    <li>Erase one mark in your Relationship Status track.</li>
+    <li>Use a Pararomantic move you haven&rsquo;t picked.</li>
+    <li>Receive a gift from your Guide.</li>
+    <li>Take <em>+1 forward</em>.</li>
+    </ul>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690900963395
+  modifiedTime: 1691053418668
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!lRCjuEnqn6DDHV5j'
+

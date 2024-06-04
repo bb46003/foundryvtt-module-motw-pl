@@ -1,0 +1,87 @@
+original_name: Combat Magic [Kick Some Ass]
+original_description: >-
+  <p>You have a few attack spells you can use as weapons.&nbsp;When you use
+  these spells to&nbsp;<strong>kick some ass</strong>, roll +Weird&nbsp;instead
+  of +Tough.</p>
+
+  <p>Sometimes the situation may require&nbsp;you to&nbsp;<strong>act under
+  pressure</strong>&nbsp;to cast your spell without&nbsp;problems.</p>
+
+  <p>Your combat spells can combine any of your base spells&nbsp;with any of
+  your effects.</p>
+original_success: >-
+  <p><strong>On a 10+</strong>, choose one extra effect:</p>
+
+  <ul>
+
+  <li>You gain the advantage: take +1 forward, or give +1 forward to another
+  hunter.</li>
+
+  <li>You inflict terrible harm (+1 harm).</li>
+
+  <li>You suffer less harm (-1 harm).</li>
+
+  <li>You force them where you want them.</li>
+
+  </ul>
+
+  <p><br><strong>ADVANCED: On a 12+</strong>&nbsp;instead pick an enhanced
+  effect:</p>
+
+  <ul>
+
+  <li>You completely hold the advantage.&nbsp;All hunters involved in the fight
+  get +1 forward.</li>
+
+  <li>You suffer no harm at all.</li>
+
+  <li>Your attack inflicts double the normal harm.</li>
+
+  <li>Your attack drives the enemy away in a rout.</li>
+
+  </ul>
+original_partial: <p><strong>On a 7+</strong>, you and whatever you&rsquo;re
+  fighting inflict harm on each other. The amount of harm is based on the
+  established dangers in the game. That usually means you inflict the harm
+  rating of your weapon and your enemy inflicts their attack&rsquo;s harm rating
+  on you.</p>
+original_failure: <p><strong>On a miss</strong>, you get your ass kicked
+  instead. You suffer harm or get captured, but don&rsquo;t inflict any harm
+  back.</p>
+name: Magie de combat [Casser la gueule]
+description: >-
+  <p>Vous disposez de quelques attaques magiques. Quand vous les utilisez pour
+  <strong>casser la gueule</strong>, lancez +Bizarre au lieu de +Coriace.</p>
+
+  <p>Il peut également arriver que vous deviez <strong>agir sous
+  pression</strong> pour lancer un sort sans problème.</p>
+
+  <p>Vos sorts de combat peuvent mêler n’importe lequel de vos sorts de base à
+  n’importe lequel de vos effets.</p>
+success: >-
+  <p><strong>Si vous obtenez 10+</strong>, choisissez un effet supplémentaire
+  :</p>
+
+  <ul>
+    <li>Gagnez +1 temporaire ou donnez +1 temporaire à un autre chasseur ;</li>
+    <li>Vous infligez des dégâts considérables (+1 dégât) ;</li>
+    <li>Vous subissez moins de dégâts (-1 dégât) ;</li>
+    <li>Vous le poussez où vous le voulez.</li>
+  </ul>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous portez un coup
+  dévastateur à l’ennemi, qui n’en croit pas ses yeux. Vous infligez et subissez
+  des dégâts normalement et choisissez un des effets suivants :</p>
+
+  <ul>
+    <li>vous avez l’avantage, tous les chasseurs mêlés au combat gagnent +1 temporaire ;</li>
+    <li>vous ne subissez pas de dégâts ;</li>
+    <li>votre attaque inflige le double des dégâts normaux ;</li>
+    <li>votre attaque met l’ennemi en déroute.</li>
+  </ul>
+partial: <p><strong>Sur un 7+</strong>, vous et ce que vous combattez infligez
+  des dégâts en fonction de divers paramètres. En règle générale, vous infligez
+  les dégâts de votre arme et votre adversaire vous inflige les dégâts de son
+  attaque.</p>
+failure: <p><strong>En cas d’échec</strong>, vous prenez une raclée. Vous
+  subissez des dégâts ou êtes capturé, mais vous n’infligez pas de dégâts.</p>

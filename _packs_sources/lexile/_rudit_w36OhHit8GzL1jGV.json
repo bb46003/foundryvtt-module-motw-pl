@@ -1,0 +1,51 @@
+{
+  "folder": "ZO27OWZPO0aOCtZi",
+  "name": "Érudit",
+  "type": "move",
+  "_id": "w36OhHit8GzL1jGV",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>À votre époque, vous avez mené des recherches sur les légendes et les histoires de monstres. Quand vous <strong>Enquêtez sur un mystère</strong>, vous pouvez poser au Gardien les questions suivantes en plus des questions habituelles :</p>\n<ul>\n<li>Ce monstre (ou type de monstre) existait-il de mon temps ?</li>\n<li>Comment se protéger de cette créature ?</li>\n<li>Que sais-je sur la créature que le monde moderne a oublié ?</li>\n</ul>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "L’Éxilé",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202316317,
+    "modifiedTime": 1714209893921,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!w36OhHit8GzL1jGV"
+}

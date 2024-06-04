@@ -1,0 +1,34 @@
+{
+  "folder": "hg14jVxoT7aDA219",
+  "name": "Fusil tranquillisant",
+  "type": "equipment",
+  "_id": "d5cij4dOQ8lWx0nR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"+1 dégât\"},{\"value\":\"proche\"},{\"value\":\"sédatif\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714206528249,
+    "modifiedTime": 1714206700557,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!d5cij4dOQ8lWx0nR"
+}

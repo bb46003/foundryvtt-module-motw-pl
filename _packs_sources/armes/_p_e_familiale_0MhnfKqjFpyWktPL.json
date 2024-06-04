@@ -1,0 +1,36 @@
+{
+  "name": "Épée familiale",
+  "type": "equipment",
+  "img": "icons/weapons/swords/greatsword-guard-gold.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"allonge\"},{\"value\":\"sanglant\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "HdFgJVa43IDY8dxm",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714559003874,
+    "modifiedTime": 1714633928574,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "0MhnfKqjFpyWktPL",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!0MhnfKqjFpyWktPL"
+}

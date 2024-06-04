@@ -1,0 +1,22 @@
+original_name: Luck
+original_description: |-
+  <p>When you spend a point of Luck, pick one:</p>
+  <ul>
+  <li>Decrease a wound you have suffered to 0 harm.</li>
+  <li>After you roll, retroactively change the result to a 12.</li>
+  <li>When you have no luck left, bad things will happen to you.</li>
+  </ul>
+name: La Chance
+description: >-
+  <p>Quand vous cochez une case de Chance, choisissez une des options suivantes
+  :</p>
+
+
+  <ul>
+    <li>Diminuez une blessure que vous venez de subir à 0 dégât ;</li>
+    <li>Passez le résultat d’un jet de dés que vous venez d’effectuer à 12.</li>
+    <li>
+      Quand vous avez coché toutes vos cases de Chance, le Gardien peut se lâcher. Il arrive que le destin rende la
+      monnaie de sa pièce au chasseur imprudent.
+    </li>
+  </ul>

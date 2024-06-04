@@ -1,0 +1,51 @@
+{
+  "folder": "3hQLsfvVeWeZaDod",
+  "name": "Objet animé",
+  "type": "move",
+  "_id": "kaEo3c8l4IBURO2E",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>En vous concentrant, vous pouvez transmettre votre force d’animation à un autre objet proche et l’utiliser comme une extension de votre être. Quand <strong>vous animez un objet</strong>, lancez +Bizarre.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous contr&ocirc;lez l&rsquo;objet comme s&rsquo;il faisait partie de vous et gagnez +1 constant &agrave; toutes vos actions l&rsquo;impliquant.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous contr&ocirc;lez l&rsquo;objet comme s&rsquo;il faisait partie de vous.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous subissez 1 d&eacute;g&acirc;t car une part de votre essence vitale s&rsquo;&eacute;chappe.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "La Créature",
+    "rollType": "weird",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714200961241,
+    "modifiedTime": 1714210045988,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!kaEo3c8l4IBURO2E"
+}

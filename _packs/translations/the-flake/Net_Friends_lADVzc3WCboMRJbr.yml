@@ -1,0 +1,21 @@
+original_name: Net Friends
+original_description: <p>You know a lot of people on the Internet. When
+  you<strong> contact a net friend to help you</strong> with a mystery, roll
+  +Charm. </p>
+original_success: <p><strong>On a 10+</strong>, they&rsquo;re available and
+  helpful - they can fix something, break a code, hack a computer, or get you
+  some special information.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, they&rsquo;re prepared to help,
+  but it&rsquo;s either going to take some time or you&rsquo;re going to have to
+  do part of it yourself.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you burn some bridges.</p>
+name: Amis du Net
+description: <p>Vous connaissez beaucoup de gens sur Internet. Quand
+  <strong>vous contactez un ami du Net pour qu’il vous aide</strong> dans le
+  cadre d’un mystère, lancez +Charme.</p>
+success: "<p><strong>Sur un 10+</strong>, il est disponible et vous aide : il
+  est en mesure de réparer quelque chose, de casser un code, de pirater un
+  ordinateur, ou de vous dégoter des informations bien précises.</p>"
+partial: <p><strong>Sur un 7-9</strong>, il est prêt à vous aider, mais cela lui
+  prendra du temps ou vous devrez participer à l’effort.</p>
+failure: <p><strong>En cas d’échec</strong>, vous brûlez vos cartouches.</p>

@@ -1,0 +1,36 @@
+{
+  "folder": "JJdv2buCyUskF9cl",
+  "name": "Lance-flammes",
+  "type": "equipment",
+  "img": "icons/magic/fire/blast-jet-stream-splash.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"proche\"},{\"value\":\"feu\"},{\"value\":\"lourd\"},{\"value\":\"volatil\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714557456529,
+    "modifiedTime": 1714631711414,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "ACDZf986d3SD6U2D",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!ACDZf986d3SD6U2D"
+}

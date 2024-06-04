@@ -1,0 +1,36 @@
+{
+  "name": "Revolver, calibre .38",
+  "type": "equipment",
+  "img": "icons/weapons/guns/gun-pistol-brass.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"proche\"},{\"value\":\"rechargement\"},{\"value\":\"bruyant\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "lwEve4OE92PJCwx5",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714556434558,
+    "modifiedTime": 1714632189560,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "RzIuGlwxHaQGBZFU",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!RzIuGlwxHaQGBZFU"
+}

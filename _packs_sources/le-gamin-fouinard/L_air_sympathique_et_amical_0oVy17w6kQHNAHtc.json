@@ -1,0 +1,51 @@
+{
+  "folder": "dOADkHHXqYXc6idF",
+  "name": "L’air sympathique et amical",
+  "type": "move",
+  "_id": "0oVy17w6kQHNAHtc",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand <strong>vous manipulez quelqu’un poliment</strong>, c’est toujours grâce à vos manières impeccables que la personne vous rend service.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Gamin Fouinard",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202958571,
+    "modifiedTime": 1714210240101,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!0oVy17w6kQHNAHtc"
+}

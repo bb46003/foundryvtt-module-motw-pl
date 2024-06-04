@@ -1,0 +1,51 @@
+{
+  "folder": "kqtdVaw7sRX1FEkW",
+  "name": "Inarrêtable",
+  "type": "move",
+  "_id": "lYZmCL0GphCGxVcM",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand vous dépensez des points de Chance pour éviter des dégâts imminents, annulez aussi tous les dégâts que vous aviez déjà subis. Une fois par mystère, quand vous êtes sur le point de subir 2 dégâts ou plus, vous ne recevez qu’1 dégât.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Dur à Cuire",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714201889236,
+    "modifiedTime": 1714210163065,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!lYZmCL0GphCGxVcM"
+}

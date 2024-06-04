@@ -1,0 +1,36 @@
+{
+  "name": "9 mm",
+  "type": "equipment",
+  "img": "icons/weapons/guns/gun-pistol-brass.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"proche\"},{\"value\":\"bruyant\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "tYl6wjckwMmuZ0Gq",
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714556474022,
+    "modifiedTime": 1714682559253,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "t8EJk776syQrqUdb",
+  "sort": 400000,
+  "_key": "!items!t8EJk776syQrqUdb"
+}

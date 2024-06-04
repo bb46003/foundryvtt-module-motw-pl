@@ -1,0 +1,43 @@
+original_name: Protect Someone
+original_description: <p>When you prevent harm to another character,
+  <strong>roll +Tough</strong>.</p>
+original_success: >-
+  <p><strong>On a 10+</strong> choose an extra:</p>
+
+  <ul>
+
+  <li>You suffer little harm (-1 harm).</li>
+
+  <li>All impending danger is now focused on you.</li>
+
+  <li>You inflict harm on the enemy.</li>
+
+  <li>You hold the enemy back.</li>
+
+  </ul>
+
+  <p><strong>ADVANCED: on a 12+</strong> both you and the character you are
+  protecting are unharmed and out of danger. If you were protecting a bystander,
+  they also become your ally.</p>
+original_partial: <p><strong>On a 7+</strong>, you protect them okay, but
+  you&rsquo;ll suffer some or all of the harm they were going to get.</p>
+original_failure: <p><strong>On a miss</strong>, then you end up making things worse.</p>
+name: Protéger quelqu’un
+description: <p>Pour empêcher un autre personnage de subir des dégâts,
+  <strong>lancez +Coriace</strong>.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, choisissez un effet supplémentaire :</p>
+
+  <ul>
+    <li><em>Vous subissez moins de dégâts (-1 dégât) ;</em></li>
+    <li><em>C’est maintenant vous qui êtes en danger ;</em></li>
+    <li><em>Vous infligez des dégâts à l’ennemi ;</em></li>
+    <li><em>Vous contenez l’ennemi.</em></li>
+  </ul>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous vous défendez à la
+  perfection. Vous et le personnage protégé êtes indemnes et hors de danger. Si
+  vous protégiez un figurant, il devient votre allié.</p>
+partial: <p><strong>Sur un 7+</strong>, Vous protégez l’individu en question,
+  mais subissez tout ou partie des dégâts à sa place.</p>
+failure: <p><strong>En cas d’échec</strong>, la situation s’aggrave.</p>

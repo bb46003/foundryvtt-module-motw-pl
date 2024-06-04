@@ -1,0 +1,46 @@
+folder: null
+name: The Expert Special
+type: move
+_id: weBVJKceTAaEUakJ
+img: icons/svg/coins.svg
+system:
+  description: >-
+    <p>When you spend a Luck, you’ll discover something happening now is related
+    to something you were involved in years ago. Maybe it’s directly due to your
+    actions, or maybe someone else is dabbling in the same area.</p>
+  moveType: ''
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Expert
+  rollType: ''
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691068373997
+  modifiedTime: 1706527720954
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!weBVJKceTAaEUakJ'
+

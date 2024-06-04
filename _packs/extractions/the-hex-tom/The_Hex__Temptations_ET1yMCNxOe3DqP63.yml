@@ -1,0 +1,17 @@
+name: 'The Hex: Temptations'
+sorting: a
+folder: null
+type: Item
+_id: ET1yMCNxOe3DqP63
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690298158616
+  modifiedTime: 1691053411892
+  lastModifiedBy: MX0yl5RfaCDkeocV
+_key: '!folders!ET1yMCNxOe3DqP63'
+

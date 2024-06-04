@@ -1,0 +1,21 @@
+original_name: Premonition
+original_description: <p><strong>At the start of each mystery</strong>, roll +Weird.&nbsp;</p>
+original_success: <p>On a 10+, you get a detailed vision of something bad that
+  is yet to happen. You take +1 forward to prevent it coming true, and mark
+  experience if you stop it.&nbsp;</p>
+original_partial: "<p>On a 7-9+ you get clouded images of something bad that is
+  yet to happen: mark experience if you stop it.&nbsp;</p>"
+original_failure: <p>On a miss, you get a vision of something bad happening to
+  you and the Keeper holds 3, to be spent one-for-one as penalties to rolls you
+  make.</p>
+name: Prémonitions
+description: <p><strong>Au début de chaque mystère</strong>, lancez +Bizarre.</p>
+success: <p><strong>On a 10+</strong>, vous obtenez une vision détaillée d’un
+  sale événement qui ne s’est pas encore déroulé. Gagnez +1 temporaire pour
+  empêcher qu’il ne se réalise, et cochez de l’expérience si vous
+  l’empêchez.</p>
+partial: <p><strong>Sur un 7-9</strong>, vous recevez des images confuses ;
+  cochez de l’expérience si vous l’empêchez.</p>
+failure: <p><strong>En cas d’échec</strong>, vous recevez une vision de mauvais
+  augure vous concernant et le Gardien gagne réserve 3, qu’il peut assigner
+  comme pénalité à vos jets (il ne peut assigner qu’un unique -1 par jet).</p>

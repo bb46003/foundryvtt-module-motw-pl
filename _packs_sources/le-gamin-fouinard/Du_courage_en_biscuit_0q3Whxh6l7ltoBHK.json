@@ -1,0 +1,51 @@
+{
+  "folder": "dOADkHHXqYXc6idF",
+  "name": "Du courage en biscuit",
+  "type": "move",
+  "_id": "0q3Whxh6l7ltoBHK",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Choisissez une friandise préférée. Quand vous prenez le temps d’en manger et de la savourer, gagnez +1 temporaire.</p>\n<p>Ma friandise est : _________________ .</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Gamin Fouinard",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202938197,
+    "modifiedTime": 1714210236819,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!0q3Whxh6l7ltoBHK"
+}

@@ -1,0 +1,53 @@
+folder: null
+name: Past Lives
+type: move
+_id: zTS6GEFhizOVEX9q
+img: icons/svg/dice-target.svg
+system:
+  description: "<p>When you <strong>channel your previous incarnations to discover something</strong>, pose your question and roll +Weird.</p>\n<p>You should note down the names and time periods of your previous\_lives for future reference. They can’t overlap in time, but otherwise may\_be from any time or place.</p>"
+  moveType: altMove
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10 or more</strong>, a past life has something useful to
+        offer. Ask the Keeper two of the questions below.<br><br></p>
+
+        <h4>Advanced Past Lives</h4>
+
+        <p><strong>On a 12 or more</strong>, a past life knows exactly what you
+        were after. Ask the Keeper one of the questions below, and one free-form
+        question. Gain +1 ongoing while acting on the &nbsp;answers.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9,</strong> a past life has a little experience with
+        this. Ask the Keeper one of the questions below.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, a past life takes over for a while.</p>
+  uses: 0
+  playbook: ''
+  rollType: weird
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691070031323
+  modifiedTime: 1706527375139
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!zTS6GEFhizOVEX9q'
+

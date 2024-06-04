@@ -1,0 +1,23 @@
+folder: yHHLIuenIIRqUFNi
+name: stone
+type: tag
+_id: qSuJNr4Qs14JGgrH
+img: icons/svg/combat.svg
+system:
+  name: ''
+  description: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690197328558
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!qSuJNr4Qs14JGgrH'
+

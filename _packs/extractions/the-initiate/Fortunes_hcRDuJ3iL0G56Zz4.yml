@@ -1,0 +1,69 @@
+name: Fortunes
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>The Sect has ancient prophecies or divination techniques to predict the
+    future. Once per mystery, you may use them. If <strong>you look at what the
+    future holds</strong>, roll +Weird.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong> hold 3.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong> hold 1.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you get bad information and the Keeper
+        decides how that affects you.&nbsp;</p>
+  uses: 0
+  playbook: The Initiate
+  rollType: weird
+  rollMod: 0
+  choices: >-
+    <p>Spend your hold to:</p>
+
+    <ul>
+
+    <li>have a useful object ready.</li>
+
+    <li>be somewhere you are needed, just in time.</li>
+
+    <li>take +1 forward, or give +1 forward to another hunter.</li>
+
+    <li>retroactively warn someone about an attack, so that it doesn&rsquo;t
+    happen.</li>
+
+    </ul>
+effects: []
+flags:
+  cf:
+    id: temp_jguk50jnggq
+    path: 'The Initiate#/CF_SEP/The Initiate: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667507836958
+  modifiedTime: 1686856936633
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: cEunrzTudAI1JKNI
+_id: hcRDuJ3iL0G56Zz4
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!hcRDuJ3iL0G56Zz4'
+

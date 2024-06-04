@@ -1,0 +1,44 @@
+original_name: Jinx
+original_description: <p>You can encourage coincidences to occur, the way you
+  want.<strong> When you jinx a target</strong>, roll +Weird.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> hold 2.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> hold 1.</p>
+original_failure: <p><strong>On a miss</strong>, the Keeper holds 2 over you to
+  be used in the same way.</p>
+original_choices: >-
+  <p>Spend your hold to:</p>
+
+  <ul>
+
+  <li>Interfere with a hunter, giving them -1 forward.</li>
+
+  <li>Help a hunter, giving them +1 forward, by interfering with their
+  enemy.</li>
+
+  <li>Interfere with what a monster, minion, or bystander is trying to do.</li>
+
+  <li>Inflict 1-harm on the target due to an accident.</li>
+
+  <li>The target finds something you left for them.</li>
+
+  <li>The target loses something that you will soon find.</li>
+
+  </ul>
+name: Poisse
+description: <p>Vous créez des coïncidences. Quand vous <strong>portez la poisse
+  à une cible</strong>, lancez +Bizarre.</p>
+success: <p><strong>Sur un 10+</strong>, réserver 2.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserver 1.</p>
+failure: <p><strong>En cas d’échec</strong>, le Gardien gagne réserve 2 contre
+  vous et peut l’utiliser de la même façon.</p>
+choices: >-
+  <p>Dépensez votre réserve pour :</p>
+
+  <ul>
+    <li><em>Interférer avec un chasseur pour lui donner -1 temporaire ;</em></li>
+    <li><em>Aider un chasseur pour lui donner +1 temporaire en interférant avec son adversaire ;</em></li>
+    <li><em>Interférer avec ce qu’un monstre, sbire ou figurant tente de faire ;</em></li>
+    <li><em>Provoquer un accident qui inflige 1 dégât à la cible ;</em></li>
+    <li><em>La cible trouve quelque chose que vous lui avez laissé ;</em></li>
+    <li><em>La cible perd quelque chose que vous n’allez pas tarder à trouver.</em></li>
+  </ul>

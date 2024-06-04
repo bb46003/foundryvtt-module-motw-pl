@@ -1,0 +1,53 @@
+folder: d5a1EjXgFf404Sx6
+name: Sympathetic Token
+type: move
+_id: LktN5IZRRz54Einq
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>As long as you carry a personal object belonging to someone, such as a
+    lock of hair, a full set of toenails, or a treasured family heirloom, you
+    get +1 ongoing to <strong>use magic</strong> against them.</p>
+
+    <p>You can also <strong>use magic</strong> against them at a distance.</p>
+
+    <p>If you try to <strong>use magic</strong> against them and miss, the token
+    is lost, destroyed, or loses its power.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Hex [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690892136313
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!LktN5IZRRz54Einq'
+

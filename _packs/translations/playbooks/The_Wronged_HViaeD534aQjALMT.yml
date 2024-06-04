@@ -1,0 +1,572 @@
+original_name: The Wronged
+original_description: >-
+  <blockquote>
+
+  <p><em>They took my loved ones. Back then I wasn’t strong enough to fight, but
+  I studied, trained, and now I’m ready to cleanse the world of their taint.
+  I’ll kill them all. That’s all I have left.</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <p> </p>
+
+  <table style="width:100%;height:1720px" border="1"><colgroup><col
+  style="width:47.7346%"></col><col style="width:52.2654%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:151px">
+
+  <td style="height:151px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Wronged, first pick a name. Then follow the instructions in
+  this playbook to decide your look, ratings, who you lost, moves, and gear.
+  Finally, introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-wronged.Item.WnNJYmKvZghLHfVY]{Items} can
+  be dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, concealed.</li>
+
+  <li>Sad eyes, icy eyes, angry eyes, untouchable eyes, emotionless eyes, hurt
+  eyes, harrowed eyes.</li>
+
+  <li>Nondescript clothes, ragged clothes, casual clothes, hunting gear, army
+  surplus gear, old clothes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm=0, Cool+1, Sharp-1, Tough+2, Weird+1</li>
+
+  <li>Charm=0, Cool=0, Sharp+1, Tough+2, Weird=0</li>
+
+  <li>Charm+1, Cool=0, Sharp+1, Tough+2, Weird-1</li>
+
+  <li>Charm-1, Cool-1, Sharp=0, Tough+2, Weird+2</li>
+
+  <li>Charm+1, Cool-1, Sharp=0, Tough+2, Weird+1</li>
+
+  </ul>
+
+  <h3><br />Who You Lost</h3>
+
+  <p>(Foundry: Drag one or more from the Who category, edit the title to add a
+  name, and add one or more from the Why category. Finally add the What and edit
+  the title to display what type of monster breed your prey is)</p>
+
+  <h4><strong>Who </strong>did you lose? <em>Pick one or more of</em>:</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Y8iDhzDIAX6JBSXb]{Who: My
+  best friend(s)}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.C0JftKXY3kurUZ8z]{Who: My
+  child(ren)}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.yLCCon8yAop5Z9jH]{Who: My
+  parent(s)}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.RrR0B9hIoPzxb1Yc]{Who: My
+  sibling(s)}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.PMcqBLM4jyCJs36n]{Who: My
+  spouse/partner}</p>
+
+  <h4><br /><strong>Why </strong>couldn’t you save them? You were (<em>pick one
+  or more</em>):</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.GQO2ITIUeM04098q]{Why: I
+  was at fault}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.DRX93VWqWFDoWUdx]{Why: I
+  was complicit}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.skJOEVB5bWrDrQ4K]{Why: I
+  was in denial}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.MZZ2ttWc9pOZxgCr]{Why: I
+  was injured}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.9sMeU6qxW4UAtrRE]{Why: I
+  was scared}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Ks1joTymuASLzAWr]{Why: I
+  was selfish}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.GVO63017aNWqftMO]{Why: I
+  was slow}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.fGoSGviYzDflMZQd]{Why: I
+  was weak}</p>
+
+  <h4><br /><strong>What</strong> did it? With the Keeper’s agreement, <em>pick
+  the monster breed:</em></h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.GLLgsO0oI23uVViC]{What: My
+  prey}</p>
+
+  <p> </p>
+
+  <h3>Moves</h3>
+
+  <p>You get all the basic moves plus three Wronged moves. <em>You get this
+  one</em>:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.5KVIRNbG8hUmexUW]{I Know My
+  Prey}</p>
+
+  <p><em>Then pick two of these:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.WnNJYmKvZghLHfVY]{Berserk}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.KrhhNvn87INek1Qh]{DIY
+  Surgery}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Rsh0d9IY5veHksM7]{Fervor}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Wk8lgdtvMUSpNshl]{NEVER
+  AGAIN}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.IM6NcHRy9i9z5Vad]{Safety
+  First}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.4UZXtzJ6y9IX3egO]{Tools
+  Matter}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.UE5mqeHkx5hjOl1E]{What Does
+  Not Kill Me...}</p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p>Pick one signature weapon and two practical weapons.</p>
+
+  <p>You have protective wear, suited to your look, worth 1-armour.</p>
+
+  <p>If you want, you may take a classic car, classic motorcycle, plain pickup,
+  or plain van.</p>
+
+  <p>(Please note that you, or your Keeper must create all of these manually,
+  except for the Specialist Weapon)</p>
+
+  <h4>Signature Weapons, <em>pick one</em>:</h4>
+
+  <ul>
+
+  <li>Sawn-off shotgun (3-harm hand/close messy loud reload)</li>
+
+  <li>Hand cannon (3-harm close loud)</li>
+
+  <li>Fighting knife (2-harm hand quiet)</li>
+
+  <li>Huge sword or huge axe (3-harm hand messy heavy)</li>
+
+  <li>Enchanted dagger (2-harm hand magic)</li>
+
+  <li>Chainsaw (3-harm hand messy unreliable loud heavy)<br /><br /></li>
+
+  <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.FMPksyExLR47ly6v]{Specialist
+  Weapons} for destroying your foes (e.g. wooden stakes and mallet for vampires,
+  silver dagger for werewolves, etc.). 4-harm against the specific creatures it
+  targets, 1-harm otherwise, and other tags by agreement with the Keeper.</li>
+
+  </ul>
+
+  <h4><br />Practical weapons, pick two:</h4>
+
+  <ul>
+
+  <li>.38 revolver (2-harm close reload loud)</li>
+
+  <li>9mm (2-harm close loud)</li>
+
+  <li>Hunting rifle (2-harm far loud)</li>
+
+  <li>Shotgun (3-harm close messy loud)</li>
+
+  <li>Big knife (1-harm hand)</li>
+
+  <li>Brass knuckles (1-harm hand stealthy)</li>
+
+  <li>Assault rifle (3-harm close area loud reload)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.<br /><br
+  /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Wronged by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>They helped you at a critical point in your quest for revenge. Tell them
+  what you needed help with.</li>
+
+  <li>They stood between you and what you needed to find out. Ask them why.</li>
+
+  <li>They also lost a friend or relative to these monsters. Ask them who it
+  was. </li>
+
+  <li>Relations, close or distant. Tell them exactly what.</li>
+
+  <li>You saved their life, back when they were a pathetic newbie hunter. Ask
+  them what you saved them from.</li>
+
+  <li>You respect their hard-earned knowledge, and often come to them for
+  advice.</li>
+
+  <li>They showed you the ropes when you were learning how to fight.</li>
+
+  <li>They saw you absolutely lose it and go berserk. Tell them what the
+  situation was, and ask them how much collateral damage you caused.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:34px">
+
+  <td style="height:34px" colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Db5dKYP5eueIQfOY]{Get +1
+  Tough, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]{Get +1 Weird,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yxFmKhb65TURxRTr]{Take another
+  Wronged move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yxFmKhb65TURxRTr]{Take another
+  Wronged move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]{Gain a haven,
+  like the Expert has, with two options}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.kpKyvgPHaoOUjWTJ]{Add one more
+  option to your haven}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.r8Fxb0ckckhKGI1G]{You track down
+  the specific monster(s) responsible for your loss. The Keeper must make the
+  next mystery about them}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.6ACBlwJY8MQprMNp]{Change the
+  target of your vengeful rage. Pick a new monster breed: I know my prey now
+  applies to them instead}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: Le Vengeur
+description: >-
+  <blockquote> <p>Ils ont pris ceux que j’aimais. À l’époque, je n’étais pas
+  assez fort pour me battre, mais j’ai étudié, je me suis entraîné, et je suis
+  maintenant prêt à nettoyer le monde de leur souillure. Je les tuerai tous.
+  C’est tout ce qui me reste.</p> </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>Pour créer votre Vengeur, commencez par lui trouver un nom. Puis suivez les
+  instructions ci-dessous pour choisir votre apparence, vos caractéristiques,
+  qui vous avez perdu, vos manœuvres et votre équipement. Enfin, présentez-vous
+  et attribuez vos histoires.</p> <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-wronged.Item.WnNJYmKvZghLHfVY]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p> </td>
+
+    </tr>
+  <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul>
+    <li>Homme, femme, dissimulé.</li>
+    <li>Regard triste, regard de glace, regard de colère, regard lointain, regard impassible, regard blessé, regard
+    tourmenté.</li>
+    <li>Vêtements quelconques, vêtements miteux, tenue décontractée, tenue de chasse, uniforme militaire, vieux
+    vêtements.</li>
+  </ul>
+
+  <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p>
+
+  <ul>
+    <li>Charme 0, Cool +1, Futé -1, Coriace +2, Bizarre +1</li>
+    <li>Charme 0, Cool 0, Futé +1, Coriace +2, Bizarre 0</li>
+    <li>Charme +1, Cool 0, Futé +1, Coriace +2, Bizarre -1</li>
+    <li>Charme -1, Cool -1, Futé 0, Coriace +2, Bizarre +2</li>
+    <li>Charme +1, Cool -1, Futé 0, Coriace +2, Bizarre +1</li>
+  </ul>
+
+  <h3>Qui vous avez perdu</h3> <p>(Foundry: Drag one or more from the Who
+  category, edit the title to add a name, and add one or more from the Why
+  category. Finally add the What and edit the title to display what type of
+  monster breed your prey is)</p> <p>Faites glisser un ou plusieurs éléments de
+  la catégorie <strong>Qui</strong>, modifiez le titre pour ajouter un nom, et
+  ajoutez un ou plusieurs éléments de la catégorie <strong>Pourquoi</strong>.
+  Enfin, ajoutez l’élément de la catégorie <strong>La cause</strong> et modifiez
+  le titre pour afficher l’espèce de monstre de votre proie.</p>
+
+  <h4>Qui avez-vous perdu ? <em>(choisissez-en un ou plus)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Y8iDhzDIAX6JBSXb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.C0JftKXY3kurUZ8z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.yLCCon8yAop5Z9jH]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.RrR0B9hIoPzxb1Yc]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.PMcqBLM4jyCJs36n]</li>
+  </ul>
+
+  <h4>Pourquoi n’avez-vous pas pu les sauver ? <em>(choisissez-en un ou
+  plus)</em> :</h4>
+
+  <p>Vous étiez :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.GQO2ITIUeM04098q]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.DRX93VWqWFDoWUdx]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.skJOEVB5bWrDrQ4K]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.MZZ2ttWc9pOZxgCr]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.9sMeU6qxW4UAtrRE]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Ks1joTymuASLzAWr]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.GVO63017aNWqftMO]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.fGoSGviYzDflMZQd]</li>
+  </ul>
+
+  <h4>Qui en est la cause ?</h4>
+
+  <p>Choisissez l’espèce du monstre avec l’accord du Gardien.</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.GLLgsO0oI23uVViC]</li>
+  </ul>
+
+  <h3>Manœuvres</h3> <p><em>Vous connaissez toutes les manœuvres de base,
+  auxquelles s’ajoutent trois manœuvres de Vengeur.</em></p> <p><em>Vous recevez
+  celle-ci :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.5KVIRNbG8hUmexUW]</li>
+  </ul>
+
+  <p><em>Puis choisissez-en deux :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.WnNJYmKvZghLHfVY]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.KrhhNvn87INek1Qh]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Rsh0d9IY5veHksM7]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Wk8lgdtvMUSpNshl]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.IM6NcHRy9i9z5Vad]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.4UZXtzJ6y9IX3egO]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.UE5mqeHkx5hjOl1E]</li>
+  </ul> </td>
+  <td style="padding: 8px;">
+  <h3>équipement</h3>
+
+  <p>Choisissez une arme de prédilection et deux armes utiles.</p>
+
+  <p>Vous possédez un équipement de protection adapté à votre look, qui confère 1 armure.</p>
+
+  <p>Si vous le souhaitez, vous pouvez prendre une voiture ancienne, une moto ancienne, un simple pick-up ou un simple van.</p>
+
+  <h4>Armes de prédilection <em>(choisissez-en une)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.0IQXq5fG0gc9aUod]{Fusil à canon scié} (3 dégâts,
+    allonge/proche, sanglant, bruyant, rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.hg1LA6QOdTe0NklZ]{Escopette} (3 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.gv6dc8jUntuOIOZ8]{Couteau de combat} (2 dégâts, allonge,
+    discret)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.nskEuMciM7On3vgq]{Grande épée} (3 dégâts,
+    allonge, sanglant, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.qyaWBBfHZK2lzpyb]{Grande hache} (3 dégâts, allonge, sanglant,
+    lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.yAIObmYPx5lLelu7]{Dague enchantée} (2 dégâts, allonge,
+    magique)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.v8eL5gfwGU3TlW7x]{Tronçonneuse} (3 dégâts, allonge,
+    sanglant, peu fiable, bruyant, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.gq9rt1MksufqVvYt]{Armes spécialisées} pour tuer vos ennemis
+    (maillet et pieu en bois pour les vampires, dague en argent pour les loups-garous, etc.). 4 dégâts
+    contre les créatures ciblées, 1 dégât autrement, et autres traits avec l’accord du Gardien.</li>
+  </ul>
+
+  <h4>Armes utiles <em>(choisissez-en une)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.UhjKK3VYxbuB8uZV]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.VKIEIevlbNlXFOQV]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.llnkuETKx90IE1El]{Fusil de chasse} (2 dégâts, loin, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.uUF0Fz8ztqDy4y9g]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.DbAGIjTVyQCNCrQf]{Couteau de chasse} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.IcdpykjSqgLiCAkb]{Coup-de-poing américain} (1 dégât,
+    allonge, petit, silencieux)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.uyCb6W4Lgu8Yie72]{Fusil d’assaut} (3 dégâts, proche,
+    zone, bruyant, rechargement)</li>
+  </ul>
+
+  <h3>Présentations</h3>
+
+  <p>Lorsque vous en arrivez là, attendez que tout le monde vous rattrape pour
+  que vous puissiez effectuer vos présentations ensemble.</p> <p>Faites le tour
+  du groupe. Votre tour venu, présentez votre Vengeur en dévoilant son nom et
+  son apparence, et en disant aux autres membres du groupe ce qu’ils savent de
+  vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p>
+
+  <ul>
+    <li>Il vous a aidé à un moment crucial de votre quête de vengeance. Dites-lui en quoi vous aviez besoin de son
+    aide.</li>
+    <li>Il se tenait entre vous et ce que vous deviez découvrir. Demandez‑lui pourquoi.</li>
+    <li>Il a lui aussi perdu un ami ou un parent, emporté par ces monstres. Demandez-lui de qui il s’agissait.</li>
+    <li>Vous êtes parents proches ou éloignés. Dites-lui quel est votre lien de parenté exact.</li>
+    <li>Vous lui avez sauvé la vie alors qu’il ne s’agissait encore que d’un jeune chasseur inexpérimenté. Demandez-lui
+    de quoi vous l’avez sauvé.</li>
+    <li>Vous respectez ses connaissances acquises au prix de maintes difficultés et lui demandez souvent conseil.</li>
+    <li>Il vous a appris les ficelles du métier lorsque vous avez appris à vous battre.</li>
+    <li>Il vous a vu perdre les pédales et péter un câble. Décrivez-lui la situation d’alors et demandez-lui quels
+    dégâts collatéraux vous avez causés.</li>
+  </ul> </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Db5dKYP5eueIQfOY]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yxFmKhb65TURxRTr]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yxFmKhb65TURxRTr]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.3VQ2sBEq1acZePx5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.kpKyvgPHaoOUjWTJ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.r8Fxb0ckckhKGI1G]{Vous traquez le ou les monstres responsables de
+    votre perte}. Le prochain mystère du Gardien doit les concerner.</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.6ACBlwJY8MQprMNp]{Changez la cible de votre rage vengeresse}.
+    Choisissez une nouvelle espèce de monstres. <strong>Je connais ma proie</strong> s’applique maintenant à eux.</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+  </ul> </td> </tr> </tbody> </table>

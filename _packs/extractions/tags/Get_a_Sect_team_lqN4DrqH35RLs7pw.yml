@@ -1,0 +1,23 @@
+folder: FYAMwDuUVimRvr2o
+name: Get a Sect team
+type: tag
+_id: lqN4DrqH35RLs7pw
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: <p>Get a Sect team under your command</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690213202132
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!lqN4DrqH35RLs7pw'
+

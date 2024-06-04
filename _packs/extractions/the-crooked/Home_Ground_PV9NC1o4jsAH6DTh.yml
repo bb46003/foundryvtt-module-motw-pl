@@ -1,0 +1,54 @@
+name: Home Ground
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>Your crew made a point of keeping the locals happy - keeping them safe,
+    ensuring things always went down okay. When you&rsquo;re back in your old
+    neighbourhood, you can always find people who will hide you or help you with
+    a minor favour, no questions asked.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Crooked
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_3o36ckslte9
+    path: 'The Crooked#/CF_SEP/The Crooked: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667343923910
+  modifiedTime: 1686778481489
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: 5D9s87A8l4glApti
+_id: PV9NC1o4jsAH6DTh
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!PV9NC1o4jsAH6DTh'
+

@@ -1,0 +1,40 @@
+original_name: Fortunes
+original_description: <p>The Sect has ancient prophecies or divination
+  techniques to predict the future. Once per mystery, you may use them. If
+  <strong>you look at what the future holds</strong>, roll +Weird.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> hold 3.</p>
+original_partial: <p><strong>On a 7-9</strong> hold 1.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you get bad information and the
+  Keeper decides how that affects you.&nbsp;</p>
+original_choices: >-
+  <p>Spend your hold to:</p>
+
+  <ul>
+
+  <li>have a useful object ready.</li>
+
+  <li>be somewhere you are needed, just in time.</li>
+
+  <li>take +1 forward, or give +1 forward to another hunter.</li>
+
+  <li>retroactively warn someone about an attack, so that it doesn&rsquo;t
+  happen.</li>
+
+  </ul>
+name: Prédictions
+description: <p>La secte connaît de vieilles prophéties et techniques de
+  divination. Une fois par mystère, vous pouvez y faire appel. Si <strong>vous
+  cherchez ce que l’avenir vous réserve</strong>, lancez +Bizarre.</p>
+success: <p><strong>Sur un 10+</strong>, réserve 3.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
+failure: <p><strong>En cas d’échec</strong>, vous recevez des informations
+  erronées et le Gardien décide en quoi cela vous affecte.</p>
+choices: >-
+  <p>Dépensez votre réserve pour :</p>
+
+  <ul>
+    <li><em>Disposer d’un objet utile ;</em></li>
+    <li><em>Vous trouver au bon endroit, au bon moment ;</em></li>
+    <li><em>Gagner +1 temporaire, ou donner +1 temporaire à un autre chasseur ;</em></li>
+    <li><em>prévenir rétroactivement quelqu’un d’une attaque, afin qu’elle n’ait pas lieu.</em></li>
+  </ul>

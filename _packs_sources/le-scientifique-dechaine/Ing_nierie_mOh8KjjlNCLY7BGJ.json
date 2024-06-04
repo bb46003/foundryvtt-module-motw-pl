@@ -1,0 +1,51 @@
+{
+  "folder": "K8c1WwzJbyU2lhQa",
+  "name": "Ingénierie",
+  "type": "move",
+  "_id": "mOh8KjjlNCLY7BGJ",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand <strong>vous voulez réparer (ou casser)</strong> en vitesse un gadget compliqué, lancez +Futé.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, le gadget est r&eacute;par&eacute; (ou cass&eacute;) comme pr&eacute;vu.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, il vous faut plus de temps pour l&rsquo;&eacute;tudier : le r&eacute;parer (ou le casser) maintenant aura des effets secondaires inconnus ; sinon, prenez plus de temps.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous ratez totalement votre manipulation, ce qui se traduit g&eacute;n&eacute;ralement par une explosion.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Scientifique Déchaîné",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714206183379,
+    "modifiedTime": 1714210404391,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!mOh8KjjlNCLY7BGJ"
+}

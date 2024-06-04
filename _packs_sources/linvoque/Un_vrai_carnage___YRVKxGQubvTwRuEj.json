@@ -1,0 +1,51 @@
+{
+  "folder": "nfk2zzOyRI4Ts9iT",
+  "name": "Un vrai carnage !",
+  "type": "move",
+  "_id": "YRVKxGQubvTwRuEj",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand <strong>vous attrapez un gros objet à proximité</strong> pour l’utiliser comme une arme improvisée, commencez par définir les dégâts qu’il infligera.</p>\n<p>Exemples :</p>\n<ul>\n<li>Extincteur, piquet, mobilier, etc. : 2 dégâts</li>\n<li>Moto, lampadaire, bloc de béton, etc. : 3 dégâts</li>\n<li>Voiture, benne à ordures, rocher, etc. : 4 dégâts</li>\n<li>Bus, camion, mur, etc. : 5 dégâts</li>\n</ul>\n<p>Après avoir infligé des dégâts (avec un jet de <strong>Casser la gueule</strong> ou autre), lancez +dégâts infligés par votre arme.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, choisissez deux effets additionnels.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, choisissez un effet additionnel.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous la maniez sans souci.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "L’Invoqué",
+    "rollType": "ask",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": "<p>Effets additionnels :</p>\n<ul>\n<li>Vous blessez quelqu&rsquo;un &agrave; proximit&eacute; en plus de votre cible.</li>\n<li>Vous faites empirer la situation d&rsquo;une fa&ccedil;on ou d&rsquo;une autre.</li>\n<li>Vous perdez le contr&ocirc;le de votre arme improvis&eacute;e.</li>\n<li>Vous provoquez d&rsquo;immenses d&eacute;g&acirc;ts collat&eacute;raux.</li>\n<li>Votre arme improvis&eacute;e se casse.</li>\n</ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205248019,
+    "modifiedTime": 1714209947367,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!YRVKxGQubvTwRuEj"
+}

@@ -1,0 +1,36 @@
+original_name: Monster Empathy
+original_description: <p>When you try to <strong>work out what a supernatural
+  creature desires</strong>, roll +Charm.</p>
+original_success: <p><strong>On a 10+</strong>, hold 2.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, hold 1.</p>
+original_choices: >-
+  <p>Spend your hold to ask the following questions - the Keeper will answer
+  honestly:</p>
+
+  <ul>
+
+  <li>What does it most desire?</li>
+
+  <li>What would it accept as good enough for now?</li>
+
+  <li>What would distract it?</li>
+
+  </ul>
+name: Monster Empathy
+description: <p>When you try to <strong>work out what a supernatural creature
+  desires</strong>, roll +Charm.</p>
+success: <p><strong>On a 10+</strong>, hold 2.&nbsp;</p>
+partial: <p><strong>On a 7-9</strong>, hold 1.</p>
+choices: >-
+  <p>Spend your hold to ask the following questions - the Keeper will answer
+  honestly:</p>
+
+  <ul>
+
+  <li>What does it most desire?</li>
+
+  <li>What would it accept as good enough for now?</li>
+
+  <li>What would distract it?</li>
+
+  </ul>

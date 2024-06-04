@@ -1,0 +1,71 @@
+_id: mPx4PgEY0zL83kRh
+name: Investigate a Mystery
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+folder: null
+flags:
+  cf:
+    id: temp_pzl3k1ewrs
+  core: {}
+system:
+  name: ''
+  description: <p>When you investigate a mystery, <strong>roll +Sharp</strong>.</p>
+  requiresMove: ''
+  moveType: basic
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong> hold 2.</p>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong> hold 1.</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you reveal some information to the
+        monster or whoever you are talking to. The Keeper might ask you some
+        questions, which you have to answer.</p>
+  uses: 0
+  playbook: ''
+  rollType: sharp
+  rollMod: 0
+  choices: >-
+    <p>One hold can be spent to ask the Keeper one of the following
+    questions:</p>
+
+    <ul>
+
+    <li>What happened here?</li>
+
+    <li>What sort of creature is it?</li>
+
+    <li>What can it do?</li>
+
+    <li>What can hurt it?</li>
+
+    <li>Where did it go?</li>
+
+    <li>What was it going to do?</li>
+
+    <li>What is being concealed here?</li>
+
+    </ul>
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686776288171
+  modifiedTime: 1686776797561
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!mPx4PgEY0zL83kRh'
+

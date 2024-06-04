@@ -1,0 +1,28 @@
+folder: yHHLIuenIIRqUFNi
+name: 'Effect: Fire'
+type: tag
+_id: jEJLOmIFKos0JHsn
+img: icons/svg/combat.svg
+system:
+  name: ''
+  description: >-
+    <p>Adds @UUID[Compendium.motw-for-pbta.tags.Item.nomR0IoetaCq6VjQ]{+2 harm}
+    @UUID[Compendium.motw-for-pbta.tags.Item.RU3Zkw0KG3E1pCxZ]{fire} to a
+    base.</p>
+
+    <p>If you get a 10+ on a combat magic roll, the fire won&rsquo;t spread.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690283187370
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!jEJLOmIFKos0JHsn'
+

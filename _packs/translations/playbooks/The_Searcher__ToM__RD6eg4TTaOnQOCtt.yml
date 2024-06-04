@@ -1,0 +1,520 @@
+original_name: The Searcher [ToM]
+original_description: >-
+  <blockquote>
+
+  <p><em>“There’s still so much to be discovered and explained, even now.
+  Perhaps only one event in a thousand is true weirdness—but I’ll investigate
+  them all to find it.”</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%;height:1283px" border="1"><colgroup><col
+  style="width:47.6912%"></col><col style="width:52.3088%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:151px">
+
+  <td style="height:151px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>TTo make your Searcher, first pick a name. Then follow the instructions
+  below to decide your look, ratings, first encounter, moves, and gear. Finally,
+  introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.amOU14I8Z4jdHiyN]{Items} 
+  can be dragged and dropped to the appropriate header/field. For other values
+  and descriptions, you need to copy and paste, or manually change
+  them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each list:</em></p>
+
+  <ul>
+
+  <li>Man, woman, boy, girl, ambiguous</li>
+
+  <li>Friendly face, haunted face, thoughtful face, lined face, curious
+  face</li>
+
+  <li>Normal clothes, casual clothes, nerdy clothes, tweedy clothes, outdoor
+  wear</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm=0, Cool+1, Sharp+1, Tough–1, Weird+2</li>
+
+  <li>Charm+1, Cool–1, Sharp+1, Tough=0, Weird+2</li>
+
+  <li>Charm=0, Cool–1, Sharp+2, Tough=0, Weird+2</li>
+
+  <li>Charm=0, Cool+1, Sharp+2, Tough–1, Weird+1</li>
+
+  <li>Charm+1, Cool=0, Sharp+2, Tough–1, Weird+1</li>
+
+  </ul>
+
+  <h3><br />First Encounter</h3>
+
+  <p>One strange event started you down this path, sparking your need to
+  discover the truth behind the unexplained. Decide what that event was: pick a
+  category below and take the associated move. Then tell everyone what happened
+  to you (or someone close to you).</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.amOU14I8Z4jdHiyN]{Abduction}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.5uDxkorpi8MCwnmR]{Cosmic
+  Insight}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.E8teuma2sgeFLi7F]{Cryptic
+  Sightnings}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.Ja3DiyOzBuPnlXXk]{Higher
+  Power}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.K57SKffPN28q0NEJ]{Psychic
+  Event}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.gN4IB3WWMG6Ky0M5]{Strange
+  Dangers}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.HU120WjcU5oMWe23]{Zone
+  of Strangeness}</p>
+
+  <p> </p>
+
+  <h3>Moves</h3>
+
+  <p>You get all of the basic moves, the First Encounter move, plus two
+  additional Searcher moves.</p>
+
+  <p><em>Pick two of these:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.TsWMjtN7ZRJkNUkM]{Fellow
+  Believer}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.DPZWXhnI2KKXN3vE]{Guardian}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.lop9BR9t0xp6fhsy]{Just
+  Another Day}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.DplPRnl7ib5VBTju]{Network}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.P7AGrdDQdqcQmjtm]{Ockham's
+  Broadsword}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.Jq4Hg2ZU63LbZgat]{Prepared
+  to Defend}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.FvAxTajrHDoltN3s]{The
+  Things I've Seen}</p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p>You get a laptop, a car or motorcycle, a camera, binoculars, two sets of
+  investigation tools, and one self-defence weapon. (Please note that you, or
+  your Keeper, must create these manually)</p>
+
+  <h4>Investigation tools, <em>pick two</em>:</h4>
+
+  <ul>
+
+  <li>A bag of cameras &amp; microphones.</li>
+
+  <li>Forensic tools.</li>
+
+  <li>Ghost hunting tools.</li>
+
+  <li>Scientific measuring tools.</li>
+
+  <li>Cryptid hunting gear.</li>
+
+  <li>Historical documents and witness reports of strange events.</li>
+
+  <li>Maps, blueprints, and building reports for significant places.</li>
+
+  </ul>
+
+  <h4><br />Self-defence weapons, <em>pick one</em>:</h4>
+
+  <ul>
+
+  <li>Walking stick (1-harm hand innocuous).</li>
+
+  <li>Small handgun (2-harm close reload loud).</li>
+
+  <li>Small knife (1-harm hand messy).</li>
+
+  <li>Martial arts training (1-harm hand innocuous).</li>
+
+  <li>Incapacitating spray (0-harm hand irritating).</li>
+
+  <li>Heavy flashlight (1-harm hand innocuous).</li>
+
+  </ul>
+
+  <h3><br />Luck special</h3>
+
+  <p>When you spend a point of Luck, your first encounter comes up in play. It
+  could be a flashback, new occurrence, or related event. <br /><br /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Searcher by name and
+  look, and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>In your researches, you found accounts (and pictures) of someone matching
+  their description perfectly, but long before they were born. Tell them if you
+  have mentioned this.</li>
+
+  <li>A relative. Decide between you how close.</li>
+
+  <li>They were involved in a supernatural event similar to your first
+  encounter. Perhaps it was the same event, or perhaps you investigated their
+  event later. Ask them how the event affected them.</li>
+
+  <li>You figured out a supernatural or weird secret they keep. Ask them what it
+  is.</li>
+
+  <li>You met when you were each investigating seperate mysteries. Tell them
+  what trick you used to protect them from weirdness and ask them how they
+  saved you from a danger.</li>
+
+  <li>You’re both veterans of a therapy or support group or a treatment program.
+  Work out the details between you.</li>
+
+  <li>Some creature or force is stalking them. Ask them what it is. Then decide
+  if you’ve told them about it or if they are still happily unaware.</li>
+
+  <li>You found their pet when it went missing. Where had it gone?</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px" colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]{Get +1 Sharp,
+  max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get +1
+  Weird, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Vmp4L5AQRIwxS7Hg]{Take another
+  Searcher move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Vmp4L5AQRIwxS7Hg]{Take another
+  Searcher move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain an
+  ally}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.v4njuFaf17BG0PPQ]{Take a
+  second first encounter move, based on a recent mystery}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another
+  two of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase one used
+  luck mark}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase one used
+  luck mark}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.AHNxtya35hqo9gAB]{Resolve your
+  First Encounter}</p>
+
+  <p>The Keeper makes the next mystery about this event, and should try to
+  answer all remaining questions about it during the mystery (although there are
+  sure to be new threads to investigate after...)</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: The Searcher [ToM]
+description: >-
+  <blockquote> <p><em>“There’s still so much to be discovered and explained,
+    even now. Perhaps only one event in a thousand is true weirdness—but I’ll investigate
+    them all to find it.”</em></p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>TTo make your Searcher, first pick
+    a name. Then follow the instructions below to decide your look, ratings, first encounter,
+    moves, and gear. Finally, introduce yourself and pick history.<br /><br /><em><strong>Instructions</strong>:
+    @UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.amOU14I8Z4jdHiyN]{Items}  can
+    be dragged and dropped to the appropriate header/field. For other values and descriptions,
+    you need to copy and paste, or manually change them.</em></p>
+  <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p>
+
+  </td>
+
+    </tr>
+  <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul> <li>Man, woman, boy, girl,
+  ambiguous</li> <li>Friendly
+    face, haunted face, thoughtful face, lined face, curious face</li>
+  <li>Normal clothes,
+    casual clothes, nerdy clothes, tweedy clothes, outdoor wear</li>
+  </ul> <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p> <ul>
+  <li>Charm=0, Cool+1, Sharp+1,
+    Tough–1, Weird+2</li>
+  <li>Charm+1, Cool–1, Sharp+1, Tough=0, Weird+2</li> <li>Charm=0,
+    Cool–1, Sharp+2, Tough=0, Weird+2</li>
+  <li>Charm=0, Cool+1, Sharp+2, Tough–1, Weird+1</li>
+
+    <li>Charm+1, Cool=0, Sharp+2, Tough–1, Weird+1</li>
+  </ul> <h3><br />First Encounter</h3>
+
+    <p>One strange event started you down this path, sparking your need to discover
+    the truth behind the unexplained. Decide what that event was: pick a category below
+    and take the associated move. Then tell everyone what happened to you (or someone
+    close to you).</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.amOU14I8Z4jdHiyN]{Abduction}</p>
+
+    <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.5uDxkorpi8MCwnmR]{Cosmic
+    Insight}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.E8teuma2sgeFLi7F]{Cryptic
+    Sightnings}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.Ja3DiyOzBuPnlXXk]{Higher
+    Power}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.K57SKffPN28q0NEJ]{Psychic
+    Event}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.gN4IB3WWMG6Ky0M5]{Strange
+    Dangers}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.HU120WjcU5oMWe23]{Zone
+    of Strangeness}</p>
+
+  <h3>Manœuvres</h3> <p>You get all of the basic moves,
+    the First Encounter move, plus two additional Searcher moves.</p>
+  <p><em>Pick two
+    of these:</em></p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.TsWMjtN7ZRJkNUkM]{Fellow
+    Believer}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.DPZWXhnI2KKXN3vE]{Guardian}</p>
+
+    <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.lop9BR9t0xp6fhsy]{Just Another
+    Day}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.DplPRnl7ib5VBTju]{Network}</p>
+
+    <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.P7AGrdDQdqcQmjtm]{Ockham's
+    Broadsword}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.Jq4Hg2ZU63LbZgat]{Prepared
+    to Defend}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-searcher-tom.Item.FvAxTajrHDoltN3s]{The
+    Things I've Seen}</p>
+  </td> <td style="padding: 8px;"> <h3>Équipement</h3>
+
+    <p>You get a laptop, a car or motorcycle, a camera, binoculars, two sets of investigation
+    tools, and one self-defence weapon. (Please note that you, or your Keeper, must
+    create these manually)</p>
+  <h4>Investigation tools, <em>pick two</em>:</h4> <ul>
+
+    <li>A bag of cameras &amp; microphones.</li>
+  <li>Forensic tools.</li> <li>Ghost
+    hunting tools.</li>
+  <li>Scientific measuring tools.</li> <li>Cryptid hunting gear.</li>
+
+    <li>Historical documents and witness reports of strange events.</li>
+  <li>Maps,
+    blueprints, and building reports for significant places.</li>
+  </ul> <h4><br />Self-defence
+    weapons, <em>pick one</em>:</h4>
+  <ul> <li>Walking stick (1-harm hand innocuous).</li>
+
+    <li>Small handgun (2-harm close reload loud).</li>
+  <li>Small knife (1-harm hand
+    messy).</li>
+  <li>Martial arts training (1-harm hand innocuous).</li> <li>Incapacitating
+    spray (0-harm hand irritating).</li>
+  <li>Heavy flashlight (1-harm hand innocuous).</li>
+
+    </ul>
+  <h3><br />Luck special</h3> <p>When you spend a point of Luck, your first
+    encounter comes up in play. It could be a flashback, new occurrence, or related
+    event. <br /><br /></p>
+  <h3>Présentations</h3> <p>When you get here, wait for
+    everyone to catch up so you can do your introductions together.</p>
+  <p>Go around
+    the group. On your turn, introduce your Searcher by name and look, and tell the
+    group what they know about you.</p>
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p> <ul>
+
+    <li>In your researches, you found accounts (and pictures) of someone matching their
+    description perfectly, but long before they were born. Tell them if you have mentioned
+    this.</li>
+  <li>A relative. Decide between you how close.</li> <li>They were involved
+    in a supernatural event similar to your first encounter. Perhaps it was the same
+    event, or perhaps you investigated their event later. Ask them how the event affected
+    them.</li>
+  <li>You figured out a supernatural or weird secret they keep. Ask them
+    what it is.</li>
+  <li>You met when you were each investigating seperate mysteries.
+    Tell them what trick you used to protect them from weirdness and ask them how they
+    saved you from a danger.</li>
+  <li>You’re both veterans of a therapy or support
+    group or a treatment program. Work out the details between you.</li>
+  <li>Some creature
+    or force is stalking them. Ask them what it is. Then decide if you’ve told them
+    about it or if they are still happily unaware.</li>
+  <li>You found their pet when
+    it went missing. Where had it gone?</li>
+  </ul> </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+    <p>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]{Get +1 Sharp, max
+    +3}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get +1 Weird,
+  max
+    +3}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+    max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1
+    Cool, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Vmp4L5AQRIwxS7Hg]{Take
+    another Searcher move}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Vmp4L5AQRIwxS7Hg]{Take
+    another Searcher move}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain
+    an ally}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.v4njuFaf17BG0PPQ]{Take
+    a second first encounter move, based on a recent mystery}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
+    a move from another playbook}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
+    a move from another playbook}</p>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul> <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
+    +1 to any rating, max +3.}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change
+    this hunter to a new type}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create
+    a second hunter to play as well as this one}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire
+    this hunter to safety}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark
+    two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark
+    another two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase
+    one used luck mark}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase
+    one used luck mark}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.AHNxtya35hqo9gAB]{Resolve
+    your First Encounter}</p>
+  <p>The Keeper makes the next mystery about this event,
+    and should try to answer all remaining questions about it during the mystery (although
+    there are sure to be new threads to investigate after...)</p>
+  </td> </tr> </tbody>
+
+    </table>

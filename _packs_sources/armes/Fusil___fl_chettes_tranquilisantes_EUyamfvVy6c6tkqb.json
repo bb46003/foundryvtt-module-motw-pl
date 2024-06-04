@@ -1,0 +1,36 @@
+{
+  "name": "Fusil à fléchettes tranquilisantes",
+  "type": "equipment",
+  "img": "icons/weapons/guns/gun-brown.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"loin\"},{\"value\":\"silencieux\"},{\"value\":\"lent\"},{\"value\":\"tranquilisant\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "pOb1wfrrVaKlUbdX",
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714556502909,
+    "modifiedTime": 1714683481772,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "EUyamfvVy6c6tkqb",
+  "sort": 0,
+  "_key": "!items!EUyamfvVy6c6tkqb"
+}

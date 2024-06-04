@@ -1,0 +1,52 @@
+_id: ZZbuKbaM49VM5Jnm
+name: Luck
+type: move
+img: icons/svg/daze.svg
+effects: []
+folder: null
+flags:
+  core: {}
+system:
+  name: ''
+  description: |-
+    <p>When you spend a point of Luck, pick one:</p>
+    <ul>
+    <li>Decrease a wound you have suffered to 0 harm.</li>
+    <li>After you roll, retroactively change the result to a 12.</li>
+    <li>When you have no luck left, bad things will happen to you.</li>
+    </ul>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: ''
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686948368592
+  modifiedTime: 1686948539926
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!ZZbuKbaM49VM5Jnm'
+

@@ -1,0 +1,54 @@
+folder: bCp0Eof7nDxwYGmI
+name: Put On A Show
+type: move
+_id: rHipPqWxzgeYDH7g
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You can <strong>entertain people</strong> so they feel joy and forget
+    their troubles. Say what you do and roll +Charm if it&rsquo;s pure
+    performance or +Weird if you add a pinch of magic.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> the audience is transported and happy.
+        Troubles and trauma are eased in their minds, for a good
+        while.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong> pick one: the effect just lasts a little
+        while, or the regular time but there&rsquo;s a ruckus when you&rsquo;re
+        done.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooktacular [HE]
+  rollType: ask
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690913905080
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!rHipPqWxzgeYDH7g'
+

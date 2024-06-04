@@ -1,0 +1,28 @@
+original_name: Occult Confidential
+original_description: <p>The<strong> first time</strong> in each mystery that
+  you <strong>observe</strong> a monster, minion, or phenomenon in action, you
+  may ask one question from the investigate a mystery list.</p>
+original_choices: |-
+  <ul>
+  <li>What happened here?</li>
+  <li>What sort of creature is it?</li>
+  <li>What can it do?</li>
+  <li>What can hurt it?</li>
+  <li>Where did it go?</li>
+  <li>What was it going to do?</li>
+  <li>What is being concealed here?</li>
+  </ul>
+name: Occult Confidential
+description: <p>The<strong> first time</strong> in each mystery that you
+  <strong>observe</strong> a monster, minion, or phenomenon in action, you may
+  ask one question from the investigate a mystery list.</p>
+choices: |-
+  <ul>
+  <li>What happened here?</li>
+  <li>What sort of creature is it?</li>
+  <li>What can it do?</li>
+  <li>What can hurt it?</li>
+  <li>Where did it go?</li>
+  <li>What was it going to do?</li>
+  <li>What is being concealed here?</li>
+  </ul>

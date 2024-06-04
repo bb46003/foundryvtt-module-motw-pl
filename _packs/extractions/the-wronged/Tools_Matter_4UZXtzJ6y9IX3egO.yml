@@ -1,0 +1,52 @@
+name: Tools Matter
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>With your signature weapon (see your gear), you get +1 to <strong>kick
+    some ass</strong>.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Wronged
+  rollType: tough
+  rollMod: 1
+  choices: ''
+effects: []
+flags:
+  core: {}
+  cf:
+    id: temp_ux4c12qma3h
+    path: 'The Wronged#/CF_SEP/The Wronged: Moves'
+    color: '#000000'
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667516880157
+  modifiedTime: 1686865230903
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+_id: 4UZXtzJ6y9IX3egO
+folder: vXxRnNafjFK1kpY4
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!4UZXtzJ6y9IX3egO'
+

@@ -1,0 +1,28 @@
+name: 3-armour
+type: tag
+img: icons/svg/ice-shield.svg
+system:
+  name: ''
+  description: ''
+effects: []
+flags:
+  cf:
+    id: temp_g6r858y6h6
+    path: 'Tags#/CF_SEP/Tags: Armour'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667472880893
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: 9n9F8HnkOOc31dB6
+_id: ESIMstvjpwofexER
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!ESIMstvjpwofexER'
+

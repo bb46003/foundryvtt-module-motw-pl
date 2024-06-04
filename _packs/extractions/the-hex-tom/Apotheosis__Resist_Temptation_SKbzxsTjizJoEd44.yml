@@ -1,0 +1,53 @@
+folder: oEONT5rTtbeeTlos
+name: 'Apotheosis: Resist Temptation'
+type: move
+_id: SKbzxsTjizJoEd44
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>On the other hand, you outright cannot use the <strong>protect
+    someone</strong> move, you have all the Temptations, and you have to indulge
+    them whenever a good opportunity presents itself. When you try to resist a
+    temptation, roll +Cool.</p>
+  requiresMove: 'Advanced: Apotheosis'
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong>, your apotheosis ends.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, it ends with you doing something dangerous
+        or cruel.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, it ends only after you harm someone (or
+        something) you love.</p>
+  uses: 0
+  playbook: The Hex [ToM]
+  rollType: cool
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690916410023
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!SKbzxsTjizJoEd44'
+

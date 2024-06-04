@@ -1,0 +1,51 @@
+{
+  "folder": "YE77GjfVJzH7dzId",
+  "name": "Génie destructeur",
+  "type": "move",
+  "_id": "X2VzhZfrooiwgAFK",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Si vous en avez le temps, vous pouvez transformer des objets de tous les jours en armes temporaires mais affreuses. Pour ce faire, lancez +Bizarre.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, (2 d&eacute;g&acirc;ts, magique, proche, bruyant, usage unique) et choisissez deux options ci-dessous.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, (1 d&eacute;g&acirc;t, magique, proche, bruyant, usage unique) et choisissez une option ci-dessous.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, vous subissez 1 d&eacute;g&acirc;t car votre invention vous explose &agrave; la figure.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Savant Fou",
+    "rollType": "weird",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": "<p>Effets affreux :</p>\n<ul>\n<li>Peut &ecirc;tre utilis&eacute; jusqu&rsquo;&agrave; trois fois... peut-&ecirc;tre.</li>\n<li>Ajoutez +1 d&eacute;g&acirc;t, zone.</li>\n<li>Ajoutez +2 d&eacute;g&acirc;ts, sanglant, lourd.</li>\n<li>Ajoutez feu et AP.</li>\n<li>Ajoutez +4 d&eacute;g&acirc;ts, sanglant, lourd.</li>\n<li>Ajoutez + 2 d&eacute;g&acirc;ts, explose, zone.</li>\n<li>Ajoutez soin et sanglant.</li>\n</ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204294544,
+    "modifiedTime": 1714210358868,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!X2VzhZfrooiwgAFK"
+}

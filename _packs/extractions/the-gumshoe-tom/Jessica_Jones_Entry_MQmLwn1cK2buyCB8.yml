@@ -1,0 +1,54 @@
+folder: n4tlHYITXH14Zdpo
+name: Jessica Jones Entry
+type: move
+_id: MQmLwn1cK2buyCB8
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you <strong>double-talk</strong> your way into a secure location,
+    roll +Charm.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong> pick three</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong> pick two</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a fail</strong> pick one</p>
+  uses: 0
+  playbook: The Gumshoe [ToM]
+  rollType: charm
+  rollMod: 0
+  choices: |-
+    <ul>
+    <li>You don&rsquo;t leave any trace of what you searched.</li>
+    <li>You find what you wanted.</li>
+    <li>You find something else that&rsquo;s important.</li>
+    <li>You don&rsquo;t piss anyone off.</li>
+    <li>You aren&rsquo;t recognised.</li>
+    </ul>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690885499519
+  modifiedTime: 1691053405906
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!MQmLwn1cK2buyCB8'
+

@@ -1,0 +1,53 @@
+name: 'Haven: Lore Library'
+type: move
+img: icons/svg/house.svg
+system:
+  name: ''
+  description: >-
+    <p>When you hit the books, take +1 forward to <strong>investigate the
+    mystery</strong> (as long as historical or reference works are
+    appropriate).</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Expert
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_gtm2nw94k5
+    path: 'The Expert#/CF_SEP/The Expert: Haven'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667482549341
+  modifiedTime: 1686856606199
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: kudH4VHnQt7WWNS5
+_id: ku2aKqWrIgziYc5H
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!ku2aKqWrIgziYc5H'
+

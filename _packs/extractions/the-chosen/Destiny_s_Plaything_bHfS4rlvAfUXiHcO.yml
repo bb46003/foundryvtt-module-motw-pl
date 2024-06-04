@@ -1,0 +1,56 @@
+name: Destiny's Plaything
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+flags:
+  cf:
+    id: temp_ecf7z6ojs4
+    path: 'The Chosen#/CF_SEP/The Chosen: Moves'
+    color: '#000000'
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>At the beginning of each mystery, roll +Weird to <strong>see what is
+    revealed about your immediate future</strong>.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong>, the Keeper will reveal a useful detail
+        about the coming mystery.&nbsp;</p>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong> you get a vague hint about it.&nbsp;</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, something bad is going to happen to
+        you.</p>
+  uses: 0
+  playbook: The Chosen
+  rollType: weird
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667593487890
+  modifiedTime: 1690916928551
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: QYAUKtZWrTKbvmZq
+_id: bHfS4rlvAfUXiHcO
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!bHfS4rlvAfUXiHcO'
+

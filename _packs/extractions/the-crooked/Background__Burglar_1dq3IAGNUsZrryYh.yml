@@ -1,0 +1,53 @@
+name: 'Background: Burglar'
+type: move
+img: icons/svg/book.svg
+effects: []
+flags:
+  cf:
+    id: temp_9zfzaydbnfv
+    path: 'The Crooked#/CF_SEP/The Crooked: Backgrounds'
+    color: '#000000'
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>When you <strong>break into a secure location</strong>, roll +Sharp. On a
+    10+ pick three, on a 7-9 pick two: you get in undetected, you get out
+    undetected, you don&rsquo;t leave a mess, you find what you were after.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: crooked-select
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Crooked
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667593601224
+  modifiedTime: 1686778481489
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: gaQQZjdNV4PrzUHU
+_id: 1dq3IAGNUsZrryYh
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!1dq3IAGNUsZrryYh'
+

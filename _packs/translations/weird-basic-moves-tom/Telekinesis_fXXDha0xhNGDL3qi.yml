@@ -1,0 +1,64 @@
+original_name: Telekinesis
+original_description: >-
+  <p>When you <strong>fling something with your mind</strong>, roll +Weird.</p>
+
+  <p>By default you can move something smaller than a person. You don’t have
+  much control, and you can’t move it strongly enough to hurt anything.</p>
+original_success: >-
+  <p><strong>On a 10 or more,</strong> you move it. Choose two options and mark
+  1-harm.<br><br></p>
+
+  <h4>Advanced Telekinesis&nbsp;</h4>
+
+  <p><strong>On a 12 or more</strong>, choose three options. You may also choose
+  from these advanced options:</p>
+
+  <ul>
+
+  <li>Something explodes (3-harm close fire area messy)</li>
+
+  <li>Something implodes (3-harm close crush)</li>
+
+  <li>Lots of stuff is flying under your control.<br>&bull; You have perfect and
+  precise control over exactly what happens.</li>
+
+  </ul>
+original_partial: <p><strong>On a 7-9</strong>, you move it but it hurts. Choose
+  one option and mark 2-harm.</p>
+original_failure: <p><strong>On a miss</strong>, something goes horribly wrong.</p>
+name: Télékinésie
+description: >-
+  <p>Quand vous <strong>déplacez quelque chose avec votre esprit</strong>,
+  lancez +Bizarre malgré la douleur.</p>
+
+  <p>Par défaut, vous pouvez déplacer quelque chose de plus petit qu’une
+  personne. Vous n’avez pas beaucoup de contrôle et vous ne pouvez pas le bouger
+  assez fort pour blesser quoi que ce soit.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, vous parvenez à déplacer la cible. Choisissez
+  deux options et cochez 1 dégât.</p>
+
+  <h4>Télékinésie avancée</h4>
+
+  <p><strong>Sur un 12+</strong>, choisissez trois options. Vous pouvez aussi
+  choisir parmi les options avancées suivantes :</p>
+
+  <ul>
+    <li>La cible explose (3 dégâts, feu, zone, sanglant).</li>
+    <li>La cible implose (3 dégâts, écrasement).</li>
+    <li>Toutes sortes d’objets s’envolent sous votre contrôle.</li>
+    <li>Vous contrôlez parfaitement ce qui se passe.</li>
+  </ul>
+partial: <p><strong>Sur un 7-9</strong>, vous parvenez à déplacer la cible, mais
+  cela ne se fait pas sans douleur. Choisissez une option et cochez 2
+  dégâts.</p>
+failure: <p><strong>En cas d’échec</strong>, Il se passe quelque chose de terrible.</p>
+choices: |-
+  <p>Options de télékinésie :</p>
+  <ul>
+    <li>La cible est clouée sur place.</li>
+    <li>La cible est blessée (2 dégâts, choc).</li>
+    <li>La cible prend feu.</li>
+    <li>Vous pouvez déplacer une cible plus grosse qu’un individu.</li>
+    <li>Subissez 1 dégât de moins.</li>
+  </ul>

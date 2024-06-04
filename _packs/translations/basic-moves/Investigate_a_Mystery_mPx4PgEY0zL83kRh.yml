@@ -1,0 +1,37 @@
+original_name: Investigate a Mystery
+original_description: <p>When you investigate a mystery, <strong>roll +Sharp</strong>.</p>
+original_success: <p><strong>On a 10+</strong> hold 2.</p>
+original_partial: <p><strong>On a 7-9</strong> hold 1.</p>
+original_failure: <p><strong>On a miss</strong>, you reveal some information to
+  the monster or whoever you are talking to. The Keeper might ask you some
+  questions, which you have to answer.</p>
+original_choices: |-
+  <p>One hold can be spent to ask the Keeper one of the following questions:</p>
+  <ul>
+  <li>What happened here?</li>
+  <li>What sort of creature is it?</li>
+  <li>What can it do?</li>
+  <li>What can hurt it?</li>
+  <li>Where did it go?</li>
+  <li>What was it going to do?</li>
+  <li>What is being concealed here?</li>
+  </ul>
+name: Enquêter sur un mystère
+description: <p>Quand vous enquêtez sur un mystère, <strong>lancez +Futé</strong>.</p>
+success: <p><strong>Sur un 10+</strong>, réserve 2.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
+failure: <p><strong>En cas d’échec</strong>, vous révélez des informations au
+  monstre ou à l’individu auquel vous vous adressez. Le Gardien est en droit de
+  vous poser quelques questions auxquelles vous devez répondre.</p>
+choices: >-
+  <p>Un point de réserve permet de poser au Gardien une des questions suivantes :</p>
+
+  <ul>
+    <li><em>Que s’est-il passé ici ?</em></li>
+    <li><em>De quel genre de créature s’agit-il ?</em></li>
+    <li><em>Que sait-elle faire ?</em></li>
+    <li><em>À quoi est-elle vulnérable ?</em></li>
+    <li><em>Où est-elle partie ?</em></li>
+    <li><em>Que voulait-elle faire ?</em></li>
+    <li><em>Y a-t-il quelque chose de caché par ici ?</em></li>
+  </ul>

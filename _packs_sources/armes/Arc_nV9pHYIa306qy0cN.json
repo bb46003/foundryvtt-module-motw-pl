@@ -1,0 +1,34 @@
+{
+  "folder": "xQcWWKviJ1IxDWbe",
+  "name": "Arc",
+  "type": "equipment",
+  "_id": "nV9pHYIa306qy0cN",
+  "img": "icons/weapons/bows/bow-ornamental-silver-black.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"proche\"},{\"value\":\"1 dégât\"},{\"value\":\"loin\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714635697309,
+    "modifiedTime": 1714635755547,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!nV9pHYIa306qy0cN"
+}

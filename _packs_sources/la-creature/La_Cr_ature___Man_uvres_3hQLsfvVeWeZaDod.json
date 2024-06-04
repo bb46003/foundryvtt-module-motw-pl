@@ -1,0 +1,19 @@
+{
+  "name": "La Créature : Manœuvres",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "3hQLsfvVeWeZaDod",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714199249561,
+    "modifiedTime": 1714199249561,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!folders!3hQLsfvVeWeZaDod"
+}

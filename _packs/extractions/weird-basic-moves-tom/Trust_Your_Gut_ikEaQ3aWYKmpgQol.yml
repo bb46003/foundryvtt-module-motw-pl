@@ -1,0 +1,60 @@
+folder: null
+name: Trust Your Gut
+type: move
+_id: ikEaQ3aWYKmpgQol
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>When you <strong>consult your instincts</strong> about what to do next,
+    roll +Weird.</p>
+
+    <p>Your gut feelings will point you somewhere important, but they do not
+    care about your conscious concerns. To your gut, the current mystery is just
+    one important thing amongst many.</p>
+  moveType: altMove
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10 or more</strong>, the Keeper will tell where you
+        should go. Wherever that is, it will be important. You get +1 ongoing on
+        the way to this place.<br><br></p>
+
+        <h4>Advanced Trust Your Gut</h4>
+
+        <p><strong>On a 12 or more</strong>, in addition to the usual 10+
+        result, the Keeper will tell you about one important thing you should
+        investigate further.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, the Keeper will tell you a general
+        direction to go. Take +1 forward as you explore that.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, your instincts lead you into danger.</p>
+  uses: 0
+  playbook: ''
+  rollType: weird
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691070683326
+  modifiedTime: 1706527375139
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!ikEaQ3aWYKmpgQol'
+

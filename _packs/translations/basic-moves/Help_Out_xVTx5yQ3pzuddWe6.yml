@@ -1,0 +1,30 @@
+original_name: Help Out
+original_description: >-
+  <p>When you help another hunter, <strong>roll +Cool</strong>.</p>
+
+  <p>Note that help bonuses do not stack: if two people help out, the hunter
+  just gets +1 on their roll.</p>
+original_success: "<p><strong>On a 10+</strong> your help grants them +1 to
+  their roll.<br /><br /><strong>ADVANCED: On a 12+</strong> your help lets them
+  act as if they just rolled a 12, regardless of what they actually got.</p>"
+original_partial: <p><strong>On a 7-9</strong> your help grants them +1 to their
+  roll, but you also expose yourself to trouble or danger.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you expose yourself to trouble
+  or danger without helping.</p>
+name: Donner un coup de main
+description: >-
+  <p>Vous pouvez aider un chasseur qui entreprend une manœuvre en
+  <strong>lançant +Cool</strong>.</p>
+
+  <p>Notez que ce genre de bonus n’est pas cumulable. Si deux personnes lui
+  donnent un coup de main, le chasseur n’obtient que +1 à son jet.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, votre aide confère +1 à son jet.</p>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous faites la différence.
+  La personne que vous aidez agit comme si elle avait obtenu un 12, quel que
+  soit le résultat de son jet de dés.</p>
+partial: <p><strong>Sur un 7-9</strong>, votre aide confère +1 à son jet, mais
+  vous vous retrouvez vous-même exposé.</p>
+failure: <p><strong>En cas d’échec</strong>, vous vous retrouvez exposé sans
+  rien apporter à l’autre chasseur.</p>

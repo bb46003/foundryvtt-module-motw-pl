@@ -1,0 +1,12 @@
+original_name: "Effect: Force or Wind"
+original_description: <p>Adds
+  @UUID[Compendium.motw-for-pbta.tags.Item.56zOmxrhZFrANRFS]{+1 harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.XLJ3RJJTbL1BOn5i]{forceful} to a
+  base, or @UUID[Compendium.motw-for-pbta.tags.Item.iBZgtfNRcFcpOl0E]{+1 armour}
+  to a wall.</p>
+name: "Effet : Force ou vent"
+description: <p>Ajoutez
+  @UUID[Compendium.motw-for-pbta.tags.Item.56zOmxrhZFrANRFS]{+1 dégât},
+  @UUID[Compendium.motw-for-pbta.tags.Item.XLJ3RJJTbL1BOn5i]{percutant} à un
+  sort de base, ou @UUID[Compendium.motw-for-pbta.tags.Item.iBZgtfNRcFcpOl0E]{+1
+  armure} à un mur.</p>

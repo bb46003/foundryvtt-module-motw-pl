@@ -1,0 +1,49 @@
+folder: 8j1LoSG70qv9zItc
+name: Minor Celebrity
+type: move
+_id: t8yLq8dLt0vgiH6r
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: <p>At the beginning of each mystery, roll +Weird.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: <p><strong>On a 10+</strong> hold 2.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong> hold 1.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Snoop [HE]
+  rollType: weird
+  rollMod: 0
+  choices: >-
+    <p>Spend your hold during the mystery to have someone you meet know of you
+    in a positive light (maybe they read your blog, listen to your podcast, or
+    watch your Internet/TV show, etc). You may end up getting asked for
+    autographs or given &ldquo;hot&rdquo; leads, etc.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690912476027
+  modifiedTime: 1691053434448
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!t8yLq8dLt0vgiH6r'
+

@@ -1,0 +1,36 @@
+{
+  "folder": "JJdv2buCyUskF9cl",
+  "name": "Poignard béni",
+  "type": "equipment",
+  "img": "icons/weapons/daggers/dagger-bone-engraved-black.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"allonge\"},{\"value\":\"béni\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714557224949,
+    "modifiedTime": 1714631711414,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "Xal89HWFoPGBCWfU",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!Xal89HWFoPGBCWfU"
+}

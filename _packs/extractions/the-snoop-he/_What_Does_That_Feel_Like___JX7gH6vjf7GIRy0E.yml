@@ -1,0 +1,49 @@
+folder: 8j1LoSG70qv9zItc
+name: '"What Does That Feel Like?"'
+type: move
+_id: JX7gH6vjf7GIRy0E
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you put your camera or microphone right in a person&rsquo;s face,
+    they break off whatever they are doing. They might go right back to it after
+    they deal with you, but you&rsquo;ll create enough time for the other
+    hunters to act in the meantime.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Snoop [HE]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690912420052
+  modifiedTime: 1691053434448
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!JX7gH6vjf7GIRy0E'
+

@@ -1,0 +1,31 @@
+folder: Vo071mcQrveUqFcV
+name: Wizard Tent
+type: equipment
+_id: P18BGobNp3rIL4WX
+img: icons/environment/settlement/tent.webp
+system:
+  name: ''
+  description: <p>Worn and crappy on the outside, big and luxurious on the inside.</p>
+  uses: 0
+  playbook: The Spooktacular [HE]
+  quantity: 1
+  weight: 0
+  tags: ''
+  tagsString: ''
+  itemType: null
+  equipmentType: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690915004392
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!P18BGobNp3rIL4WX'
+

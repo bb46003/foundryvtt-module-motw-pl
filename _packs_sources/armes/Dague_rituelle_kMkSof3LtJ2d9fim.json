@@ -1,0 +1,36 @@
+{
+  "name": "Dague rituelle",
+  "type": "equipment",
+  "img": "icons/weapons/daggers/dagger-ritual-red.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"allonge\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "HdFgJVa43IDY8dxm",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714557615687,
+    "modifiedTime": 1714633918394,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "kMkSof3LtJ2d9fim",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!kMkSof3LtJ2d9fim"
+}

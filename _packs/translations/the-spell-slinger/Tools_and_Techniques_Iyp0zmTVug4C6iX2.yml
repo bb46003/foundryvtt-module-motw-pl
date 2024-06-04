@@ -1,0 +1,51 @@
+original_name: Tools and Techniques
+original_description: <p>To use your combat magic effectively, you rely on a
+  collection of tools and techniques. Cross off one; you&rsquo;ll need the
+  rest.</p>
+original_choices: >-
+  <ul>
+
+  <li><strong>Consumables</strong>: You need certain supplies&mdash; powders,
+  oils, etc&mdash;on hand, some will be used up each cast. If you don&rsquo;t
+  have them, take 1-harm ignore-armour when you cast.</li>
+
+  <li><strong>Foci</strong>: You need wands, staves, and other obvious props to
+  focus. If you don&rsquo;t have what you need, your combat magic does 1 less
+  harm.</li>
+
+  <li><strong>Gestures</strong>: You need to wave your hands around to use
+  combat magic. If you&rsquo;re restrained, take -1 ongoing for combat
+  magic.</li>
+
+  <li><strong>Incantations</strong>: You must speak in an arcane language to
+  control your magic. If you use combat magic without speaking, <strong>act
+  under pressure</strong> to avoid scrambling your thoughts.</li>
+
+  </ul>
+name: Outils et techniques
+description: <p>Pour utiliser votre magie de combat au mieux, vous disposez de
+  tout un ensemble d’outils et de techniques. Si vous faites sans, il y a des
+  inconvénients. Rayez-en une, vous aurez besoin des autres.</p>
+choices: >-
+  <ul>
+    <li>
+      <strong>Consommables :</strong> Vous avez besoin de certaines composantes (poudres, huiles, etc.), qui sont
+      détruites quand vous lancez un sort. Si vous ne les avez pas sous la main, c’est vous qui les remplacez.
+      Subissez alors : 1 dégât, ignore armure.
+    </li>
+    <li>
+      <strong>Focaliseurs :</strong> Vous avez besoin de baguettes, de bâtons et autres accessoires pour vous
+      concentrer. Si vous n’en avez pas, votre magique de combat inflige -1 dégât.
+    </li>
+    <li>
+      <strong>Gestes :</strong> Vous devez être en mesure de faire certains gestes pour utiliser votre magie de
+      combat. Si vous en êtes incapable, rien ne vous empêche de lancer le sort, mais les choses risquent de ne pas se
+      passer comme prévu. Votre magie de combat subit alors -1 constant.
+    </li>
+    <li>
+      <strong>Vous devez parler dans une langue ésotérique pour canaliser votre magique sans qu’elle ne filtre
+      directement de votre esprit. Si vous utilisez votre magie de combat alors que vous ne pouvez ou ne voulez parler,
+      vous devez aussitôt agir sous pres‑ sion pour éviter de vous embrouiller (hallucinations, privation sensorielle,
+      grande confusion).
+    </li>
+  </ul>

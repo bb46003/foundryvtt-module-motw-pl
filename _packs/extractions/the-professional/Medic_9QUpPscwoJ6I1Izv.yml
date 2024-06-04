@@ -1,0 +1,58 @@
+name: Medic
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You have a full first aid kit, and the training to heal people.
+    <strong>When you do first aid</strong>, roll +Cool.&nbsp;</p>
+
+    <p>This move takes the place of regular first aid.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> the patient is stabilized and healed of 2
+        harm.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong> choose one: heal 2 harm or stabilize the
+        injury.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, you cause an extra 1 harm.&nbsp;</p>
+  uses: 0
+  playbook: The Professional
+  rollType: cool
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_6l0nxanciw
+    path: 'The Professional#/CF_SEP/The Professional: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667512905288
+  modifiedTime: 1686860927565
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: fgQFgAO1PBoLpYTU
+_id: 9QUpPscwoJ6I1Izv
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!9QUpPscwoJ6I1Izv'
+

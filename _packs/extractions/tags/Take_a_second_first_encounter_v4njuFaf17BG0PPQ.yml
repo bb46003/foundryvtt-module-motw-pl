@@ -1,0 +1,23 @@
+folder: FYAMwDuUVimRvr2o
+name: Take a second first encounter
+type: tag
+_id: v4njuFaf17BG0PPQ
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: <p>Take a second first encounter move, based on a recent mystery.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690912051589
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!v4njuFaf17BG0PPQ'
+

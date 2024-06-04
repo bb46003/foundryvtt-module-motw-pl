@@ -1,0 +1,41 @@
+original_name: Trust Your Gut
+original_description: >-
+  <p>When you <strong>consult your instincts</strong> about what to do next,
+  roll +Weird.</p>
+
+  <p>Your gut feelings will point you somewhere important, but they do not care
+  about your conscious concerns. To your gut, the current mystery is just one
+  important thing amongst many.</p>
+original_success: >-
+  <p><strong>On a 10 or more</strong>, the Keeper will tell where you should go.
+  Wherever that is, it will be important. You get +1 ongoing on the way to this
+  place.<br><br></p>
+
+  <h4>Advanced Trust Your Gut</h4>
+
+  <p><strong>On a 12 or more</strong>, in addition to the usual 10+ result, the
+  Keeper will tell you about one important thing you should investigate
+  further.</p>
+original_partial: <p><strong>On a 7-9</strong>, the Keeper will tell you a
+  general direction to go. Take +1 forward as you explore that.</p>
+original_failure: <p><strong>On a miss</strong>, your instincts lead you into danger.</p>
+name: Fie-toi à ton instinct
+description: >-
+  <p>Quand vous <strong>vous fiez à votre instinct</strong> pour prendre une
+  décision, lancez +Bizarre.</p>
+
+  <p>Notez que votre instinct vous poussera vers quelque chose d’important, sans
+  que ce soit forcément lié à votre investigation. Pour votre chasseur, le
+  mystère en cours est une chose importante parmi tant d’autres.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, le Gardien vous dira où vous avez intérêt à
+  aller. Dans tous les cas, c’est important. Vous gagnez +1 constant tant que
+  vous suivez cette piste.</p>
+
+  <h4>Fie-toi à son instinct avancé</h4>
+
+  <p><strong>Sur un 12+</strong>, en plus du résultat du 10+, le Gardien vous
+  révélera une chose que vous savez intuitivement être importante.</p>
+partial: <p><strong>Sur un 7-9</strong>, le Gardien vous indiquera une direction
+  générale. Gagnez +1 temporaire quand vous vous en tenez à cette piste.</p>
+failure: <p><strong>En cas d’échec</strong>, votre instinct vous met en danger.</p>

@@ -1,0 +1,19 @@
+original_name: The Woman (Or Man) With The Plan
+original_description: |-
+  <p><strong>At the beginning of each mystery</strong>, roll +Sharp.&nbsp;</p>
+  <p>Spend the hold to be where you need to be, prepared and ready.</p>
+original_success: <p><strong>On a 10+</strong> hold 2.</p>
+original_partial: <p><strong>On a 7-9</strong> hold 1.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, the Keeper holds 1 they can
+  spend to put you in the worst place, unprepared and unready.</p>
+name: J’avais un plan
+description: >-
+  <p><strong>Au début de chaque mystère</strong>, lancez +Futé.</p>
+
+  <p>Dépensez la réserve pour être là où vous le devez, parfaitement
+  préparé.</p>
+success: <p><strong>Sur un 10+</strong>, réserve 2</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 2</p>
+failure: <p><strong>En cas d’échec</strong>, le Gardien obtient réserve 1 qu’il
+  peut dépenser pour que vous vous retrouviez au pire endroit, totalement pris
+  au dépourvu.</p>

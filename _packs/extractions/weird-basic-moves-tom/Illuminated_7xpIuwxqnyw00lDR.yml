@@ -1,0 +1,64 @@
+folder: null
+name: Illuminated
+type: move
+_id: 7xpIuwxqnyw00lDR
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>You have become enlightened, and sometimes receive information
+    telepathically from the Secret Masters. The Secret Masters are the
+    benevolent conspiracy fighting to make society (or the universe) perfect. At
+    least, that’s what they told you. Sometimes, at the Keeper’s discretion,
+    they proactively send you information, advice, or orders.</p>
+
+    <p>When you <strong>telepathically ask the Secret Masters for aid</strong>,
+    roll +Weird.</p>
+  moveType: altMove
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10 or more</strong>, the Secret Masters reveal a key
+        fact, clue, or technique that will help you.<br><br></p>
+
+        <h4>Advanced Illuminated</h4>
+
+        <p><strong>On a 12 or more</strong>, the Secret Masters reveal a key
+        fact, clue, or technique that will help you. You may ask one follow-up
+        question that the Keeper will answer honestly.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-</strong>9, the Secret Masters need you to complete a
+        task for them. Once it is done, they reveal a key fact, clue, or
+        technique that will help you.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, the Secret Masters&rsquo; reply is
+        terrible, garbled, or somehow dangerously wrong.</p>
+  uses: 0
+  playbook: ''
+  rollType: weird
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691069515914
+  modifiedTime: 1706527375139
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!7xpIuwxqnyw00lDR'
+

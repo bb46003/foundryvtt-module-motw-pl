@@ -1,0 +1,23 @@
+folder: FYAMwDuUVimRvr2o
+name: Take another Spooky move
+type: tag
+_id: 6Avir4oJqncrZbBK
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690291262094
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!6Avir4oJqncrZbBK'
+

@@ -1,0 +1,54 @@
+name: 'Haven: Armory'
+type: move
+img: icons/svg/house.svg
+system:
+  name: ''
+  description: >-
+    <p>You have a stockpile of mystical and rare monster-killing weapons and
+    items. If you <strong>need a special weapon</strong>, roll +Weird.&nbsp;</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> you have it (and plenty if that
+        matters).&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: <p><strong>On a 7-9</strong> you have it, but only the minimum.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, you&rsquo;ve got the wrong thing.</p>
+  uses: 0
+  playbook: The Expert
+  rollType: weird
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_gtm2nw94k5
+    path: 'The Expert#/CF_SEP/The Expert: Haven'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667482759134
+  modifiedTime: 1686856606199
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: kudH4VHnQt7WWNS5
+_id: 6xREFj5GvjcPOTtb
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!6xREFj5GvjcPOTtb'
+

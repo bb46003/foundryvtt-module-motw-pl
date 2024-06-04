@@ -1,0 +1,48 @@
+folder: oEONT5rTtbeeTlos
+name: 'Apotheosis: Kick Some Ass'
+type: move
+_id: JygbaYSvc1vvfr3V
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>While in this state, you can fly, use +Weird to <strong>kick some
+    ass</strong> instead of +Tough (using innate magic as a <em>3-harm</em>
+    weapon with whatever properties you choose)</p>
+  requiresMove: 'Advanced: Apotheosis'
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooktacular [HE]
+  rollType: weird
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690916246610
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!JygbaYSvc1vvfr3V'
+

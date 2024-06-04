@@ -1,0 +1,53 @@
+name: Resilience
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+flags:
+  cf:
+    id: temp_ecf7z6ojs4
+    path: 'The Chosen#/CF_SEP/The Chosen: Moves'
+    color: '#000000'
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>You heal faster than normal people. Any time your harm gets healed, heal
+    an extra point. Additionally, your wounds count as 1-harm less for the
+    purpose of the Keeper&rsquo;s harm moves.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: chosen-select
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Chosen
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667593488208
+  modifiedTime: 1690916928551
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: QYAUKtZWrTKbvmZq
+_id: WoL5Q6GpIc56uZmD
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!WoL5Q6GpIc56uZmD'
+

@@ -1,0 +1,439 @@
+original_name: The Divine
+original_description: >-
+  <blockquote>
+
+  <p>I am the Light, the Sword.</p>
+
+  <p>I am sent to defend the meek from Darkness.</p>
+
+  <p>All Evil fears me, for I am its end.</p>
+
+  </blockquote>
+
+  <p> </p>
+
+  <table style="width:100%" border="1"><colgroup><col
+  style="width:54.2427%"></col><col style="width:45.7573%"></col></colgroup>
+
+  <tbody>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Divine, first pick a name. Then follow the instructions in
+  this playbook to decide your look, ratings, mission, moves, and gear. Finally,
+  introduce yourself and pick history. <br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-divine.Item.SPljZlMbJgcIGI3h]{Items} can be
+  dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.</em></p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, androgynous, asexual.</li>
+
+  <li>Blazing eyes, terrifying eyes, placid eyes, sparkling eyes, perceptive
+  eyes, starry eyes, glowing eyes.</li>
+
+  <li>Dirty clothes, perfect suit, rumpled suit, casual clothes, practical
+  clothes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm+1, Cool+1, Sharp-1, Tough+2, Weird=0</li>
+
+  <li>Charm-1, Cool+2, Sharp-1, Tough+2, Weird=0</li>
+
+  <li>Charm-1, Cool=0, Sharp+1, Tough+2, Weird+1</li>
+
+  <li>Charm+1, Cool+1, Sharp=0, Tough+2, Weird-1</li>
+
+  <li>Charm-1, Cool+1, Sharp=0, Tough+2, Weird+1</li>
+
+  </ul>
+
+  <h3><br />Mission</h3>
+
+  <p>You have been put on Earth for a purpose. Pick one:</p>
+
+  <p><em>(Drag the
+  @UUID[Compendium.motw-for-pbta.the-divine.Item.KLqdLn3vtSE6M1KF]{Mission} move
+  over to your Character Sheet, edit it, and paste the selected purpose into the
+  Description)</em></p>
+
+  <ul>
+
+  <li>You are here to fight the schemes of an Adversary.</li>
+
+  <li>The End of Days approaches. Your role is to guide these hunters and
+  <em>prevent </em>it from coming to pass.</li>
+
+  <li>The End of Days approaches. Your role is to guide these hunters and
+  <em>ensure </em>it comes to pass.</li>
+
+  <li>You have been exiled. You must work for the cause of Good without drawing
+  attention from your brothers and sisters, as they are bound to execute you for
+  your crimes.</li>
+
+  <li>One of the other hunters has a crucial role to play in events to come. You
+  must prepare them for their role, and protect them at any cost.</li>
+
+  </ul>
+
+  <p> </p>
+
+  <h3>Moves</h3>
+
+  <p>You get all the basic moves, and pick three Divine moves:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.SPljZlMbJgcIGI3h]{Angel
+  Wings}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.ND7NPDUDCDU5FAix]{Boss from
+  Beyond}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.EtnlfmvY9VnOzi1w]{Cast Out
+  Evil}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.MzMsHOfthtCOkjK8]{Lay On
+  Hands}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.NG02AuFO4VGTDoA3]{Smite}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.w1QGjHmRCFyttbju]{Soothe}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.fPMB0cgm9vkrku5y]{What I
+  Need, When I Need It}</p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p><em>Pick one divine weapon:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.CxNMt0Ku01jA2PSR]{Five Demon
+  Bag}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.D4NAqZaClDUN1QOk]{Flaming
+  Sword}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.g3a4uSyvL434uaNw]{Razor
+  Whip}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.xyFSfcaKLYMrDnOC]{Silver
+  Trident}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.xWwDtj8bsyFBweJO]{Thunder
+  Hammer}<br /><br /></p>
+
+  <p><em>You also get:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-divine.Item.wP3d2tf1fqEBTIik]{Divine
+  armour}.</p>
+
+  <p>It has a look suited to your divine origin.</p>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.<br /><br
+  /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Divine by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>If you are protecting another hunter as your mission, tell them this: You
+  have a crucial role in what is to come. I am here to guide and defend
+  you.</li>
+
+  <li>They should not be involved in this situation: the prophecies didn’t
+  mention them at all. This gets your attention but you don’t know what it means
+  yet.</li>
+
+  <li>They are, at heart, a good and righteous person. You<br />must help them
+  stay that way.</li>
+
+  <li>They are an abomination, and should be destroyed. Except you can’t–work
+  out with them why not.</li>
+
+  <li>Their prayer (perhaps an informal or even unconscious prayer) summoned
+  you.</li>
+
+  <li>They fill you with feelings of sexual infatuation. You are confused by the
+  associated mortal emotions.</li>
+
+  <li>They saved your life, and you understand (intellectually at least) that
+  you owe them for it.</li>
+
+  <li>They’re the person you go to for advice on mortal stuff (e.g sex, food,
+  drugs, television, etc).</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2><br />Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em><br /><br /></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Db5dKYP5eueIQfOY]{Get +1
+  Tough, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]{Get +1 Weird,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.RDtPo6xZMMz4Lkhq]{Take another
+  Divine move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.RDtPo6xZMMz4Lkhq]{Take another
+  Divine move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.O635uB2S2MBHzuTc]{Gain a lesser
+  divine being as an ally, sent from above to help with your mission}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p>After you have leveled up five times, you qualify for advanced improvements
+  in addition to these, from the list below.</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]{Erase one used
+  luck mark}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.CsPiVZPpJNkeJmFp]{Change your
+  mission. Select a different mission from the normal options}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: Le Divin
+description: >-
+  <blockquote>
+    <p>Je suis la Lumière, l’Épée.</p>
+    <p>Je suis l’envoyé qui protège les faibles des Ténèbres.</p>
+    <p>Le Mal me craint, car j’en sonne le glas.</p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+
+  <p>Pour créer votre Divin, commencez par lui trouver un nom. Puis suivez les
+  instructions ci-dessous pour choisir votre apparence, vos caractéristiques,
+  votre mission, vos manœuvres et votre équipement. Enfin, présentez-vous et
+  attribuez vos histoires.</p> <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-divine.Item.SPljZlMbJgcIGI3h]{objets}
+     peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres valeurs et descriptions, vous
+     devez les copier/coller, ou les modifier manuellement.</em></p>
+  </td> </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3>
+  <p><em>Choisissez un élément de chaque liste :</em></p>
+
+  <ul> <li>Homme, femme, androgyne, asexué.</li> <li>Regard embrasé, regard
+  terrifiant, regard placide, regard pétillant, regard observateur, regard
+  étincelant, regard luisant.</li>
+    <li>Vêtements crasseux, costume impeccable, costume froissé, tenue décontractée, vêtements pratiques.</li>
+  </ul>
+
+  <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p> <ul>
+    <li>Charme +1, Cool +1, Futé -1, Coriace +2, Bizarre 0</li>
+    <li>Charme -1, Cool +2, Futé -1, Coriace +2, Bizarre 0</li>
+    <li>Charme -1, Cool 0, Futé +1, Coriace +2, Bizarre +1</li>
+    <li>Charme +1, Cool +1, Futé 0, Coriace +2, Bizarre -1</li>
+    <li>Charme -1, Cool +1, Futé 0, Coriace +2, Bizarre +1</li>
+  </ul>
+
+  <h3>Mission</h3> <p>Vous avez été envoyé sur Terre pour une bonne raison.
+  Choisissez-en une :</p>
+
+  <p><em>Faites glisser la manœuvre de la
+  @UUID[Compendium.motw-for-pbta.the-divine.Item.KLqdLn3vtSE6M1KF]{Mission} sur
+  votre feuille de personnage, modifiez-la et collez l’objectif sélectionné dans
+  la description.</em></p>  
+
+  <ul>
+    <li>Vous êtes là pour déjouer les machinations d’un Adversaire.</li>
+    <li>La fin des temps approche. Votre rôle est de guider ces chasseurs et <em>d’éviter</em> l’apocalypse.</li>
+    <li>La fin des temps approche. Votre rôle est de guider ces chasseurs et <em>de provoquer</em> l’apocalypse.</li>
+    <li>
+      Vous êtes en exil. Vous devez œuvrer pour la cause du Bien sans attirer l’attention de vos frères et sœurs, qui
+      sont bien décidés à vous exécuter pour vos crimes.
+    </li>
+    <li>
+      Un des autres chasseurs a un rôle crucial à jouer dans les événements à venir. Vous devez le préparer à assumer
+      son rôle et le protéger <em>à tout prix</em>.
+    </li>
+  </ul>
+
+  <h3>Manœuvres</h3> <p>Vous connaissez toutes les manœuvres de base, auxquelles
+  s’ajoutent trois manœuvres de Divin.</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.SPljZlMbJgcIGI3h]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.ND7NPDUDCDU5FAix]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.EtnlfmvY9VnOzi1w]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.MzMsHOfthtCOkjK8]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.NG02AuFO4VGTDoA3]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.w1QGjHmRCFyttbju]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.fPMB0cgm9vkrku5y]</li>
+  </ul> </td> <td style="padding: 8px;"> <h3>Équipement</h3> <p>Choisissez une
+  arme divine :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.CxNMt0Ku01jA2PSR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.D4NAqZaClDUN1QOk]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.g3a4uSyvL434uaNw]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.xyFSfcaKLYMrDnOC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-divine.Item.xWwDtj8bsyFBweJO]</li>
+  </ul>
+
+  <p>Vous disposez aussi d’une
+  @UUID[Compendium.motw-for-pbta.the-divine.Item.wP3d2tf1fqEBTIik]{armure divine
+  (armure 1, béni)} dont l’apparence correspond à votre origine divine.</p>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Divin en dévoilant son nom et son apparence, et en disant aux autres membres
+  du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p> <ul>
+    <li>Si votre mission consiste à protéger un autre chasseur, dites-lui ceci : « Tu as un rôle crucial à jouer dans
+      les événements à venir. Je suis là pour te guider et te défendre ».</li>
+    <li>Il ne devrait pas être mêler à cette histoire : la prophétie ne parle pas de lui. Cela attire votre attention,
+      mais vous ne savez pas encore ce que cela signifie.</li>
+    <li>Au fond de lui, c’est une personne bonne et juste. Vous devez l’aider à rester lui-même.</li>
+    <li>C’est une abomination qu’il faut détruire. Mais cela vous est impossible ; voyez avec lui pourquoi.</li>
+    <li>Ses prières (peut-être n’étaient-elles pas explicitement exprimées, à moins qu’elles n’aient été inconscientes)
+      vous ont appelé.</li>
+    <li>Il suscite en vous un désir charnel. Vous êtes quelque peu perturbé par ces émotions somme toute mortelles.</li>
+    <li>Il vous a sauvé la vie et vous comprenez (au moins sur le plan intellectuel) que vous lui êtes redevable.</li>
+    <li>C’est la personne vers laquelle vous vous tournez pour tout ce qui a trait aux affaires des mortels (sexe,
+      alimentation, drogue, télévision, etc.).</li>
+  </ul> </td> </tr>
+    <tr>
+  <td style="padding: 8px;" colspan="2"> <h2>Prendre du galon</h2> <p><em>Sur la
+  feuille de personnage, ouvrez « Améliorations » ou « Améliorations avancées »
+  en édition.
+    Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de
+    celles que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3>
+
+  <p><em>Dès que vous avez coché cinq cases d’expérience, vous prenez du galon.
+  Effacez le contenu des cases et choisissez une amélioration parmi les
+  suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Db5dKYP5eueIQfOY]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.RDtPo6xZMMz4Lkhq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.RDtPo6xZMMz4Lkhq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.O635uB2S2MBHzuTc]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3>
+    <p><em>Après avoir pris du galon cinq fois, vous pouvez aussi choisir parmi les améliorations avancées
+    ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.azNLEpp6AhUm8wdE]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.CsPiVZPpJNkeJmFp]</li>
+  </ul> </td> </tr>
+    </tbody>
+  </table>

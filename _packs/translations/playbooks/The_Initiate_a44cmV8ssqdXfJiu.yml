@@ -1,0 +1,566 @@
+original_name: The Initiate
+original_description: >-
+  <blockquote>
+
+  <p>Since the dawn of history, we have been the bulwark against Darkness. We
+  know the Evils of the world, and we stand against them so that the mass of
+  humanity need not fear. We are the Flame that cleanses the Shadows.</p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <p> </p>
+
+  <table style="width:100%" border="1"><colgroup><col
+  style="width:51.3426%"></col><col style="width:48.6574%"></col></colgroup>
+
+  <tbody>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Initiate, first pick a name. Then follow the instructions in
+  this playbook to decide your look, ratings, moves, Sect, and gear. Finally,
+  introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{Items} can
+  be dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.<br /><br
+  /></em></p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, masked, concealed.</li>
+
+  <li>Hardened body, tattooed body, agile body, strong body, thin body, angular
+  body, hunched body.</li>
+
+  <li>Archaic clothes, unfashionable clothes, ceremonial clothes, mismatched
+  clothes, formal clothes.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm-1, Cool+1, Sharp=0, Tough+1, Weird+2</li>
+
+  <li>Charm=0, Cool+1, Sharp+1, Tough-1, Weird+2</li>
+
+  <li>Charm-1, Cool=0, Sharp-1, Tough+2, Weird+2</li>
+
+  <li>Charm+1, Cool-1, Sharp+1, Tough=0, Weird+2</li>
+
+  <li>Charm=0, Cool=0, Sharp=0, Tough+1, Weird+2</li>
+
+  </ul>
+
+  <h3><br />Moves</h3>
+
+  <p><em>You get all of the basic moves, plus four Initiate moves. You get this
+  one:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.aS10iGncRV4LrksE]{Good
+  Standing}</p>
+
+  <p><br /><em>Then pick three of these:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{Ancient
+  Fighting Arts}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.qRLcatuBs7e9mGUq]{Apprentice}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.hcRDuJ3iL0G56Zz4]{Fortunes}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.donlmXXOyZ4LuQLW]{Helping
+  Hand}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.8wp8PaQ9Gs6yMDyp]{Mentor}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.CO0L7ryfkHEq7IGb]{Mystic}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.PuwNRZc9WrRyB2Cp]{Sacred
+  Oath}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.olAM9dHJXMuriCNO]{That Old
+  Black Magic}</p>
+
+  <h3><br />Sect</h3>
+
+  <p>You are part of an ancient, secret order that slays monsters. Where are
+  they from? How old are they? Are they religious? Why do they stay secret? How
+  do they recruit?</p>
+
+  <p>You also need to pick the Sect’s traditions (these will be used by the
+  Keeper to determine the Sect’s methods and actions):</p>
+
+  <h4><br />Good Traditions (<em>pick two</em>):</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.Xdf0Zn7MTryz2uRx]{Good:
+  Ancient lore} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.wKci3bUV7hNuGZcf]{Good:
+  Chapters everywhere}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.MVsjYakr2WZ2ZGXo]{Good:
+  Fighting arts} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.BqBxNzghlr1omCzC]{Good:
+  Flexible tactics}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.YtkIY8JKImC69mcQ]{Good:
+  Integrated in society} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.FhCCz0LUNVxJHYCQ]{Good:
+  Knowledgable}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.BUJkrdecaA5Bl9ns]{Good:
+  Magical items} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.zXCW5pwTpG9EtuOJ]{Good:
+  Magical lore}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.xoyjFnIxiGHbnXIt]{Good:
+  Modernised} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.GS75uSr8sGz6j2s8]{Good:
+  Nifty gadgets}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.WV4gjVlk5lynxy8X]{Good:
+  Open hierarchy} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.kPIqTCBUJLa3zyK1]{Good:
+  Rich}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.BE6c3TTo3Vtc6qWq]{Good:
+  Secular power}</p>
+
+  <h4><br />Bad Traditions (<em>pick one</em>):</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.3XtXFu8GJGxuYDhB]{Bad:
+  Closed hierarchy} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.2J7O7uD2fkvwrTzR]{Bad:
+  Dubious motives}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.dqgMoKF1odjLCiEb]{Bad:
+  Factionalised} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.6MnD3HVkYzw0qo8X]{Bad:
+  Mystical oaths}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.xhigT7h2MheNI9oj]{Bad:
+  Obsolete gear} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.qFgl8pn9vFQfjlUb]{Bad:
+  Paranoid and secretive}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.OUYgSkQmwgdunuyF]{Bad:
+  Poor} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.MS2aLJO2rnkxTmwo]{Bad:
+  Short-sighted}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.eoMUeayJw9BQreFx]{Bad:
+  Strict laws} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.cD7rinHJMs1QO7uf]{Bad: Total
+  obedience}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-initiate.Item.qBI71WtIt1t3q5Lb]{Bad:
+  Tradition-bound} 
+   @UUID[Compendium.motw-for-pbta.the-initiate.Item.gbPbFBnP7CiHVNHy]{Bad:
+  Tyrannical leaders}</p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p>If your Sect has <strong>fighting arts</strong> or <strong>obsolete
+  gea</strong>r then pick three old-fashioned weapons. If the Sect has
+  <strong>modernised </strong>or <strong>nifty gadgets</strong>, you may pick
+  two modern weapons. Otherwise, pick two old-fashioned weapons and one modern
+  weapon.</p>
+
+  <p>You also get old-fashioned armour (1-armour heavy). </p>
+
+  <p> (Please note that you, or your Keeper must create these manually)</p>
+
+  <h4><br />Old-fashioned weapons (<em>pick either two or three,
+  as above</em>):</h4>
+
+  <ul>
+
+  <li>Sword (2-harm hand messy)</li>
+
+  <li>Axe (2-harm hand messy)</li>
+
+  <li>Big sword (3-harm hand messy heavy)</li>
+
+  <li>Big axe (3-harm hand messy slow heavy)</li>
+
+  <li>Silver knife (1-harm hand silver)</li>
+
+  <li>Fighting sticks (1-harm hand quick)</li>
+
+  <li>Spear (2-harm hand/close)</li>
+
+  <li>Mace (2-harm hand messy)</li>
+
+  <li>Crossbow (2-harm close slow)</li>
+
+  </ul>
+
+  <h4><br />Modern weapons (<em>pick either one or two, as above</em>):</h4>
+
+  <ul>
+
+  <li>.38 revolver (2-harm close reload loud)</li>
+
+  <li>9mm (2-harm close loud)</li>
+
+  <li>Sniper rifle (3-harm far)</li>
+
+  <li>Magnum (3-harm close reload loud)</li>
+
+  <li>Shotgun (3-harm close messy)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.<br /><br
+  /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Initiate by name and
+  look, and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. On your turn, pick one for each of the other
+  hunters:</p>
+
+  <ul>
+
+  <li>They are a lay member of your Sect.</li>
+
+  <li>You fought together when the tide of monsters seemed unstoppable. Ask them
+  how it went.</li>
+
+  <li>Friends, but they first met you under your cover identity, and learned
+  about the Sect later. Ask how they feel about that.</li>
+
+  <li>They are your close relative, or partner/spouse. Decide between you
+  exactly what the relationship is.</li>
+
+  <li>Fellow ancient weapons/martial arts club members.</li>
+
+  <li>They’re described in the prophecies, but the role they will play isn’t
+  stated.</li>
+
+  <li>An ex-member of the Sect, but still friends. Ask them why they left or
+  got thrown out</li>
+
+  <li>You met researching mystical weirdness, and you’ve been occult comrades
+  ever since.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get +1
+  Weird, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]{Get +1 Tough,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.MrLdJs53H5gLgDCb]{Take another
+  Initiate move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.MrLdJs53H5gLgDCb]{Take another
+  Initiate move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.IIN3j4Edtd0TeY5O]{Get command of
+  your chapter of the Sect}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.lqN4DrqH35RLs7pw]{Get a Sect team
+  under your command}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to
+  any rating, max +3.}</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a
+  second hunter}</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of
+  the basic moves as advanced}</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another
+  two of the basic moves as advanced}</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.0YXPqLapuEmeEkgZ]{Become the
+  leader, or effective leader, of the whole Sect}</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point} </em></p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: L’Initié
+description: >-
+  <blockquote> <p>Depuis l’aube de l’histoire, nous sommes le rempart qui se
+  dresse en travers du chemin des Ténèbres. Nous connaissons bien les maux qui
+  accablent le monde, et nous les combattons afin que l’humanité ne connaisse
+  pas la peur. Nous sommes la flamme qui chasse l’ombre.</p> </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>Pour créer votre Initié, commencez par lui trouver un nom. Puis suivez les
+  instructions ci-dessous pour choisir votre apparence, vos caractéristiques,
+  vos manœuvres, votre secte et votre équipement. Enfin, présentez-vous et
+  attribuez vos histoires.</p> <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p>
+    </td>
+  </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul>
+    <li>Homme, femme, masqué, dissimulé.</li>
+    <li>Corps endurci, corps tatoué, corps agile, corps fort, corps mince, corps anguleux, corps voûté.</li>
+    <li>Vêtements archaïques, vêtements démodés, vêtements cérémoniels, vêtements dépareillés, vêtements officiels.</li>
+  </ul> <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p>
+
+  <ul>
+    <li>Charme -1, Cool +1, Futé 0, Coriace +1, Bizarre +2</li>
+    <li>Charme 0, Cool+1, Futé +1, Coriace -1, Bizarre +2</li>
+    <li>Charme -1, Cool 0, Futé -1, Coriace +2, Bizarre +2</li>
+    <li>Charme +1, Cool -1, Futé +1, Coriace 0, Bizarre +2</li>
+    <li>Charme 0, Cool 0, Futé 0, Coriace +1, Bizarre +2</li>
+  </ul> <h3>Manœuvres</h3> <p><em>Vous connaissez toutes les manœuvres de base,
+  auxquelles s’ajoutent quatre manœuvres d’Initié.</em></p> <p><em>Vous gagnez
+  celle-ci :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.aS10iGncRV4LrksE]</li>
+  </ul>
+
+  <p><em>Puis choisissez-en trois parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.qRLcatuBs7e9mGUq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.hcRDuJ3iL0G56Zz4]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.donlmXXOyZ4LuQLW]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.8wp8PaQ9Gs6yMDyp]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.CO0L7ryfkHEq7IGb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.PuwNRZc9WrRyB2Cp]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.olAM9dHJXMuriCNO]</li>
+  </ul>
+
+  <h3>Secte</h3> <p>Vous faites partie d’un ordre secret ancien qui se charge de
+  tuer des monstres. D’où vient-il ? À quand remontent ses origines ? Est-il de
+  nature religieuse ? Pourquoi reste-t-il secret ? Comment recrute-t-il ?</p>
+  <p>Vous devez également choisir les traditions de la secte (le Gardien s’en
+  inspirera pour déterminer ses méthodes et actions) :</p>
+
+  <h4>Bonnes traditions <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.Xdf0Zn7MTryz2uRx]</li>  
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.wKci3bUV7hNuGZcf]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.MVsjYakr2WZ2ZGXo]</li>  
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.BqBxNzghlr1omCzC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.YtkIY8JKImC69mcQ]</li> 
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.FhCCz0LUNVxJHYCQ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.BUJkrdecaA5Bl9ns]</li>  
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.zXCW5pwTpG9EtuOJ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.xoyjFnIxiGHbnXIt]</li>  
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.GS75uSr8sGz6j2s8]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.WV4gjVlk5lynxy8X]</li>  
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.kPIqTCBUJLa3zyK1]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.BE6c3TTo3Vtc6qWq]</li>
+  </ul>
+
+  <h4>Mauvaises traditions <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.3XtXFu8GJGxuYDhB]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.2J7O7uD2fkvwrTzR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.dqgMoKF1odjLCiEb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.6MnD3HVkYzw0qo8X]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.xhigT7h2MheNI9oj]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.qFgl8pn9vFQfjlUb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.OUYgSkQmwgdunuyF]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.MS2aLJO2rnkxTmwo]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.eoMUeayJw9BQreFx]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.cD7rinHJMs1QO7uf]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.qBI71WtIt1t3q5Lb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.gbPbFBnP7CiHVNHy]</li>
+  </ul> </td> <td style="padding: 8px;"> <h3>Équipement</h3>
+
+  <p>Si la secte a <strong>arts de combat</strong> ou <strong>équipement
+  obsolète</strong>, choisissez trois armes archaïques. Si elle a
+  <strong>modernisée</strong> ou <strong>gadgets ingénieux</strong>, vous pouvez
+  choisir deux armes modernes. Autrement, choisissez deux armes archaïques et
+  une arme moderne.</p>
+
+  <p>Vous gagnez aussi une armure archaïque (armure 1, lourd).</p>
+
+  <h4>Armes archaïques <em>(choisissez-en deux ou trois, cf. ci-dessus)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.wDndJDMOgiupd2n3]{épée} (2 dégâts, allonge,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.9mpzvPOXnch0CDTW]{Hache} (2 dégâts, allonge, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.9YpCb1rCdCw3i0hE]{Grande épée} (3 dégâts,
+    allonge, sanglant, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.5dvMD5P9CjFVsBXX]{Grande hache} (3 dégâts, allonge, sanglant,
+    lent, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.HDNDmlcM0NXsjaZ0]{Couteau en argent} (1 dégât, allonge,
+    argent)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.xoNVEZJI3Az03ALT]{Bâton de combat} (1 dégât, allonge,
+    rapide)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.QAN7mbBoRtNWF4Eo]{Lance} (2 dégâts, allonge/proche)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.rZy5S2FoazCauSyn]{Masse} (2 dégâts, allonge, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.BacJvV5okVH579xr]{Arbalète} (2 dégâts, proche,
+    lent)</li>
+  </ul>
+
+  <h4>Armes modernes <em>(choisissez-en une ou deux, cf. ci-dessus)</em> :</h4>
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.RzIuGlwxHaQGBZFU]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.kyadb4WRL5IHmWSY]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.nxe1pMRwt1kNFMjF]{Fusil de sniper} (3 dégâts, loin)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.HWKnShkGe7Gvhrf4]{Magnum} (3 dégâts, proche, rechargement,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.UddYVDCuONA13cG9]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+  </ul>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Initié en dévoilant son nom et son apparence, et en disant aux autres membres
+  du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p>
+
+  <ul>
+    <li>C’est un membre profane de votre secte.</li>
+    <li>Vous avez combattu côte à côte alors que rien ne semblait pouvoir arrêter la marée de monstres. Demandez-lui
+    comment cela s’est passé.</li>
+    <li>Vous êtes amis, mais il vous a d’abord rencontré sous votre identité d’emprunt et n’a découvert la secte que
+    plus tard. Demandez‑lui ce qu’il ressent à ce sujet.</li>
+    <li>Vous êtes parents proches ou concubins/époux. Décidez ensemble de la nature de votre relation.</li>
+    <li>Membres du même club d’arts martiaux/de combat anciens.</li>
+    <li>Il apparaît dans les prophéties, mais le rôle qu’il sera amené à jouer est indéterminé.</li>
+    <li>C’est un ancien membre de la secte, mais vous êtes restés amis. Demandez-lui pourquoi il en est parti ou en a
+    été chassé.</li>
+    <li>Vous vous êtes rencontrés lors de recherches mystiques et êtes des camarades occultes depuis.</li>
+  </ul> </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.MrLdJs53H5gLgDCb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.MrLdJs53H5gLgDCb]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.IIN3j4Edtd0TeY5O]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.lqN4DrqH35RLs7pw]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.0YXPqLapuEmeEkgZ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+  </td> </tr> </tbody> </table>

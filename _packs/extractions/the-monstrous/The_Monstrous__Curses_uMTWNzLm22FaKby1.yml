@@ -1,0 +1,17 @@
+name: 'The Monstrous: Curses'
+sorting: a
+folder: null
+type: Item
+_id: uMTWNzLm22FaKby1
+sort: 300000
+color: null
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690216634767
+  modifiedTime: 1690216779297
+  lastModifiedBy: MX0yl5RfaCDkeocV
+_key: '!folders!uMTWNzLm22FaKby1'
+

@@ -1,0 +1,20 @@
+original_name: The Big Entrance
+original_description: <p>When you make a <strong>showy entrance into a dangerous
+  situation</strong>, roll +Cool.&nbsp;</p>
+original_success: <p><strong>On 10+</strong> everyone stops to watch and listen
+  until you finish your opening speech.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, you pick one person or monster
+  to stop, watch and listen until you finish talking.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you&rsquo;re marked as the
+  biggest threat by all enemies who are present.</p>
+name: Entrée en fanfare
+description: <p>Quand vous faites <strong>une entrée flamboyante dans une
+  situation dangereuse</strong>, lancez +Cool.</p>
+success: <p><strong>Sur un 10+</strong>, chacun s’immobilise pour vous regarder
+  et vous écouter jusqu’à ce que vous ayez terminé votre discours « inaugural
+  ».</p>
+partial: <p><strong>Sur un 7-9</strong>, choisissez une personne ou un monstre,
+  qui se fige, vous regarde et écoute jusqu’à ce que vous ayez fini de
+  parler.</p>
+failure: <p><strong>En cas d’échec</strong>, tous les ennemis présents vous
+  considèrent comme la pire menace qui pèse sur eux.</p>

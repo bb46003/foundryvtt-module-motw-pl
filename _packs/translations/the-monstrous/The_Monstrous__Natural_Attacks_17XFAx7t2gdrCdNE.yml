@@ -1,0 +1,11 @@
+original_name: "The Monstrous: Natural Attacks"
+original_description: <p>Pick a Base and add an extra to it from the
+  @UUID[Compendium.motw-for-pbta.playbooks.Item.Td7YVGRAubHBZ81J]{The Monstrous
+  Playbook}, or two Bases.</p>
+original_tags: '[{"value":"base: magical force"},{"value":"extra: +1
+  harm"},{"value":"2-harm"},{"value":"magic"},{"value":"close"}]'
+name: "Le Monstre : Attaques naturelles"
+description: <p>Choisissez-en une de base et une supplémentaire du
+  @UUID[Compendium.motw-for-pbta.playbooks.Item.Td7YVGRAubHBZ81J]{livret du
+  Monstre}, ou deux de base.</p>
+tags: '[{"value":"base: force magique"},{"value":"extra: +1 dégât"},{"value":"2 dégâts"},{"value":"magique"},{"value":"proche"}]'

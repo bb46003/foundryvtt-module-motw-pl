@@ -1,0 +1,34 @@
+original_name: End of Session
+original_description: >-
+  <p>At the end of each session, the Keeper will ask the following
+  questions:</p>
+
+  <ul>
+
+  <li>Did we conclude the current mystery?</li>
+
+  <li>Did we save someone from certain death (or worse)?</li>
+
+  <li>Did we learn something new and important about the world?</li>
+
+  <li>Did we learn something new and important about one of the hunters?</li>
+
+  </ul>
+
+  <p>If you get one or two &ldquo;Yes&rdquo; answers, mark one experience. If
+  you get three or four, mark two.</p>
+name: Expérience de fin de séance
+description: >-
+  <p>À la fin de chaque séance, le Gardien vous posera les questions suivantes
+  :</p>
+
+  <ul>
+    <li>Avez-vous démêlé le mystère en cours ?</li>
+    <li>Avez-vous sauvé quelqu’un d’une mort certaine (voire pire) ?</li>
+    <li>Avez-vous appris quelque chose de nouveau et d’important sur le monde ?</li>
+    <li>Avez-vous appris quelque chose de nouveau et d’important sur un des chasseurs ?</li>
+  </ul>
+
+  <p>Si vous répondez oui à une ou deux questions, chaque chasseur coche une
+  case d’expérience. Si vous répondez oui à trois ou quatre questions, chaque
+  chasseur coche deux cases d’expérience.</p>

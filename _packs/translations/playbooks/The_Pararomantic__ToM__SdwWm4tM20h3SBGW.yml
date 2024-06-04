@@ -1,0 +1,501 @@
+original_name: The Pararomantic [ToM]
+original_description: >-
+  <blockquote>
+
+  <p><em>“I sense too much to ever be understood by normal people... and enough
+  to be loved by something else.”</em></p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%" border="1"><colgroup><col
+  style="width:47.5832%"></col><col style="width:52.4168%"></col></colgroup>
+
+  <tbody>
+
+  <tr>
+
+  <td colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Pararomantic, first pick a name. Then follow the instructions
+  below to decide your look, ratings, fate, moves, gear, and your relationship.
+  Finally, introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.lRCjuEnqn6DDHV5j]{Items}
+  can be dragged and dropped to the appropriate header/field. For other values
+  and descriptions, you need to copy and paste, or manually change
+  them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="vertical-align:top">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each list:</em></p>
+
+  <ul>
+
+  <li>Man, woman, boy, girl, concealed.</li>
+
+  <li>Friendly face, alluring face, laughing face, trustworthy face, average
+  face, serious face, sensual face, face.</li>
+
+  <li>Normal clothes, casual clothes, goth clothes, sporty clothes, street
+  clothes, nerdy clothes.<br /><br /></li>
+
+  </ul>
+
+  <h3>Ratings</h3>
+
+  <p>Pick one line:</p>
+
+  <ul>
+
+  <li>Charm+2, Cool+1, Sharp=0, Tough–1, Weird+1</li>
+
+  <li>Charm+2, Cool–1, Sharp+1, Tough+1, Weird=0</li>
+
+  <li>Charm+2, Cool+2, Sharp=0, Tough=0, Weird–1</li>
+
+  <li>Charm+2, Cool+1, Sharp+1, Tough–1, Weird=0</li>
+
+  <li>Charm+2, Cool=0, Sharp+2, Tough–1, Weird=0</li>
+
+  </ul>
+
+  <h3><br />Fate Of Your Love</h3>
+
+  <p>There is a reason why your love with your Guide (the supernatural being you
+  have a connection with) is forbidden or doomed. Invent this reason or leave it
+  to the Keeper. Whenever you mark off a point of Luck, the truth of your love’s
+  Fate slowly unfolds: mark off a box in your Relationship Status track. When
+  your last point of Luck is used it becomes clear you cannot be together. Your
+  Guide might even end up as an enemy, depending on how things go.</p>
+
+  <p>Whenever you put yourself or somebody else in serious danger in order to
+  conceal the truth about you and your Guide, mark experience.</p>
+
+  <h3><br />Moves</h3>
+
+  <p>You get all of the basic moves, plus three Pararomantic moves.</p>
+
+  <p>You get this one:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.wXMEK4yngLhtsKZO]{Supernatural
+  Guide}</p>
+
+  <p><em>Then pick two of these:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.lRCjuEnqn6DDHV5j]{Bonding
+  Time}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.KtSWfblwlgOG2KkP]{Dark
+  Desires}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.MfmqVKeTg0jb15dt]{Do
+  As The Supernatural Do}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.ioPknRk03n8CxcRm]{I
+  Am Theirs And They Are Mine}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.ioPknRk03n8CxcRm]{I
+  Am Theirs And They Are Mine}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.isLtPn1bksJgWR3N]{Monster
+  Empathy}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.XJfLIcow8RXnkY7L]{Spirit
+  Touched}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.wcKKrfLuGtnpDahX]{The
+  Power of Love}</p>
+
+  <h4>Bond Abuse</h4>
+
+  <p>For details, see<strong> fate of your love</strong> above.</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.yWjGOb4Yk6a3fiqF]{Bond
+  Abuse}</p>
+
+  </td>
+
+  <td style="vertical-align:top">
+
+  <h3>Gear</h3>
+
+  <p><em>Choose two of these normal things (Please note that you, or your Keeper
+  must create these manually):</em></p>
+
+  <ul>
+
+  <li>Golf club, baseball bat, cricket bat, or hockey stick (2-harm hand
+  innocuous messy)</li>
+
+  <li>Pocket knife or multitool (1-harm hand useful small)</li>
+
+  <li>Small handgun (2-harm close loud reload)</li>
+
+  <li>Bicycle</li>
+
+  <li>Fairly new car in decent condition</li>
+
+  <li>Motorcycle</li>
+
+  </ul>
+
+  <p><br />And <em>choose one gift</em> from your Guide. Whatever gift you
+  choose, it must be periodically recharged by interactions with your Guide.</p>
+
+  <p>The gifts are:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.5EHi6WkRSUUtK3sw]{Memento
+  from the time they were human}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.I8ADZ7Y7Lraiexwn]{Part
+  of their body}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.LMRfXmRjkInFbgJ6]{Piece
+  of Jewelery}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.3HJ1w4gC63dtWp0D]{Strange
+  or Antique Weapon}</p>
+
+  <h3><br />Luck Special</h3>
+
+  <p>When you spend a point of Luck, also mark off one of your relationship
+  status boxes. The Keeper will bring fate of your love (see reverse) into
+  play.<br /><br /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Pararomantic by name and
+  look, and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. When it’s your turn, pick one for each of the
+  other hunters:</p>
+
+  <ul>
+
+  <li>Your best friend in the world. You trust them totally.</li>
+
+  <li>You are blood-kin. Decide your exact relationship together.</li>
+
+  <li>Your ex. Ask them why you aren’t together anymore.</li>
+
+  <li>Romantic entanglement, or fated to be romantically entangled.</li>
+
+  <li>They know about some of your dark secrets, but they’ve agreed to keep
+  quiet about them. Tell them what they know.</li>
+
+  <li>An old rivalry has turned into a tight friendship. Ask them what (or who)
+  you once fought over.</li>
+
+  <li>Mentor from another life. Ask them what they taught you.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1
+  Charm, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool, max
+  +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]{Get +1 Weird,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xKW5mpnBzYENN0WG]{Take another
+  Pararomantic move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xKW5mpnBzYENN0WG]{Take another
+  Pararomantic move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain an
+  ally}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.zKD92mZ9KeXWbNGE]{Take a second
+  Gift}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ifbF7rNIgnqrT1h7]{Change your
+  Guide, as you fall for another creature}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.0TThwZJIcwBrpp7L]{Erase all the
+  marks from the Relationship Status track}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.z92QIjJzPI1ggLjq]{Gain a second
+  Guide. Track the relationship status tracks of both relationships
+  separately.}</p>
+
+  <p>Both Guides initially hate each other, but this could change through play.
+  All moves that applied to your original Guide can now apply to either one.</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: The Pararomantic [ToM]
+description: >-
+  <blockquote> <p><em>“I sense too much to ever be understood by normal
+    people... and enough to be loved by something else.”</em></p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>To make your Pararomantic, first pick a name.
+    Then follow the instructions below to decide your look, ratings, fate, moves, gear,
+    and your relationship. Finally, introduce yourself and pick history.<br /><br /><em><strong>Instructions</strong>:
+    @UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.lRCjuEnqn6DDHV5j]{Items}
+    can be dragged and dropped to the appropriate header/field. For other values and
+    descriptions, you need to copy and paste, or manually change them.</em></p>
+  <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p>
+
+
+    </td>
+  </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul> <li>Man, woman, boy, girl,
+  concealed.</li>
+
+    <li>Friendly face, alluring face, laughing face, trustworthy face, average face,
+    serious face, sensual face, face.</li>
+  <li>Normal clothes, casual clothes, goth
+    clothes, sporty clothes, street clothes, nerdy clothes.<br /><br /></li>
+  </ul>
+
+    <h3>Statistiques</h3>
+  <p><em>Choisissez une ligne :</em></p> <ul> <li>Charm+2, Cool+1, Sharp=0,
+  Tough–1,
+    Weird+1</li>
+  <li>Charm+2, Cool–1, Sharp+1, Tough+1, Weird=0</li> <li>Charm+2,
+    Cool+2, Sharp=0, Tough=0, Weird–1</li>
+  <li>Charm+2, Cool+1, Sharp+1, Tough–1, Weird=0</li>
+
+    <li>Charm+2, Cool=0, Sharp+2, Tough–1, Weird=0</li>
+  </ul> <h3><br />Fate Of Your
+    Love</h3>
+  <p>There is a reason why your love with your Guide (the supernatural
+    being you have a connection with) is forbidden or doomed. Invent this reason or
+    leave it to the Keeper. Whenever you mark off a point of Luck, the truth of your
+    love’s Fate slowly unfolds: mark off a box in your Relationship Status track. When
+    your last point of Luck is used it becomes clear you cannot be together. Your Guide
+    might even end up as an enemy, depending on how things go.</p>
+  <p>Whenever you
+    put yourself or somebody else in serious danger in order to conceal the truth about
+    you and your Guide, mark experience.</p>
+  <h3>Manœuvres</h3> <p>You get all of
+    the basic moves, plus three Pararomantic moves.</p>
+  <p>You get this one:</p>
+
+    <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.wXMEK4yngLhtsKZO]{Supernatural
+    Guide}</p>
+  <p><em>Then pick two of these:</em></p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.lRCjuEnqn6DDHV5j]{Bonding
+    Time}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.KtSWfblwlgOG2KkP]{Dark
+    Desires}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.MfmqVKeTg0jb15dt]{Do
+    As The Supernatural Do}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.ioPknRk03n8CxcRm]{I
+    Am Theirs And They Are Mine}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.ioPknRk03n8CxcRm]{I
+    Am Theirs And They Are Mine}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.isLtPn1bksJgWR3N]{Monster
+    Empathy}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.XJfLIcow8RXnkY7L]{Spirit
+    Touched}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.wcKKrfLuGtnpDahX]{The
+    Power of Love}</p>
+  <h4>Bond Abuse</h4> <p>For details, see<strong> fate of your
+    love</strong> above.</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.yWjGOb4Yk6a3fiqF]{Bond
+    Abuse}</p>
+  </td> <td style="padding: 8px;"> <h3>Équipement</h3> <p><em>Choose
+    two of these normal things (Please note that you, or your Keeper must create these
+    manually):</em></p>
+  <ul> <li>Golf club, baseball bat, cricket bat, or hockey stick
+    (2-harm hand innocuous messy)</li>
+  <li>Pocket knife or multitool (1-harm hand useful
+    small)</li>
+  <li>Small handgun (2-harm close loud reload)</li> <li>Bicycle</li>
+
+    <li>Fairly new car in decent condition</li>
+  <li>Motorcycle</li> </ul> <p><br
+    />And <em>choose one gift</em> from your Guide. Whatever gift you choose, it must
+    be periodically recharged by interactions with your Guide.</p>
+  <p>The gifts are:</p>
+
+    <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.5EHi6WkRSUUtK3sw]{Memento
+    from the time they were human}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.I8ADZ7Y7Lraiexwn]{Part
+    of their body}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.LMRfXmRjkInFbgJ6]{Piece
+    of Jewelery}</p>
+  <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.3HJ1w4gC63dtWp0D]{Strange
+    or Antique Weapon}</p>
+  <h3><br />Luck Special</h3> <p>When you spend a point of
+    Luck, also mark off one of your relationship status boxes. The Keeper will bring
+    fate of your love (see reverse) into play.<br /><br /></p>
+  <h3>Présentations</h3>
+
+    <p>When you get here, wait for everyone to catch up so you can do your introductions
+    together.</p>
+  <p>Go around the group. On your turn, introduce your Pararomantic
+    by name and look, and tell the group what they know about you.</p>
+  <h3>Histoire</h3>
+
+    <p>Go around the group again. When it’s your turn, pick one for each of the other
+    hunters:</p>
+  <ul> <li>Your best friend in the world. You trust them totally.</li>
+
+    <li>You are blood-kin. Decide your exact relationship together.</li>
+  <li>Your ex.
+    Ask them why you aren’t together anymore.</li>
+  <li>Romantic entanglement, or fated
+    to be romantically entangled.</li>
+  <li>They know about some of your dark secrets,
+    but they’ve agreed to keep quiet about them. Tell them what they know.</li>
+  <li>An
+    old rivalry has turned into a tight friendship. Ask them what (or who) you once
+    fought over.</li>
+  <li>Mentor from another life. Ask them what they taught you.</li>
+
+    </ul>
+  </td> </tr> <tr> <td style="padding: 8px;" colspan="2"> <h2>Prendre du
+  galon</h2> <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+    <p>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1 Charm, max
+    +3}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool,
+    max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1
+    Sharp, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.C0CKhyhOZX5VYLXh]{Get
+    +1 Weird, max +2}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xKW5mpnBzYENN0WG]{Take
+    another Pararomantic move}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.xKW5mpnBzYENN0WG]{Take
+    another Pararomantic move}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain
+    an ally}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
+    a move from another playbook}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
+    a move from another playbook}</p>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul> <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
+    +1 to any rating, max +3.}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change
+    this hunter to a new type}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create
+    a second hunter to play as well as this one}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark
+    two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark
+    another two of the basic moves as advanced}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire
+    this hunter to safety}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.zKD92mZ9KeXWbNGE]{Take
+    a second Gift}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.ifbF7rNIgnqrT1h7]{Change
+    your Guide, as you fall for another creature}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.0TThwZJIcwBrpp7L]{Erase
+    all the marks from the Relationship Status track}</p>
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.z92QIjJzPI1ggLjq]{Gain
+    a second Guide. Track the relationship status tracks of both relationships separately.}</p>
+
+    <p>Both Guides initially hate each other, but this could change through play. All
+    moves that applied to your original Guide can now apply to either one.</p>
+  </td>
+
+    </tr>
+  </tbody> </table>

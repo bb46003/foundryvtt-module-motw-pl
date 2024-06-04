@@ -1,0 +1,51 @@
+{
+  "folder": "dOADkHHXqYXc6idF",
+  "name": "C’est un piège !",
+  "type": "move",
+  "_id": "ncKAjj12HOpKFMZq",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand <strong>vous fabriquez un piège pour monstre ou sbire</strong>, lancez +Futé.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous capturez quelque chose et choisissez un effet bonus :</p>\n<ul>\n<li>La proie mettra du temps &agrave; se lib&eacute;rer.</li>\n<li>Le pi&egrave;ge inflige des d&eacute;g&acirc;ts (compte comme une arme improvis&eacute;e).</li>\n<li>Vous pouvez reposer le pi&egrave;ge pour le r&eacute;utiliser plus tard (pour cela, relancez la man&oelig;uvre avec +1 temporaire).</li>\n</ul>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous capturez quelque chose !</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Gamin Fouinard",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202946005,
+    "modifiedTime": 1714210222215,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!ncKAjj12HOpKFMZq"
+}

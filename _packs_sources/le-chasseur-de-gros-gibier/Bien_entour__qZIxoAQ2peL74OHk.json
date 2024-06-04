@@ -1,0 +1,51 @@
+{
+  "folder": "Oa5e9qVemckKMtuy",
+  "name": "Bien entouré",
+  "type": "move",
+  "_id": "qZIxoAQ2peL74OHk",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous ne partez jamais en chasse sans vos serviteurs dévoués pour porter votre équipement et s’occuper d’autres tâches qui pourraient vous distraire. Vous obtenez une équipe de subordonnés (motivation : suivre vos instructions à la lettre) taillés pour voyager, camper et réaliser les tâches ménagères. Ces personnages ne prennent pas de risques et fuiront les situations de combat.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205676623,
+    "modifiedTime": 1714205723560,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!qZIxoAQ2peL74OHk"
+}

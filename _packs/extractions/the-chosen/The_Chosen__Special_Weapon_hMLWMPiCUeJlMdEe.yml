@@ -1,0 +1,36 @@
+name: 'The Chosen: Special Weapon'
+type: equipment
+img: icons/svg/sword.svg
+system:
+  name: ''
+  description: <p>You have a special weapon you are destined to wield.</p>
+  uses: 0
+  playbook: The Chosen
+  quantity: 1
+  weight: 0
+  tags: ''
+  tagsString: ''
+  itemType: null
+  equipmentType: weapon
+effects: []
+flags:
+  cf:
+    id: temp_tcnpgbvw65c
+    path: 'The Chosen#/CF_SEP/The Chosen: Weapons'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667428327403
+  modifiedTime: 1690916928551
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: null
+_id: hMLWMPiCUeJlMdEe
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!hMLWMPiCUeJlMdEe'
+

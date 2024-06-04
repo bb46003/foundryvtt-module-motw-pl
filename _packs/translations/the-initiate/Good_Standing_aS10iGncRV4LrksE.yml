@@ -1,0 +1,27 @@
+original_name: Good Standing
+original_description: >-
+  <p>When you<strong> are in good standing with your Sect, at the beginning of
+  each mystery</strong>, roll +Charm.&nbsp;</p>
+
+  <p>If you fail a mission or refuse an order, you&rsquo;ll be in trouble with
+  the Sect until you atone.</p>
+original_success: <p><strong>On a 10+</strong> they provide some useful info or
+  help in the field.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> you get a mission associated with
+  the mystery, and if you do it you&rsquo;ll get some info or help
+  too.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, they ask you to do something bad.&nbsp;</p>
+name: Reconnu
+description: >-
+  <p>Quand <strong>vous êtes reconnu auprès de votre secte</strong>, lancez
+  +Charme <strong>au début de chaque mystère</strong>.</p>
+
+  <p>Si vous ratez la mission ou refusez d’exécuter un ordre, vous aurez des
+  problèmes avec la secte jusqu’à ce que vous vous soyez racheté.</p>
+success: <p><strong>Sur un 10+</strong>, elle vous offre des informations utiles
+  ou une aide sur le terrain.</p>
+partial: <p><strong>Sur un 7-9</strong>, vous recevez une mission liée au
+  mystère, qui vous vaudra aussi des informations ou de l’aide si vous la
+  réussissez.</p>
+failure: <p><strong>En cas d’échec</strong>, il vous est demandé de faire
+  quelque chose de mal.</p>

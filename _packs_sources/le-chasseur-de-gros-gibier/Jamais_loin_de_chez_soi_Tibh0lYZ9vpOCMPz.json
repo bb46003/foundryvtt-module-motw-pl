@@ -1,0 +1,51 @@
+{
+  "folder": "Oa5e9qVemckKMtuy",
+  "name": "Jamais loin de chez soi",
+  "type": "move",
+  "_id": "Tibh0lYZ9vpOCMPz",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous avez de nombreuses planques luxueuses à travers le globe. Elles sont toutes secrètes, sûres, bien approvisionnées et peuvent aisément accueillir entre 4 et 6 personnes.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205689896,
+    "modifiedTime": 1714205817006,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!Tibh0lYZ9vpOCMPz"
+}

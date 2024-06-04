@@ -1,0 +1,541 @@
+original_name: The Professional
+original_description: >-
+  <blockquote>
+
+  <p>It’s kind of strange when your regular 9-to-5 job is to hunt down monsters.
+  Still, that’s the job I took on when I joined this outfit. It pays well, and
+  the benefits are good. Like they say “You don’t have to be crazy to work here,
+  but it sure helps!”</p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%;height:1522px" border="1"><colgroup><col
+  style="width:49.5157%"></col><col style="width:50.4843%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:151px">
+
+  <td style="height:151px" colspan="2">
+
+  <h2>Getting Started</h2>
+
+  <p>To make your Professional, first pick a name. Then follow the instructions
+  in this playbook to decide your look, ratings, Agency, moves, and gear.
+  Finally, introduce yourself and pick history.<br /><br
+  /><em><strong>Instructions</strong>:
+  @UUID[Compendium.motw-for-pbta.the-professional.Item.poCbBF4U55INB6yn]{Items}
+  can be dragged and dropped to the appropriate header/field. For other values
+  and descriptions, you need to copy and paste, or manually change
+  them.</em></p>
+
+  <p> </p>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:1354px">
+
+  <td style="vertical-align:top;height:1354px">
+
+  <h3>Look</h3>
+
+  <p><em>Pick one from each List:</em></p>
+
+  <ul>
+
+  <li>Man, woman, concealed.</li>
+
+  <li>Chiseled face, scarred face, unshaven face, soft face, young face, old
+  face, determined face.</li>
+
+  <li>Tailored suit, shabby suit, perfect suit, utility coveralls, battledress,
+  paramilitary uniform, lab coat.</li>
+
+  </ul>
+
+  <h3><br />Ratings</h3>
+
+  <p><em>Pick one line:</em></p>
+
+  <ul>
+
+  <li>Charm=0, Cool+2, Sharp-1, Tough+2, Weird-1</li>
+
+  <li>Charm-1, Cool+2, Sharp+1, Tough+1, Weird=0</li>
+
+  <li>Charm+1, Cool+2, Sharp+1, Tough-1, Weird=0</li>
+
+  <li>Charm-1, Cool+2, Sharp+1, Tough=0, Weird+1</li>
+
+  <li>Charm=0, Cool+2, Sharp+2, Tough-1, Weird-1</li>
+
+  </ul>
+
+  <h3><br />Agency</h3>
+
+  <p>Decide who it is you work for. Are they a black-budget government
+  department, a secret military unit, a clandestine police team, a private
+  individual’s crusade, a corporation, a scientific team, or what?</p>
+
+  <p>Is the Agency’s goal to: destroy monsters, study the supernatural, protect
+  people, gain power, or something else?</p>
+
+  <p><em>Pick two resource tags for the Agency, and two red tape tags:</em></p>
+
+  <h4>Resources (<em>pick two</em>):</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.Btmuqn1qun9DUDzX]{Resource:
+  Cover identities}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.vSjQ5twZCRHdiu4k]{Resource:
+  Offices all over the place}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.wp8HEAoEKIPczX0T]{Resource:
+  Official pull}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.fCQHUfuH0KSO9aKd]{Resource:
+  Recognised authority}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.wtWPGnDxvaAc0xFi]{Resource:
+  Rigorous training}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.6uFVmTJNJuGFHUzc]{Resource:
+  Support teams}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.A2AtfVNQnxfcyRPp]{Resource:
+  Weird tech gadgets}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.dUht4871crUZmC2i]{Resource:
+  Well--financed}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.dGeoPFIRKIYL6Jaa]{Resource:
+  Well-armed}</p>
+
+  <h4><br />Red Tape (<em>pick two</em>):</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.u40KYgY4FuRj8xh8]{Red
+  Tape: Budget cuts}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.CHHxCFPlkFQsysz2]{Red
+  Tape: Bureaucratic}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.ZFqUXbOXAFfpNXmQ]{Red
+  Tape: Cryptic missions}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.dG1HDoTbpzpAkKjc]{Red
+  Tape: Dubious motives}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.s2ZE6NlMdbpXdUQv]{Red
+  Tape: Hostile superiors}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.mgq3W9lrY1nxxQFZ]{Red
+  Tape: Inter-departmental rivalry}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.cAWffCDBDXw1ZDUj]{Red
+  Tape: Live capture policy}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.prtCFhsrfxvRbA9R]{Red
+  Tape: Secretive hierarchy}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.KWdRztOa4W5GtyPA]{Red
+  Tape: Take no prisoners policy}</p>
+
+  </td>
+
+  <td style="vertical-align:top;height:1354px">
+
+  <h3>Moves</h3>
+
+  <p>You get all the basic moves, plus four Professional moves.</p>
+
+  <p><em>Pick three of these</em>:</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.poCbBF4U55INB6yn]{Battlefield
+  Awareness}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.3ao7Q7GzwaVng6Ek]{Bottle
+  It Up}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.62pmEg9aUwNvSdpA]{Leave
+  No One Behind}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.62pmEg9aUwNvSdpA]{Leave
+  No One Behind}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.9QUpPscwoJ6I1Izv]{Medic}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.QoemcXBlRXluESWK]{Mobility}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.nwbh3IfXqkd80Qv0]{Tactical
+  Genius}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.yi92Gmq9Rs13YWA5]{Unfazeable}</p>
+
+  <p><em>And you get this one:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.fHACVx6QajxDFjo0]{Deal
+  With The Agency}</p>
+
+  <h3><br />Gear</h3>
+
+  <p><em>Pick one serious weapon and two normal weapons</em> (Please note that
+  you, or your Keeper must create these and the armour below manually).</p>
+
+  <p>You get <em>either </em>a flak vest (1-armour hidden) <em>or
+  </em>combat armour (2-armour heavy) for protection.</p>
+
+  <h4><br />Serious weapons (<em>pick one</em>):</h4>
+
+  <ul>
+
+  <li>Assault rifle (3-harm far area loud reload)</li>
+
+  <li>Grenade launcher (4-harm far area messy loud reload)</li>
+
+  <li>Sniper rifle (4-harm far)</li>
+
+  <li>Grenades (4-harm close area messy loud)</li>
+
+  <li>Submachine gun (3-harm close area loud reload)</li>
+
+  </ul>
+
+  <h4><br />Normal weapons (<em>pick two</em>):</h4>
+
+  <ul>
+
+  <li>.38 revolver (2-harm close reload loud)</li>
+
+  <li>9mm (2-harm close loud)</li>
+
+  <li>Hunting rifle (2-harm far loud)</li>
+
+  <li>Shotgun (3-harm close messy)</li>
+
+  <li>Big knife (1-harm hand)</li>
+
+  </ul>
+
+  <h3><br />Luck Special</h3>
+
+  <p>Mark luck to change a roll to 12 or avoid all harm from an injury.<br /><br
+  /></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Professional by name and
+  look, and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. On your turn, pick one for each of the other
+  hunters:</p>
+
+  <ul>
+
+  <li>Your relationship with them has romantic potential. So far it hasn’t gone
+  further.</li>
+
+  <li>They’re on the Agency’s watch list, and you’ve been keeping an eye on
+  them.</li>
+
+  <li>You are related. Tell them how close.</li>
+
+  <li>You met on a mission and worked together unofficially. And
+  successfully.</li>
+
+  <li>They’ve worked with the Agency before, and they’re well regarded.</li>
+
+  <li>You were friends back in training, before the Agency recruited you. This
+  could be military, law enforcement, or some weirder school: decide the
+  details between you.</li>
+
+  <li>They pulled you (and maybe your team) out of a terrible FUBARed
+  mission.</li>
+
+  <li>You got sent to “deal with them” as a hazard to the Agency’s policies one
+  time. Tell them how you resolved this.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:17px">
+
+  <td style="height:17px" colspan="2"><br />
+
+  <h2>Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em><br /><br /></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.HLKdeAtlzxgyKQER]{Get +1 Cool, max
+  +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get +1 Charm,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]{Get +1 Sharp,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]{Get +1 Tough,
+  max +2}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.jULhzpEz1fyJN9qQ]{Take another
+  Professional move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.jULhzpEz1fyJN9qQ]{Take another
+  Professional move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.FogsDltNuJPy0UOq]{Add a new
+  resource tag for your Agency or change a red tape tag}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7M8HpLDdXuUNJHAA]{Get command of
+  an Agency team of monster hunters}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p> </p>
+
+  <h3>Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these, from the list below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.UljLJCPDEXeMbOxs]{Get some or all
+  of the other players’ hunters hired by your agency. They get the deal with the
+  agency move, as well as salary and benefits}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: Le Professionnel
+description: >-
+  <blockquote> <p>Aussi étrange que cela puisse paraître, mon métier consiste à
+  traquer des monstres. Mais c’est le boulot que j’ai choisi le jour où j’ai
+  endossé l’uniforme. Ça paye bien et les avantages ne sont pas négligeables.
+  Comme on dit, « Pas besoin d’être cinglé pour bosser ici, mais ça aide ! »</p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+  <p>Pour créer votre Professionnel, commencez par lui trouver un nom. Puis
+  suivez les instructions ci-dessous pour choisir votre apparence, vos
+  caractéristiques, votre Agence, vos manœuvres et votre équipement. Enfin,
+  présentez-vous et attribuez vos histoires.</p> <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-professional.Item.poCbBF4U55INB6yn]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les
+  autres valeurs et descriptions, vous devez les copier/coller, ou les modifier
+  manuellement.</em></p>
+    </td>
+  </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p><em>Choisissez un
+  élément de chaque liste :</em></p> <ul> <li>Homme, femme, dissimulé.</li>
+  <li>Visage buriné, visage balafré, visage barbu, visage doux, visage jeune,
+  visage vieux, visage déterminé.</li> <li>Costume taillé sur mesure, costume
+  élimé, costume impeccable, combinaison, tenue de combat, uniforme
+  paramilitaire, blouse blanche.</li> </ul>
+
+  <h3>Statistiques</h3> <p><em>Choisissez une ligne :</em></p> <ul>
+    <li>Charme 0, Cool +2, Futé -1, Coriace +2, Bizarre -1</li>
+    <li>Charme -1, Cool +2, Futé +1, Coriace +1, Bizarre 0</li>
+    <li>Charme +1, Cool +2, Futé +1, Coriace -1, Bizarre 0</li>
+    <li>Charme -1, Cool +2, Futé +1, Coriace 0, Bizarre +1</li>
+    <li>Charme 0, Cool +2, Futé +2, Coriace -1, Bizarre -1</li>
+  </ul>
+
+  <h3>Agence</h3>
+    <p>À vous de décider pour qui vous travaillez. S’agit-il d’un département gouvernemental officieux, d’une unité
+  militaire secrète, d’une force de police clandestine, d’une croisade privée,
+  d’une corporation, d’un groupe scientifique, etc. ?</p> <p>Le but de l’agence
+  est-il de tuer des monstres, d’étudier le surnaturel, de protéger les gens, de
+  gagner du pouvoir ou tout autre chose ?</p>
+
+    <p><em>Choisissez deux marqueurs de ressources et deux marqueurs administratifs :</em></p>
+
+    <h4>Ressources <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.Btmuqn1qun9DUDzX]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.vSjQ5twZCRHdiu4k]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.wp8HEAoEKIPczX0T]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.fCQHUfuH0KSO9aKd]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.wtWPGnDxvaAc0xFi]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.6uFVmTJNJuGFHUzc]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.A2AtfVNQnxfcyRPp]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.dUht4871crUZmC2i]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.dGeoPFIRKIYL6Jaa]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.qOOYHhmn6cAMpbar]</li>
+  </ul>
+
+  <h4>Administration <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.u40KYgY4FuRj8xh8]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.CHHxCFPlkFQsysz2]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.ZFqUXbOXAFfpNXmQ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.dG1HDoTbpzpAkKjc]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.s2ZE6NlMdbpXdUQv]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.mgq3W9lrY1nxxQFZ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.cAWffCDBDXw1ZDUj]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.prtCFhsrfxvRbA9R]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.KWdRztOa4W5GtyPA]</li>
+  </ul> </td> <td style="padding: 8px;"> <h3>Manœuvres</h3> <p>Vous connaissez
+  toutes les manœuvres de base, auxquelles s’ajoutent quatre manœuvres de
+  Professionnel :</p>
+
+  <p><em>Vous gagnez la suivante :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.fHACVx6QajxDFjo0]</li>
+  </ul>
+
+    <p><em>Puis choisissez-en trois :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.poCbBF4U55INB6yn]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.3ao7Q7GzwaVng6Ek]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.62pmEg9aUwNvSdpA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.9QUpPscwoJ6I1Izv]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.QoemcXBlRXluESWK]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.nwbh3IfXqkd80Qv0]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.yi92Gmq9Rs13YWA5]</li>
+  </ul>
+
+  <h3>équipement</h3>
+
+  <p><em>Choisissez une arme lourde et deux armes normales.</em></p>
+
+  <p>Vous recevez un @UUID[Compendium.motw-fr.armes.Item.enLQtzp1bg3rZw43]{Gilet parre-balle} (armure 1, caché)
+  <em>ou</em> une @UUID[Compendium.motw-fr.armes.Item.ARDn9Nrze8bv49T5]{Armure de combat} (armure 2, lourd)</p>
+
+  <h4>Armes lourdes <em>(choisissez-en une)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.vXLMBjiSxRmzeqGF]{Fusil d’assaut} (3 dégâts, loin, zone,
+    bruyant, rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.4qCZXiR1xMn5xd5v]{Lance-grenade} (4 dégâts, loin, zone,
+    sanglant, bruyant, rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.m6KUcDI7bsToHyM3]{Fusil de sniper} (4 dégâts, loin)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Wze2ogodUjYCENf5]{Grenades} (4 dégâts, proche, zone, sanglant,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.TIgDzcwLqzPMpy54]{Mitraillette} (3 dégâts, proche, zone,
+    bruyant, rechargement)</li>
+  </ul>
+
+  <h4>Armes normales <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.LG4nYAeuUvhnRRMr]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.aLJa1zNsNGiNRuEE]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.rxeuNXyvDdEXPfbo]{Fusil de chasse} (2 dégâts, loin, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.56Npqr1lm2o2PMbN]{Fusil à pompe} (3 dégâts, proche,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.mBs2Fl6mmGlufRjN]{Couteau de chasse} (1 dégât, allonge)</li>
+  </ul>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Professionnel en dévoilant son nom et son apparence, et en disant aux autres
+  membres du groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p>
+
+  <ul>
+    <li>Votre relation a un potentiel amoureux. Pour l’instant, cela n’a pas été plus loin.</li>
+    <li>Il est sur la liste de l’agence et vous gardez un œil sur lui.</li>
+    <li>Vous êtes parents. À vous de lui préciser votre degré de parenté.</li>
+    <li>Vous vous êtes rencontrés en mission et avez travaillé ensemble officieusement. Avec succès.</li>
+    <li>Il a déjà travaillé avec l’agence et est bien vu.</li>
+    <li>Vous étiez amis du temps de votre formation, avant que l’agence ne vous recrute. Il pouvait s’agir d’une école
+    militaire, de police ou autre. Fixez-en les détails ensemble.</li>
+    <li>Il vous a tiré (vous et peut-être votre équipe) d’une mission particulièrement merdique.</li>
+    <li>On vous a chargé de vous en « occuper », car il représentait un danger pour l’agence. Dites-lui comment vous
+  avez réglé cela.</li> </ul> </td> </tr> <tr> <td style="padding: 8px;"
+  colspan="2"> <h2>Prendre du galon</h2> <p><em>Sur la feuille de personnage,
+  ouvrez « Améliorations » ou « Améliorations avancées » en édition.
+  Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes
+  ci-dessous pour garder une trace de celles que vous avez utilisées. Veuillez
+  noter que le module n’effectuera pas ce suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3> <p><em>Dès que vous avez coché cinq cases d’expérience,
+  vous prenez du galon. Effacez le contenu des cases et
+    choisissez une amélioration parmi les suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.HLKdeAtlzxgyKQER]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qrA6GiUeq6IOVDGA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.citnK1OcYfho4y5L]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.jULhzpEz1fyJN9qQ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.jULhzpEz1fyJN9qQ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.FogsDltNuJPy0UOq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.7M8HpLDdXuUNJHAA]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.UljLJCPDEXeMbOxs]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+  </td> </tr> </tbody> </table>

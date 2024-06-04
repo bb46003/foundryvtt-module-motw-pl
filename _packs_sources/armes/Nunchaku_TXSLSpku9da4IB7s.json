@@ -1,0 +1,36 @@
+{
+  "name": "Nunchaku",
+  "type": "equipment",
+  "img": "icons/tools/fasteners/chain-steel-grey.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"allonge\"},{\"value\":\"zone\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "l0tcOaga46E0x41u",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714586958118,
+    "modifiedTime": 1714633396708,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "TXSLSpku9da4IB7s",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!TXSLSpku9da4IB7s"
+}

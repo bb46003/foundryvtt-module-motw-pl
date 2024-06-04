@@ -1,0 +1,51 @@
+{
+  "folder": "JxpdE2dRM7MVxV76",
+  "name": "Prise signature",
+  "type": "move",
+  "_id": "TEy0AWwrh9WrfF0c",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Comme tout grand lutteur, vous avez perfectionné votre prise signature sur le ring. La vôtre fonctionne aussi hors du ring. Décrivez votre prise signature :</p>\n<p><strong>Manœuvre :</strong> ________________</p>\n<p><strong>Description :</strong> _______________</p>\n<p>Quand <strong>vous effectuez votre prise signature sur quelque chose</strong>, lancez+ Coriace.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous infligez 2 d&eacute;g&acirc;ts et gagnez +1 temporaire.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous infligez 1 d&eacute;g&acirc;t et gagnez +1 temporaire.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, votre adversaire pare la man&oelig;uvre.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Luchador",
+    "rollType": "tough",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203231279,
+    "modifiedTime": 1714226433906,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!TEy0AWwrh9WrfF0c"
+}

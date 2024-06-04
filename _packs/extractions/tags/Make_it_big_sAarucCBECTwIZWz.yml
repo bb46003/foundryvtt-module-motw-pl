@@ -1,0 +1,23 @@
+folder: MirKzNjm0PX7wjsM
+name: Make it big
+type: tag
+_id: sAarucCBECTwIZWz
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: <p>Make it big. You&rsquo;re a superstar now!</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690913001234
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 2100000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!sAarucCBECTwIZWz'
+

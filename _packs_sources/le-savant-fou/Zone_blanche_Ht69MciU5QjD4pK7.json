@@ -1,0 +1,51 @@
+{
+  "folder": "fBnv1LtN7OAjUMtq",
+  "name": "Zone blanche",
+  "type": "move",
+  "_id": "Ht69MciU5QjD4pK7",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>En raison de la nature secrète de vos travaux, votre laboratoire est complètement caché et introuvable. Pas même les autres chasseurs ne peuvent le trouver à moins que vous ne les y guidiez. Toutes les communications passées depuis le laboratoire sont indétectables.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204490254,
+    "modifiedTime": 1714204568292,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!Ht69MciU5QjD4pK7"
+}

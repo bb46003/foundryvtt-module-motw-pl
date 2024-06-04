@@ -1,0 +1,51 @@
+{
+  "folder": "ZO27OWZPO0aOCtZi",
+  "name": "Réputation immortelle",
+  "type": "move",
+  "_id": "ypeuShBQ2a9leXih",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vos exploits en tant que chasseur de monstre sont légendaires, si bien que votre nom inspire encore la crainte chez les monstres et les sbires. Vous pouvez Manipuler des monstres par des menaces s’ils sont suffisamment intelligents pour avoir entendu des histoires sur vous.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "L’Éxilé",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": "<ul>\n<li>Intervention divine.</li>\n<li>L&rsquo;instant d&rsquo;avant, vous &eacute;tiez l&agrave; ; maintenant, vous &ecirc;tes ici.</li>\n<li>Un endroit ou un artefact &eacute;trange vous a amen&eacute; ici.</li>\n<li>Vous &eacute;tiez en &eacute;tat de stase : on vous a d&eacute;terr&eacute; puis ressuscit&eacute;.</li>\n<li style=\"font-style: italic;\"><em>Choisissez vous-m&ecirc;me.</em></li>\n</ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202305810,
+    "modifiedTime": 1714209884632,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!ypeuShBQ2a9leXih"
+}

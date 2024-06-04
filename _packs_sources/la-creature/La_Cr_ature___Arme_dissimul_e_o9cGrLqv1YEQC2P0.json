@@ -1,0 +1,19 @@
+{
+  "name": "La Créature : Arme dissimulée",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "o9cGrLqv1YEQC2P0",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714201382847,
+    "modifiedTime": 1714201382847,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!folders!o9cGrLqv1YEQC2P0"
+}

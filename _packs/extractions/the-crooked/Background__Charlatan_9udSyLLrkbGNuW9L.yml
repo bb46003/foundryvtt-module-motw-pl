@@ -1,0 +1,60 @@
+name: 'Background: Charlatan'
+type: move
+img: icons/svg/book.svg
+effects: []
+flags:
+  cf:
+    id: temp_9zfzaydbnfv
+    path: 'The Crooked#/CF_SEP/The Crooked: Backgrounds'
+    color: '#000000'
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>When you want people to think you are using magic, <strong>roll
+    +Cool</strong>.</p>
+
+    <p>You may also <strong>manipulate peopl</strong>e with fortune telling.
+    When you do that, ask &ldquo;What are they hoping for right now?&rdquo; as a
+    free question (even on a miss).</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: crooked-select
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10 or more</strong>, your audience is amazed and fooled
+        by your illusion.&nbsp;</p>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong> you tripped up a couple of times, maybe
+        someone will notice.</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Crooked
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667593601276
+  modifiedTime: 1686778481489
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: gaQQZjdNV4PrzUHU
+_id: 9udSyLLrkbGNuW9L
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!9udSyLLrkbGNuW9L'
+

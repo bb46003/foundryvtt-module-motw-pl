@@ -1,0 +1,41 @@
+original_name: Dark Past
+original_description: <p>If <strong>you trawl through your memories</strong> for
+  something relevant to the case at hand, roll +Weird.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> ask the Keeper two questions from
+  the list below.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> ask one.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, you can ask a question anyway
+  but that will mean you were personally complicit in creating the situation you
+  are now dealing with.&nbsp;</p>
+original_choices: >-
+  <p>The questions are:</p>
+
+  <ul>
+
+  <li><em>When I dealt with this creature (or one of its kind), what did I
+  learn?</em></li>
+
+  <li><em>What black magic do I know that could help here?</em></li>
+
+  <li><em>Do I know anyone who might be behind this?</em></li>
+
+  <li><em>Who do I know who can help us right now?</em></li>
+
+  </ul>
+name: Sombre passé
+description: <p>Si <strong>vous parcourez vos souvenirs</strong> en quête
+  d’informations en rapport avec l’affaire en cours, lancez +Bizarre.</p>
+success: <p><strong>Sur un 10+</strong>, posez au Gardien deux questions au
+  choix dans la liste ci-dessous.</p>
+partial: <p><strong>Sur un 7-9</strong>, n’en posez qu’une.</p>
+failure: <p><strong>En cas d’échec</strong>, vous pouvez quand même poser une
+  question, mais vous êtes en partie responsable de la situation.</p>
+choices: >-
+  <p>Les questions sont :</p>
+
+  <ul>
+    <li><em>Quand j’ai eu affaire à cette créature (ou à l’un de ses congénères), qu’ai-je appris ?</em></li>
+    <li><em>Connais-je une forme de magie noire qui pourrait m’être utile ?</em></li>
+    <li><em>Connais-je quelqu’un qui pourrait être derrière tout ceci ?</em></li>
+    <li><em>Connais-je quelqu’un qui pourrait nous aider en ce moment même ?</em></li>
+  </ul>

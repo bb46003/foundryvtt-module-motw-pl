@@ -1,0 +1,56 @@
+name: Artifact
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+flags:
+  cf:
+    id: temp_3o36ckslte9
+    path: 'The Crooked#/CF_SEP/The Crooked: Moves'
+    color: '#000000'
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>You &lsquo;found&rsquo; a magical artifact with handy powers, and kept
+    it. Pick one: Protective amulet (1-armour magic recharge), Lucky charm (may
+    be used as a Luck point, once only), Grimoire (studying the book gives +1
+    forward to use magic), Skeleton key (opens any magically sealed lock), Imp
+    stone (A weak demon is bound to serve the holder. The imp must be summoned
+    with the <strong>use magic</strong> move).</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Crooked
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667593601742
+  modifiedTime: 1686778481489
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: 5D9s87A8l4glApti
+_id: 4qOG35AkPqRrCEGg
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!4qOG35AkPqRrCEGg'
+

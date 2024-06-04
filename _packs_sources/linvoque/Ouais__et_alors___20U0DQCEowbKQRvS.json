@@ -1,0 +1,51 @@
+{
+  "folder": "nfk2zzOyRI4Ts9iT",
+  "name": "Ouais, et alors ?",
+  "type": "move",
+  "_id": "20U0DQCEowbKQRvS",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Dépensez un point de Chance et gagnez +1 Coriace jusqu’à la fin du mystère actuel (+4 Coriace max.).</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "L’Invoqué",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205257520,
+    "modifiedTime": 1714209953767,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!20U0DQCEowbKQRvS"
+}

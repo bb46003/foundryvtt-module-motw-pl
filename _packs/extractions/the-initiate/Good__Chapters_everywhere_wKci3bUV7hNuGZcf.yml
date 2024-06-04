@@ -1,0 +1,50 @@
+name: 'Good: Chapters everywhere'
+type: move
+img: icons/svg/clockwork.svg
+system:
+  name: ''
+  description: ''
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Initiate
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_mondqcxkhl
+    path: 'The Initiate#/CF_SEP/The Initiate: Sect''s Traditions'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667508861733
+  modifiedTime: 1686856936633
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: xRdcR2WgOonImeyd
+_id: wKci3bUV7hNuGZcf
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!wKci3bUV7hNuGZcf'
+

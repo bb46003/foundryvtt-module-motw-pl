@@ -1,0 +1,51 @@
+{
+  "folder": "ZO27OWZPO0aOCtZi",
+  "name": "Magies anciennes",
+  "type": "move",
+  "_id": "tN4pm1g4ASOTyL1q",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous avez appris la magie à une époque où on en savait davantage sur le sujet. Quand vous <strong>Utilisez la magie</strong>, sur un 7-9, vous ne choisissez pas d’inconvénient. À la place, vous subissez -1 temporaire.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "L’Éxilé",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202314031,
+    "modifiedTime": 1714209888731,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!tN4pm1g4ASOTyL1q"
+}

@@ -1,0 +1,15 @@
+original_name: "Effect: Fire"
+original_description: >-
+  <p>Adds @UUID[Compendium.motw-for-pbta.tags.Item.nomR0IoetaCq6VjQ]{+2 harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.RU3Zkw0KG3E1pCxZ]{fire} to a
+  base.</p>
+
+  <p>If you get a 10+ on a combat magic roll, the fire won&rsquo;t spread.</p>
+name: "Effet : Feu"
+description: >-
+  <p>Ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.nomR0IoetaCq6VjQ]{+2
+  dégâts}, @UUID[Compendium.motw-for-pbta.tags.Item.RU3Zkw0KG3E1pCxZ]{feu} à un
+  sort de base.</p>
+
+  <p>Si vous obtenez un 10+ sur un jet de magie de combat, le feu ne se propage
+  pas.</p>

@@ -1,0 +1,23 @@
+folder: VXynqUbdfdoq7H5x
+name: Soulless
+type: tag
+_id: Z5xhpXPKoYRy1BsR
+img: icons/svg/terror.svg
+system:
+  name: ''
+  description: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686863391917
+  modifiedTime: 1686864168451
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!Z5xhpXPKoYRy1BsR'
+

@@ -1,0 +1,53 @@
+name: Contrary
+type: move
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>When you <strong>seek out and receive someone’s honest advice</strong> on
+    the best course of action for you and then do something else instead, mark
+    experience.</p>
+
+    <p>If you do exactly the opposite of their advice, you also take +1 ongoing
+    on any moves you make pursuing that course.</p>
+  moveType: class
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Flake
+  rollType: ''
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  cf:
+    id: temp_m1sn4zc3bli
+    path: 'The Flake#/CF_SEP/The Flake: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1667505306034
+  modifiedTime: 1706527625469
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+folder: Rq7TuKSNKnDKTfMT
+_id: O5LkVf3j1IjCCMIq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!O5LkVf3j1IjCCMIq'
+

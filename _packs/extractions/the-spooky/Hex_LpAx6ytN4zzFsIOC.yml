@@ -1,0 +1,62 @@
+name: Hex
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you cast a spell (with <strong>use magic)</strong>, as well as the
+    normal effects, you may pick from the following:</p>
+
+    <ul>
+
+    <li>The target contracts a disease.</li>
+
+    <li>The target immediately suffers harm (2-harm magic ignore-armour).</li>
+
+    <li>The target breaks something precious or important.</li>
+
+    </ul>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooky
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_pocf6fc0wnl
+    path: 'The Spooky#/CF_SEP/The Spooky: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667469808686
+  modifiedTime: 1686864168451
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: AMa6x8vEAHN9O09H
+_id: LpAx6ytN4zzFsIOC
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!LpAx6ytN4zzFsIOC'
+

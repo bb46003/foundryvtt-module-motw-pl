@@ -1,0 +1,19 @@
+{
+  "name": "L’Expert",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "JJdv2buCyUskF9cl",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714631675598,
+    "modifiedTime": 1714631675598,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!folders!JJdv2buCyUskF9cl"
+}

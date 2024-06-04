@@ -1,0 +1,34 @@
+{
+  "folder": "PC6LYIPTdKxQmnYN",
+  "name": "Mitraillette",
+  "type": "equipment",
+  "_id": "TIgDzcwLqzPMpy54",
+  "img": "icons/weapons/guns/gun-topbarrel.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"proche\"},{\"value\":\"zone\"},{\"value\":\"bruyant\"},{\"value\":\"rechargement\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714633608834,
+    "modifiedTime": 1714753498076,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!TIgDzcwLqzPMpy54"
+}

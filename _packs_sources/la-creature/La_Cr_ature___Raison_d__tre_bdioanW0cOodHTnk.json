@@ -1,0 +1,19 @@
+{
+  "name": "La Créature : Raison d’être",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "bdioanW0cOodHTnk",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714199242536,
+    "modifiedTime": 1714199242536,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!folders!bdioanW0cOodHTnk"
+}

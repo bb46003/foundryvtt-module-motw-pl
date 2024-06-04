@@ -1,0 +1,60 @@
+original_name: Rote [ ]
+original_description: >-
+  <p>Whenever you <strong>use magic</strong>, you can decide afterwards that a
+  particular spell is a rote that you know. Write down in detail what the spell
+  does, and what it requires. You know how to cast it off the top of your head,
+  and you choose two requirements from the below list.</p>
+
+  <p>Give your new rote a name, and decide specifically what the requirements
+  are.</p>
+
+  <p><em>(Foundry: Replace this description with the description of your Rote.
+  This move can be used several times, as you gain new Rotes).</em></p>
+original_choices: >-
+  <ul>
+
+  <li>Magic words and ritual gestures</li>
+
+  <li>An object of power (wand, talisman, orb, staff, etc) which must be
+  wielded.</li>
+
+  <li>An expendable component such as sulfur, sage, or incense, which must be
+  burned, blown, or scattered during the casting.</li>
+
+  <li>Runes or symbols written or engraved on a surface (which must be
+  prepared).</li>
+
+  <li>A spilling of blood, which inflicts 1-harm upon you or a willing
+  participant.</li>
+
+  </ul>
+name: Rote [ ]
+description: >-
+  <p>Whenever you <strong>use magic</strong>, you can decide afterwards that a
+  particular spell is a rote that you know. Write down in detail what the spell
+  does, and what it requires. You know how to cast it off the top of your head,
+  and you choose two requirements from the below list.</p>
+
+  <p>Give your new rote a name, and decide specifically what the requirements
+  are.</p>
+
+  <p><em>(Foundry: Replace this description with the description of your Rote.
+  This move can be used several times, as you gain new Rotes).</em></p>
+choices: >-
+  <ul>
+
+  <li>Magic words and ritual gestures</li>
+
+  <li>An object of power (wand, talisman, orb, staff, etc) which must be
+  wielded.</li>
+
+  <li>An expendable component such as sulfur, sage, or incense, which must be
+  burned, blown, or scattered during the casting.</li>
+
+  <li>Runes or symbols written or engraved on a surface (which must be
+  prepared).</li>
+
+  <li>A spilling of blood, which inflicts 1-harm upon you or a willing
+  participant.</li>
+
+  </ul>

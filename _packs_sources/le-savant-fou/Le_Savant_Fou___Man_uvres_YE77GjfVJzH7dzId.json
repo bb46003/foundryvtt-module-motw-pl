@@ -1,0 +1,19 @@
+{
+  "name": "Le Savant Fou : Manœuvres",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "YE77GjfVJzH7dzId",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714203852303,
+    "modifiedTime": 1714204262254,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!folders!YE77GjfVJzH7dzId"
+}

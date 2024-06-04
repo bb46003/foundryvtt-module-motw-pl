@@ -1,0 +1,61 @@
+original_name: Read a Bad Situation
+original_description: <p>When you look around and read a bad situation,
+  <strong>roll +Sharp</strong>.</p>
+original_success: "<p><strong>On a 10+</strong> hold 3.<br /><br
+  /><strong>ADVANCED: On a 12+</strong> you may ask the Keeper any question you
+  want about the situation, not just the listed ones.</p>"
+original_partial: <p><strong>On a 7-9</strong>, hold 1.</p>
+original_failure: <p><strong>On a miss</strong>, you might mis-read the
+  situation (e.g. &ldquo;Everything is fine here! It will be totally safe to go
+  investigate alone!&rdquo;), or you might reveal tactical details to your
+  enemies (which means the Keeper can ask the questions above of you).</p>
+original_choices: >-
+  <p>One hold can be spent to ask the Keeper one of the following questions:</p>
+
+  <ul>
+
+  <li>What&rsquo;s my best way in?</li>
+
+  <li>What&rsquo;s my best way out?</li>
+
+  <li>Are there any dangers we haven&rsquo;t noticed?</li>
+
+  <li>What&rsquo;s the biggest threat?</li>
+
+  <li>What&rsquo;s most vulnerable to me?</li>
+
+  <li>What&rsquo;s the best way to protect the victims?</li>
+
+  </ul>
+
+  <p>If you act on the answers, you get +1 ongoing while the information is
+  relevant.&nbsp;</p>
+name: Évaluer une situation qui craint
+description: <p>Quand vous observez les environs et évaluez une situation qui
+  craint, <strong>lancez +Futé</strong>.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, réserve 3.</p>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous pouvez poser au
+  Gardien n’importe quelle question sur le mystère, pas seulement celles qui
+  sont indiquées.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
+failure: <p><strong>En cas d’échec</strong>, vous méjugez la situation (par
+  exemple, « Tout va bien, il n’y a aucun danger ! Je peux mener l’enquête tout
+  seul ! ») ou dévoilez des détails tactiques à vos ennemis (le Gardien peut
+  alors vous poser les questions ci-dessus).</p>
+choices: >-
+  <p>Un point de réserve peut être dépensé pour poser une des questions
+  suivantes au Gardien.</p>
+
+  <ul>
+    <li><em>Quelle est la meilleure façon d’entrer pour moi ?</em></li>
+    <li><em>Quelle est la meilleure façon de sortir pour moi ?</em></li>
+    <li><em>Y a-t-il des dangers que nous n’avons pas remarqués ?</em></li>
+    <li><em>Quelle est la plus grande menace ?</em></li>
+    <li><em>Qu’est-ce qui est le plus vulnérable pour moi ?</em></li>
+    <li><em>Quelle est la meilleure façon de protéger les victimes ?</em></li>
+  </ul>
+
+  <p>Si vous agissez conformément aux réponses obtenues, gagnez +1 constant tant
+  que l’information est pertinente.</p>

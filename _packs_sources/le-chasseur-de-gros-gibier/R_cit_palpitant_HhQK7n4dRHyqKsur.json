@@ -1,0 +1,51 @@
+{
+  "folder": "EOpAIvuaRLX3Y11H",
+  "name": "Récit palpitant",
+  "type": "move",
+  "_id": "HhQK7n4dRHyqKsur",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Divertissez vos amis chasseurs en leur narrant l’une de vos aventures précédentes : ils bénéficieront de connaissances approfondies sur le mystère actuel. Lorsque <strong>vous racontez une histoire</strong> sur une situation semblable, lancez +Charme.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, chaque chasseur gagne +1 temporaire.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, le chasseur de votre choix gagne +1 temporaire.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, le Gardien r&eacute;serve 3, qu&rsquo;il peut d&eacute;penser pour attribuer &agrave; quiconque a &eacute;cout&eacute; l&rsquo;histoire -1 temporaire sur un jet d&rsquo;<strong>Enqu&ecirc;te</strong> ou de <strong>Casser la gueule</strong>.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Chasseur de Gros Gibier",
+    "rollType": "charm",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205883829,
+    "modifiedTime": 1714210105519,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!HhQK7n4dRHyqKsur"
+}

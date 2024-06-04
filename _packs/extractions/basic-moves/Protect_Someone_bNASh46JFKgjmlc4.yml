@@ -1,0 +1,69 @@
+_id: bNASh46JFKgjmlc4
+name: Protect Someone
+type: move
+img: icons/svg/dice-target.svg
+effects: []
+folder: null
+flags:
+  cf:
+    id: temp_pzl3k1ewrs
+  core: {}
+system:
+  name: ''
+  description: >-
+    <p>When you prevent harm to another character, <strong>roll
+    +Tough</strong>.</p>
+  requiresMove: ''
+  moveType: basic
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> choose an extra:</p>
+
+        <ul>
+
+        <li>You suffer little harm (-1 harm).</li>
+
+        <li>All impending danger is now focused on you.</li>
+
+        <li>You inflict harm on the enemy.</li>
+
+        <li>You hold the enemy back.</li>
+
+        </ul>
+
+        <p><strong>ADVANCED: on a 12+</strong> both you and the character you
+        are protecting are unharmed and out of danger. If you were protecting a
+        bystander, they also become your ally.</p>
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7+</strong>, you protect them okay, but you&rsquo;ll
+        suffer some or all of the harm they were going to get.</p>
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, then you end up making things worse.</p>
+  uses: 0
+  playbook: ''
+  rollType: tough
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686776288171
+  modifiedTime: 1686776797561
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!bNASh46JFKgjmlc4'
+

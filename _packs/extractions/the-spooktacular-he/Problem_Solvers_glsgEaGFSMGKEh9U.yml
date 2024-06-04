@@ -1,0 +1,50 @@
+folder: qHH7LT3nOBhBDnSi
+name: Problem Solvers
+type: move
+_id: glsgEaGFSMGKEh9U
+img: icons/svg/card-joker.svg
+system:
+  name: ''
+  description: >-
+    <p>The Show rolls into town, people visit and reveal their difficulties. The
+    crew arrange to make things better, leaving each town a little happier than
+    when you arrived. Well, when things go smoothly anyhow. When you
+    c<strong>hat to someone, or observe them for a few minutes</strong>, the
+    Keeper will tell you what their biggest problem is right now.</p>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: spooktacular-the-show
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spooktacular [HE]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690913705763
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!glsgEaGFSMGKEh9U'
+

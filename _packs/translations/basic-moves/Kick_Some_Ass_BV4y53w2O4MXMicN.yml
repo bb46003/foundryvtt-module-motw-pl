@@ -1,0 +1,72 @@
+original_name: Kick Some Ass
+original_description: <p>When you get into a fight and kick some ass,
+  <strong>roll +Tough.</strong></p>
+original_success: >-
+  <p><strong>On a 10+</strong>, choose one extra effect:</p>
+
+  <ul>
+
+  <li>You gain the advantage: take +1 forward, or give +1 forward to another
+  hunter.</li>
+
+  <li>You inflict terrible harm (+1 harm).</li>
+
+  <li>You suffer less harm (-1 harm).</li>
+
+  <li>You force them where you want them.</li>
+
+  </ul>
+
+  <p><br /><strong>ADVANCED: On a 12+</strong> instead pick an enhanced
+  effect:</p>
+
+  <ul>
+
+  <li>You completely hold the advantage.&nbsp;All hunters involved in the fight
+  get +1 forward.</li>
+
+  <li>You suffer no harm at all.</li>
+
+  <li>Your attack inflicts double the normal harm.</li>
+
+  <li>Your attack drives the enemy away in a rout.</li>
+
+  </ul>
+original_partial: <p><strong>On a 7+</strong>, you and whatever you&rsquo;re
+  fighting inflict harm on each other. The amount of harm is based on the
+  established dangers in the game. That usually means you inflict the harm
+  rating of your weapon and your enemy inflicts their attack&rsquo;s harm rating
+  on you.</p>
+original_failure: <p><strong>On a miss</strong>, you get your ass kicked
+  instead. You suffer harm or get captured, but don&rsquo;t inflict any harm
+  back.</p>
+name: Casser la gueule
+description: <p>Quand vous êtes mêlé à un combat et cassez la gueule,
+  <strong>lancez +Coriace</strong>.</p>
+success: >-
+  <p><strong>Si vous obtenez 10+</strong>, choisissez un effet supplémentaire
+  :</p>
+
+  <ul>
+    <li><em>Gagnez +1 temporaire ou donnez +1 temporaire à un autre chasseur ;</em></li>
+    <li><em>Vous infligez des dégâts considérables (+1 dégât) ;</em></li>
+    <li><em>Vous subissez moins de dégâts (-1 dégât) ;</em></li>
+    <li><em>Vous le poussez où vous le voulez.</em></li>
+  </ul>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous portez un coup
+  dévastateur à l’ennemi, qui n’en croit pas ses yeux. Vous infligez et subissez
+  des dégâts normalement et choisissez un des effets suivants :</p>
+
+  <ul>
+    <li><em>Vous avez l’avantage, tous les chasseurs mêlés au combat gagnent +1 temporaire ;</em></li>
+    <li><em>Vous ne subissez pas de dégâts ;</em></li>
+    <li><em>Votre attaque inflige le double des dégâts normaux ;</em></li>
+    <li><em>Votre attaque met l’ennemi en déroute.</em></li>
+  </ul>
+partial: <p><strong>Sur un 7+</strong>, vous et ce que vous combattez infligez
+  des dégâts en fonction de divers paramètres. En règle générale, vous infligez
+  les dégâts de votre arme et votre adversaire vous inflige les dégâts de son
+  attaque.</p>
+failure: <p><strong>En cas d’échec</strong>, vous prenez une raclée. Vous
+  subissez des dégâts ou êtes capturé, mais vous n’infligez pas de dégâts.</p>

@@ -1,0 +1,24 @@
+original_name: Deal With The Agency
+original_description: <p>When you <strong>deal with the Agency</strong>,
+  requesting help or gear, or making excuses for a failure, roll
+  +Sharp.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong>, you&rsquo;re good - your request
+  for gear or personnel is okayed, or your slip-up goes unnoticed.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong>, things aren&rsquo;t so great.
+  You might get chewed out by your superiors and there&rsquo;ll be fallout, but
+  you get what you need for the job.&nbsp;</p>
+original_failure: "<p><strong>On a miss</strong>, you screwed up: you might be
+  suspended or under investigation, or just in the doghouse. You certainly
+  aren&rsquo;t going to get any help until you sort it all out.</p>"
+name: Se tourner vers l’agence
+description: <p>Quand <strng>vous vous tournez vers l’agence</strong>, pour
+  demander de l’aide ou de l’équipement, ou vous excuser pour un échec,
+  +Futé.</p>
+success: "<p><strong>Sur un 10+</strong>, c’est tout bon : votre demande en
+  matériel ou personnel est validée, ou votre faute passe inaperçue.</p>"
+partial: "<p><strong>Sur un 7-9</strong>, les choses se corsent : vous vous
+  faites souffler dans les bronches par vos supérieurs et il y a des
+  répercussions, mais vous obtenez ce dont vous avez besoin.</p>"
+failure: "<p><strong>En cas d’échec</strong>, vous avez merdé : vous êtes
+  suspendu, faites l’objet d’une enquête ou n’êtes plus en odeur de sainteté.
+  Peu de chance que vous receviez de l’aide avant d’avoir réglé tout ça.</p>"

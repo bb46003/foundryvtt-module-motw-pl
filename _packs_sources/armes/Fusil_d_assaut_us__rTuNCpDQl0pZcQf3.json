@@ -1,0 +1,36 @@
+{
+  "name": "Fusil d’assaut usé",
+  "type": "equipment",
+  "img": "icons/weapons/guns/gun-topbarrel.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"proche\"},{\"value\":\"loin\"},{\"value\":\"automatique\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "mQ2cOwbmZgm27h3j",
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714556781633,
+    "modifiedTime": 1714685033473,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "rTuNCpDQl0pZcQf3",
+  "sort": 0,
+  "_key": "!items!rTuNCpDQl0pZcQf3"
+}

@@ -1,0 +1,58 @@
+name: Mobility
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You have a truck, van, or car built for monster hunting. Choose two good
+    things and one bad thing about it.&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Professional
+  rollType: ''
+  rollMod: 0
+  choices: >-
+    <p><em>Good things</em>: roomy; surveillance gear; fast; stealthy;
+    intimidating; classic; medical kit; sleeping space; toolkit; concealed
+    weapons; anonymous; armoured (+1 armour inside); tough; monster cage.</p>
+
+    <p><em>Bad things</em>: loud; obvious; temperamental; beaten- up;
+    gas-guzzler; uncomfortable; slow; old.</p>
+effects: []
+flags:
+  cf:
+    id: temp_6l0nxanciw
+    path: 'The Professional#/CF_SEP/The Professional: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667513137581
+  modifiedTime: 1686860927565
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: fgQFgAO1PBoLpYTU
+_id: QoemcXBlRXluESWK
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!QoemcXBlRXluESWK'
+

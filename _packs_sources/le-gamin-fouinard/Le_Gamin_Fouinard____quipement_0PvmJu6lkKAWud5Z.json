@@ -1,0 +1,19 @@
+{
+  "name": "Le Gamin Fouinard : Équipement",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "0PvmJu6lkKAWud5Z",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202762157,
+    "modifiedTime": 1714202762157,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!folders!0PvmJu6lkKAWud5Z"
+}

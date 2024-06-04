@@ -1,0 +1,70 @@
+_id: mc5VUH5gUGErrlUI
+name: Recovery
+type: move
+img: icons/svg/daze.svg
+effects: []
+folder: null
+flags:
+  core: {}
+system:
+  name: ''
+  description: >-
+    <ul>
+
+    <li>0 harm wounds are considered healed right away.</li>
+
+    <li>1-3 harm wounds improve when you receive first aid, and later when you
+    rest. Heal 1 when you do.</li>
+
+    <li>Unstable wounds require first aid to become stable. While unstable, they
+    may get worse.</li>
+
+    <li>4+ harm wounds require a healing move, time in an infirmary or hospital,
+    or magical healing.</li>
+
+    </ul>
+
+    <p><br />At the end of the mystery, you also have a chance to heal</p>
+
+    <ul>
+
+    <li>If there is no chance to rest, heal 1 harm.</li>
+
+    <li>If there is plenty of time, heal all harm.</li>
+
+    </ul>
+  requiresMove: ''
+  moveType: ''
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: data.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: data.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: data.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: ''
+  rollType: ''
+  rollMod: 0
+  choices: ''
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1686948368592
+  modifiedTime: 1686948539926
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!mc5VUH5gUGErrlUI'
+

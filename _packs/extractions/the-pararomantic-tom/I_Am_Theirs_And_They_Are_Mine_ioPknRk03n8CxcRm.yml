@@ -1,0 +1,51 @@
+folder: oiM3Zms8OjEbtUSu
+name: I Am Theirs And They Are Mine
+type: move
+_id: ioPknRk03n8CxcRm
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>Whenever you are in danger, your Guide knows it. If your Guide is
+    suffering harm (and it&rsquo;s feasible), you can spend a point of Luck to
+    redirect the attack onto yourself as if you have rolled 10+ with
+    <strong>protect someone</strong>. If you are suffering harm, you can decide
+    that your Guide has protected you and is suffering this harm instead. If you
+    choose this, roll for <strong>bond abuse</strong>.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Pararomantic [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690901305626
+  modifiedTime: 1691053418668
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!ioPknRk03n8CxcRm'
+

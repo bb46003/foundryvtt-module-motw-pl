@@ -1,0 +1,17 @@
+name: 'The Spooktacular: The Show'
+sorting: a
+folder: null
+type: Item
+_id: qHH7LT3nOBhBDnSi
+sort: 0
+color: null
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690913159496
+  modifiedTime: 1691053445127
+  lastModifiedBy: MX0yl5RfaCDkeocV
+_key: '!folders!qHH7LT3nOBhBDnSi'
+

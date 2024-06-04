@@ -1,0 +1,20 @@
+original_name: Easygoin'
+original_description: <p>You have the gift of being friendly and easy to chat
+  to. When you t<strong>ry to make a good impression on someone you just
+  met</strong>, roll +Charm.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong> they treat you as a trustworthy
+  and friendly acquaintance.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> they open up more than usual but
+  still regard you as a stranger.&nbsp;</p>
+original_failure: <p><strong>On a 6 or less</strong>, they think you&rsquo;re
+  playing them, and they&rsquo;ll not trust you or your companions.</p>
+name: Easygoin'
+description: <p>You have the gift of being friendly and easy to chat to. When
+  you t<strong>ry to make a good impression on someone you just met</strong>,
+  roll +Charm.&nbsp;</p>
+success: <p><strong>On a 10+</strong> they treat you as a trustworthy and
+  friendly acquaintance.&nbsp;</p>
+partial: <p><strong>On a 7-9</strong> they open up more than usual but still
+  regard you as a stranger.&nbsp;</p>
+failure: <p><strong>On a 6 or less</strong>, they think you&rsquo;re playing
+  them, and they&rsquo;ll not trust you or your companions.</p>

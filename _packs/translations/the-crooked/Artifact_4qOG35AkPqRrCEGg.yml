@@ -1,0 +1,16 @@
+original_name: Artifact
+original_description: "<p>You &lsquo;found&rsquo; a magical artifact with handy
+  powers, and kept it. Pick one: Protective amulet (1-armour magic recharge),
+  Lucky charm (may be used as a Luck point, once only), Grimoire (studying the
+  book gives +1 forward to use magic), Skeleton key (opens any magically sealed
+  lock), Imp stone (A weak demon is bound to serve the holder. The imp must be
+  summoned with the <strong>use magic</strong> move).</p>"
+name: Artefact
+description: "<p>Vous avez « découvert » un artefact magique aux pouvoirs bien
+  pratiques. Au choix : amulette de protection (armure 1, magique,
+  rechargement), porte-bonheur (peut être utilisé comme un point de Chance, mais
+  une seule fois), grimoire (l’étude de l’ouvrage confère +1 temporaire pour
+  <strong>utiliser la magie</strong>), passe-partout (ouvre toute serrure
+  verrouillée magiquement), pierre du diablotin (un démon mineur sert le
+  détenteur de l’objet ; il doit être invoqué avec la manœuvre <strong>utiliser
+  la magie</strong>).</p>"

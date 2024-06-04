@@ -1,0 +1,26 @@
+original_name: Hacker with a Dragon Tattoo
+original_description: <p>When you <strong>hack </strong>into a computer system,
+  roll +Sharp.&nbsp;</p>
+original_success: <p><strong>On 10+</strong> pick two</p>
+original_partial: <p><strong>On a 7-9</strong> pick one</p>
+original_choices: |-
+  <p>You:</p>
+  <ul>
+  <li>... leave no traces.</li>
+  <li>... learn something important.</li>
+  <li>... can leave misinformation in place.</li>
+  <li>... gain access to somewhere you want to get in to.</li>
+  </ul>
+name: Hacker with a Dragon Tattoo
+description: <p>When you <strong>hack </strong>into a computer system, roll
+  +Sharp.&nbsp;</p>
+success: <p><strong>On 10+</strong> pick two</p>
+partial: <p><strong>On a 7-9</strong> pick one</p>
+choices: |-
+  <p>You:</p>
+  <ul>
+  <li>... leave no traces.</li>
+  <li>... learn something important.</li>
+  <li>... can leave misinformation in place.</li>
+  <li>... gain access to somewhere you want to get in to.</li>
+  </ul>

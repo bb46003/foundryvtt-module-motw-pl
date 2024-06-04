@@ -1,0 +1,49 @@
+name: Smite
+type: move
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>Your body and divine weapon always count as a weakness against the
+    monsters you fight. Your unarmed attacks are 2-harm intimate hand messy.</p>
+  moveType: class
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Divine
+  rollType: ''
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  cf:
+    id: temp_ymnqot48js
+    path: 'The Divine#/CF_SEP/The Divine: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1667503091096
+  modifiedTime: 1706527558596
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+folder: null
+_id: NG02AuFO4VGTDoA3
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!NG02AuFO4VGTDoA3'
+

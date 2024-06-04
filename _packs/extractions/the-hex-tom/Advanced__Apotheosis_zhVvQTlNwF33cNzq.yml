@@ -1,0 +1,60 @@
+folder: oEONT5rTtbeeTlos
+name: 'Advanced: Apotheosis'
+type: move
+_id: zhVvQTlNwF33cNzq
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>You become a terrifying fount of mystical power. Once per mystery, after
+    you suffer loss or harm, you may enter a state where you have both immense
+    power and zero interest in the well-being of other people. While in this
+    state, you can fly, use +Weird to <strong>kick some ass</strong> instead of
+    +Tough (using innate magic as a 3-harm weapon with whatever properties you
+    choose), ignore the component costs of your rotes, ignore one requirement of
+    every spell you cast with <strong>use magic</strong>, and you have +1
+    ongoing to do everything.</p>
+
+    <p>On the other hand, you outright cannot use the<strong> protect
+    someone</strong> move, you have all the Temptations, and you have to indulge
+    them whenever a good opportunity presents itself. When you try to resist a
+    temptation, roll +Cool. On a 10+, your apotheosis ends. On a 7-9, it ends
+    with you doing something dangerous or cruel. On a miss, it ends only after
+    you harm someone (or something) you love.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Hex [ToM]
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690916096112
+  modifiedTime: 1691053411918
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!zhVvQTlNwF33cNzq'
+

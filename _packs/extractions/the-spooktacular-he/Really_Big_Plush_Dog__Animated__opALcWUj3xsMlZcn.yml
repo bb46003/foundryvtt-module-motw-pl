@@ -1,0 +1,31 @@
+folder: Vo071mcQrveUqFcV
+name: Really Big Plush Dog (Animated)
+type: equipment
+_id: opALcWUj3xsMlZcn
+img: icons/magic/nature/wolf-paw-glow-large-orange.webp
+system:
+  name: ''
+  description: <p>Somehow this came to life. It&rsquo;s kind of like a regular dog?</p>
+  uses: 0
+  playbook: The Spooktacular [HE]
+  quantity: 1
+  weight: 0
+  tags: ''
+  tagsString: ''
+  itemType: null
+  equipmentType: ''
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690914634974
+  modifiedTime: 1691053445147
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 0
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!opALcWUj3xsMlZcn'
+

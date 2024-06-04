@@ -1,0 +1,34 @@
+{
+  "folder": "CnQnwP0MV9jTcoCT",
+  "name": "Gilet parre-balle",
+  "type": "equipment",
+  "_id": "enLQtzp1bg3rZw43",
+  "img": "icons/equipment/chest/breastplate-sculpted-blue.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 armure\"},{\"value\":\"caché\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714752665280,
+    "modifiedTime": 1714753498075,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!enLQtzp1bg3rZw43"
+}

@@ -1,0 +1,12 @@
+original_name: Spirit Touched
+original_description: <p>Your experiences have made you sensitive to the
+  supernatural. When you <strong>sense magical things</strong>, roll +Weird.</p>
+original_success: <p><strong>On a 10+</strong> you can sense them fully.&nbsp;</p>
+original_partial: "<p><strong>On a 7-9</strong>, choose: either sense them fully
+  but they notice you too, or you sense only impressions.</p>"
+name: Spirit Touched
+description: <p>Your experiences have made you sensitive to the supernatural.
+  When you <strong>sense magical things</strong>, roll +Weird.</p>
+success: <p><strong>On a 10+</strong> you can sense them fully.&nbsp;</p>
+partial: "<p><strong>On a 7-9</strong>, choose: either sense them fully but they
+  notice you too, or you sense only impressions.</p>"

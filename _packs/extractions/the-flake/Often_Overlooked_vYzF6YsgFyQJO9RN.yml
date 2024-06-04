@@ -1,0 +1,53 @@
+name: Often Overlooked
+type: move
+img: icons/svg/dice-target.svg
+system:
+  description: "<p>When you <strong>act all crazy</strong> to avoid something, roll +Weird.\_</p>"
+  moveType: class
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10+</strong> you&rsquo;re regarded as unthreatening and
+        unimportant.&nbsp;</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9, </strong>pick one: unthreatening or
+        unimportant.&nbsp;</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: >-
+        <p><strong>On a miss</strong>, you draw lots (but not all) of the
+        attention.</p>
+  uses: 0
+  playbook: The Flake
+  rollType: weird
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  cf:
+    id: temp_m1sn4zc3bli
+    path: 'The Flake#/CF_SEP/The Flake: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1667505184809
+  modifiedTime: 1706527625469
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+folder: Rq7TuKSNKnDKTfMT
+_id: vYzF6YsgFyQJO9RN
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!vYzF6YsgFyQJO9RN'
+

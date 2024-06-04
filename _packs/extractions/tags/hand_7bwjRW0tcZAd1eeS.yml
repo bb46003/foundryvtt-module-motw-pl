@@ -1,0 +1,28 @@
+name: hand
+type: tag
+img: icons/svg/combat.svg
+system:
+  name: ''
+  description: <p>Effective within arms&rsquo; reach.</p>
+effects: []
+flags:
+  cf:
+    id: temp_toc8840dng
+    path: 'Tags#/CF_SEP/Tags: Weapons'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1667426693033
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+folder: yHHLIuenIIRqUFNi
+_id: 7bwjRW0tcZAd1eeS
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!7bwjRW0tcZAd1eeS'
+

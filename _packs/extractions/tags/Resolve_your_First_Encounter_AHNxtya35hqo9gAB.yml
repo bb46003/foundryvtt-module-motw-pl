@@ -1,0 +1,27 @@
+folder: MirKzNjm0PX7wjsM
+name: Resolve your First Encounter
+type: tag
+_id: AHNxtya35hqo9gAB
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: >-
+    <p>Resolve your first encounter. The Keeper makes the next mystery about
+    this event, and should try to answer all remaining questions about it during
+    the mystery (although there are sure to be new threads to investigate
+    after...)</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690912146301
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 600000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!AHNxtya35hqo9gAB'
+

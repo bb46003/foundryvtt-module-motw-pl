@@ -1,0 +1,51 @@
+{
+  "folder": "fBnv1LtN7OAjUMtq",
+  "name": "Salle d’examen",
+  "type": "move",
+  "_id": "Xg9u53hpTbCwVpS6",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous utilisez cette pièce pour en apprendre plus sur les créatures en les disséquant. Si vous y passez du temps avec un sbire ou un morceau du monstre que vous chassez actuellement, gagnez +1 temporaire pour <strong>Enquêter sur le mystère</strong>.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204484141,
+    "modifiedTime": 1714204546197,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!Xg9u53hpTbCwVpS6"
+}

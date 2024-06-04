@@ -1,0 +1,36 @@
+{
+  "folder": "xQcWWKviJ1IxDWbe",
+  "name": "Arquebuse",
+  "type": "equipment",
+  "img": "icons/weapons/guns/rifle-white.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"proche\"},{\"value\":\"bruyant\"},{\"value\":\"volatil\"},{\"value\":\"lourd\"},{\"value\":\"rechargement\"},{\"value\":\"fume\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714634253848,
+    "modifiedTime": 1714684599344,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "dZ8VrwG5IEcukmaK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!dZ8VrwG5IEcukmaK"
+}

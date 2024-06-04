@@ -1,0 +1,51 @@
+{
+  "folder": "YE77GjfVJzH7dzId",
+  "name": "Je peux te rendre plus fort...",
+  "type": "move",
+  "_id": "W5PzKePVJk4cvJ3C",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous pouvez utiliser les principes de la Science étrange pour renforcer de façon permanente un autre chasseur... mais cela n’est pas sans conséquence. Le chasseur doit sacrifier un point de Chance et sera dorénavant un peu moins humain. Un chasseur ne peut vivre cette expérience qu’une seule fois sans répercussion grave. Pour effectuer l’opération, lancez +Bizarre.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, c&rsquo;est r&eacute;ussi ! Le chasseur choisit deux options parmi celles ci-dessous.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, c&rsquo;est r&eacute;ussi ! Le chasseur choisit une option parmi celles ci-dessous.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, c&rsquo;est la catastrophe ! Le chasseur est marqu&eacute; &agrave; vie et perd quand m&ecirc;me son point de Chance.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Savant Fou",
+    "rollType": "weird",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": "<p>Exemples d&rsquo;am&eacute;liorations &eacute;tranges :</p>\n<ul>\n<li>Gagnez +1 constant permanent &agrave; une man&oelig;uvre de base au choix.</li>\n<li>Votre corps gagne une valeur d&rsquo;armure 1 permanente (ne s&rsquo;additionne pas avec l&rsquo;armure).</li>\n<li>Gagnez une attaque naturelle de Monstre.</li>\n<li>Si un chasseur vit cette exp&eacute;rience une seconde fois, il doit changer le type de son chasseur en Monstre (ou autre type monstrueux, comme l&rsquo;Invoqu&eacute;, si vous l&rsquo;utilisez).</li>\n</ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204281685,
+    "modifiedTime": 1714210362935,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!W5PzKePVJk4cvJ3C"
+}

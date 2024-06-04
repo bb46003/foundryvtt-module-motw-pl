@@ -1,0 +1,34 @@
+{
+  "folder": "0PvmJu6lkKAWud5Z",
+  "name": "Kit du chimiste amateur",
+  "type": "equipment",
+  "_id": "HeJlrJG9ZP1v0J6T",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202840837,
+    "modifiedTime": 1714202868137,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!HeJlrJG9ZP1v0J6T"
+}

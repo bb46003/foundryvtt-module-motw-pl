@@ -1,0 +1,60 @@
+folder: DvRFmqiFIcQ02USY
+name: Could've Been Worse
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>When you miss a use magic roll you can choose one of the following
+    options instead of losing control of the magic:</p>
+
+    <p>&nbsp;</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Spell-Slinger
+  rollType: ''
+  rollMod: 0
+  choices: >-
+    <ul>
+
+    <li><strong>Fizzle</strong>: The preparations and materials for the spell
+    are ruined. You&rsquo;ll have to start over from scratch with the prep time
+    doubled.</li>
+
+    <li><strong>This Is Gonna Suck</strong>: The effect happens, but you trigger
+    all of the listed glitches but one. You pick the one you avoid.</li>
+
+    </ul>
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1686861366215
+  modifiedTime: 1690287360329
+  lastModifiedBy: MX0yl5RfaCDkeocV
+_id: nlh4VMGY656nxqZK
+sort: 800000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!nlh4VMGY656nxqZK'
+

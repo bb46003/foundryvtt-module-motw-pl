@@ -1,0 +1,14 @@
+original_name: Destiny's Plaything
+original_description: <p>At the beginning of each mystery, roll +Weird to
+  <strong>see what is revealed about your immediate future</strong>.</p>
+original_success: <p><strong>On a 10+</strong>, the Keeper will reveal a useful
+  detail about the coming mystery.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> you get a vague hint about it.&nbsp;</p>
+original_failure: <p><strong>On a miss</strong>, something bad is going to happen to you.</p>
+name: Jouet du destin
+description: <p>Au début de chaque mystère, lancez +Bizarre pour <strong>voir ce
+  qui est révélé concernant votre avenir immédiat</strong>.</p>
+success: <p><strong>Sur un 10+</strong>, le Gardien vous dévoile un détail utile
+  sur le prochain mystère.</p>
+partial: <p><strong>Sur un 7-9</strong>, vous n’obtenez qu’un vague indice.</p>
+failure: <p><strong>En cas d’échec</strong>, vous allez avoir de sérieux ennuis.</p>

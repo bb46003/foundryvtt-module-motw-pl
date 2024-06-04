@@ -1,0 +1,32 @@
+original_name: Could've Been Worse
+original_description: >-
+  <p>When you miss a use magic roll you can choose one of the following options
+  instead of losing control of the magic:</p>
+
+  <p>&nbsp;</p>
+original_choices: >-
+  <ul>
+
+  <li><strong>Fizzle</strong>: The preparations and materials for the spell are
+  ruined. You&rsquo;ll have to start over from scratch with the prep time
+  doubled.</li>
+
+  <li><strong>This Is Gonna Suck</strong>: The effect happens, but you trigger
+  all of the listed glitches but one. You pick the one you avoid.</li>
+
+  </ul>
+name: Ça aurait pu être pire
+description: <p>Quand vous ratez un jet d’<strong>utiliser la magie</strong>,
+  vous pouvez prendre l’une des options suivantes plutôt que de perdre le
+  contrôle de votre magie :</p>
+choices: >-
+  <ul>
+    <li>
+      <strong>Pétard mouillé :</strong> Les préparatifs ne servent à rien et le matériel est gâché, vous devez tout
+      recommencer et le temps de préparation est doublé ;
+    </li>
+    <li>
+      <strong>Ça craint :</strong> L’effet se déroule comme prévu, mais vous subissez tous les pépins sauf un.
+      Choisissez celui que vous évitez.
+    </li>
+  </ul>

@@ -1,0 +1,23 @@
+folder: MirKzNjm0PX7wjsM
+name: Change your Guide
+type: tag
+_id: ifbF7rNIgnqrT1h7
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: <p>Change your Guide, as you fall for another creature.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690901994533
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 1800000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!ifbF7rNIgnqrT1h7'
+

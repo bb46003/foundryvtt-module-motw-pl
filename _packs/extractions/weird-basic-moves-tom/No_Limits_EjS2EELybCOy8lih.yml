@@ -1,0 +1,69 @@
+folder: null
+name: No Limits
+type: move
+_id: EjS2EELybCOy8lih
+img: icons/svg/dice-target.svg
+system:
+  description: >-
+    <p>When you <strong>push your physical body past its limits</strong>, roll
+    +Weird.</p>
+
+    <p>For the purposes of this move, “physical possibility” means “conceivably
+    possible for a human.”</p>
+
+    <p>For example:</p>
+
+    <ul>
+
+    <li><strong>Physically</strong> <strong>Possible:</strong> Lift an SUV, Jump
+    over a truck, Punch through a wall.</li>
+
+    <li><strong>Not Physically Possible:</strong> Lift a building, Fly, Punch a
+    blast of energy at a foe.</li>
+
+    </ul>
+  moveType: altMove
+  rollFormula: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: >-
+        <p><strong>On a 10 or more</strong>, your body obeys your will, to the
+        limits of physical possibility (see below), for a moment.<br><br></p>
+
+        <h4>Advanced No Limits</h4>
+
+        <p><strong>On a 12 or more</strong>, you can continue acting at your
+        body&rsquo;s limits for 30 seconds.</p>
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: >-
+        <p><strong>On a 7-9</strong>, you do it but choose one consequence:
+        suffer 1-harm, take &ndash;1 forward, or you need to rest right now.</p>
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: <p><strong>On a miss</strong>, something goes horribly wrong.</p>
+  uses: 0
+  playbook: ''
+  rollType: weird
+  rollMod: 0
+  actorType: ''
+effects: []
+flags:
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.9.0.beta-1
+  coreVersion: '11.315'
+  createdTime: 1691069843801
+  modifiedTime: 1706527375139
+  lastModifiedBy: j4UCc2lhvwwJvpKw
+sort: 0
+ownership:
+  default: 0
+  TEui7R89Bwa52U4r: 3
+_key: '!items!EjS2EELybCOy8lih'
+

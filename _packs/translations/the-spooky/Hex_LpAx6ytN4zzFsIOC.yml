@@ -1,0 +1,24 @@
+original_name: Hex
+original_description: >-
+  <p>When you cast a spell (with <strong>use magic)</strong>, as well as the
+  normal effects, you may pick from the following:</p>
+
+  <ul>
+
+  <li>The target contracts a disease.</li>
+
+  <li>The target immediately suffers harm (2-harm magic ignore-armour).</li>
+
+  <li>The target breaks something precious or important.</li>
+
+  </ul>
+name: Malédiction
+description: >-
+  <p>Quand vous lancez un sort (en <strong>utilisant la magie</strong>),
+  choisissez un des effets suivants (qui s’ajoute à l’effet habituel) :</p>
+
+  <ul>
+    <li><em>La cible tombe malade ;</em></li>
+    <li><em>La cible subit immédiatement des dégâts (2 dégâts, magique, ignore l’armure) ;</em></li>
+    <li><em>La cible brise un objet précieux ou important.</em></li>
+  </ul>

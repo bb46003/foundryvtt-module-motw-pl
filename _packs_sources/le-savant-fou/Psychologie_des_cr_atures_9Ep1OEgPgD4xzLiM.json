@@ -1,0 +1,51 @@
+{
+  "folder": "YE77GjfVJzH7dzId",
+  "name": "Psychologie des créatures",
+  "type": "move",
+  "_id": "9Ep1OEgPgD4xzLiM",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous avez une connaissance innée des sbires et de leur mode de réflexion. Vous pouvez essayer d’utiliser <strong>Manipuler quelqu’un sur les sbires</strong>, qu’ils perçoivent (voire comprennent) ou non la langue humaine. Dans ce cas, lancez +Bizarre au lieu de +Charme.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Savant Fou",
+    "rollType": "charm",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204257592,
+    "modifiedTime": 1714210367484,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!9Ep1OEgPgD4xzLiM"
+}

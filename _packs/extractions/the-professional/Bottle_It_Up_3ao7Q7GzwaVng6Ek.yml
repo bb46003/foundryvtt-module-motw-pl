@@ -1,0 +1,54 @@
+name: Bottle It Up
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>If you want, you can take up to +3 bonus when you<strong> act under
+    pressure</strong>. For each +1 you use, the Keeper holds 1. That hold can be
+    spent later - one for one - to give you -1 on any move <em>except
+    </em><strong>act under pressure</strong>.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Professional
+  rollType: ''
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_6l0nxanciw
+    path: 'The Professional#/CF_SEP/The Professional: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667512204006
+  modifiedTime: 1686860927565
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: fgQFgAO1PBoLpYTU
+_id: 3ao7Q7GzwaVng6Ek
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!3ao7Q7GzwaVng6Ek'
+

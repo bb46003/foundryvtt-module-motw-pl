@@ -1,0 +1,36 @@
+{
+  "name": "Poignard",
+  "type": "equipment",
+  "img": "icons/weapons/daggers/dagger-double-engraved-black.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"allonge\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "CwUlSGeK2o8pFmX0",
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714557615687,
+    "modifiedTime": 1714631868672,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "P7YChjEfnhND49TL",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "_key": "!items!P7YChjEfnhND49TL"
+}

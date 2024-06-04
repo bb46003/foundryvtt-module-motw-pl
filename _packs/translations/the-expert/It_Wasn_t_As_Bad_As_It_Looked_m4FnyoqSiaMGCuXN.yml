@@ -1,0 +1,17 @@
+original_name: It Wasn't As Bad As It Looked
+original_description: <p>Once per mystery, you may attempt to <strong>keep going
+  despite your injuries</strong>. Roll +Cool.&nbsp;</p>
+original_success: <p><strong>On a 10+</strong>, heal 2 harm and stabilize your wounds.&nbsp;</p>
+original_partial: <p><strong>On a 7-9</strong> you may either stabilize or heal 1 harm.&nbsp;</p>
+original_failure: "<p><strong>On a miss</strong>, it was worse than it looked:
+  the Keeper may inflict a harm move on you, or make your wounds unstable.</p>"
+name: Ce n’est pas aussi grave qu’il n’y paraît
+description: <p>Une fois par mystère, vous pouvez tenter de <strong>rester dans
+  la course malgré vos blessures</strong>. Lancez +Cool.</p>
+success: <p><strong>Sur un 10+</strong>, éliminez 2 dégâts et stabilisez vos
+  blessures.</p>
+partial: <p><strong>Sur un 7-9</strong>, éliminez 1 dégât ou stabilisez vos
+  blessures.</p>
+failure: <p><strong>En cas d’échec</strong>, c’est pire qu’il n’y paraissait. Le
+  Gardien peut vous infliger une manœuvre de dégâts ou rendre vos blessures
+  instables.</p>

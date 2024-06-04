@@ -1,0 +1,34 @@
+{
+  "folder": "VJWFW2rB7CX5yTrU",
+  "name": "Seringue",
+  "type": "equipment",
+  "_id": "T1gkvkI1lIfvwfiD",
+  "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"0 dégât\"},{\"value\":\"personnel\"},{\"value\":\"tranquilisant\"}]",
+    "itemType": "",
+    "equipmentType": "",
+    "actorType": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714636280447,
+    "modifiedTime": 1714683074075,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!T1gkvkI1lIfvwfiD"
+}

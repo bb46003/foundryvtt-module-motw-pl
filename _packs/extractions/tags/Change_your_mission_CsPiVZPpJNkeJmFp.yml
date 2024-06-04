@@ -1,0 +1,26 @@
+folder: MirKzNjm0PX7wjsM
+name: Change your mission
+type: tag
+_id: CsPiVZPpJNkeJmFp
+img: icons/svg/upgrade.svg
+system:
+  name: ''
+  description: >-
+    <p>Change your mission. Select a different mission&nbsp;from the normal
+    options, or (with the Keeper&rsquo;s&nbsp;agreement) a new mission of your
+    creation.</p>
+effects: []
+flags: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.2
+  coreVersion: '11.306'
+  createdTime: 1690206458874
+  modifiedTime: 1691053398432
+  lastModifiedBy: MX0yl5RfaCDkeocV
+sort: 700000
+ownership:
+  default: 0
+  MX0yl5RfaCDkeocV: 3
+_key: '!items!CsPiVZPpJNkeJmFp'
+

@@ -1,0 +1,51 @@
+{
+  "folder": "Oa5e9qVemckKMtuy",
+  "name": "Des amis haut placés",
+  "type": "move",
+  "_id": "LI7e2kgqYeFdRujZ",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous avez des amis influents. Si les autorités locales vous causent des ennuis, passez quelques coups de fil et +Cool.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous &ecirc;tes lib&eacute;r&eacute; et disposez de l&rsquo;immunit&eacute; diplomatique dans toute la r&eacute;gion.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous &ecirc;tes lib&eacute;r&eacute; mais les forces de l&rsquo;ordre vous gardent &agrave; l&rsquo;&oelig;il.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, on vous d&eacute;pose &agrave; la fronti&egrave;re en vous intimant de ne pas revenir.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "cool",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714205686407,
+    "modifiedTime": 1714205807745,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!LI7e2kgqYeFdRujZ"
+}

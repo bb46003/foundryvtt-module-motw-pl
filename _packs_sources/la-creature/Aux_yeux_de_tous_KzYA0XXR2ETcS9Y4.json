@@ -1,0 +1,51 @@
+{
+  "folder": "3hQLsfvVeWeZaDod",
+  "name": "Aux yeux de tous",
+  "type": "move",
+  "_id": "KzYA0XXR2ETcS9Y4",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>En restant parfaitement immobile, la plupart des figurants, des sbires et des monstres vous prendront pour une statue (s’ils ne vous ont pas déjà vue bouger). Quand <strong>vous restez immobile</strong>, lancez +Cool.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, vous &ecirc;tes si bien cach&eacute;e que vous gagnez +2 temporaire pour agir par surprise.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, vous &ecirc;tes cach&eacute;e et vous gagnez +1 temporaire pour agir par surprise.</p>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, la cible ne se laisse pas berner.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "La Créature",
+    "rollType": "cool",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714201038640,
+    "modifiedTime": 1714210062783,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!KzYA0XXR2ETcS9Y4"
+}

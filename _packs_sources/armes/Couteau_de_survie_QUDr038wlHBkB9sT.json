@@ -1,0 +1,36 @@
+{
+  "name": "Couteau de survie",
+  "type": "equipment",
+  "img": "icons/weapons/daggers/knife-engraved-black.webp",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "playbook": "",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"1 dégât\"},{\"value\":\"allonge\"},{\"value\":\"utile\"}]",
+    "itemType": "",
+    "equipmentType": "weapon",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": "tYl6wjckwMmuZ0Gq",
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.6",
+    "coreVersion": "11.315",
+    "createdTime": 1714556629484,
+    "modifiedTime": 1714682613148,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_id": "QUDr038wlHBkB9sT",
+  "sort": 200000,
+  "_key": "!items!QUDr038wlHBkB9sT"
+}

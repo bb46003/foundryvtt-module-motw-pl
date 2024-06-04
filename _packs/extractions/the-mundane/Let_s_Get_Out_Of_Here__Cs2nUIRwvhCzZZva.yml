@@ -1,0 +1,52 @@
+name: Let's Get Out Of Here!
+type: move
+img: icons/svg/dice-target.svg
+system:
+  name: ''
+  description: >-
+    <p>If you can <strong>protect someone</strong> by telling them what to do,
+    or by leading them out, roll +Charm instead of +Tough.</p>
+  requiresMove: ''
+  moveType: class
+  rollFormula: ''
+  moveGroup: ''
+  moveResults:
+    success:
+      key: system.moveResults.success.value
+      label: Success!
+      value: ''
+    partial:
+      key: system.moveResults.partial.value
+      label: Partial success
+      value: ''
+    failure:
+      key: system.moveResults.failure.value
+      label: Miss...
+      value: ''
+  uses: 0
+  playbook: The Mundane
+  rollType: charm
+  rollMod: 0
+  choices: ''
+effects: []
+flags:
+  cf:
+    id: temp_jqz6dssavah
+    path: 'The Mundane#/CF_SEP/The Mundane: Moves'
+    color: '#000000'
+  core: {}
+_stats:
+  systemId: pbta
+  systemVersion: 0.7.1
+  coreVersion: '11.301'
+  createdTime: 1667510340395
+  modifiedTime: 1686860492293
+  lastModifiedBy: 8ABnOyDQ6EO9otzq
+folder: RZUiyEDTyeneR3EK
+_id: Cs2nUIRwvhCzZZva
+sort: 0
+ownership:
+  default: 0
+  8ABnOyDQ6EO9otzq: 3
+_key: '!items!Cs2nUIRwvhCzZZva'
+

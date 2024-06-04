@@ -1,0 +1,637 @@
+original_name: The Chosen
+original_description: >-
+  <blockquote>
+
+  <p>Your birth was prophesied. You are the Chosen One, and with your abilities
+  you can save the world. If you fail, all will be destroyed. It all rests on
+  you. Only you.</p>
+
+  <p> </p>
+
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid"
+  border="1"><colgroup><col style="width:50.055%"></col><col
+  style="width:49.945%"></col></colgroup>
+
+  <tbody>
+
+  <tr style="height:144px">
+
+  <td style="border-width:1px;height:144px" colspan="2">
+
+  <h2><span style="font-size:14px">Getting Started</span></h2>
+
+  <p>To make your Chosen, first pick a name. Then follow the instructions below
+  to decide your look, ratings, fate, moves, gear, and your special weapon.
+  Finally, introduce yourself and pick history.<br /><br />Instructions:
+  @UUID[Compendium.motw-for-pbta.the-chosen.Item.bHfS4rlvAfUXiHcO]{Items} can be
+  dragged and dropped to the appropriate header/field. For other values and
+  descriptions, you need to copy and paste, or manually change them.<br /><br
+  /></p>
+
+  </td>
+
+  </tr>
+
+  <tr>
+
+  <td style="border-style:solid;vertical-align:top;border-width:1px">
+
+  <h3>Look</h3>
+
+  <p>Pick one from each List:</p>
+
+  <ul>
+
+  <li>Man, woman, boy, girl, androgynous.</li>
+
+  <li>Fresh face, haggard face, young face, haunted face, hopeful face,
+  controlled face.</li>
+
+  <li>Preppy clothes, casual wear, urban wear, normal clothes, neat clothes,
+  street wear.<br /><br /></li>
+
+  </ul>
+
+  <h3>Ratings</h3>
+
+  <p>Pick one line:</p>
+
+  <ul>
+
+  <li>Charm+2, Cool-1, Sharp+1, Tough+2, Weird-1</li>
+
+  <li>Charm-1, Cool+2, Sharp+1, Tough+2, Weird-1</li>
+
+  <li>Charm+1, Cool+2, Sharp+1, Tough+1, Weird-1</li>
+
+  <li>Charm-1, Cool+1, Sharp+2, Tough-1, Weird+2</li>
+
+  <li>Charm+1, Cool+2, Sharp-1, Tough-1, Weird+2<br /><br /></li>
+
+  </ul>
+
+  <h3>Fate</h3>
+
+  <p>You get to decide what sort of fate is in store for you. Pick how you found
+  out about your fate: </p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.LCKJAZGYuF1Xq5F8]{Fate: An
+  ancient cult found you}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.0lpffO0BXM5hOkmC]{Fate:
+  Attacked by monsters}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.q1Nz4em7prSN98gI]{Fate:
+  Nightmares and visions}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.0WpLEwqNuwmUHSEp]{Fate: Some
+  weirdo told you}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.QNrdvctMF6qOCTIx]{Fate:
+  Sought out by your nemesisi}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.QsJfvxQIGm4CJzD0]{Fate:
+  Trained from birth}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.GkzbNvxa2rwCWGIV]{Fate: You
+  found the Prophesy}<br /><br /></p>
+
+  <p>Then pick two heroic and two doom tags for your fate from the lists below.
+  This is how your fate will unfold. It’s okay to pick contradictory tags: that
+  means your fate is pulling you both ways.</p>
+
+  <p>Whenever you mark off a point of Luck, the Keeper will throw something from
+  your fate at you.</p>
+
+  <h4>Heroic (<em>pick two</em>):</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.LQurhY4c7hnMqkqH]{Heroic: A
+  normal life}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.aUUHi4RkbaS0RL5U]{Heroic:
+  Divine help}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.WhKsfGzUR4iYmBb9]{Heroic:
+  Hidden allies}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.yAew1i0EqBBwm3SJ]{Heroic:
+  Magical powers}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.wFisYPjGFyMMO3cU]{Heroic:
+  Mystical inheritance}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.r00RxP6Vj3T61BZp]{Heroic:
+  Sacrifice}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.rgBVYudXix1PACWF]{Heroic:
+  Secret training}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.a5EG6h1poQerpma3]{Heroic:
+  The end of monsters}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.rkElvHtMY9OzvqRL]{Heroic:
+  True love}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.xLTvvDrIEt51mhJ9]{Heroic:
+  Visions}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.by5Z44b39HIRYRFd]{Heroic:
+  You are the Champion}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.h2off7ntsdHJist2]{Heroic:
+  You can save the world}</p>
+
+  <h4><br />Doom (<em>pick two</em>):</h4>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.QKDTCGuZpo2O924F]{Doom: A
+  nemesis}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.7gmNNBbtIb0VSOXw]{Doom: A
+  source of Evil}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.qlE4tjRVTXmO4Pew]{Doom:
+  Damnation}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.nVJeSCxmjLIC4hcr]{Doom:
+  Death}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.aFqcf2ESVtofGIWN]{Doom:
+  Doubt}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.JwGktmbp4r6x5oDB]{Doom:
+  Failure}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.w3nIoBvX31SVQSC0]{Doom:
+  Hosts of monsters}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.H8m05hBBDphntuhn]{Doom:
+  Impossible love}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.sWil9E4SSrB0fy7M]{Doom: Loss
+  of loved ones}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.m3gW5Pl23EKpNBlE]{Doom: No
+  normal life}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.hyoOLC5lEJOsNito]{Doom:
+  Sympathy with the enemy}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.ZwhZopKrcmCMpNdT]{Doom: The
+  end of days}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.ErbcxdkZ5MBbKDPV]{Doom:
+  Treachery}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.zfhwJo5zzdePM9Y3]{Doom: You
+  can't save everyone}</p>
+
+  </td>
+
+  <td style="border-style:solid;vertical-align:top;border-width:1px">
+
+  <h3>Moves</h3>
+
+  <p>You get all of the basic moves, plus three Chosen moves.</p>
+
+  <p><em>You get these two:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.bHfS4rlvAfUXiHcO]{Destiny's
+  Plaything}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.XsPhz72m8uJuZAkL]{I'm Here
+  For A Reason}</p>
+
+  <p><em>Then pick one of these:</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.gNK5RHr2yL65lk8b]{Devastating}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.mtxqSOBSAjFTS1tO]{Dutiful}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.bAHOkY5CQoR7cWND]{Invincible}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.WoL5Q6GpIc56uZmD]{Resilience}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.the-chosen.Item.tllUPHqeQKS7oHqk]{The Big
+  Entrance}<br /><br /></p>
+
+  <h3>Gear</h3>
+
+  <p>You can have protective gear worth 1-armour, if you want.</p>
+
+  <p>You have a special weapon you are destined to wield.</p>
+
+  <h3><br />Your Special Weapon</h3>
+
+  <p>Design your weapon by choosing a form and three business-<br />end options
+  (which are added to the base tags), and a material. For example, if you want a
+  magic sword you could choose the following: handle + blade + long + magic.</p>
+
+  <p><em>(Drag and drop
+  @UUID[Compendium.motw-for-pbta.the-chosen.Item.hMLWMPiCUeJlMdEe]{The Chosen:
+  Special Weapon} to your Character Sheet, open it, rename it if you wish, and
+  then add  the Tags for Form, Business-end and Material by dragging the them to
+  the weapon)</em></p>
+
+  <h4>Form <em>(choose 1):</em></h4>
+
+  <ul>
+
+  <li>Staff (<em>Add</em>:
+  @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ]{1-harm} 
+  @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS]{hand}
+  @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP]{close})<br /><br
+  /></li>
+
+  <li>Haft (<em>Add</em>:
+  @UUID[Compendium.motw-for-pbta.tags.Item.qG8S5oSRgQxXS93k]{2-harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS]{hand}
+  @UUID[Compendium.motw-for-pbta.tags.Item.MbIWZ3EHvZ9SQ5VK]{heavy})<br /><br
+  /></li>
+
+  <li>Handle (<em>Add</em>:
+  @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ]{1-harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS]{hand}
+  @UUID[Compendium.motw-for-pbta.tags.Item.5N6EgQGuCXpMpSIv]{balanced})<br /><br
+  /></li>
+
+  <li>Chain (<em>Add</em>:
+  @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ]{1-harm}
+  @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS]{hand}
+  @UUID[Compendium.motw-for-pbta.tags.Item.8XhRBZRlIZOqNbxv]{area})<br /><em><br
+  /></em></li>
+
+  </ul>
+
+  <h4><em>B</em>usiness-end <em>(choose 3 options):</em></h4>
+
+  <ul>
+
+  <li>Artifact <em>(add the
+  @UUID[Compendium.motw-for-pbta.tags.Item.Llh9Q5RvkYKS4Ymu]{magic} tag)<br
+  /><br /></em></li>
+
+  <li>Spikes <em>(Increase harm by +1, add the
+  @UUID[Compendium.motw-for-pbta.tags.Item.S5xk0YK9ZFccI7YI]{messy} tag)<br
+  /><br /></em></li>
+
+  <li>Blade <em>(Increase harm by +1)<br /><br /></em></li>
+
+  <li>Heavy <em>(Increase harm by +1)<br /><br /></em></li>
+
+  <li>Long <em>(add the
+  @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP]{close} tag)<br
+  /><br /></em></li>
+
+  <li>Throwable <em>(add the
+  @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP]{close} tag)<br
+  /><br /></em></li>
+
+  <li>Chain<em> (add the
+  @UUID[Compendium.motw-for-pbta.tags.Item.8XhRBZRlIZOqNbxv]{area} tag)<br /><br
+  /></em></li>
+
+  </ul>
+
+  <h4>Material <em>(choose 1):</em></h4>
+
+  <p><em>Finally, pick what material the business-end is made from:</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.nfjHO3sBIFHdE04w]{steel}
+  @UUID[Compendium.motw-for-pbta.tags.Item.xQfAJIdYCNRrExDX]{cold iron}
+  @UUID[Compendium.motw-for-pbta.tags.Item.fpiy6JwwrSCulcyt]{silver}
+  @UUID[Compendium.motw-for-pbta.tags.Item.E4EuySgswvIO4QmI]{wood}
+  @UUID[Compendium.motw-for-pbta.tags.Item.qSuJNr4Qs14JGgrH]{stone}</em></p>
+
+  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.triYyBBsRJ0AL7Ep]{bone}
+  </em><em>@UUID[Compendium.motw-for-pbta.tags.Item.IgHpVHngwNuJMYEe]{teeth}
+  @UUID[Compendium.motw-for-pbta.tags.Item.V1gkRSL1dJOpaIyL]{obsidian}
+  @UUID[Compendium.motw-for-pbta.tags.Item.kBfpQqcgIvZAcdBQ]{or anything else
+  you want}<br /><br /></em></p>
+
+  <h3>Luck Special</h3>
+
+  <p>When you spend a point of Luck, the Keeper will bring your fate into
+  play.</p>
+
+  <p><em> </em></p>
+
+  <h3>Introductions</h3>
+
+  <p>When you get here, wait for everyone to catch up so you can do your
+  introductions together.</p>
+
+  <p>Go around the group. On your turn, introduce your Chosen by name and look,
+  and tell the group what they know about you.</p>
+
+  <h3><br />History</h3>
+
+  <p>Go around the group again. On your turn, pick one of these for each other
+  hunter:</p>
+
+  <ul>
+
+  <li>You are close blood relations. Ask them exactly how close.</li>
+
+  <li>They are destined to be your mentor. Tell them how this was revealed.</li>
+
+  <li>Your best friend in the world, who you trust totally.</li>
+
+  <li>A rival at first, but you came to a working arrangement.</li>
+
+  <li>Romantic entanglement, or fated to be romantically entangled.</li>
+
+  <li>Just friends, from school or work or something. Ask them what.</li>
+
+  <li>They could have been the Chosen One instead of you, but they failed some
+  trial. Tell them how they failed.</li>
+
+  </ul>
+
+  </td>
+
+  </tr>
+
+  <tr style="height:690px">
+
+  <td style="border-width:1px;height:690px" colspan="2">
+
+  <h2><br />Leveling Up</h2>
+
+  <p><em>On the Character Sheet, open either Improvements or Advanced
+  Improvements for editing. Drag and drop the improvement you wish to use from
+  the lists below to keep track of which ones you have used. Please note that
+  the module won't track this for you.</em></p>
+
+  <h3>Improvements</h3>
+
+  <p><em>When you have filled all five experience boxes, you level up. Erase the
+  marks and pick an improvement from the following list:</em><br /><br
+  />@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1 Charm, max
+  +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.HLKdeAtlzxgyKQER]{Get +1 Cool, max
+  +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]{Get +1 Sharp,
+  max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.Db5dKYP5eueIQfOY]{Get +1
+  Tough, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get +1
+  Weird, max +3}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7H3Kk16edaH9P69Q]{Take
+  another Chosen move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.7H3Kk16edaH9P69Q]{Take
+  another Chosen move}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain an
+  ally}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take a move from
+  another playbook}</p>
+
+  <h3><br />Advanced Improvements</h3>
+
+  <p><em>After you have leveled up five times, you qualify for advanced
+  improvements in addition to these. They’re below.</em></p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get +1 to any
+  rating, max +3.}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]{Get back one
+  used Luck point}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change this
+  hunter to a new type}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]{Create a second
+  hunter to play as well as this one}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]{Mark two of the
+  basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]{Mark another two
+  of the basic moves as advanced}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]{Retire this
+  hunter to safety}</p>
+
+  <p>@UUID[Compendium.motw-for-pbta.tags.Item.LWEKL1kIIOV3ScHE]{Delete one of
+  your Doom tags, and (optionally) one of your Heroic tags. You have changed
+  that aspect of your destiny}</p>
+
+  </td>
+
+  </tr>
+
+  </tbody>
+
+  </table>
+name: L’Élu
+description: >-
+  <blockquote>
+    <p>Votre naissance fut annoncée par une prophétie. Vous êtes l’Élu, un être doué de facultés telles que vous êtes
+    probablement capable de sauver le monde. Dans le cas contraire, la fin des temps est assurée. Tout repose sur vous,
+    et vous seul.</p>
+  </blockquote>
+
+  <table style="width:100%;border-width:1px;border-style:solid" border="1">
+  <colgroup><col style="width:50%"></col><col
+  style="width:50%"></col></colgroup> <tbody> <tr> <td style="padding: 8px;"
+  colspan="2">
+    <h2>Pour commencer</h2>
+
+  <p>Pour créer votre Élu, commencez par lui trouver un nom. Puis suivez les
+  instructions ci-dessous pour choisir votre apparence, vos caractéristiques,
+  votre destinée, vos manœuvres, votre équipement et votre arme spéciale. Enfin,
+  présentez-vous et attribuez vos histoires.</p> <p><em>Instructions : Les
+  @UUID[Compendium.motw-for-pbta.the-chosen.Item.bHfS4rlvAfUXiHcO]{objets}
+    peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres valeurs et descriptions, vous
+    devez les copier/coller, ou les modifier manuellement.</em></p>
+  </td> </tr> <tr> <td style="padding: 8px;"> <h3>Apparence</h3> <p>Choisissez
+  un élément de chaque liste :</p> <ul> <li>Homme, femme, garçon, fille,
+  androgyne.</li> <li>Visage éclatant, visage hagard, visage jeune, visage
+  hanté, visage plein d’espoir, visage impassible.</li> <li>Fringues B.C.B.G.,
+  tenue décontractée, look urbain, vêtements normaux, vêtements propres,
+  streetwear.</li> </ul> <h3>Statistiques</h3> <p>Choisissez une ligne :</p>
+  <ul> <li>Charme +2, Cool -1, Futé +1, Coriace +2, Bizarre -1</li> <li>Charme
+  -1, Cool +2, Futé +1, Coriace +2, Bizarre -1</li> <li>Charme +1, Cool +2, Futé
+  +1, Coriace +1, Bizarre -1</li> <li>Charme -1, Cool +1, Futé +2, Coriace -1,
+  Bizarre +2</li> <li>Charme +1, Cool +2, Futé -1, Coriace -1, Bizarre +2</li>
+  </ul> <h3>Destinée</h3> <p>Il vous appartient de décider ce que vous réserve
+  le destin. Choisissez la façon dont vous l’avez découvert dans la liste
+  ci-dessous.</p>
+
+  <ul>  
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.LCKJAZGYuF1Xq5F8]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.0lpffO0BXM5hOkmC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.q1Nz4em7prSN98gI]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.0WpLEwqNuwmUHSEp]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.QNrdvctMF6qOCTIx]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.QsJfvxQIGm4CJzD0]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.GkzbNvxa2rwCWGIV]</li>
+  </ul> <p>Puis choisissez deux traits d’héroïsme et deux traits de ruine dans
+  les listes ci-dessous. C’est la façon dont votre destin va se dérouler. Rien
+  ne vous empêche de choisir des traits contradictoires ; cela signifie
+  simplement que vous êtes tiraillé par le destin.</p>
+
+  <p>Chaque fois que vous cochez une case de Chance, le Gardien vous livre aux
+  griffes du destin.</p> <h4>Héroïsme (<em>choisissez-en deux</em>) :</h4> <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.LQurhY4c7hnMqkqH]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.aUUHi4RkbaS0RL5U]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.WhKsfGzUR4iYmBb9]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.yAew1i0EqBBwm3SJ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.wFisYPjGFyMMO3cU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.r00RxP6Vj3T61BZp]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.rgBVYudXix1PACWF]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.a5EG6h1poQerpma3]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.rkElvHtMY9OzvqRL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.xLTvvDrIEt51mhJ9]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.by5Z44b39HIRYRFd]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.h2off7ntsdHJist2]</li>
+  </ul>
+
+  <h4>Ruine (<em>choisissez-en deux</em>) :</h4> <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.QKDTCGuZpo2O924F]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.7gmNNBbtIb0VSOXw]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.qlE4tjRVTXmO4Pew]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.nVJeSCxmjLIC4hcr]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.aFqcf2ESVtofGIWN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.JwGktmbp4r6x5oDB]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.w3nIoBvX31SVQSC0]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.H8m05hBBDphntuhn]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.sWil9E4SSrB0fy7M]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.m3gW5Pl23EKpNBlE]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.hyoOLC5lEJOsNito]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.ZwhZopKrcmCMpNdT]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.ErbcxdkZ5MBbKDPV]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.zfhwJo5zzdePM9Y3]</li>
+  </td> <td style="padding: 8px;"> <h3>Manœuvres</h3> <p>Vous connaissez toutes
+  les manœuvres de base, auxquelles s’ajoutent trois manœuvres d’Élu.</p>
+
+  <p><em>Vous gagnez les deux suivantes :</em></p> <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.bHfS4rlvAfUXiHcO]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.XsPhz72m8uJuZAkL]</li>
+  </ul>
+
+  <p><em>Puis choisissez-en une parmi les suivantes :</em></p> <ul>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.gNK5RHr2yL65lk8b]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.mtxqSOBSAjFTS1tO]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.bAHOkY5CQoR7cWND]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.WoL5Q6GpIc56uZmD]</li>
+    <li>@UUID[Compendium.motw-for-pbta.the-chosen.Item.tllUPHqeQKS7oHqk]</li>
+  </ul>
+
+  <h3>Équipement</h3> <p>Vous possédez un équipement de protection qui équivaut
+  à armure 1, si vous le souhaitez.</p> <p>Vous possédez également une arme
+  spéciale qui vous est destinée.</p>
+
+  <h3>Votre arme spéciale</h3>
+
+  <p>Créez votre arme en choisissant une forme et trois options opérantes (ajoutées aux traits de
+  base), ainsi qu’un matériau. Par exemple, si vous voulez une épée magique, vous pourriez
+  faire les choix suivants : lame + long + magique.</p>
+
+  <p><em>Glissez-déposez la forme de votre choix sur votre feuille de personnage, ouvrez-la, puis ajoutez les
+  traits <strong>Options</strong> et <strong>Matériau</strong> en modifiant les étiquettes.</em></p>
+
+  <h4>Forme <em>(choisissez-en une) :</em></h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.M8teyjcZh7ZeNpX0]{Bâton}</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.6c7UU6FmrWh1YoTF]{Arme d’hast}</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.trJquKz2SisV8XAY]{Masse d’arme}</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.r7n9oXK0K46hfuPD]{Chaîne}</li>
+  </ul>
+
+  <h4>Options <em>(choisissez-en trois) :</em></h4>
+
+  <ul>
+    <li>artefact <em>(ajoutez le trait magique)</em></li>
+    <li>pointes <em>(+1 dégât, ajoutez le trait sanglant)</em></li>
+    <li>lame <em>(+1 dégât)</em></li>
+    <li>lourd <em>(+1 dégât)</em></li>
+    <li>long <em>(ajoutez le trait proche)</em></li>
+    <li>lançable <em>(ajoutez le trait proche)</em></li>
+    <li>chaîne<em> (ajoutez le trait zone)</em></li>
+  </ul>
+
+  <h4>Matériau <em>(choisissez-en un) :</em></h4>
+
+  <p><em>Enfin, choisissez le matériau de la partie opérante :</em></p>
+
+  <p><em>acier, fer, froid, argent, bois, pierre, os, dents, obsidienne, ou tout ce qui vous passe par la tête</em></p>
+
+  <h3>Chance spéciale</h3> <p>Chaque fois que vous dépensez un point de Chance,
+  le Gardien fait intervenir votre destinée.</p>
+
+  <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
+  monde vous rattrape pour que vous puissiez effectuer vos présentations
+  ensemble.</p> <p>Faites le tour du groupe. Votre tour venu, présentez votre
+  Élu en dévoilant son nom et son apparence, et en disant aux autres membres du
+  groupe ce qu’ils savent de vous.</p>
+
+  <h3>Histoire</h3> <p>Refaites le tour du groupe. Votre tour venu, choisissez
+  une des lignes suivantes pour chaque autre chasseur :</p> <ul>
+    <li>Vous êtes parents proches. Demandez-lui quel est votre lien de parenté exact.</li>
+    <li>Il était destiné à devenir votre mentor. Expliquez-lui comment cela vous a été révélé.</li>
+    <li>Votre meilleur ami, en qui vous avez une confiance aveugle.</li>
+    <li>Un ancien rival, avec qui vous avez fini par vous entendre.</li>
+    <li>Relation amoureuse, en cours ou à venir.</li>
+    <li>Simples amis, d’école, de travail, etc. Demandez-lui-en plus.</li>
+    <li>Aurait pu devenir l’Élu à votre place, mais a raté une épreuve. Expliquez-lui en quoi il a échoué.</li>
+    <li>
+      Vous lui avez sauvé la vie, à une époque où il ne savait pas que les monstres existaient. Dites-lui de quoi vous
+      l’avez sauvé.
+    </li>
+  </ul> </td> </tr> <tr> <td style="padding: 8px;" colspan="2">
+
+  <h2>Prendre du galon</h2>
+
+  <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou «
+  Améliorations avancées » en édition. Glissez-déposez l’amélioration que vous
+  souhaitez utiliser dans les listes ci-dessous pour garder une trace de celles
+  que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce
+  suivi à votre place.</em></p>
+
+  <h3>Améliorations</h3>
+
+  <p><em>Dès que vous avez coché cinq cases d’expérience, vous prenez du galon.
+  Effacez le contenu des cases et choisissez une amélioration parmi les
+  suivantes :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.HLKdeAtlzxgyKQER]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.Db5dKYP5eueIQfOY]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.7H3Kk16edaH9P69Q]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.7H3Kk16edaH9P69Q]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]</li>
+  </ul>
+
+  <h3>Améliorations avancées</h3> <p><em>Après avoir pris du galon cinq fois,
+  vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.LWEKL1kIIOV3ScHE]</li>
+  </ul> </td> </tr> </tbody> </table>

@@ -1,0 +1,64 @@
+original_name: No Limits
+original_description: >-
+  <p>When you <strong>push your physical body past its limits</strong>, roll
+  +Weird.</p>
+
+  <p>For the purposes of this move, “physical possibility” means “conceivably
+  possible for a human.”</p>
+
+  <p>For example:</p>
+
+  <ul>
+
+  <li><strong>Physically</strong> <strong>Possible:</strong> Lift an SUV, Jump
+  over a truck, Punch through a wall.</li>
+
+  <li><strong>Not Physically Possible:</strong> Lift a building, Fly, Punch a
+  blast of energy at a foe.</li>
+
+  </ul>
+original_success: >-
+  <p><strong>On a 10 or more</strong>, your body obeys your will, to the limits
+  of physical possibility (see below), for a moment.<br><br></p>
+
+  <h4>Advanced No Limits</h4>
+
+  <p><strong>On a 12 or more</strong>, you can continue acting at your
+  body&rsquo;s limits for 30 seconds.</p>
+original_partial: "<p><strong>On a 7-9</strong>, you do it but choose one
+  consequence: suffer 1-harm, take &ndash;1 forward, or you need to rest right
+  now.</p>"
+original_failure: <p><strong>On a miss</strong>, something goes horribly wrong.</p>
+name: Pas de limites
+description: >-
+  <p>Quand vous devez repousser les limites que vous impose votre corps, lancez
+  +Bizarre.</p>
+
+  <p>Dans le cadre de cette manœuvre, « dans les limites du possible sur le plan
+  physique » signifie « ce qui est possible pour un humain ».</p>
+
+  <p>Par exemple :</p>
+
+  <ul>
+    <li>
+      <strong>Physiquement possible :</strong> Soulever un SUV, sauter par-dessus un camion, passer son poing au
+      travers d’un mur de briques.
+    </li>
+    <li>
+      <strong>Physiquement impossible :</strong> Soulever un gratte-ciel, voler, projeter une vague d’énergie contre
+      un adversaire
+    </li>
+  </ul>
+success: >-
+  <p><strong>Sur un 10+</strong>, votre corps vous obéit dans les limites du
+  possible sur le plan physique.</p>
+
+  <h4>Pas de limites avancées</h4>
+
+  <p><strong>Sur un 12+</strong>, vous pouvez continuer d’ignorer les limites de
+  votre corps pendant 30 secondes.</p>
+partial: "<p><strong>Sur un 7-9</strong>, même chose, mais vous devez choisir
+  une conséquence : subissez 1 blessure ; subissez -1 temporaire ; ou vous devez
+  vous reposer sur-le-champ.</p>"
+failure: <p><strong>En cas d’échec</strong>, il se passe quelque chose
+  d’épouvantable.</p>

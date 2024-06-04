@@ -1,0 +1,14 @@
+compendium/
+.env
+node_modules/
+
+packs/
+
+###> yarn ###
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+###< yarn ###

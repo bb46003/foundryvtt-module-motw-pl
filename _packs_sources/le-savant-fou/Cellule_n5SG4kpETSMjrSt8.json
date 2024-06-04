@@ -1,0 +1,51 @@
+{
+  "folder": "fBnv1LtN7OAjUMtq",
+  "name": "Cellule",
+  "type": "move",
+  "_id": "n5SG4kpETSMjrSt8",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous possédez une pièce très bien gardée pour enfermer des choses que les hommes ne doivent jamais connaître. Elle renferme des équipements de mesure, des robots de nettoyage et un système d’alimentation automatisé.</p>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714204487016,
+    "modifiedTime": 1714204557940,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!n5SG4kpETSMjrSt8"
+}

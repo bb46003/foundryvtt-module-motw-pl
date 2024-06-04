@@ -1,0 +1,51 @@
+{
+  "folder": "K8c1WwzJbyU2lhQa",
+  "name": "Vive la science !",
+  "type": "move",
+  "_id": "Q0erPPFvsTqv31Vn",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Vous pouvez fabriquer des gadgets ou des armes pour faciliter vos enquêtes. Dites au Gardien ce que vous aimeriez créer. Le Gardien choisira certaines des options suivantes :</p>\n<ul>\n<li>L’invention nécessite des matériaux rares ou étranges.</li>\n<li>L’invention sera instable.</li>\n<li>L’invention prendra du temps à construire (en fonction de la durée du mystère actuel).</li>\n<li>L’invention nécessite énormément de puissance.</li>\n<li>L’invention nécessite d’utiliser la magie pendant la fabrication.</li>\n<li>L’invention ne fonctionnera pas exactement comme prévu.</li>\n<li>L’invention coûtera beaucoup d’argent.</li>\n<li>Vous aurez besoin d’aide pour fabriquer l’invention.</li>\n</ul>\n<p>Quand le Gardien aura choisi les attributs de l’invention, vous pourrez en remplacer un par une option différente de votre choix. Puis vous pourrez fabriquer votre invention une fois les conditions remplies.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": ""
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Scientifique Déchaîné",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714206162546,
+    "modifiedTime": 1714210420409,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!Q0erPPFvsTqv31Vn"
+}

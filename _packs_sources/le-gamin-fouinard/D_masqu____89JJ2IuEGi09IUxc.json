@@ -1,0 +1,51 @@
+{
+  "folder": "dOADkHHXqYXc6idF",
+  "name": "Démasqué !",
+  "type": "move",
+  "_id": "89JJ2IuEGi09IUxc",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Quand <strong>vous avez capturé ou neutralisé un monstre</strong>, vous pouvez expliquer que ce n’est pas un monstre mais une personne portant un masque. Vous devez expliquer la véritable raison derrière tous les évènements surnaturels et quelles étaient les motivations du coupable. Quand <strong>vous démasquez le coupable</strong>, lancez +Futé.</p>",
+    "moveType": "class",
+    "rollFormula": "",
+    "moveResults": {
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Succès !",
+        "value": "<p><strong>Sur un 10+</strong>, votre d&eacute;duction est bonne : c&rsquo;est bel et bien une personne masqu&eacute;e !</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Succès partiel",
+        "value": "<p><strong>Sur un 7-9</strong>, le Gardien choisit l&rsquo;une des options suivantes :</p>\n<ul>\n<li>Il y a bien un monstre, mais le figurant accus&eacute; &eacute;tait son alli&eacute; secret depuis le d&eacute;but.</li>\n<li>Vous avez raison, mais le coupable s&rsquo;est &eacute;chapp&eacute; pendant vos explications.</li>\n<li>L&rsquo;explication des &eacute;v&egrave;nements tient la route, mais vous avez accus&eacute; la mauvaise personne : quand vous la d&eacute;masquez, le coupable n&rsquo;est pas celui que vous pensiez.</li>\n</ul>"
+      },
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Échec...",
+        "value": "<p><strong>En cas d&rsquo;&eacute;chec</strong>, le monstre a l&rsquo;occasion de semer la pagaille pendant vos explications (incorrectes).</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "Le Gamin Fouinard",
+    "rollType": "sharp",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714202933296,
+    "modifiedTime": 1714210224948,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!89JJ2IuEGi09IUxc"
+}
